@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_sword"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 6905013}, "model": "odyssey/neptunian_sword"},
+    { "predicate": {"custom_model_data": 6905014}, "model": "odyssey/iojovian_sword"}
+  ]
+}
