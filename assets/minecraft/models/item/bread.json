@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/bread"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6905010}, "model": "odyssey/sugary_bread"}
+    { "predicate": {"custom_model_data": 6905010}, "model": "odyssey/breads/sugary_bread"}
   ]
 }
