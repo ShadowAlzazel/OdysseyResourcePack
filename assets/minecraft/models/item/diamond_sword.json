@@ -5,6 +5,7 @@
   },
   "overrides": [
     { "predicate": {"custom_model_data": 6905013}, "model": "odyssey/neptunian_sword"},
-    { "predicate": {"custom_model_data": 6905014}, "model": "odyssey/iojovian_sword"}
+    { "predicate": {"custom_model_data": 6905014}, "model": "odyssey/iojovian_sword"},
+    { "predicate": {"custom_model_data": 6905748}, "model": "odyssey/weapons/diamond_katana"}
   ]
 }
