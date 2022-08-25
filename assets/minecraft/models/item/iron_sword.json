@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/iron_sword"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6905747}, "model": "odyssey/weapons/iron_katana"}
+    { "predicate": {"custom_model_data": 6905744}, "model": "odyssey/weapons/iron_katana"},
+    { "predicate": {"custom_model_data": 6905745}, "model": "odyssey/weapons/iron_claymore"}
   ]
 }

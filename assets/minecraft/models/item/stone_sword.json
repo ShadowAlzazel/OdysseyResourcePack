@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stone_sword"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 6905744}, "model": "odyssey/weapons/stone_katana"},
+    { "predicate": {"custom_model_data": 6905745}, "model": "odyssey/weapons/stone_claymore"}
+  ]
+}
