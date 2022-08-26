@@ -2,8 +2,8 @@
 	"credit": "Made by ShadowAlzazel with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "weapons/iorn_claymore_texture",
-		"particle": "weapons/iorn_claymore_texture"
+		"0": "weapons/stone_claymore_texture",
+		"particle": "weapons/stone_claymore_texture"
 	},
 	"elements": [
 		{

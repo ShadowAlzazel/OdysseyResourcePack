@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/wooden_shovel"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 6905774}, "model": "odyssey/weapons/wooden_spear"}
+  ]
+}

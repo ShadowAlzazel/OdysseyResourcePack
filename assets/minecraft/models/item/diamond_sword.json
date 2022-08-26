@@ -5,6 +5,7 @@
   },
   "overrides": [
     { "predicate": {"custom_model_data": 6905744}, "model": "odyssey/weapons/diamond_katana"},
-    { "predicate": {"custom_model_data": 6905745}, "model": "odyssey/weapons/diamond_claymore"}
+    { "predicate": {"custom_model_data": 6905745}, "model": "odyssey/weapons/diamond_claymore"},
+    { "predicate": {"custom_model_data": 6905746}, "model": "odyssey/weapons/diamond_dagger"}
   ]
 }
