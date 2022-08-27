@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by ShadowAlzazel with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "weapons/diamond_dagger_texture"
@@ -205,11 +205,11 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [54, 0, 90],
-			"translation": [-7.5, 6, 2]
+			"translation": [-7.5, 3.5, 1.5]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [54, 0, -90],
-			"translation": [7.5, 6, 2]
+			"translation": [7.5, 3.5, 1.5]
 		},
 		"firstperson_righthand": {
 			"rotation": [66, 5, 91],
