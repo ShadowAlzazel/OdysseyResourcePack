@@ -4,6 +4,10 @@
     "layer0": "minecraft:item/enchanted_book"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6906066}, "model": "odyssey/books/gilded_book"}
+    { "predicate": {"custom_model_data": 6906066}, "model": "odyssey/books/gilded_book"},
+    { "predicate": {"custom_model_data": 6906067}, "model": "odyssey/books/tome_of_discharge"},
+    { "predicate": {"custom_model_data": 6906068}, "model": "odyssey/books/tome_of_promotion"},
+    { "predicate": {"custom_model_data": 6906069}, "model": "odyssey/books/tome_of_replication"},
+    { "predicate": {"custom_model_data": 6906070}, "model": "odyssey/books/tome_of_harmony"}
   ]
 }

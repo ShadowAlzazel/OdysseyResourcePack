@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:breads/sugary_bread"
+    "layer0": "minecraft:books/tome_of_discharge"
   }
-}   
+}
