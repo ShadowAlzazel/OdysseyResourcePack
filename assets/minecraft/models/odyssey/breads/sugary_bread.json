@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:odyssey/sugary_bread"
+    "layer0": "minecraft:breads/sugary_bread"
   }
 }
