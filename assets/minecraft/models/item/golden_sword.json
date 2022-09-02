@@ -5,6 +5,8 @@
   },
   "overrides": [
     { "predicate": {"custom_model_data": 6905744}, "model": "odyssey/weapons/golden_katana"},
-    { "predicate": {"custom_model_data": 6905745}, "model": "odyssey/weapons/golden_claymore"}
+    { "predicate": {"custom_model_data": 6905745}, "model": "odyssey/weapons/golden_claymore"},
+    { "predicate": {"custom_model_data": 6905746}, "model": "odyssey/weapons/golden_dagger"},
+    { "predicate": {"custom_model_data": 6905747}, "model": "odyssey/weapons/golden_rapier"}
   ]
 }

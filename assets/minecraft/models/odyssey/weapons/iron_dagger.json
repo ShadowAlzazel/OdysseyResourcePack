@@ -1,13 +1,13 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by ShadowAlzazel with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
 		"1": "weapons/iron_dagger_texture"
 	},
 	"elements": [
 		{
-			"from": [2, 0, 12],
-			"to": [3, 1, 14],
+			"from": [1, 0, 13],
+			"to": [2, 1, 15],
 			"faces": {
 				"north": {"uv": [6, 1, 6.5, 1.5], "texture": "#1"},
 				"east": {"uv": [5, 1, 6, 1.5], "texture": "#1"},
@@ -18,8 +18,8 @@
 			}
 		},
 		{
-			"from": [3, 0, 13],
-			"to": [4, 1, 14],
+			"from": [2, 0, 14],
+			"to": [3, 1, 15],
 			"faces": {
 				"north": {"uv": [0.5, 5.5, 1, 6], "texture": "#1"},
 				"east": {"uv": [0, 5.5, 0.5, 6], "texture": "#1"},
@@ -55,8 +55,8 @@
 			}
 		},
 		{
-			"from": [3, 0, 12],
-			"to": [4, 1, 13],
+			"from": [2, 0, 13],
+			"to": [3, 1, 14],
 			"faces": {
 				"north": {"uv": [0.5, 4.5, 1, 5], "texture": "#1"},
 				"east": {"uv": [0, 4.5, 0.5, 5], "texture": "#1"},
@@ -64,6 +64,19 @@
 				"west": {"uv": [1, 4.5, 1.5, 5], "texture": "#1"},
 				"up": {"uv": [1, 4.5, 0.5, 4], "texture": "#1"},
 				"down": {"uv": [1.5, 4, 1, 4.5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "cube_2",
+			"from": [3, 0, 11],
+			"to": [4, 1, 14],
+			"faces": {
+				"north": {"uv": [5, 2, 5.5, 2.5], "texture": "#1"},
+				"east": {"uv": [3.5, 2, 5, 2.5], "texture": "#1"},
+				"south": {"uv": [7, 2, 7.5, 2.5], "texture": "#1"},
+				"west": {"uv": [5.5, 2, 7, 2.5], "texture": "#1"},
+				"up": {"uv": [5.5, 2, 5, 0.5], "texture": "#1"},
+				"down": {"uv": [6, 0.5, 5.5, 2], "texture": "#1"}
 			}
 		},
 		{
@@ -81,8 +94,8 @@
 		},
 		{
 			"name": "cube_2",
-			"from": [3, 0, 11],
-			"to": [4, 1, 12],
+			"from": [2, 0, 12],
+			"to": [3, 1, 13],
 			"faces": {
 				"north": {"uv": [5, 2, 5.5, 2.5], "texture": "#1"},
 				"east": {"uv": [4.5, 2, 5, 2.5], "texture": "#1"},
@@ -254,7 +267,7 @@
 			"color": 0,
 			"nbt": "{}",
 			"armAnimationEnabled": false,
-			"children": [2, 3, 4, 5, 6]
+			"children": [2, 3, 4, 5, 6, 7]
 		},
 		{
 			"name": "Guard",
@@ -262,7 +275,7 @@
 			"color": 0,
 			"nbt": "{}",
 			"armAnimationEnabled": false,
-			"children": [7, 8, 9]
+			"children": [8, 9, 10]
 		},
 		{
 			"name": "Blade",
@@ -270,7 +283,7 @@
 			"color": 0,
 			"nbt": "{}",
 			"armAnimationEnabled": false,
-			"children": [10, 11, 12, 13, 14, 15]
+			"children": [11, 12, 13, 14, 15, 16]
 		}
 	]
 }

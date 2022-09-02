@@ -8,6 +8,10 @@
     { "predicate": {"custom_model_data": 6906067}, "model": "odyssey/books/tome_of_discharge"},
     { "predicate": {"custom_model_data": 6906068}, "model": "odyssey/books/tome_of_promotion"},
     { "predicate": {"custom_model_data": 6906069}, "model": "odyssey/books/tome_of_replication"},
-    { "predicate": {"custom_model_data": 6906070}, "model": "odyssey/books/tome_of_harmony"}
+    { "predicate": {"custom_model_data": 6906070}, "model": "odyssey/books/tome_of_harmony"},
+    { "predicate": {"custom_model_data": 6906071}, "model": "odyssey/books/tome_of_banishment"},
+    { "predicate": {"custom_model_data": 6906072}, "model": "odyssey/books/tome_of_embrace"},
+    { "predicate": {"custom_model_data": 6906073}, "model": "odyssey/books/tome_of_expenditure"},
+    { "predicate": {"custom_model_data": 6906074}, "model": "odyssey/books/tome_of_infusion"}
   ]
 }
