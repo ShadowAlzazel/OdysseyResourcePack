@@ -7,7 +7,6 @@
     { "predicate": {"custom_model_data": 6905774}, "model": "odyssey/weapons/wooden_spear"},
     { "predicate": {"custom_model_data": 6905793}, "model": "odyssey/weapons/bamboo_staff"},
     { "predicate": {"custom_model_data": 6905794}, "model": "odyssey/weapons/bone_staff"},
-    { "predicate": {"custom_model_data": 6905795}, "model": "odyssey/weapons/wooden_staff"},
-    { "predicate": {"custom_model_data": 6905796}, "model": "odyssey/weapons/blaze_rod_staff"}
+    { "predicate": {"custom_model_data": 6905795}, "model": "odyssey/weapons/wooden_staff"}
   ]
 }

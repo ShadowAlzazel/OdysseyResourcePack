@@ -12,6 +12,8 @@
     { "predicate": {"custom_model_data": 6905045}, "model": "odyssey/cookies/glowberry_cookie"},
     { "predicate": {"custom_model_data": 6905046}, "model": "odyssey/cookies/melon_cookie"},
     { "predicate": {"custom_model_data": 6905047}, "model": "odyssey/cookies/sugar_cookie"},
-    { "predicate": {"custom_model_data": 6905048}, "model": "odyssey/cookies/golden_cookie"}
+    { "predicate": {"custom_model_data": 6905048}, "model": "odyssey/cookies/golden_cookie"},
+    { "predicate": {"custom_model_data": 6905049}, "model": "odyssey/cookies/chorus_cookie"}
+
   ]
 }

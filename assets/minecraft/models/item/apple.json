@@ -5,6 +5,7 @@
   },
   "overrides": [
     { "predicate": { "custom_model_data": 6904511}, "model": "odyssey/fruits/green_apple"},
-    { "predicate": { "custom_model_data": 6904512}, "model": "odyssey/fruits/candy_apple"}
+    { "predicate": { "custom_model_data": 6904512}, "model": "odyssey/fruits/candy_apple"},
+    { "predicate": { "custom_model_data": 6905468}, "model": "odyssey/other/irradiated_fruit"}
   ]
 }

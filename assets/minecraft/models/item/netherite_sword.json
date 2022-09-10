@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_sword"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 6905002}, "model": "odyssey/weapons/abzu_blade"}
+  ]
+}

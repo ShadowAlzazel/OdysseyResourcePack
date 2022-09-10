@@ -1,0 +1,10 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/prismarine_shard"
+  },
+  "overrides": [
+      { "predicate": {"custom_model_data": 6905466}, "model": "odyssey/other/irradiated_shard"},
+      { "predicate": {"custom_model_data": 6905467}, "model": "odyssey/other/irradiated_rod"}
+  ]
+}
