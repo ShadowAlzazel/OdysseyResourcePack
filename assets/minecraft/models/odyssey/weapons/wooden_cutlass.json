@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "weapons/iron_cutlass_texture",
-		"particle": "weapons/iron_cutlass_texture"
+		"0": "weapons/wooden_cutlass_texture",
+		"particle": "weapons/wooden_cutlass_texture"
 	},
 	"elements": [
 		{

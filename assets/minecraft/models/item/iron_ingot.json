@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/iron_ingot"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 6906618}, "model": "odyssey/other/soul_steel_ingot"}
+  ]
+}
