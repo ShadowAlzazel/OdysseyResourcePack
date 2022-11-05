@@ -12,6 +12,8 @@
     { "predicate": {"custom_model_data": 6906071}, "model": "odyssey/books/tome_of_banishment"},
     { "predicate": {"custom_model_data": 6906072}, "model": "odyssey/books/tome_of_embrace"},
     { "predicate": {"custom_model_data": 6906073}, "model": "odyssey/books/tome_of_expenditure"},
-    { "predicate": {"custom_model_data": 6906074}, "model": "odyssey/books/tome_of_infusion"}
+    { "predicate": {"custom_model_data": 6906074}, "model": "odyssey/books/tome_of_infusion"},
+    { "predicate": {"custom_model_data": 6906075}, "model": "odyssey/books/tome_of_euphony"},
+    { "predicate": {"custom_model_data": 6906076}, "model": "odyssey/books/tome_of_avarice"}
   ]
 }

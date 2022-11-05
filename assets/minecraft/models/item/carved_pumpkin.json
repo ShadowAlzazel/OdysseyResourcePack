@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "minecraft:block/pumpkin_top",
+    "front": "minecraft:block/carved_pumpkin",
+    "side": "minecraft:block/pumpkin_side"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 6900772}, "model": "odyssey/hats/ruined_king_helmet"}
+  ]
+}

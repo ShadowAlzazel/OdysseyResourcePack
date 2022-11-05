@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "minecraft:cookies/golden_cookie"
+      "layer0": "minecraft:other/hourglass_from_babel"
     }
   }
