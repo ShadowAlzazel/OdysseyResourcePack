@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/netherite_sword"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6905002}, "model": "odyssey/weapons/abzu_blade"}
+    { "predicate": {"custom_model_data": 6905002}, "model": "odyssey/weapons/abzu_blade"},
+    { "predicate": {"custom_model_data": 6905777}, "model": "odyssey/weapons/netherite_zweihander"}
   ]
 }
