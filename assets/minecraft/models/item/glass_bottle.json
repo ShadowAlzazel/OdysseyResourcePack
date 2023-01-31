@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/glass_bottle"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6903617}, "model": "odyssey/other/breeze_in_a_bottle"}
+    { "predicate": {"custom_model_data": 6903617}, "model": "odyssey:item/misc/breeze_in_a_bottle"}
   ]
 }

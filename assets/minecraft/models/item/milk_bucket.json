@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/milk_bucket"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6905303}, "model": "odyssey/other/totem_of_vexing"}
+    { "predicate": {"custom_model_data": 6905303}, "model": "odyssey:item/misc/totem_of_vexing"}
   ]
 }

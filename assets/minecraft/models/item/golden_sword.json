@@ -4,11 +4,11 @@
     "layer0": "minecraft:item/golden_sword"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6905744}, "model": "odyssey/weapons/golden_katana"},
-    { "predicate": {"custom_model_data": 6905745}, "model": "odyssey/weapons/golden_claymore"},
-    { "predicate": {"custom_model_data": 6905746}, "model": "odyssey/weapons/golden_dagger"},
-    { "predicate": {"custom_model_data": 6905747}, "model": "odyssey/weapons/golden_rapier"},
-    { "predicate": {"custom_model_data": 6905748}, "model": "odyssey/weapons/golden_cutlass"},
-    { "predicate": {"custom_model_data": 6905749}, "model": "odyssey/weapons/golden_saber"}
+    { "predicate": {"custom_model_data": 6905744}, "model": "odyssey:item/weapons/golden_katana"},
+    { "predicate": {"custom_model_data": 6905745}, "model": "odyssey:item/weapons/golden_claymore"},
+    { "predicate": {"custom_model_data": 6905746}, "model": "odyssey:item/weapons/golden_dagger"},
+    { "predicate": {"custom_model_data": 6905747}, "model": "odyssey:item/weapons/golden_rapier"},
+    { "predicate": {"custom_model_data": 6905748}, "model": "odyssey:item/weapons/golden_cutlass"},
+    { "predicate": {"custom_model_data": 6905749}, "model": "odyssey:item/weapons/golden_saber"}
   ]
 }

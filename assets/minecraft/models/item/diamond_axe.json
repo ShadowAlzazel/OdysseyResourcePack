@@ -4,6 +4,6 @@
       "layer0": "minecraft:item/diamond_axe"
     },
     "overrides": [
-      { "predicate": {"custom_model_data": 6905785}, "model": "odyssey/weapons/diamond_longaxe"}
+      { "predicate": {"custom_model_data": 6905785}, "model": "odyssey:item/weapons/diamond_longaxe"}
     ]
   }

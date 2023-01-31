@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/sweet_berries"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 6905868}, "model": "odyssey/other/crystal_candy"}
+    { "predicate": { "custom_model_data": 6905868}, "model": "odyssey:item/foods/crystal_candy"}
   ]
 }

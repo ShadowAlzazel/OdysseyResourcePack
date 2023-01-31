@@ -4,6 +4,6 @@
       "layer0": "minecraft:item/stone_axe"
     },
     "overrides": [
-      { "predicate": {"custom_model_data": 6905785}, "model": "odyssey/weapons/stone_longaxe"}
+      { "predicate": {"custom_model_data": 6905785}, "model": "odyssey:item/weapons/stone_longaxe"}
     ]
   }

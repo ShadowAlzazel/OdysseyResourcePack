@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/rotten_flesh"
   },
   "overrides": [
-      { "predicate": {"custom_model_data": 6903620}, "model": "odyssey/other/warden_entrails"},
-      { "predicate": {"custom_model_data": 6903621}, "model": "odyssey/other/sculk_heart"}
+      { "predicate": {"custom_model_data": 6903620}, "model": "odyssey:item/materials/warden_entrails"},
+      { "predicate": {"custom_model_data": 6903621}, "model": "odyssey:item/misc/sculk_heart"}
   ]
 }

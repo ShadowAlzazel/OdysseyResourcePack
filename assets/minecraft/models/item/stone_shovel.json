@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/stone_shovel"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6905774}, "model": "odyssey/weapons/stone_spear"},
-    { "predicate": {"custom_model_data": 6905775}, "model": "odyssey/weapons/stone_halberd"}
+    { "predicate": {"custom_model_data": 6905774}, "model": "odyssey:item/weapons/stone_spear"},
+    { "predicate": {"custom_model_data": 6905775}, "model": "odyssey:item/weapons/stone_halberd"}
   ]
 }

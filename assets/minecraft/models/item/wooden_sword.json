@@ -4,12 +4,12 @@
     "layer0": "minecraft:item/wooden_sword"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6905744}, "model": "odyssey/weapons/wooden_katana"},
-    { "predicate": {"custom_model_data": 6905745}, "model": "odyssey/weapons/wooden_claymore"},
-    { "predicate": {"custom_model_data": 6905746}, "model": "odyssey/weapons/wooden_dagger"},
-    { "predicate": {"custom_model_data": 6905747}, "model": "odyssey/weapons/wooden_rapier"},
-    { "predicate": {"custom_model_data": 6905748}, "model": "odyssey/weapons/wooden_cutlass"},
-    { "predicate": {"custom_model_data": 6905749}, "model": "odyssey/weapons/wooden_saber"}
+    { "predicate": {"custom_model_data": 6905744}, "model": "odyssey:item/weapons/wooden_katana"},
+    { "predicate": {"custom_model_data": 6905745}, "model": "odyssey:item/weapons/wooden_claymore"},
+    { "predicate": {"custom_model_data": 6905746}, "model": "odyssey:item/weapons/wooden_dagger"},
+    { "predicate": {"custom_model_data": 6905747}, "model": "odyssey:item/weapons/wooden_rapier"},
+    { "predicate": {"custom_model_data": 6905748}, "model": "odyssey:item/weapons/wooden_cutlass"},
+    { "predicate": {"custom_model_data": 6905749}, "model": "odyssey:item/weapons/wooden_saber"}
     
   ]
 }

@@ -11,6 +11,6 @@
         }
     },
     "overrides": [
-        { "predicate": {"custom_model_data": 6906614}, "model": "odyssey/other/ectoplasm"}
+        { "predicate": {"custom_model_data": 6906614}, "model": "odyssey:item/materials/ectoplasm"}
     ]
 }

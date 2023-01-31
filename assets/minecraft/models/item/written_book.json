@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/written_book"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6905066}, "model": "odyssey/books/necronomicon_book"}
+    { "predicate": {"custom_model_data": 6905066}, "model": "odyssey:item/books/necronomicon_book"}
   ]
 }

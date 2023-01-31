@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/diamond"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6905006}, "model": "odyssey/other/neptunian_diamond"}
+    { "predicate": {"custom_model_data": 6905006}, "model": "odyssey:item/materials/neptunian_diamond"}
   ]
 }

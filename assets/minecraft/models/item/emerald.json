@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/emerald"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6900000}, "model": "odyssey/other/gemma_primus"},
-    { "predicate": {"custom_model_data": 6905105}, "model": "odyssey/other/iojovian_emerald"}
+    { "predicate": {"custom_model_data": 6900000}, "model": "odyssey:item/misc/gemma_primus"},
+    { "predicate": {"custom_model_data": 6905105}, "model": "odyssey:item/materials/iojovian_emerald"}
   ]
 }

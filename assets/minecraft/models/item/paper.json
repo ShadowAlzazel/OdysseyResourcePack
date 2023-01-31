@@ -4,7 +4,7 @@
     "layer0": "minecraft:item/paper"
   },
   "overrides": [
-      { "predicate": {"custom_model_data": 6906615}, "model": "odyssey/other/sorrowing_soul"},
-      { "predicate": {"custom_model_data": 6906649}, "model": "odyssey/other/enigmatic_omamori"}
+      { "predicate": {"custom_model_data": 6906615}, "model": "odyssey:item/misc/sorrowing_soul"},
+      { "predicate": {"custom_model_data": 6906649}, "model": "odyssey:item/misc/enigmatic_omamori"}
   ]
 }

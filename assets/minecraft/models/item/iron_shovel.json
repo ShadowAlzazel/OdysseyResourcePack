@@ -4,8 +4,8 @@
     "layer0": "minecraft:item/iron_shovel"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6905774}, "model": "odyssey/weapons/iron_spear"},
-    { "predicate": {"custom_model_data": 6905775}, "model": "odyssey/weapons/iron_halberd"},
-    { "predicate": {"custom_model_data": 6905796}, "model": "odyssey/weapons/blaze_rod_staff"}
+    { "predicate": {"custom_model_data": 6905774}, "model": "odyssey:item/weapons/iron_spear"},
+    { "predicate": {"custom_model_data": 6905775}, "model": "odyssey:item/weapons/iron_halberd"},
+    { "predicate": {"custom_model_data": 6905796}, "model": "odyssey:item/weapons/blaze_rod_staff"}
   ]
 }

@@ -4,12 +4,12 @@
     "layer0": "minecraft:item/iron_sword"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6905744}, "model": "odyssey/weapons/iron_katana"},
-    { "predicate": {"custom_model_data": 6905745}, "model": "odyssey/weapons/iron_claymore"},
-    { "predicate": {"custom_model_data": 6905746}, "model": "odyssey/weapons/iron_dagger"},
-    { "predicate": {"custom_model_data": 6905747}, "model": "odyssey/weapons/iron_rapier"},
-    { "predicate": {"custom_model_data": 6905748}, "model": "odyssey/weapons/iron_cutlass"},
-    { "predicate": {"custom_model_data": 6905749}, "model": "odyssey/weapons/iron_saber"},
-    { "predicate": {"custom_model_data": 6906644}, "model": "odyssey/weapons/soul_steel_katana"}
+    { "predicate": {"custom_model_data": 6905744}, "model": "odyssey:item/weapons/iron_katana"},
+    { "predicate": {"custom_model_data": 6905745}, "model": "odyssey:item/weapons/iron_claymore"},
+    { "predicate": {"custom_model_data": 6905746}, "model": "odyssey:item/weapons/iron_dagger"},
+    { "predicate": {"custom_model_data": 6905747}, "model": "odyssey:item/weapons/iron_rapier"},
+    { "predicate": {"custom_model_data": 6905748}, "model": "odyssey:item/weapons/iron_cutlass"},
+    { "predicate": {"custom_model_data": 6905749}, "model": "odyssey:item/weapons/iron_saber"},
+    { "predicate": {"custom_model_data": 6906644}, "model": "odyssey:item/weapons/soul_steel_katana"}
   ]
 }

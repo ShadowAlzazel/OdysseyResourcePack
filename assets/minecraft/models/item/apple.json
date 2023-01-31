@@ -4,8 +4,8 @@
     "layer0": "minecraft:item/apple"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 6904511}, "model": "odyssey/fruits/green_apple"},
-    { "predicate": { "custom_model_data": 6904512}, "model": "odyssey/fruits/candy_apple"},
-    { "predicate": { "custom_model_data": 6905468}, "model": "odyssey/other/irradiated_fruit"}
+    { "predicate": { "custom_model_data": 6904511}, "model": "odyssey:item/foods/green_apple"},
+    { "predicate": { "custom_model_data": 6904512}, "model": "odyssey:item/foods/candy_apple"},
+    { "predicate": { "custom_model_data": 6905468}, "model": "odyssey:item/misc/irradiated_fruit"}
   ]
 }

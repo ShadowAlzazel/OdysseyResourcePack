@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/quartz"
   },
   "overrides": [
-      { "predicate": {"custom_model_data": 6906613}, "model": "odyssey/other/soul_crystal"}
+      { "predicate": {"custom_model_data": 6906613}, "model": "odyssey:item/materials/soul_quartz"}
   ]
 }

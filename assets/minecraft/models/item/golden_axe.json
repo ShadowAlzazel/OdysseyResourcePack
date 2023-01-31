@@ -4,6 +4,6 @@
       "layer0": "minecraft:item/golden_axe"
     },
     "overrides": [
-      { "predicate": {"custom_model_data": 6905785}, "model": "odyssey/weapons/golden_longaxe"}
+      { "predicate": {"custom_model_data": 6905785}, "model": "odyssey:item/weapons/golden_longaxe"}
     ]
   }
