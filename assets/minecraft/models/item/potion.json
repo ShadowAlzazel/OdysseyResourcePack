@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/potion_overlay",
+        "layer1": "item/potion"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 6903222}, "model": "odyssey:item/misc/oil_bottle"},
+        { "predicate": {"custom_model_data": 6903223}, "model": "odyssey:item/misc/large_potion_bottle"}
+
+    ]
+}

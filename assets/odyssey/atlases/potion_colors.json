@@ -1,0 +1,17 @@
+{
+    "sources": [
+        {
+            "type": "paletted_permutations",
+            "textures": [
+                "odyssey:item/misc/oil_overlay"
+            ],
+            "palette_key": "odyssey:colormap/color_palettes/oil_bottle_palette",
+            "permutations": {
+                "necrophage": "odyssey:colormap/color_palettes/necrophage",
+                "soul": "odyssey:colormap/color_palettes/soul",
+                "blue": "odyssey:colormap/color_palettes/blue"
+            }
+        }
+    ]
+
+}
