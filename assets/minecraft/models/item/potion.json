@@ -6,7 +6,7 @@
     },
     "overrides": [
         { "predicate": {"custom_model_data": 6903222}, "model": "odyssey:item/misc/oil_bottle"},
-        { "predicate": {"custom_model_data": 6903223}, "model": "odyssey:item/misc/large_potion_bottle"}
-
+        { "predicate": {"custom_model_data": 6903223}, "model": "odyssey:item/misc/large_potion_bottle"},
+        { "predicate": {"custom_model_data": 6903224}, "model": "odyssey:item/misc/vial_bottle"}
     ]
 }

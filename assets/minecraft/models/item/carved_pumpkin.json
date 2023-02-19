@@ -6,6 +6,7 @@
     "side": "minecraft:block/pumpkin_side"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6900772}, "model": "odyssey:other/hats/ruined_king_helmet"}
+    { "predicate": {"custom_model_data": 6900772}, "model": "odyssey:item/hats/ruined_king_crown"},
+    { "predicate": {"custom_model_data": 6900773}, "model": "odyssey:item/hats/horned_helmet"}
   ]
 }
