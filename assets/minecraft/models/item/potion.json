@@ -5,8 +5,9 @@
         "layer1": "item/potion"
     },
     "overrides": [
-        { "predicate": {"custom_model_data": 6903222}, "model": "odyssey:item/misc/oil_bottle"},
-        { "predicate": {"custom_model_data": 6903223}, "model": "odyssey:item/misc/large_potion_bottle"},
-        { "predicate": {"custom_model_data": 6903224}, "model": "odyssey:item/misc/vial_bottle"}
+        { "predicate": {"custom_model_data": 6905310}, "model": "odyssey:item/misc/conical_potion"},
+        { "predicate": {"custom_model_data": 6905311}, "model": "odyssey:item/misc/large_potion"},
+        { "predicate": {"custom_model_data": 6905312}, "model": "odyssey:item/misc/oil_potion"},
+        { "predicate": {"custom_model_data": 6905313}, "model": "odyssey:item/misc/vial_potion"}
     ]
 }

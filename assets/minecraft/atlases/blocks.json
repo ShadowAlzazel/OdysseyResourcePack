@@ -1,0 +1,27 @@
+{
+  "sources": [
+    {
+      "type": "paletted_permutations",
+      "textures": [
+        "odyssey:item/misc/overlaytwo"
+      ],
+      "palette_key": "odyssey:colormap/color_palettes/two_palette",
+      "permutations": {
+        "greentwo": "odyssey:colormap/color_palettes/greentwo"
+      }
+    },
+    {
+      "type": "paletted_permutations",
+      "textures": [
+        "odyssey:item/weapons/halberd_texture"
+      ],
+      "palette_key": "odyssey:colormap/weapon_palettes/base_weapon_palette",
+      "permutations": {
+        "diamond": "odyssey:colormap/weapon_palettes/diamond",
+        "golden": "odyssey:colormap/weapon_palettes/golden",
+        "iron": "odyssey:colormap/weapon_palettes/iron",
+        "netherite": "odyssey:colormap/weapon_palettes/netherite"
+      }
+    }
+  ]
+}

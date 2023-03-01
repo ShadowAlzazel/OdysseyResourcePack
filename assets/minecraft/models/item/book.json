@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/book"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6906065}, "model": "odyssey:item/books/arcane_book"}
+    { "predicate": {"custom_model_data": 6906065}, "model": "odyssey:item/runic/arcane_book"}
   ]
 }

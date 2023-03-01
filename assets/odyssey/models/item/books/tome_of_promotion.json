@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:item/generated",
-    "textures": {
-      "layer0": "odyssey:item/books/tome_of_promotion"
-    }
-  }
