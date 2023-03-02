@@ -8,6 +8,11 @@
         { "predicate": {"custom_model_data": 6905310}, "model": "odyssey:item/misc/conical_potion"},
         { "predicate": {"custom_model_data": 6905311}, "model": "odyssey:item/misc/large_potion"},
         { "predicate": {"custom_model_data": 6905312}, "model": "odyssey:item/misc/oil_potion"},
-        { "predicate": {"custom_model_data": 6905313}, "model": "odyssey:item/misc/vial_potion"}
+        { "predicate": {"custom_model_data": 6905313}, "model": "odyssey:item/misc/vial_potion"},
+        { "predicate": {"custom_model_data": 6905314}, "model": "odyssey:item/misc/jar_potion"},
+        { "predicate": {"custom_model_data": 6905315}, "model": "odyssey:item/misc/square_potion"},
+        { "predicate": {"custom_model_data": 6905316}, "model": "odyssey:item/misc/volumetric_potion"},
+        { "predicate": {"custom_model_data": 6905317}, "model": "odyssey:item/misc/pearshape_potion"},
+        { "predicate": {"custom_model_data": 6905318}, "model": "odyssey:item/misc/dairyshape_potion"}
     ]
 }
