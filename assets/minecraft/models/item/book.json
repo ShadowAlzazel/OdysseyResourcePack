@@ -4,6 +4,11 @@
     "layer0": "minecraft:item/book"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6906065}, "model": "odyssey:item/runic/arcane_book"}
+    { "predicate": {"custom_model_data": 6905501}, "model": "odyssey:item/runic/arcane_book"},
+    { "predicate": {"custom_model_data": 6905520}, "model": "odyssey:item/runic/volume_of_tools"},
+    { "predicate": {"custom_model_data": 6905521}, "model": "odyssey:item/runic/volume_of_pole_arms"},
+    { "predicate": {"custom_model_data": 6905522}, "model": "odyssey:item/runic/volume_of_swords"},
+    { "predicate": {"custom_model_data": 6905523}, "model": "odyssey:item/runic/volume_of_spears"},
+    { "predicate": {"custom_model_data": 6905524}, "model": "odyssey:item/runic/volume_of_axes"}
   ]
 }

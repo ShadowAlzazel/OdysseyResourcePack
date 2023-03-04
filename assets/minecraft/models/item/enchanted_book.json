@@ -14,6 +14,11 @@
     { "predicate": {"custom_model_data": 6906073}, "model": "odyssey:item/runic/tome_of_expenditure"},
     { "predicate": {"custom_model_data": 6906074}, "model": "odyssey:item/runic/tome_of_infusion"},
     { "predicate": {"custom_model_data": 6906075}, "model": "odyssey:item/runic/tome_of_euphony"},
-    { "predicate": {"custom_model_data": 6906076}, "model": "odyssey:item/runic/tome_of_avarice"}
+    { "predicate": {"custom_model_data": 6906076}, "model": "odyssey:item/runic/tome_of_avarice"},
+    { "predicate": {"custom_model_data": 6905520}, "model": "odyssey:item/runic/volume_of_tools"},
+    { "predicate": {"custom_model_data": 6905521}, "model": "odyssey:item/runic/volume_of_pole_arms"},
+    { "predicate": {"custom_model_data": 6905522}, "model": "odyssey:item/runic/volume_of_swords"},
+    { "predicate": {"custom_model_data": 6905523}, "model": "odyssey:item/runic/volume_of_spears"},
+    { "predicate": {"custom_model_data": 6905524}, "model": "odyssey:item/runic/volume_of_axes"}
   ]
 }
