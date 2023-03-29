@@ -1,0 +1,7 @@
+{
+    "parent": "odyssey:item/weapons/bases/claymore",
+    "textures": {
+      "0": "odyssey:item/weapons/claymore_texture_golden",
+      "particle": "odyssey:item/weapons/claymore_texture_golden"
+    }
+  }

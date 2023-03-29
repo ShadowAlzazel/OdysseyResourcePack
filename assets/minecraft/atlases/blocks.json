@@ -5,7 +5,11 @@
       "textures": [
         "odyssey:item/weapons/halberd_texture",
         "odyssey:item/weapons/sickle_texture",
-        "odyssey:item/weapons/katana_texture"
+        "odyssey:item/weapons/katana_texture",
+        "odyssey:item/weapons/saber_texture",
+        "odyssey:item/weapons/claymore_texture",
+        "odyssey:item/weapons/chakram_texture",
+        "odyssey:item/weapons/dagger_texture"
       ],
       "palette_key": "odyssey:colormap/weapon_palettes/base_weapon_palette",
       "permutations": {
