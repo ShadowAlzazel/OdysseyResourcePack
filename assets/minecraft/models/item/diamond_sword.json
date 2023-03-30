@@ -10,6 +10,7 @@
     { "predicate": {"custom_model_data": 6905747}, "model": "odyssey:item/weapons/diamond_rapier"},
     { "predicate": {"custom_model_data": 6905748}, "model": "odyssey:item/weapons/diamond_cutlass"},
     { "predicate": {"custom_model_data": 6905749}, "model": "odyssey:item/weapons/diamond_saber"},
-    { "predicate": {"custom_model_data": 6905750}, "model": "odyssey:item/weapons/diamond_sickle"}
+    { "predicate": {"custom_model_data": 6905750}, "model": "odyssey:item/weapons/diamond_sickle"},
+    { "predicate": {"custom_model_data": 6905751}, "model": "odyssey:item/weapons/diamond_chakram"}
   ]
 }
