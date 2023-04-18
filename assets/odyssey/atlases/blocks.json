@@ -9,7 +9,9 @@
         "odyssey:item/weapons/saber_texture",
         "odyssey:item/weapons/claymore_texture",
         "odyssey:item/weapons/chakram_texture",
-        "odyssey:item/weapons/dagger_texture"
+        "odyssey:item/weapons/dagger_texture",
+        "odyssey:item/weapons/rapier_texture",
+        "odyssey:item/weapons/cutlass_texture"
       ],
       "palette_key": "odyssey:colormap/weapon_palettes/base_weapon_palette",
       "permutations": {

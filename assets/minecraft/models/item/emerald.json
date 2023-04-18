@@ -5,6 +5,8 @@
   },
   "overrides": [
     { "predicate": {"custom_model_data": 6900000}, "model": "odyssey:item/misc/gemma_primus"},
-    { "predicate": {"custom_model_data": 6905105}, "model": "odyssey:item/materials/jovian_emerald"}
+    { "predicate": {"custom_model_data": 6905105}, "model": "odyssey:item/materials/jovian_emerald"},
+    { "predicate": {"custom_model_data": 6905111}, "model": "odyssey:item/materials/alexandrite"},
+    { "predicate": {"custom_model_data": 6905112}, "model": "odyssey:item/materials/ruby"}
   ]
 }
