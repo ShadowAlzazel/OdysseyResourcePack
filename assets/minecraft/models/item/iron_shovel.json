@@ -6,6 +6,8 @@
   "overrides": [
     { "predicate": {"custom_model_data": 6905774}, "model": "odyssey:item/weapons/iron_spear"},
     { "predicate": {"custom_model_data": 6905775}, "model": "odyssey:item/weapons/iron_halberd"},
+    { "predicate": {"custom_model_data": 6905776}, "model": "odyssey:item/weapons/iron_lance"},
+
     { "predicate": {"custom_model_data": 6905796}, "model": "odyssey:item/weapons/blaze_rod_staff"}
   ]
 }

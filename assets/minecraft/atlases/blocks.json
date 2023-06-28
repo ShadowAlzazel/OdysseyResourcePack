@@ -9,10 +9,18 @@
         "odyssey:item/weapons/saber_texture",
         "odyssey:item/weapons/claymore_texture",
         "odyssey:item/weapons/chakram_texture",
-        "odyssey:item/weapons/dagger_texture"
+        "odyssey:item/weapons/dagger_texture",
+        "odyssey:item/weapons/rapier_texture",
+        "odyssey:item/weapons/cutlass_texture",
+        "odyssey:item/weapons/longaxe_texture",
+        "odyssey:item/weapons/warhammer_texture",
+        "odyssey:item/weapons/spear_texture",
+        "odyssey:item/weapons/lance_texture"
       ],
       "palette_key": "odyssey:colormap/weapon_palettes/base_weapon_palette",
       "permutations": {
+        "wooden": "odyssey:colormap/weapon_palettes/wooden",
+        "stone": "odyssey:colormap/weapon_palettes/stone",
         "diamond": "odyssey:colormap/weapon_palettes/diamond",
         "golden": "odyssey:colormap/weapon_palettes/golden",
         "iron": "odyssey:colormap/weapon_palettes/iron",

@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/rabbit_stew"
+    },
+    "overrides": [
+      { "predicate": {"custom_model_data": 6908051}, "model": "odyssey:item/foods/fruit_bowl"}
+    ]
+  }

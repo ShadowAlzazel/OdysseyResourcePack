@@ -1,0 +1,9 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+      "layer0": "minecraft:item/netherite_axe"
+    },
+    "overrides": [
+      { "predicate": {"custom_model_data": 6905785}, "model": "odyssey:item/weapons/netherite_longaxe"}
+    ]
+  }

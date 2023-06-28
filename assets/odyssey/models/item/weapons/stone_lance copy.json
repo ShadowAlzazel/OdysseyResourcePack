@@ -1,0 +1,8 @@
+{
+    "parent": "odyssey:item/weapons/bases/lance",
+    "textures": {
+      "0": "odyssey:item/weapons/lance_texture_stone",
+      "particle": "odyssey:item/weapons/lance_texture_stone"
+    }
+  }
+  

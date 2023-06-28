@@ -13,6 +13,9 @@
         { "predicate": {"custom_model_data": 6905315}, "model": "odyssey:item/misc/square_potion"},
         { "predicate": {"custom_model_data": 6905316}, "model": "odyssey:item/misc/volumetric_potion"},
         { "predicate": {"custom_model_data": 6905317}, "model": "odyssey:item/misc/pearshape_potion"},
-        { "predicate": {"custom_model_data": 6905318}, "model": "odyssey:item/misc/dairyshape_potion"}
+        { "predicate": {"custom_model_data": 6905318}, "model": "odyssey:item/misc/dairyshape_potion"},
+        { "predicate": {"custom_model_data": 6905319}, "model": "odyssey:item/misc/round_potion"},
+
+        { "predicate": {"custom_model_data": 6908050}, "model": "odyssey:item/foods/coffee"}
     ]
 }

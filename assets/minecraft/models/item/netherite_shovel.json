@@ -4,6 +4,8 @@
       "layer0": "minecraft:item/netherite_shovel"
     },
     "overrides": [
-      { "predicate": {"custom_model_data": 6905775}, "model": "odyssey:item/weapons/netherite_halberd"}
+      { "predicate": {"custom_model_data": 6905774}, "model": "odyssey:item/weapons/netherite_spear"},
+      { "predicate": {"custom_model_data": 6905775}, "model": "odyssey:item/weapons/netherite_halberd"},
+      { "predicate": {"custom_model_data": 6905776}, "model": "odyssey:item/weapons/netherite_lance"}
     ]
   }

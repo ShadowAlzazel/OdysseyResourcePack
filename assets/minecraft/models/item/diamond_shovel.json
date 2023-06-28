@@ -5,6 +5,7 @@
   },
   "overrides": [
     { "predicate": {"custom_model_data": 6905774}, "model": "odyssey:item/weapons/diamond_spear"},
-    { "predicate": {"custom_model_data": 6905775}, "model": "odyssey:item/weapons/diamond_halberd"}
+    { "predicate": {"custom_model_data": 6905775}, "model": "odyssey:item/weapons/diamond_halberd"},
+    { "predicate": {"custom_model_data": 6905776}, "model": "odyssey:item/weapons/diamond_lance"}
   ]
 }

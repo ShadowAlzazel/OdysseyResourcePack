@@ -10,6 +10,8 @@
     { "predicate": {"custom_model_data": 6905744}, "model": "odyssey:item/weapons/netherite_katana"},
     { "predicate": {"custom_model_data": 6905745}, "model": "odyssey:item/weapons/netherite_claymore"},
     { "predicate": {"custom_model_data": 6905746}, "model": "odyssey:item/weapons/netherite_dagger"},
+    { "predicate": {"custom_model_data": 6905747}, "model": "odyssey:item/weapons/netherite_rapier"},
+    { "predicate": {"custom_model_data": 6905748}, "model": "odyssey:item/weapons/netherite_cutlass"},
     { "predicate": {"custom_model_data": 6905749}, "model": "odyssey:item/weapons/netherite_saber"},
     { "predicate": {"custom_model_data": 6905750}, "model": "odyssey:item/weapons/netherite_sickle"},
     { "predicate": {"custom_model_data": 6905751}, "model": "odyssey:item/weapons/netherite_chakram"}
