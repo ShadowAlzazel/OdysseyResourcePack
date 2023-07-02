@@ -4,6 +4,8 @@
       "layer0": "minecraft:item/iron_axe"
     },
     "overrides": [
-      { "predicate": {"custom_model_data": 6905785}, "model": "odyssey:item/weapons/iron_longaxe"}
+      { "predicate": {"custom_model_data": 6905785}, "model": "odyssey:item/weapons/iron_longaxe"},
+
+      { "predicate": {"custom_model_data": 6906685}, "model": "odyssey:item/weapons/soul_steel_longaxe"}
     ]
   }

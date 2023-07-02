@@ -4,6 +4,8 @@
     "layer0": "minecraft:item/iron_pickaxe"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6905802}, "model": "odyssey:item/weapons/iron_warhammer"}
+    { "predicate": {"custom_model_data": 6905802}, "model": "odyssey:item/weapons/iron_warhammer"},
+
+    { "predicate": {"custom_model_data": 6906702}, "model": "odyssey:item/weapons/soul_steel_warhammer"}
   ]
 }

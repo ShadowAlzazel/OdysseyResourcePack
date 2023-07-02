@@ -15,7 +15,8 @@
         "odyssey:item/weapons/longaxe_texture",
         "odyssey:item/weapons/warhammer_texture",
         "odyssey:item/weapons/spear_texture",
-        "odyssey:item/weapons/lance_texture"
+        "odyssey:item/weapons/lance_texture",
+        "odyssey:item/weapons/scythe_texture"
       ],
       "palette_key": "odyssey:colormap/weapon_palettes/base_weapon_palette",
       "permutations": {
@@ -24,7 +25,8 @@
         "diamond": "odyssey:colormap/weapon_palettes/diamond",
         "golden": "odyssey:colormap/weapon_palettes/golden",
         "iron": "odyssey:colormap/weapon_palettes/iron",
-        "netherite": "odyssey:colormap/weapon_palettes/netherite"
+        "netherite": "odyssey:colormap/weapon_palettes/netherite",
+        "soul_steel": "odyssey:colormap/weapon_palettes/soul_steel"
       }
     }
   ]

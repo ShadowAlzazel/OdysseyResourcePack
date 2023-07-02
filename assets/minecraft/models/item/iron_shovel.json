@@ -8,6 +8,10 @@
     { "predicate": {"custom_model_data": 6905775}, "model": "odyssey:item/weapons/iron_halberd"},
     { "predicate": {"custom_model_data": 6905776}, "model": "odyssey:item/weapons/iron_lance"},
 
-    { "predicate": {"custom_model_data": 6905796}, "model": "odyssey:item/weapons/blaze_rod_staff"}
+    { "predicate": {"custom_model_data": 6905796}, "model": "odyssey:item/weapons/blaze_rod_staff"},
+
+    { "predicate": {"custom_model_data": 6906674}, "model": "odyssey:item/weapons/soul_steel_spear"},
+    { "predicate": {"custom_model_data": 6906675}, "model": "odyssey:item/weapons/soul_steel_halberd"},
+    { "predicate": {"custom_model_data": 6906676}, "model": "odyssey:item/weapons/soul_steel_lance"}
   ]
 }

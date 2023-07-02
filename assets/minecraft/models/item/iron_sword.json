@@ -13,6 +13,13 @@
     { "predicate": {"custom_model_data": 6905750}, "model": "odyssey:item/weapons/iron_sickle"},
     { "predicate": {"custom_model_data": 6905751}, "model": "odyssey:item/weapons/iron_chakram"},
 
-    { "predicate": {"custom_model_data": 6906644}, "model": "odyssey:item/weapons/soul_steel_katana"}
+    { "predicate": {"custom_model_data": 6906644}, "model": "odyssey:item/weapons/soul_steel_katana"},
+    { "predicate": {"custom_model_data": 6906645}, "model": "odyssey:item/weapons/soul_steel_claymore"},
+    { "predicate": {"custom_model_data": 6906646}, "model": "odyssey:item/weapons/soul_steel_dagger"},
+    { "predicate": {"custom_model_data": 6906647}, "model": "odyssey:item/weapons/soul_steel_rapier"},
+    { "predicate": {"custom_model_data": 6906648}, "model": "odyssey:item/weapons/soul_steel_cutlass"},
+    { "predicate": {"custom_model_data": 6906649}, "model": "odyssey:item/weapons/soul_steel_saber"},
+    { "predicate": {"custom_model_data": 6906650}, "model": "odyssey:item/weapons/soul_steel_sickle"},
+    { "predicate": {"custom_model_data": 6906651}, "model": "odyssey:item/weapons/soul_steel_chakram"}
   ]
 }

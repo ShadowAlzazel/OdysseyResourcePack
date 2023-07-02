@@ -590,12 +590,16 @@
 			"translation": [-7.25, 2.5, 1]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [50, 0, -90],
-			"translation": [7.25, 2.5, 1]
+			"rotation": [103, 0, -90],
+			"translation": [8, 3.25, 7.5]
 		},
 		"firstperson_righthand": {
-			"rotation": [39, 0, 90],
-			"translation": [-1.75, 0, -4.5]
+			"rotation": [37, 0, 90],
+			"translation": [-1.5, 0, -3.25]
+		},
+		"firstperson_lefthand": {
+			"rotation": [52, 3, -91],
+			"translation": [12.25, 4.5, -3.25]
 		},
 		"ground": {
 			"rotation": [90, 0, 0],
