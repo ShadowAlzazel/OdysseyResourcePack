@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "odyssey:item/misc/breeze_in_a_bottle"
+      "layer0": "odyssey:item/foods/spider_eye_boba"
     }
   }
