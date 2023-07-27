@@ -1,0 +1,11 @@
+{
+    "music_disc.gilded": {
+        "subtitle": "subtitles.gildedmusic",
+        "sounds": [
+            {
+                "name": "odyssey:music_disc/gilded",
+                "stream": true
+            }
+        ]
+    }
+}
