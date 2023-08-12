@@ -2,8 +2,8 @@
 	"credit": "Made by ShadowAlzazel with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "odyssey:item/weapons/runic_smithing_station_sides",
-		"particle": "odyssey:item/weapons/runic_smithing_station_sides"
+		"0": "odyssey:item/weapons/arcane_smithing_station_sides",
+		"particle": "odyssey:item/weapons/arcane_smithing_station_sides"
 	},
 	"elements": [
 		{

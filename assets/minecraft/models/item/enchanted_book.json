@@ -4,24 +4,24 @@
     "layer0": "minecraft:item/enchanted_book"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6905520}, "model": "odyssey:item/runic/volume_of_tools"},
-    { "predicate": {"custom_model_data": 6905521}, "model": "odyssey:item/runic/volume_of_pole_arms"},
-    { "predicate": {"custom_model_data": 6905522}, "model": "odyssey:item/runic/volume_of_swords"},
-    { "predicate": {"custom_model_data": 6905523}, "model": "odyssey:item/runic/volume_of_spears"},
-    { "predicate": {"custom_model_data": 6905524}, "model": "odyssey:item/runic/volume_of_axes"},
+    { "predicate": {"custom_model_data": 6905520}, "model": "odyssey:item/arcane/volume_of_tools"},
+    { "predicate": {"custom_model_data": 6905521}, "model": "odyssey:item/arcane/volume_of_pole_arms"},
+    { "predicate": {"custom_model_data": 6905522}, "model": "odyssey:item/arcane/volume_of_swords"},
+    { "predicate": {"custom_model_data": 6905523}, "model": "odyssey:item/arcane/volume_of_spears"},
+    { "predicate": {"custom_model_data": 6905524}, "model": "odyssey:item/arcane/volume_of_axes"},
 
-    { "predicate": {"custom_model_data": 6906066}, "model": "odyssey:item/runic/gilded_book"},
+    { "predicate": {"custom_model_data": 6906066}, "model": "odyssey:item/arcane/gilded_book"},
 
-    { "predicate": {"custom_model_data": 6906067}, "model": "odyssey:item/runic/tome_of_discharge"},
-    { "predicate": {"custom_model_data": 6906068}, "model": "odyssey:item/runic/tome_of_promotion"},
-    { "predicate": {"custom_model_data": 6906069}, "model": "odyssey:item/runic/tome_of_replication"},
-    { "predicate": {"custom_model_data": 6906070}, "model": "odyssey:item/runic/tome_of_harmony"},
-    { "predicate": {"custom_model_data": 6906071}, "model": "odyssey:item/runic/tome_of_banishment"},
-    { "predicate": {"custom_model_data": 6906072}, "model": "odyssey:item/runic/tome_of_embrace"},
-    { "predicate": {"custom_model_data": 6906073}, "model": "odyssey:item/runic/tome_of_expenditure"},
-    { "predicate": {"custom_model_data": 6906074}, "model": "odyssey:item/runic/tome_of_infusion"},
-    { "predicate": {"custom_model_data": 6906075}, "model": "odyssey:item/runic/tome_of_euphony"},
-    { "predicate": {"custom_model_data": 6906076}, "model": "odyssey:item/runic/tome_of_avarice"}
+    { "predicate": {"custom_model_data": 6906067}, "model": "odyssey:item/arcane/tome_of_discharge"},
+    { "predicate": {"custom_model_data": 6906068}, "model": "odyssey:item/arcane/tome_of_promotion"},
+    { "predicate": {"custom_model_data": 6906069}, "model": "odyssey:item/arcane/tome_of_replication"},
+    { "predicate": {"custom_model_data": 6906070}, "model": "odyssey:item/arcane/tome_of_harmony"},
+    { "predicate": {"custom_model_data": 6906071}, "model": "odyssey:item/arcane/tome_of_banishment"},
+    { "predicate": {"custom_model_data": 6906072}, "model": "odyssey:item/arcane/tome_of_embrace"},
+    { "predicate": {"custom_model_data": 6906073}, "model": "odyssey:item/arcane/tome_of_expenditure"},
+    { "predicate": {"custom_model_data": 6906074}, "model": "odyssey:item/arcane/tome_of_infusion"},
+    { "predicate": {"custom_model_data": 6906075}, "model": "odyssey:item/arcane/tome_of_euphony"},
+    { "predicate": {"custom_model_data": 6906076}, "model": "odyssey:item/arcane/tome_of_avarice"}
 
     
   ]

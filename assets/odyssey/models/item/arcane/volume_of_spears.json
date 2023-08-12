@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "odyssey:item/runic/tome_of_infusion"
+      "layer0": "odyssey:item/arcane/volume_of_spearss"
     }
   }

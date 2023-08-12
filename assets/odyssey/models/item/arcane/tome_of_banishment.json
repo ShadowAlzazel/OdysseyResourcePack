@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "odyssey:item/runic/arcane_book"
+      "layer0": "odyssey:item/arcane/tome_of_banishment"
     }
   }

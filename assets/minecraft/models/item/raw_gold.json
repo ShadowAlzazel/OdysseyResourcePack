@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/raw_gold"
   },
   "overrides": [
-      { "predicate": {"custom_model_data": 6903618}, "model": "odyssey:item/misc/hourglass_from_babel"}
+      { "predicate": {"custom_model_data": 6903888}, "model": "odyssey:item/misc/crying_gold"}
   ]
 }

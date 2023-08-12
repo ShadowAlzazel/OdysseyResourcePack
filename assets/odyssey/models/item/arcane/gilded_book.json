@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "odyssey:item/runic/necronomicon_book"
+    "layer0": "odyssey:item/arcane/gilded_book"
   }
 }
