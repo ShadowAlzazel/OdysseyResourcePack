@@ -6,9 +6,14 @@
     },
     "overrides": [
         { "predicate": {"custom_model_data": 6905310}, "model": "odyssey:item/misc/conical_lingering_potion"},
+        { "predicate": {"custom_model_data": 6905311}, "model": "odyssey:item/misc/large_lingering_potion"},
+        { "predicate": {"custom_model_data": 6905312}, "model": "odyssey:item/misc/oil_lingering_potion"},
+        { "predicate": {"custom_model_data": 6905313}, "model": "odyssey:item/misc/vial_empty"},
+        { "predicate": {"custom_model_data": 6905314}, "model": "odyssey:item/misc/jar_empty"},
         { "predicate": {"custom_model_data": 6905315}, "model": "odyssey:item/misc/square_lingering_potion"},
         { "predicate": {"custom_model_data": 6905316}, "model": "odyssey:item/misc/volumetric_lingering_potion"},
         { "predicate": {"custom_model_data": 6905317}, "model": "odyssey:item/misc/pearshape_lingering_potion"},
+        { "predicate": {"custom_model_data": 6905318}, "model": "odyssey:item/misc/dairyshape_lingering_potion"},
         { "predicate": {"custom_model_data": 6905319}, "model": "odyssey:item/misc/round_lingering_potion"},
         { "predicate": {"custom_model_data": 6905320}, "model": "odyssey:item/misc/concoction_lingering_potion"}
     ]
