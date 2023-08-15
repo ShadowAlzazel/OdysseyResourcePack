@@ -13,7 +13,7 @@
     { "predicate": {"custom_model_data": 6905046}, "model": "odyssey:item/foods/melon_cookie"},
     { "predicate": {"custom_model_data": 6905047}, "model": "odyssey:item/foods/sugar_cookie"},
     { "predicate": {"custom_model_data": 6905048}, "model": "odyssey:item/foods/golden_cookie"},
-    { "predicate": {"custom_model_data": 6905049}, "model": "odyssey:item/foods/chorus_cookie"}
+    { "predicate": {"custom_model_data": 6905049}, "model": "odyssey:item/foods/chorus_fruit_cookie"}
 
   ]
 }

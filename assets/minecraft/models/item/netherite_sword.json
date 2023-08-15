@@ -4,9 +4,6 @@
     "layer0": "minecraft:item/netherite_sword"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6905002}, "model": "odyssey:item/weapons/abzu_blade"},
-    { "predicate": {"custom_model_data": 6905777}, "model": "odyssey:item/weapons/netherite_zweihander"},
-    
     { "predicate": {"custom_model_data": 6905744}, "model": "odyssey:item/weapons/netherite_katana"},
     { "predicate": {"custom_model_data": 6905745}, "model": "odyssey:item/weapons/netherite_claymore"},
     { "predicate": {"custom_model_data": 6905746}, "model": "odyssey:item/weapons/netherite_dagger"},

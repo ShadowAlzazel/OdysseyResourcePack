@@ -9,6 +9,7 @@
         { "predicate": {"custom_model_data": 6905315}, "model": "odyssey:item/misc/square_splash_potion"},
         { "predicate": {"custom_model_data": 6905316}, "model": "odyssey:item/misc/volumetric_splash_potion"},
         { "predicate": {"custom_model_data": 6905317}, "model": "odyssey:item/misc/pearshape_splash_potion"},
-        { "predicate": {"custom_model_data": 6905319}, "model": "odyssey:item/misc/round_splash_potion"}
+        { "predicate": {"custom_model_data": 6905319}, "model": "odyssey:item/misc/round_splash_potion"},
+        { "predicate": {"custom_model_data": 6905320}, "model": "odyssey:item/misc/concoction_splash_potion"}
     ]
 }

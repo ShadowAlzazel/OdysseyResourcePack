@@ -13,6 +13,7 @@
     { "predicate": {"custom_model_data": 6905316}, "model": "odyssey:item/misc/volumetric_bottle_empty"},
     { "predicate": {"custom_model_data": 6905317}, "model": "odyssey:item/misc/pearshape_bottle_empty"},
     { "predicate": {"custom_model_data": 6905318}, "model": "odyssey:item/misc/dairyshape_bottle_empty"},
-    { "predicate": {"custom_model_data": 6905319}, "model": "odyssey:item/misc/round_bottle_empty"}
+    { "predicate": {"custom_model_data": 6905319}, "model": "odyssey:item/misc/round_bottle_empty"},
+    { "predicate": {"custom_model_data": 6905320}, "model": "odyssey:item/misc/concoction_bottle_empty"}
   ]
 }
