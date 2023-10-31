@@ -6,7 +6,7 @@
   "overrides": [
     { "predicate": {"custom_model_data": 6905501}, "model": "odyssey:item/arcane/arcane_book"},
     
-    { "predicate": {"custom_model_data": 6905520}, "model": "odyssey:item/arcane/volume_of_tools"},
+    { "predicate": {"custom_model_data": 6905520}, "model": "odyssey:item/arcane/volume_of_farm_tools"},
     { "predicate": {"custom_model_data": 6905521}, "model": "odyssey:item/arcane/volume_of_pole_arms"},
     { "predicate": {"custom_model_data": 6905522}, "model": "odyssey:item/arcane/volume_of_swords"},
     { "predicate": {"custom_model_data": 6905523}, "model": "odyssey:item/arcane/volume_of_spears"},
