@@ -4,6 +4,13 @@
       "layer0": "minecraft:item/brick"
     },
     "overrides": [
+      { "predicate": {"custom_model_data": 6901453}, "model": "odyssey:item/runic/assault_runesherd"},
+      { "predicate": {"custom_model_data": 6901454}, "model": "odyssey:item/runic/guard_runesherd"},
+      { "predicate": {"custom_model_data": 6901455}, "model": "odyssey:item/runic/finesse_runesherd"},
+      { "predicate": {"custom_model_data": 6901456}, "model": "odyssey:item/runic/swift_runesherd"},
+
+      { "predicate": {"custom_model_data": 6901544}, "model": "odyssey:item/runic/glazed_rune_orb"},
+      
       { "predicate": {"custom_model_data": 6905632}, "model": "odyssey:item/misc/ancient_tablet"}
     ]
   }
