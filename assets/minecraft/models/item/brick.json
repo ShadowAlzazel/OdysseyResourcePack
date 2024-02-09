@@ -8,9 +8,14 @@
       { "predicate": {"custom_model_data": 6901454}, "model": "odyssey:item/runic/guard_runesherd"},
       { "predicate": {"custom_model_data": 6901455}, "model": "odyssey:item/runic/finesse_runesherd"},
       { "predicate": {"custom_model_data": 6901456}, "model": "odyssey:item/runic/swift_runesherd"},
+      { "predicate": {"custom_model_data": 6901457}, "model": "odyssey:item/runic/vitality_runesherd"},
+      { "predicate": {"custom_model_data": 6901458}, "model": "odyssey:item/runic/steadfast_runesherd"},
+      { "predicate": {"custom_model_data": 6901459}, "model": "odyssey:item/runic/force_runesherd"},
 
       { "predicate": {"custom_model_data": 6901544}, "model": "odyssey:item/runic/glazed_rune_orb"},
+      { "predicate": {"custom_model_data": 6901545}, "model": "odyssey:item/runic/glazed_rune_totem"},
       
-      { "predicate": {"custom_model_data": 6905632}, "model": "odyssey:item/misc/ancient_tablet"}
+      { "predicate": {"custom_model_data": 6905632}, "model": "odyssey:item/misc/unknown_runesherd"},
+      { "predicate": {"custom_model_data": 6905633}, "model": "odyssey:item/misc/ancient_tablet"}
     ]
   }

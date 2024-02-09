@@ -4,6 +4,7 @@
       "layer0": "minecraft:item/clay_ball"
     },
     "overrides": [
-      { "predicate": {"custom_model_data": 6901544}, "model": "odyssey:item/runic/fragmented_orb"}
+      { "predicate": {"custom_model_data": 6901544}, "model": "odyssey:item/runic/fragmented_orb"},
+      { "predicate": {"custom_model_data": 6901545}, "model": "odyssey:item/runic/clay_totem"}
     ]
   }
