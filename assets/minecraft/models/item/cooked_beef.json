@@ -4,6 +4,9 @@
       "layer0": "minecraft:item/cooked_beef"
     },
     "overrides": [
-      { "predicate": {"custom_model_data": 6908049}, "model": "odyssey:item/foods/fish_n_chips"}
+      { "predicate": {"custom_model_data": 6908049}, "model": "odyssey:item/foods/fish_n_chips"},
+      { "predicate": {"custom_model_data": 6908123}, "model": "odyssey:item/foods/dog_spinach"},
+      { "predicate": {"custom_model_data": 6908124}, "model": "odyssey:item/foods/dog_sizzle_crisp"},
+      { "predicate": {"custom_model_data": 6908125}, "model": "odyssey:item/foods/dog_milk_bone"}
     ]
   }

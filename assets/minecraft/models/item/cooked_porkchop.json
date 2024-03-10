@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/cooked_porkchop"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data": 6908055}, "model": "odyssey:item/foods/shoyu_ramen"}
+  ]
+}

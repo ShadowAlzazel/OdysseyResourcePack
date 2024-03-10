@@ -1,0 +1,6 @@
+{
+    "parent": "odyssey:item/weapons/compact_crossbow",
+    "textures": {
+        "layer0": "odyssey:item/weapons/compact_crossbow/firework"
+    }
+}

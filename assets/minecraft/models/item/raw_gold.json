@@ -1,9 +1,9 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/raw_gold"
-  },
-  "overrides": [
-      { "predicate": {"custom_model_data": 6903888}, "model": "odyssey:item/misc/crying_gold"}
-  ]
-}
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/raw_gold"
+    },
+    "overrides": [
+      { "predicate": {"custom_model_data": 3002201}, "model": "odyssey:item/misc/www_trophy_1"}
+    ]
+  }
