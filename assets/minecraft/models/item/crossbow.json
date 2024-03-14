@@ -102,6 +102,50 @@
                 "firework": 1
             },
             "model": "odyssey:item/weapons/compact_crossbow/firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6905536
+            },
+            "model": "odyssey:item/weapons/auto_crossbow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6905536,
+                "pulling": 1
+            },
+            "model": "odyssey:item/weapons/auto_crossbow/pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6905536,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "odyssey:item/weapons/auto_crossbow/pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6905536,
+                "pulling": 1,
+                "pull": 1.0
+            },
+            "model": "odyssey:item/weapons/auto_crossbow/pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6905536,
+                "charged": 1
+            },
+            "model": "odyssey:item/weapons/auto_crossbow/arrow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6905536,
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "odyssey:item/weapons/auto_crossbow/firework"
         }
     ]
 }
