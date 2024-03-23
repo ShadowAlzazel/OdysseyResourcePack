@@ -11,7 +11,8 @@
     { "predicate": {"custom_model_data": 6905748}, "model": "odyssey:item/weapons/stone_cutlass"},
     { "predicate": {"custom_model_data": 6905749}, "model": "odyssey:item/weapons/stone_saber"},
     { "predicate": {"custom_model_data": 6905750}, "model": "odyssey:item/weapons/stone_sickle"},
-    { "predicate": {"custom_model_data": 6905751}, "model": "odyssey:item/weapons/stone_chakram"}
+    { "predicate": {"custom_model_data": 6905751}, "model": "odyssey:item/weapons/stone_chakram"},
+    { "predicate": {"custom_model_data": 6905752}, "model": "odyssey:item/weapons/stone_kunai"}
     
   ]
 }
