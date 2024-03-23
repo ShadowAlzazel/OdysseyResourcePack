@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/snowball"
   },
   "overrides": [
+      { "predicate": {"custom_model_data": 6905001}, "model": "odyssey:item/weapons/void_linked_kunai"},
       { "predicate": {"custom_model_data": 6905777}, "model": "odyssey:item/weapons/kunai"}
-  ]
+    ]
 }
