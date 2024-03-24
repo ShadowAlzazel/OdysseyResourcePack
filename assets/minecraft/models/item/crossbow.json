@@ -146,6 +146,50 @@
                 "firework": 1
             },
             "model": "odyssey:item/weapons/auto_crossbow/firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6905537
+            },
+            "model": "odyssey:item/weapons/alchemical_bolter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6905537,
+                "pulling": 1
+            },
+            "model": "odyssey:item/weapons/alchemical_bolter/pulling_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6905537,
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "odyssey:item/weapons/alchemical_bolter/pulling_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6905537,
+                "pulling": 1,
+                "pull": 1.0
+            },
+            "model": "odyssey:item/weapons/alchemical_bolter/pulling_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6905537,
+                "charged": 1
+            },
+            "model": "odyssey:item/weapons/alchemical_bolter/arrow"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6905537,
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "odyssey:item/weapons/alchemical_bolter/firework"
         }
     ]
 }

@@ -1,0 +1,6 @@
+{
+    "parent": "odyssey:item/weapons/alchemical_bolter",
+    "textures": {
+        "layer0": "odyssey:item/weapons/alchemical_bolter/firework"
+    }
+}
