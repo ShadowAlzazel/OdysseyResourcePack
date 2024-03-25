@@ -17,7 +17,8 @@
         "odyssey:item/weapons/spear_texture",
         "odyssey:item/weapons/lance_texture",
         "odyssey:item/weapons/scythe_texture",
-        "odyssey:item/weapons/kunai_texture"
+        "odyssey:item/weapons/kunai_texture",
+        "odyssey:item/weapons/longsword_texture"
       ],
       "palette_key": "odyssey:colormap/weapon_palettes/base_weapon_palette",
       "permutations": {

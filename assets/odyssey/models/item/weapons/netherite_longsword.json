@@ -1,0 +1,8 @@
+{
+    "parent": "odyssey:item/weapons/bases/longsword",
+    "textures": {
+      "0": "odyssey:item/weapons/longsword_texture_netherite",
+      "particle": "odyssey:item/weapons/longsword_texture_netherite"
+    }
+  }
+  
