@@ -16,7 +16,8 @@
         "kunzite": "odyssey:trims/color_palettes/kunzite",
         "alexandrite": "odyssey:trims/color_palettes/alexandrite",
         "jade": "odyssey:trims/color_palettes/jade",
-        "ruby": "odyssey:trims/color_palettes/ruby"
+        "ruby": "odyssey:trims/color_palettes/ruby",
+        "mithril":"odyssey:trims/color_palettes/mithril"
       }
     }
   ]
