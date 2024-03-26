@@ -1,8 +1,1 @@
-{
-    "parent": "odyssey:item/weapons/bases/kunai",
-    "textures": {
-      "0": "odyssey:item/weapons/kunai_texture_diamond",
-      "particle": "odyssey:item/weapons/kunai_texture_diamond"
-    }
-  }
-  
+{"parent": "odyssey:item/weapons/bases/kunai", "textures": {"0": "odyssey:item/weapons/kunai_texture_diamond", "particle": "odyssey:item/weapons/kunai_texture_diamond"}}

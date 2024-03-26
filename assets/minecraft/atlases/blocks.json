@@ -28,7 +28,8 @@
         "golden": "odyssey:colormap/weapon_palettes/golden",
         "iron": "odyssey:colormap/weapon_palettes/iron",
         "netherite": "odyssey:colormap/weapon_palettes/netherite",
-        "soul_steel": "odyssey:colormap/weapon_palettes/soul_steel"
+        "soul_steel": "odyssey:colormap/weapon_palettes/soul_steel",
+        "mithril":"odyssey:colormap/weapon_palettes/mithril"
       }
     }
   ]

@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/iron_ingot"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6906618}, "model": "odyssey:item/materials/soul_steel_ingot"}
+    { "predicate": {"custom_model_data": 6906618}, "model": "odyssey:item/materials/soul_steel_ingot"},
+    { "predicate": {"custom_model_data": 6906777}, "model": "odyssey:item/materials/mithril_ingot"}
   ]
 }

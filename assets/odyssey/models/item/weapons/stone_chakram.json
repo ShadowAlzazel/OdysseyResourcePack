@@ -1,7 +1,1 @@
-{
-    "parent": "odyssey:item/weapons/bases/chakram",
-    "textures": {
-      "0": "odyssey:item/weapons/chakram_texture_stone",
-      "particle": "odyssey:item/weapons/chakram_texture_stone"
-    }
-  }
+{"parent": "odyssey:item/weapons/bases/chakram", "textures": {"0": "odyssey:item/weapons/chakram_texture_stone", "particle": "odyssey:item/weapons/chakram_texture_stone"}}
