@@ -24,6 +24,17 @@
     { "predicate": {"custom_model_data": 6906650}, "model": "odyssey:item/weapons/soul_steel_sickle"},
     { "predicate": {"custom_model_data": 6906651}, "model": "odyssey:item/weapons/soul_steel_chakram"},
     { "predicate": {"custom_model_data": 6906652}, "model": "odyssey:item/weapons/soul_steel_kunai"},
-    { "predicate": {"custom_model_data": 6906653}, "model": "odyssey:item/weapons/soul_steel_longsword"}
+    { "predicate": {"custom_model_data": 6906653}, "model": "odyssey:item/weapons/soul_steel_longsword"},
+
+    { "predicate": {"custom_model_data": 6907644}, "model": "odyssey:item/weapons/mithril_katana"},
+    { "predicate": {"custom_model_data": 6907645}, "model": "odyssey:item/weapons/mithril_claymore"},
+    { "predicate": {"custom_model_data": 6907646}, "model": "odyssey:item/weapons/mithril_dagger"},
+    { "predicate": {"custom_model_data": 6907647}, "model": "odyssey:item/weapons/mithril_rapier"},
+    { "predicate": {"custom_model_data": 6907648}, "model": "odyssey:item/weapons/mithril_cutlass"},
+    { "predicate": {"custom_model_data": 6907649}, "model": "odyssey:item/weapons/mithril_saber"},
+    { "predicate": {"custom_model_data": 6907650}, "model": "odyssey:item/weapons/mithril_sickle"},
+    { "predicate": {"custom_model_data": 6907651}, "model": "odyssey:item/weapons/mithril_chakram"},
+    { "predicate": {"custom_model_data": 6907652}, "model": "odyssey:item/weapons/mithril_kunai"},
+    { "predicate": {"custom_model_data": 6907653}, "model": "odyssey:item/weapons/mithril_longsword"}
   ]
 }

@@ -1,0 +1,7 @@
+{
+    "parent": "odyssey:item/weapons/bases/chakram",
+    "textures": {
+      "0": "odyssey:item/weapons/chakram_texture_mithril",
+      "particle": "odyssey:item/weapons/chakram_texture_mithril"
+    }
+  }

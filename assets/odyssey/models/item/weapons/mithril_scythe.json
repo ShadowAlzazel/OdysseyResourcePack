@@ -1,0 +1,7 @@
+{
+    "parent": "odyssey:item/weapons/bases/scythe",
+    "textures": {
+      "0": "odyssey:item/weapons/scythe_texture_mithril",
+      "particle": "odyssey:item/weapons/scythe_texture_mithril"
+    }
+  }
