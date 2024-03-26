@@ -15,6 +15,11 @@
         { "predicate": {"custom_model_data": 6905317}, "model": "odyssey:item/misc/pearshape_splash_potion"},
         { "predicate": {"custom_model_data": 6905318}, "model": "odyssey:item/misc/dairyshape_splash_potion"},
         { "predicate": {"custom_model_data": 6905319}, "model": "odyssey:item/misc/round_splash_potion"},
-        { "predicate": {"custom_model_data": 6905320}, "model": "odyssey:item/misc/concoction_splash_potion"}
+        { "predicate": {"custom_model_data": 6905320}, "model": "odyssey:item/misc/concoction_splash_potion"},
+        { "predicate": {"custom_model_data": 6905431}, "model": "odyssey:item/misc/vial_splash_potion_1"},
+        { "predicate": {"custom_model_data": 6905432}, "model": "odyssey:item/misc/vial_splash_potion_2"},
+        { "predicate": {"custom_model_data": 6905433}, "model": "odyssey:item/misc/vial_splash_potion_3"},
+        { "predicate": {"custom_model_data": 6905434}, "model": "odyssey:item/misc/vial_splash_potion_4"},
+        { "predicate": {"custom_model_data": 6905435}, "model": "odyssey:item/misc/vial_splash_potion_5"}
     ]
 }

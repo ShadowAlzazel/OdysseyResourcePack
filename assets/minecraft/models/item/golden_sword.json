@@ -12,6 +12,7 @@
     { "predicate": {"custom_model_data": 6905749}, "model": "odyssey:item/weapons/golden_saber"},
     { "predicate": {"custom_model_data": 6905750}, "model": "odyssey:item/weapons/golden_sickle"},
     { "predicate": {"custom_model_data": 6905751}, "model": "odyssey:item/weapons/golden_chakram"},
-    { "predicate": {"custom_model_data": 6905752}, "model": "odyssey:item/weapons/golden_kunai"}
+    { "predicate": {"custom_model_data": 6905752}, "model": "odyssey:item/weapons/golden_kunai"},
+    { "predicate": {"custom_model_data": 6905753}, "model": "odyssey:item/weapons/golden_longsword"}
   ]
 }
