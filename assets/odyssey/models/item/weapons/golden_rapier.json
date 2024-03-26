@@ -1,7 +1,1 @@
-{
-    "parent": "odyssey:item/weapons/bases/rapier",
-    "textures": {
-      "0": "odyssey:item/weapons/rapier_texture_golden",
-      "particle": "odyssey:item/weapons/rapier_texture_golden"
-    }
-  }
+{"parent": "odyssey:item/weapons/bases/rapier", "textures": {"0": "odyssey:item/weapons/rapier_texture_golden", "particle": "odyssey:item/weapons/rapier_texture_golden"}}

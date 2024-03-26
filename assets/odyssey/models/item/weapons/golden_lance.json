@@ -1,8 +1,1 @@
-{
-    "parent": "odyssey:item/weapons/bases/lance",
-    "textures": {
-      "0": "odyssey:item/weapons/lance_texture_golden",
-      "particle": "odyssey:item/weapons/lance_texture_golden"
-    }
-  }
-  
+{"parent": "odyssey:item/weapons/bases/lance", "textures": {"0": "odyssey:item/weapons/lance_texture_golden", "particle": "odyssey:item/weapons/lance_texture_golden"}}
