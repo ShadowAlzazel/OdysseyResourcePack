@@ -5,6 +5,12 @@
   },
   "overrides": [
     { "predicate": {"custom_model_data": 6906618}, "model": "odyssey:item/materials/soul_steel_ingot"},
-    { "predicate": {"custom_model_data": 6906777}, "model": "odyssey:item/materials/mithril_ingot"}
+    { "predicate": {"custom_model_data": 6906619}, "model": "odyssey:item/materials/silver_ingot"},
+    { "predicate": {"custom_model_data": 6906777}, "model": "odyssey:item/materials/mithril_ingot"},
+    { "predicate": {"custom_model_data": 6906878}, "model": "odyssey:item/materials/iridium_ingot"},
+    { "predicate": {"custom_model_data": 6906879}, "model": "odyssey:item/materials/titanium_ingot"},
+    { "predicate": {"custom_model_data": 6906880}, "model": "odyssey:item/materials/heated_titanium_ingot"},
+    { "predicate": {"custom_model_data": 6906881}, "model": "odyssey:item/materials/andonized_titanium_ingot"}
+  
   ]
 }

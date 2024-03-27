@@ -23,12 +23,17 @@
       "palette_key": "odyssey:colormap/weapon_palettes/base_weapon_palette",
       "permutations": {
         "wooden": "odyssey:colormap/weapon_palettes/wooden",
-        "stone": "odyssey:colormap/weapon_palettes/stone",
-        "diamond": "odyssey:colormap/weapon_palettes/diamond",
         "golden": "odyssey:colormap/weapon_palettes/golden",
+        "stone": "odyssey:colormap/weapon_palettes/stone",
         "iron": "odyssey:colormap/weapon_palettes/iron",
+        "diamond": "odyssey:colormap/weapon_palettes/diamond",
         "netherite": "odyssey:colormap/weapon_palettes/netherite",
+        "copper": "odyssey:colormap/weapon_palettes/copper",
+        "silver": "odyssey:colormap/weapon_palettes/silver",
         "soul_steel": "odyssey:colormap/weapon_palettes/soul_steel",
+        "titanium": "odyssey:colormap/weapon_palettes/titanium",
+        "andonized_titanium": "odyssey:colormap/weapon_palettes/andonized_titanium",
+        "iridium":"odyssey:colormap/weapon_palettes/iridium",
         "mithril":"odyssey:colormap/weapon_palettes/mithril"
       }
     }

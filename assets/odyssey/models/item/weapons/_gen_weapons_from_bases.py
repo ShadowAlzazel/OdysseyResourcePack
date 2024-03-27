@@ -12,7 +12,7 @@ os.chdir(dir_name)
 tool_types = ['chakram', 'claymore', 'cutlass', 'dagger', 'halberd', 'katana', 'kunai', 'lance', 
                 'longaxe', 'longsword', 'rapier', 'saber', 'scythe', 'sickle', 'spear', 'warhammer']
 materials = ['wooden', 'golden', 'stone', 'iron', 'diamond', 'netherite',
-             'copper', 'mithril', 'soul_steel']
+             'copper', 'silver', 'soul_steel', 'titanium', 'andonized_titanium', 'iridium', 'mithril']
 
 # Function to create files
 def create_tool_files():
