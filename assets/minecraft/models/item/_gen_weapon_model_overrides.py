@@ -25,42 +25,42 @@ materials = [
     # Minecraft
     Material('wooden', 69057, 'wooden'),
     Material('golden', 69057, 'golden'),
-    #Material('stone', 69057, 'stone'),
-    #Material('iron', 69057, 'iron'),
-    #Material('diamond', 69057, 'diamond'),
-    #Material('netherite', 69057, 'netherite'),
+    Material('stone', 69057, 'stone'),
+    Material('iron', 69057, 'iron'),
+    Material('diamond', 69057, 'diamond'),
+    Material('netherite', 69057, 'netherite'),
     # Odyssey
     Material('copper', 69055, 'golden'),
-    #Material('silver', 69063, 'iron'),
-    #Material('soul_steel', 69066, 'iron'),
-    #Material('titanium', 69068, 'iron'),
-    #Material('andonized_titanium', 69070, 'iron'),
-    #Material('iridium', 69071, 'iron'),
-    #Material('mithril', 69076, 'iron'),
+    Material('silver', 69063, 'iron'),
+    Material('soul_steel', 69066, 'iron'),
+    Material('titanium', 69068, 'iron'),
+    Material('andonized_titanium', 69070, 'iron'),
+    Material('iridium', 69071, 'iron'),
+    Material('mithril', 69076, 'iron'),
 ]
 
 tool_types = [
     # Swords
     ToolType('katana', 44, 'sword'),
-    #ToolType('claymore', 45, 'sword'),
-    #ToolType('dagger', 46, 'sword'),
-    #ToolType('rapier', 47, 'sword'),
-    #ToolType('cutlass', 48, 'sword'),
-    #ToolType('saber', 49, 'sword'),
-    #ToolType('sickle', 50, 'sword'),
-    #ToolType('chakram', 51, 'sword'),
-    #ToolType('kunai', 52, 'sword'),
+    ToolType('claymore', 45, 'sword'),
+    ToolType('dagger', 46, 'sword'),
+    ToolType('rapier', 47, 'sword'),
+    ToolType('cutlass', 48, 'sword'),
+    ToolType('saber', 49, 'sword'),
+    ToolType('sickle', 50, 'sword'),
+    ToolType('chakram', 51, 'sword'),
+    ToolType('kunai', 52, 'sword'),
     ToolType('longsword', 53, 'sword'),
     # Shovels
-    #ToolType('spear', 74, 'shovel'),
-    #ToolType('halberd', 75, 'shovel'),
-    #ToolType('lance', 76, 'shovel'),
+    ToolType('spear', 74, 'shovel'),
+    ToolType('halberd', 75, 'shovel'),
+    ToolType('lance', 76, 'shovel'),
     # Axe
-    #ToolType('longaxe', 85, 'axe'),
+    ToolType('longaxe', 85, 'axe'),
     # Pickaxe
-    #ToolType('warhammer', 11, 'pickaxe'),
+    ToolType('warhammer', 11, 'pickaxe'),
     # Hoe
-    #ToolType('scythe', 92, 'hoe'),
+    ToolType('scythe', 92, 'hoe'),
 ]
 
 # To Create Parent object file header
@@ -106,7 +106,7 @@ def create_model_files():
                     "custom_model_data": custom_model
                 }
             }
-            # Add ovveride to "overrides list"
+            # Add override to "overrides list"
             file_obj["overrides"].append(override_obj)
             #print(file_obj)
             #print(f"Loc: {hex(id(file_obj))}")
@@ -114,10 +114,11 @@ def create_model_files():
     # Add All file obj after loop to now overwrite previous 
     for file_key in FILE_OBJS:
         text = json.dumps(FILE_OBJS[file_key], indent=2)
-        print(file_key)
-        print(text)
-    
-    
+        #print(file_key)
+        #print(text)
+        filename = f"{file_key}.json"
+        with open(filename, 'w') as file:
+            file.write(text)
     
 # Main
 def main():
@@ -130,7 +131,6 @@ def main():
     if answer == "y":
         print("Ok")
         create_model_files() 
-    # Move copper to front of material list of num dont work
                  
 # Main
 if __name__ == "__main__":
