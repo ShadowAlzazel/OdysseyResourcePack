@@ -86,6 +86,7 @@ def get_or_create_file_obj(filename: str):
 
 # Function to create files
 def create_model_files():
+    global FILE_OBJS
     # Loop over all to create in memory
     for i in range(len(materials)):
         for j in range(len(tool_types)):
@@ -119,9 +120,11 @@ def create_model_files():
         filename = f"{file_key}.json"
         with open(filename, 'w') as file:
             file.write(text)
+    print(f"Overwrote {len(FILE_OBJS)} files.")
     
 # Main
 def main():
+    global FILE_OBJS
     # Prompt 
     print("Confirm Creation of New files? This will overwrite old files.")
     print(f"Will Create {len(tool_types) * len(materials)} tool combinations.")
@@ -129,8 +132,9 @@ def main():
     answer = input()
     # Input
     if answer == "y":
-        print("Ok")
+        print("Running...")
         create_model_files() 
+        print("Finished!")
                  
 # Main
 if __name__ == "__main__":

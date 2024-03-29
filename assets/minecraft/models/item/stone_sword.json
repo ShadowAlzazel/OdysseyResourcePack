@@ -4,16 +4,65 @@
     "layer0": "minecraft:item/stone_sword"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6905744}, "model": "odyssey:item/weapons/stone_katana"},
-    { "predicate": {"custom_model_data": 6905745}, "model": "odyssey:item/weapons/stone_claymore"},
-    { "predicate": {"custom_model_data": 6905746}, "model": "odyssey:item/weapons/stone_dagger"},
-    { "predicate": {"custom_model_data": 6905747}, "model": "odyssey:item/weapons/stone_rapier"},
-    { "predicate": {"custom_model_data": 6905748}, "model": "odyssey:item/weapons/stone_cutlass"},
-    { "predicate": {"custom_model_data": 6905749}, "model": "odyssey:item/weapons/stone_saber"},
-    { "predicate": {"custom_model_data": 6905750}, "model": "odyssey:item/weapons/stone_sickle"},
-    { "predicate": {"custom_model_data": 6905751}, "model": "odyssey:item/weapons/stone_chakram"},
-    { "predicate": {"custom_model_data": 6905752}, "model": "odyssey:item/weapons/stone_kunai"},
-    { "predicate": {"custom_model_data": 6905753}, "model": "odyssey:item/weapons/stone_longsword"}
-    
+    {
+      "model": "odyssey:item/weapons/stone_katana",
+      "predicate": {
+        "custom_model_data": 6905744
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/stone_claymore",
+      "predicate": {
+        "custom_model_data": 6905745
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/stone_dagger",
+      "predicate": {
+        "custom_model_data": 6905746
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/stone_rapier",
+      "predicate": {
+        "custom_model_data": 6905747
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/stone_cutlass",
+      "predicate": {
+        "custom_model_data": 6905748
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/stone_saber",
+      "predicate": {
+        "custom_model_data": 6905749
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/stone_sickle",
+      "predicate": {
+        "custom_model_data": 6905750
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/stone_chakram",
+      "predicate": {
+        "custom_model_data": 6905751
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/stone_kunai",
+      "predicate": {
+        "custom_model_data": 6905752
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/stone_longsword",
+      "predicate": {
+        "custom_model_data": 6905753
+      }
+    }
   ]
 }

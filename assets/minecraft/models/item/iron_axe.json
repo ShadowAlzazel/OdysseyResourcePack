@@ -1,11 +1,50 @@
 {
-    "parent": "minecraft:item/handheld",
-    "textures": {
-      "layer0": "minecraft:item/iron_axe"
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/iron_axe"
+  },
+  "overrides": [
+    {
+      "model": "odyssey:item/weapons/iron_longaxe",
+      "predicate": {
+        "custom_model_data": 6905785
+      }
     },
-    "overrides": [
-      { "predicate": {"custom_model_data": 6905785}, "model": "odyssey:item/weapons/iron_longaxe"},
-
-      { "predicate": {"custom_model_data": 6906685}, "model": "odyssey:item/weapons/soul_steel_longaxe"}
-    ]
-  }
+    {
+      "model": "odyssey:item/weapons/silver_longaxe",
+      "predicate": {
+        "custom_model_data": 6906385
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/soul_steel_longaxe",
+      "predicate": {
+        "custom_model_data": 6906685
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/titanium_longaxe",
+      "predicate": {
+        "custom_model_data": 6906885
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/andonized_titanium_longaxe",
+      "predicate": {
+        "custom_model_data": 6907085
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iridium_longaxe",
+      "predicate": {
+        "custom_model_data": 6907185
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/mithril_longaxe",
+      "predicate": {
+        "custom_model_data": 6907685
+      }
+    }
+  ]
+}

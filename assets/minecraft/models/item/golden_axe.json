@@ -1,9 +1,20 @@
 {
-    "parent": "minecraft:item/handheld",
-    "textures": {
-      "layer0": "minecraft:item/golden_axe"
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/golden_axe"
+  },
+  "overrides": [
+    {
+      "model": "odyssey:item/weapons/golden_longaxe",
+      "predicate": {
+        "custom_model_data": 6905785
+      }
     },
-    "overrides": [
-      { "predicate": {"custom_model_data": 6905785}, "model": "odyssey:item/weapons/golden_longaxe"}
-    ]
-  }
+    {
+      "model": "odyssey:item/weapons/copper_longaxe",
+      "predicate": {
+        "custom_model_data": 6905585
+      }
+    }
+  ]
+}

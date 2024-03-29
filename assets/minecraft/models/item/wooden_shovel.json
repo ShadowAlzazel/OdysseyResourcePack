@@ -2,16 +2,25 @@
   "parent": "minecraft:item/handheld",
   "textures": {
     "layer0": "minecraft:item/wooden_shovel"
-  }, 
+  },
   "overrides": [
-    { "predicate": {"custom_model_data": 6903910}, "model": "odyssey:item/equipment/arcane_wand"},
-
-    { "predicate": {"custom_model_data": 6905774}, "model": "odyssey:item/weapons/wooden_spear"},
-    { "predicate": {"custom_model_data": 6905775}, "model": "odyssey:item/weapons/wooden_halberd"},
-    { "predicate": {"custom_model_data": 6905776}, "model": "odyssey:item/weapons/wooden_lance"},
-
-    { "predicate": {"custom_model_data": 6905793}, "model": "odyssey:item/weapons/bamboo_staff"},
-    { "predicate": {"custom_model_data": 6905794}, "model": "odyssey:item/weapons/bone_staff"},
-    { "predicate": {"custom_model_data": 6905795}, "model": "odyssey:item/weapons/wooden_staff"}
+    {
+      "model": "odyssey:item/weapons/wooden_spear",
+      "predicate": {
+        "custom_model_data": 6905774
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/wooden_halberd",
+      "predicate": {
+        "custom_model_data": 6905775
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/wooden_lance",
+      "predicate": {
+        "custom_model_data": 6905776
+      }
+    }
   ]
 }
