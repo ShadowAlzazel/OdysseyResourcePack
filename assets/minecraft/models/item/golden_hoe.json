@@ -4,6 +4,6 @@
       "layer0": "minecraft:item/golden_hoe"
     },
     "overrides": [
-        { "predicate": {"custom_model_data": 6905806}, "model": "odyssey:item/weapons/golden_scythe"}
+        { "predicate": {"custom_model_data": 6905792}, "model": "odyssey:item/weapons/golden_scythe"}
     ]
   }

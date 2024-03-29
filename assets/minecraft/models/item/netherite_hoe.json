@@ -4,6 +4,6 @@
       "layer0": "minecraft:item/netherite_hoe"
     },
     "overrides": [
-      { "predicate": {"custom_model_data": 6905806}, "model": "odyssey:item/weapons/netherite_scythe"}
+      { "predicate": {"custom_model_data": 6905792}, "model": "odyssey:item/weapons/netherite_scythe"}
     ]
   }
