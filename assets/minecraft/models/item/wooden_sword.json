@@ -7,61 +7,61 @@
     {
       "model": "odyssey:item/weapons/wooden_katana",
       "predicate": {
-        "custom_model_data": 6905744
+        "custom_model_data": 6905144
       }
     },
     {
       "model": "odyssey:item/weapons/wooden_claymore",
       "predicate": {
-        "custom_model_data": 6905745
+        "custom_model_data": 6905145
       }
     },
     {
       "model": "odyssey:item/weapons/wooden_dagger",
       "predicate": {
-        "custom_model_data": 6905746
+        "custom_model_data": 6905146
       }
     },
     {
       "model": "odyssey:item/weapons/wooden_rapier",
       "predicate": {
-        "custom_model_data": 6905747
+        "custom_model_data": 6905147
       }
     },
     {
       "model": "odyssey:item/weapons/wooden_cutlass",
       "predicate": {
-        "custom_model_data": 6905748
+        "custom_model_data": 6905148
       }
     },
     {
       "model": "odyssey:item/weapons/wooden_saber",
       "predicate": {
-        "custom_model_data": 6905749
+        "custom_model_data": 6905149
       }
     },
     {
       "model": "odyssey:item/weapons/wooden_sickle",
       "predicate": {
-        "custom_model_data": 6905750
+        "custom_model_data": 6905150
       }
     },
     {
       "model": "odyssey:item/weapons/wooden_chakram",
       "predicate": {
-        "custom_model_data": 6905751
+        "custom_model_data": 6905151
       }
     },
     {
       "model": "odyssey:item/weapons/wooden_kunai",
       "predicate": {
-        "custom_model_data": 6905752
+        "custom_model_data": 6905152
       }
     },
     {
       "model": "odyssey:item/weapons/wooden_longsword",
       "predicate": {
-        "custom_model_data": 6905753
+        "custom_model_data": 6905153
       }
     }
   ]

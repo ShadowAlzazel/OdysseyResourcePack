@@ -7,61 +7,61 @@
     {
       "model": "odyssey:item/weapons/netherite_katana",
       "predicate": {
-        "custom_model_data": 6905744
+        "custom_model_data": 6905944
       }
     },
     {
       "model": "odyssey:item/weapons/netherite_claymore",
       "predicate": {
-        "custom_model_data": 6905745
+        "custom_model_data": 6905945
       }
     },
     {
       "model": "odyssey:item/weapons/netherite_dagger",
       "predicate": {
-        "custom_model_data": 6905746
+        "custom_model_data": 6905946
       }
     },
     {
       "model": "odyssey:item/weapons/netherite_rapier",
       "predicate": {
-        "custom_model_data": 6905747
+        "custom_model_data": 6905947
       }
     },
     {
       "model": "odyssey:item/weapons/netherite_cutlass",
       "predicate": {
-        "custom_model_data": 6905748
+        "custom_model_data": 6905948
       }
     },
     {
       "model": "odyssey:item/weapons/netherite_saber",
       "predicate": {
-        "custom_model_data": 6905749
+        "custom_model_data": 6905949
       }
     },
     {
       "model": "odyssey:item/weapons/netherite_sickle",
       "predicate": {
-        "custom_model_data": 6905750
+        "custom_model_data": 6905950
       }
     },
     {
       "model": "odyssey:item/weapons/netherite_chakram",
       "predicate": {
-        "custom_model_data": 6905751
+        "custom_model_data": 6905951
       }
     },
     {
       "model": "odyssey:item/weapons/netherite_kunai",
       "predicate": {
-        "custom_model_data": 6905752
+        "custom_model_data": 6905952
       }
     },
     {
       "model": "odyssey:item/weapons/netherite_longsword",
       "predicate": {
-        "custom_model_data": 6905753
+        "custom_model_data": 6905953
       }
     }
   ]

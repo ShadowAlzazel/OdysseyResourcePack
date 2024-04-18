@@ -7,19 +7,19 @@
     {
       "model": "odyssey:item/weapons/diamond_spear",
       "predicate": {
-        "custom_model_data": 6905774
+        "custom_model_data": 6905874
       }
     },
     {
       "model": "odyssey:item/weapons/diamond_halberd",
       "predicate": {
-        "custom_model_data": 6905775
+        "custom_model_data": 6905875
       }
     },
     {
       "model": "odyssey:item/weapons/diamond_lance",
       "predicate": {
-        "custom_model_data": 6905776
+        "custom_model_data": 6905876
       }
     }
   ]

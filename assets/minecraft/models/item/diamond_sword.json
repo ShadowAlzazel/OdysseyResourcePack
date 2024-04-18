@@ -7,61 +7,61 @@
     {
       "model": "odyssey:item/weapons/diamond_katana",
       "predicate": {
-        "custom_model_data": 6905744
+        "custom_model_data": 6905844
       }
     },
     {
       "model": "odyssey:item/weapons/diamond_claymore",
       "predicate": {
-        "custom_model_data": 6905745
+        "custom_model_data": 6905845
       }
     },
     {
       "model": "odyssey:item/weapons/diamond_dagger",
       "predicate": {
-        "custom_model_data": 6905746
+        "custom_model_data": 6905846
       }
     },
     {
       "model": "odyssey:item/weapons/diamond_rapier",
       "predicate": {
-        "custom_model_data": 6905747
+        "custom_model_data": 6905847
       }
     },
     {
       "model": "odyssey:item/weapons/diamond_cutlass",
       "predicate": {
-        "custom_model_data": 6905748
+        "custom_model_data": 6905848
       }
     },
     {
       "model": "odyssey:item/weapons/diamond_saber",
       "predicate": {
-        "custom_model_data": 6905749
+        "custom_model_data": 6905849
       }
     },
     {
       "model": "odyssey:item/weapons/diamond_sickle",
       "predicate": {
-        "custom_model_data": 6905750
+        "custom_model_data": 6905850
       }
     },
     {
       "model": "odyssey:item/weapons/diamond_chakram",
       "predicate": {
-        "custom_model_data": 6905751
+        "custom_model_data": 6905851
       }
     },
     {
       "model": "odyssey:item/weapons/diamond_kunai",
       "predicate": {
-        "custom_model_data": 6905752
+        "custom_model_data": 6905852
       }
     },
     {
       "model": "odyssey:item/weapons/diamond_longsword",
       "predicate": {
-        "custom_model_data": 6905753
+        "custom_model_data": 6905853
       }
     }
   ]

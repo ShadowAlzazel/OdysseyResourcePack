@@ -7,19 +7,19 @@
     {
       "model": "odyssey:item/weapons/netherite_spear",
       "predicate": {
-        "custom_model_data": 6905774
+        "custom_model_data": 6905974
       }
     },
     {
       "model": "odyssey:item/weapons/netherite_halberd",
       "predicate": {
-        "custom_model_data": 6905775
+        "custom_model_data": 6905975
       }
     },
     {
       "model": "odyssey:item/weapons/netherite_lance",
       "predicate": {
-        "custom_model_data": 6905776
+        "custom_model_data": 6905976
       }
     }
   ]

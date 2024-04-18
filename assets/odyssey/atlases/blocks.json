@@ -18,7 +18,9 @@
         "odyssey:item/weapons/lance_texture",
         "odyssey:item/weapons/scythe_texture",
         "odyssey:item/weapons/kunai_texture",
-        "odyssey:item/weapons/longsword_texture"
+        "odyssey:item/weapons/longsword_texture",
+        "odyssey:item/weapons/poleaxe_texture",
+        "odyssey:item/weapons/shuriken_base"
       ],
       "palette_key": "odyssey:colormap/weapon_palettes/base_weapon_palette",
       "permutations": {

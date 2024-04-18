@@ -11,9 +11,21 @@
       }
     },
     {
+      "model": "odyssey:item/weapons/iron_poleaxe",
+      "predicate": {
+        "custom_model_data": 6905786
+      }
+    },
+    {
       "model": "odyssey:item/weapons/silver_longaxe",
       "predicate": {
         "custom_model_data": 6906385
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/silver_poleaxe",
+      "predicate": {
+        "custom_model_data": 6906386
       }
     },
     {
@@ -23,9 +35,21 @@
       }
     },
     {
+      "model": "odyssey:item/weapons/soul_steel_poleaxe",
+      "predicate": {
+        "custom_model_data": 6906686
+      }
+    },
+    {
       "model": "odyssey:item/weapons/titanium_longaxe",
       "predicate": {
         "custom_model_data": 6906885
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/titanium_poleaxe",
+      "predicate": {
+        "custom_model_data": 6906886
       }
     },
     {
@@ -35,15 +59,33 @@
       }
     },
     {
+      "model": "odyssey:item/weapons/andonized_titanium_poleaxe",
+      "predicate": {
+        "custom_model_data": 6907086
+      }
+    },
+    {
       "model": "odyssey:item/weapons/iridium_longaxe",
       "predicate": {
         "custom_model_data": 6907185
       }
     },
     {
+      "model": "odyssey:item/weapons/iridium_poleaxe",
+      "predicate": {
+        "custom_model_data": 6907186
+      }
+    },
+    {
       "model": "odyssey:item/weapons/mithril_longaxe",
       "predicate": {
         "custom_model_data": 6907685
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/mithril_poleaxe",
+      "predicate": {
+        "custom_model_data": 6907686
       }
     }
   ]

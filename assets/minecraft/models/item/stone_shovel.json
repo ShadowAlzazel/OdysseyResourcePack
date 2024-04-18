@@ -7,19 +7,19 @@
     {
       "model": "odyssey:item/weapons/stone_spear",
       "predicate": {
-        "custom_model_data": 6905774
+        "custom_model_data": 6905374
       }
     },
     {
       "model": "odyssey:item/weapons/stone_halberd",
       "predicate": {
-        "custom_model_data": 6905775
+        "custom_model_data": 6905375
       }
     },
     {
       "model": "odyssey:item/weapons/stone_lance",
       "predicate": {
-        "custom_model_data": 6905776
+        "custom_model_data": 6905376
       }
     }
   ]

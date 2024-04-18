@@ -1,1 +1,7 @@
-{"parent": "odyssey:item/weapons/bases/cutlass", "textures": {"0": "odyssey:item/weapons/cutlass_texture_soul_steel", "particle": "odyssey:item/weapons/cutlass_texture_soul_steel"}}
+{
+  "parent": "odyssey:item/weapons/bases/cutlass",
+  "textures": {
+    "0": "odyssey:item/weapons/cutlass_texture_soul_steel",
+    "particle": "odyssey:item/weapons/cutlass_texture_soul_steel"
+  }
+}

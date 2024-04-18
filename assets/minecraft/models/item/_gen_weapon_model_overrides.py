@@ -23,14 +23,14 @@ FILE_OBJS = {}
     
 materials = [
     # Minecraft
-    Material('wooden', 69057, 'wooden'),
-    Material('golden', 69057, 'golden'),
-    Material('stone', 69057, 'stone'),
+    Material('wooden', 69051, 'wooden'),
+    Material('golden', 69052, 'golden'),
+    Material('stone', 69053, 'stone'),
+    Material('copper', 69055, 'golden'), # Needs to be here cuz order matters
     Material('iron', 69057, 'iron'),
-    Material('diamond', 69057, 'diamond'),
-    Material('netherite', 69057, 'netherite'),
+    Material('diamond', 69058, 'diamond'),
+    Material('netherite', 69059, 'netherite'),
     # Odyssey
-    Material('copper', 69055, 'golden'),
     Material('silver', 69063, 'iron'),
     Material('soul_steel', 69066, 'iron'),
     Material('titanium', 69068, 'iron'),
@@ -40,6 +40,8 @@ materials = [
 ]
 
 tool_types = [
+    # Other
+    ToolType('shuriken', 1, 'iron_nugget'),
     # Swords
     ToolType('katana', 44, 'sword'),
     ToolType('claymore', 45, 'sword'),
@@ -57,10 +59,15 @@ tool_types = [
     ToolType('lance', 76, 'shovel'),
     # Axe
     ToolType('longaxe', 85, 'axe'),
+    ToolType('poleaxe', 86, 'axe'),
     # Pickaxe
     ToolType('warhammer', 11, 'pickaxe'),
     # Hoe
-    ToolType('scythe', 92, 'hoe'),
+    ToolType('scythe', 92, 'hoe')
+]
+
+other_tools = [
+    'shuriken'
 ]
 
 # To Create Parent object file header
@@ -90,16 +97,22 @@ def create_model_files():
     # Loop over all to create in memory
     for i in range(len(materials)):
         for j in range(len(tool_types)):
+            # Create variables for names
             mat: Material = materials[i]
             ttyp: ToolType = tool_types[j]
-            # Create json obj to make interpolation easier
-            # -----------------------------------------------------------------------
-            # Create variables for names
             item_name = f'{mat.name}_{ttyp.name}'
-            custom_model = (mat.item_model_pre * 100) + (ttyp.item_model_suf)
-            # Get parent file obj to save overrides in list
-            filename = f'{mat.item_override_pre}_{ttyp.item_override_suf}'
-            file_obj = get_or_create_file_obj(filename)
+            # Get model and file to write in
+            # -----------------------------------------------------------------------
+            # Other tools
+            if ttyp.name in other_tools:
+                custom_model = (mat.item_model_pre * 100) + (ttyp.item_model_suf)
+                filename = ttyp.item_override_suf
+                file_obj = get_or_create_file_obj(filename)
+            else:
+                custom_model = (mat.item_model_pre * 100) + (ttyp.item_model_suf)
+                filename = f'{mat.item_override_pre}_{ttyp.item_override_suf}'
+                file_obj = get_or_create_file_obj(filename)
+            # -----------------------------------------------------------------------
             # Create override to add
             override_obj = {
                 "model": f"odyssey:item/weapons/{item_name}",
@@ -111,6 +124,8 @@ def create_model_files():
             file_obj["overrides"].append(override_obj)
             #print(file_obj)
             #print(f"Loc: {hex(id(file_obj))}")
+    # -----------------------------------------------------------------------                
+    # Figure out how to add special textures here        
     # -----------------------------------------------------------------------        
     # Add All file obj after loop to now overwrite previous 
     for file_key in FILE_OBJS:

@@ -1,1 +1,7 @@
-{"parent": "odyssey:item/weapons/bases/longsword", "textures": {"0": "odyssey:item/weapons/longsword_texture_iron", "particle": "odyssey:item/weapons/longsword_texture_iron"}}
+{
+  "parent": "odyssey:item/weapons/bases/longsword",
+  "textures": {
+    "0": "odyssey:item/weapons/longsword_texture_iron",
+    "particle": "odyssey:item/weapons/longsword_texture_iron"
+  }
+}

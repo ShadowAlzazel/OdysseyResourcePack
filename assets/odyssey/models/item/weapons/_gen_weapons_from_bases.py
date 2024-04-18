@@ -6,13 +6,18 @@ dir_name = os.path.dirname(abspath)
 os.chdir(dir_name)
 
 # TODO model texturing
-# Add [Polexe], [Battleaxe(labrys)]
+# [Battleaxe(labrys)]
 # Rework [Rapier], [Lance]
 
-tool_types = ['chakram', 'claymore', 'cutlass', 'dagger', 'halberd', 'katana', 'kunai', 'lance', 
-                'longaxe', 'longsword', 'rapier', 'saber', 'scythe', 'sickle', 'spear', 'warhammer']
-materials = ['wooden', 'golden', 'stone', 'iron', 'diamond', 'netherite',
-             'copper', 'silver', 'soul_steel', 'titanium', 'andonized_titanium', 'iridium', 'mithril']
+tool_types = [
+    'chakram', 'claymore', 'cutlass', 'dagger', 'halberd', 'katana', 'kunai', 'lance', 
+    'longaxe', 'longsword', 'rapier', 'saber', 'scythe', 'sickle', 'spear', 'warhammer',
+    'poleaxe', 'shuriken']
+materials = [
+    'wooden', 'golden', 'stone', 'iron', 'diamond', 'netherite',
+    'copper', 'silver', 'soul_steel', 'titanium', 'andonized_titanium', 'iridium', 'mithril']
+
+other_tools = ['shuriken']
 
 # Function to create files
 def create_tool_files():
@@ -22,13 +27,23 @@ def create_tool_files():
             ttyp = tool_types[j]
             # Create json obj to make interpolation easier
             filename = f'{mat}_{ttyp}.json'
-            json_obj = {
+            # Differnt format for block bench models and base textures
+            if ttyp in other_tools:
+                json_obj = {
                 "parent": f"odyssey:item/weapons/bases/{ttyp}",
                 "textures": {
-                    "0": f"odyssey:item/weapons/{ttyp}_texture_{mat}",
-                    "particle": f"odyssey:item/weapons/{ttyp}_texture_{mat}"
+                    "layer0": f"odyssey:item/weapons/{ttyp}_base_{mat}",
+                    }
                 }
-            }
+            else:
+                json_obj = {
+                    "parent": f"odyssey:item/weapons/bases/{ttyp}",
+                    "textures": {
+                        "0": f"odyssey:item/weapons/{ttyp}_texture_{mat}",
+                        "particle": f"odyssey:item/weapons/{ttyp}_texture_{mat}"
+                    }
+                }
+            text = json.dumps(json_obj, indent=2)
             # Write the text to opened file
             with open(filename, 'w') as file:
                 file.write(text)

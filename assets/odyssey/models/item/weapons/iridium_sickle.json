@@ -1,1 +1,7 @@
-{"parent": "odyssey:item/weapons/bases/sickle", "textures": {"0": "odyssey:item/weapons/sickle_texture_iridium", "particle": "odyssey:item/weapons/sickle_texture_iridium"}}
+{
+  "parent": "odyssey:item/weapons/bases/sickle",
+  "textures": {
+    "0": "odyssey:item/weapons/sickle_texture_iridium",
+    "particle": "odyssey:item/weapons/sickle_texture_iridium"
+  }
+}

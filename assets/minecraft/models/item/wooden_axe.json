@@ -7,7 +7,13 @@
     {
       "model": "odyssey:item/weapons/wooden_longaxe",
       "predicate": {
-        "custom_model_data": 6905785
+        "custom_model_data": 6905185
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/wooden_poleaxe",
+      "predicate": {
+        "custom_model_data": 6905186
       }
     }
   ]
