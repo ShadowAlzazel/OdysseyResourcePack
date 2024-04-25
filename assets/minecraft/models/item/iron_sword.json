@@ -448,6 +448,12 @@
       "predicate": {
         "custom_model_data": 6909603
       }
+    },
+    {
+      "model": "odyssey:item/weapons/frost_fang",
+      "predicate": {
+        "custom_model_data": 6909604
+      }
     }
   ]
 }
