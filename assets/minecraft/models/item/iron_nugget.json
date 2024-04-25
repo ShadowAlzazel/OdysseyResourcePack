@@ -58,6 +58,14 @@
         "custom_model_data": 6906601
       }
     },
+
+    {
+      "model": "odyssey:item/materials/silver_nugget",
+      "predicate": {
+        "custom_model_data": 6906619
+      }
+    },
+    
     {
       "model": "odyssey:item/weapons/titanium_shuriken",
       "predicate": {
