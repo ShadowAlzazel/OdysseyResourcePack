@@ -423,6 +423,25 @@
       "predicate": {
         "custom_model_data": 6907653
       }
+    },
+
+    {
+      "model": "odyssey:item/weapons/knight_breaker",
+      "predicate": {
+        "custom_model_data": 6909600
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/shogun_lightning",
+      "predicate": {
+        "custom_model_data": 6909601
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/abzu_blade",
+      "predicate": {
+        "custom_model_data": 6909602
+      }
     }
   ]
 }
