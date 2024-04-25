@@ -442,6 +442,12 @@
       "predicate": {
         "custom_model_data": 6909602
       }
+    },
+    {
+      "model": "odyssey:item/weapons/excalibur",
+      "predicate": {
+        "custom_model_data": 6909603
+      }
     }
   ]
 }
