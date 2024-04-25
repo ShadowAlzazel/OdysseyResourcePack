@@ -454,6 +454,12 @@
       "predicate": {
         "custom_model_data": 6909604
       }
+    },
+    {
+      "model": "odyssey:item/weapons/elucidator",
+      "predicate": {
+        "custom_model_data": 6909605
+      }
     }
   ]
 }
