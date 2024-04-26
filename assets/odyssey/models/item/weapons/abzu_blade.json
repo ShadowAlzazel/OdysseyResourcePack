@@ -865,11 +865,11 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [50, 0, 90],
-			"translation": [-7.25, 5.25, 1.75]
+			"translation": [-7.25, 5.5, 1.75]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [50, 0, -90],
-			"translation": [7.75, 5.25, 1.5]
+			"translation": [7.75, 5.5, 1.5]
 		},
 		"firstperson_righthand": {
 			"rotation": [60, 0, 90],

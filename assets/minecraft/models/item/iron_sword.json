@@ -460,6 +460,12 @@
       "predicate": {
         "custom_model_data": 6909605
       }
+    },
+    {
+      "model": "odyssey:item/weapons/serenity_iris",
+      "predicate": {
+        "custom_model_data": 6909606
+      }
     }
   ]
 }
