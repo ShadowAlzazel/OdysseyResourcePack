@@ -4,6 +4,7 @@
       "layer0": "minecraft:item/brick"
     },
     "overrides": [
+      { "predicate": {"custom_model_data": 6901450}, "model": "odyssey:item/runic/arcane_runesherd"},
       { "predicate": {"custom_model_data": 6901453}, "model": "odyssey:item/runic/assault_runesherd"},
       { "predicate": {"custom_model_data": 6901454}, "model": "odyssey:item/runic/guard_runesherd"},
       { "predicate": {"custom_model_data": 6901455}, "model": "odyssey:item/runic/finesse_runesherd"},
