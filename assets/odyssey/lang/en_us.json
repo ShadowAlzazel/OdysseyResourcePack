@@ -15,8 +15,7 @@
     "advancments.odyssey.smithing.sword.root.title": "Swordsmith!",
     "advancments.odyssey.smithing.sword.tracker_root.description": "To slash and slash.",
     "advancments.odyssey.smithing.sword.tracker_root.title": "Master Swordsmith!",
-    "entity.yippee": "yippee",  
-
+  
     "enchantment.odyssey.antibonk": "Antibonk",
     "enchantment.odyssey.beastly": "Beastly",
     "enchantment.odyssey.black_rose": "Black Rose",
@@ -108,7 +107,11 @@
     "enchantment.odyssey.steady_aim": "Steady Aim",
     "enchantment.odyssey.temporal": "Temporal",
     "enchantment.odyssey.vulnerocity": "Vulnerocity",
+  
+    "entity.yippee": "yippee",  
 
     "odyssey.music_disc.gilded.desc": "T_en_M - Gilded",
-    "subtitles.gildedmusic": "Gilded Plays"
+
+    "subtitles.gilded_records": "Gilded Plays",
+    "subtitles.far_lands_music": "Far Land Plays"
 }
