@@ -16,6 +16,7 @@
       { "predicate": {"custom_model_data": 6901544}, "model": "odyssey:item/runic/glazed_rune_orb"},
       { "predicate": {"custom_model_data": 6901545}, "model": "odyssey:item/runic/glazed_rune_totem"},
       { "predicate": {"custom_model_data": 6901546}, "model": "odyssey:item/runic/glazed_rune_skull"},
+      { "predicate": {"custom_model_data": 6901547}, "model": "odyssey:item/runic/glazed_rune_dowel"},
 
       { "predicate": {"custom_model_data": 6905632}, "model": "odyssey:item/misc/unknown_runesherd"},
       { "predicate": {"custom_model_data": 6905633}, "model": "odyssey:item/misc/ancient_tablet"}

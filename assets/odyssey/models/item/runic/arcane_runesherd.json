@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "odyssey:item/runic/blanks/blank_runesherd",
+    "layer0": "odyssey:item/runic/blanks/blank_nether_runesherd",
     "layer1": "odyssey:item/runic/sigils/vitality_sigil_arcane"
   }
 }

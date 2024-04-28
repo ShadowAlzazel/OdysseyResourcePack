@@ -5,6 +5,7 @@
     },
     "overrides": [
         { "predicate": {"custom_model_data": 6903910}, "model": "odyssey:item/equipment/arcane_wand"},
-        { "predicate": {"custom_model_data": 6903911}, "model": "odyssey:item/equipment/arcane_blade"}
+        { "predicate": {"custom_model_data": 6903911}, "model": "odyssey:item/equipment/arcane_blade"},
+        { "predicate": {"custom_model_data": 6903912}, "model": "odyssey:item/equipment/arcane_scepter"}
     ]
   }
