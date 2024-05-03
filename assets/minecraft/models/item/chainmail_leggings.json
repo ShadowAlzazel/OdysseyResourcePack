@@ -1,0 +1,200 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/chainmail_leggings"
+  },
+  "overrides": [
+    {
+      "model": [
+        "odyssey:item/armor_trims/chainmail_leggings_alexandrite_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.5501
+      }
+    },
+    {
+      "model": [
+        "odyssey:item/armor_trims/chainmail_leggings_andonizedtitanium_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.5502
+      }
+    },
+    {
+      "model": [
+        "odyssey:item/armor_trims/chainmail_leggings_iridium_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.5503
+      }
+    },
+    {
+      "model": [
+        "odyssey:item/armor_trims/chainmail_leggings_jade_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.5504
+      }
+    },
+    {
+      "model": [
+        "odyssey:item/armor_trims/chainmail_leggings_jovianemerald_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.5505
+      }
+    },
+    {
+      "model": [
+        "odyssey:item/armor_trims/chainmail_leggings_kunzite_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.5506
+      }
+    },
+    {
+      "model": [
+        "odyssey:item/armor_trims/chainmail_leggings_mithril_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.5507
+      }
+    },
+    {
+      "model": [
+        "odyssey:item/armor_trims/chainmail_leggings_neptuniandiamond_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.5508
+      }
+    },
+    {
+      "model": [
+        "odyssey:item/armor_trims/chainmail_leggings_obsidian_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.5509
+      }
+    },
+    {
+      "model": [
+        "odyssey:item/armor_trims/chainmail_leggings_ruby_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.551
+      }
+    },
+    {
+      "model": [
+        "odyssey:item/armor_trims/chainmail_leggings_silver_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.5511
+      }
+    },
+    {
+      "model": [
+        "odyssey:item/armor_trims/chainmail_leggings_soulquartz_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.5512
+      }
+    },
+    {
+      "model": [
+        "odyssey:item/armor_trims/chainmail_leggings_soulsteel_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.5513
+      }
+    },
+    {
+      "model": [
+        "odyssey:item/armor_trims/chainmail_leggings_titanium_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.5514
+      }
+    },
+    {
+      "model": [
+        "minecraft:item/chainmail_leggings_quartz_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.1
+      }
+    },
+    {
+      "model": [
+        "minecraft:item/chainmail_leggings_iron_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.2
+      }
+    },
+    {
+      "model": [
+        "minecraft:item/chainmail_leggings_netherite_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.3
+      }
+    },
+    {
+      "model": [
+        "minecraft:item/chainmail_leggings_redstone_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.4
+      }
+    },
+    {
+      "model": [
+        "minecraft:item/chainmail_leggings_copper_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.5
+      }
+    },
+    {
+      "model": [
+        "minecraft:item/chainmail_leggings_gold_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.6
+      }
+    },
+    {
+      "model": [
+        "minecraft:item/chainmail_leggings_emerald_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.7
+      }
+    },
+    {
+      "model": [
+        "minecraft:item/chainmail_leggings_diamond_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.8
+      }
+    },
+    {
+      "model": [
+        "minecraft:item/chainmail_leggings_lapis_trim"
+      ],
+      "predicate": {
+        "trim_type": 0.9
+      }
+    },
+    {
+      "model": [
+        "minecraft:item/chainmail_leggings_amethyst_trim"
+      ],
+      "predicate": {
+        "trim_type": 1.0
+      }
+    }
+  ]
+}

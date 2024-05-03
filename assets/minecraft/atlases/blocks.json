@@ -35,8 +35,8 @@
         "soul_steel": "odyssey:colormap/weapon_palettes/soul_steel",
         "titanium": "odyssey:colormap/weapon_palettes/titanium",
         "andonized_titanium": "odyssey:colormap/weapon_palettes/andonized_titanium",
-        "iridium":"odyssey:colormap/weapon_palettes/iridium",
-        "mithril":"odyssey:colormap/weapon_palettes/mithril"
+        "iridium": "odyssey:colormap/weapon_palettes/iridium",
+        "mithril": "odyssey:colormap/weapon_palettes/mithril"
       }
     },
     {
@@ -53,6 +53,47 @@
         "arcane": "odyssey:colormap/rune_palettes/arcane",
         "diamond": "odyssey:colormap/rune_palettes/diamond",
         "gilded": "odyssey:colormap/rune_palettes/gilded"
+      }
+    },
+    {
+      "type": "paletted_permutations",
+      "textures": [
+        "trims/items/leggings_trim",
+        "trims/items/chestplate_trim",
+        "trims/items/helmet_trim",
+        "trims/items/boots_trim"
+      ],
+      "palette_key": "trims/color_palettes/trim_palette",
+      "permutations": {
+        "alexandrite": "odyssey:trims/color_palettes/alexandrite",
+        "kunzite": "odyssey:trims/color_palettes/kunzite",
+        "soulquartz": "odyssey:trims/color_palettes/soulquartz",
+        "soulsteel": "odyssey:trims/color_palettes/soulsteel",
+        "obsidian": "odyssey:trims/color_palettes/obsidian",
+        "neptuniandiamond": "odyssey:trims/color_palettes/neptuniandiamond",
+        "jovianemerald": "odyssey:trims/color_palettes/jovianemerald",
+        "jade": "odyssey:trims/color_palettes/jade",
+        "ruby": "odyssey:trims/color_palettes/ruby",
+        "mithril": "odyssey:trims/color_palettes/mithril",
+        "silver": "odyssey:trims/color_palettes/silver",
+        "titanium": "odyssey:trims/color_palettes/titanium",
+        "andonizedtitanium": "odyssey:trims/color_palettes/andonizedtitanium",
+        "iridium": "odyssey:trims/color_palettes/iridium",
+
+        "quartz": "trims/color_palettes/quartz",
+        "iron": "trims/color_palettes/iron",
+        "gold": "trims/color_palettes/gold",
+        "diamond": "trims/color_palettes/diamond",
+        "netherite": "trims/color_palettes/netherite",
+        "redstone": "trims/color_palettes/redstone",
+        "copper": "trims/color_palettes/copper",
+        "emerald": "trims/color_palettes/emerald",
+        "lapis": "trims/color_palettes/lapis",
+        "amethyst": "trims/color_palettes/amethyst",
+        "iron_darker": "trims/color_palettes/iron_darker",
+        "gold_darker": "trims/color_palettes/gold_darker",
+        "diamond_darker": "trims/color_palettes/diamond_darker",
+        "netherite_darker": "trims/color_palettes/netherite_darker"
       }
     }
   ]
