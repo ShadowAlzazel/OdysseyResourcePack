@@ -36,20 +36,29 @@
         "trims/models/armor/wayfinder",
         "trims/models/armor/wayfinder_leggings",
         "trims/models/armor/silence",
-        "trims/models/armor/silence_leggings"
+        "trims/models/armor/silence_leggings",
+        "trims/models/armor/flow",
+        "trims/models/armor/flow_leggings",
+        "trims/models/armor/bolt",
+        "trims/models/armor/bolt_leggings"
       ],
       "palette_key": "trims/color_palettes/trim_palette",
       "permutations": {
+        "alexandrite": "odyssey:trims/color_palettes/alexandrite",
+        "kunzite": "odyssey:trims/color_palettes/kunzite",
         "soulquartz": "odyssey:trims/color_palettes/soulquartz",
         "soulsteel": "odyssey:trims/color_palettes/soulsteel",
         "obsidian": "odyssey:trims/color_palettes/obsidian",
         "neptuniandiamond": "odyssey:trims/color_palettes/neptuniandiamond",
         "jovianemerald": "odyssey:trims/color_palettes/jovianemerald",
-        "kunzite": "odyssey:trims/color_palettes/kunzite",
-        "alexandrite": "odyssey:trims/color_palettes/alexandrite",
         "jade": "odyssey:trims/color_palettes/jade",
         "ruby": "odyssey:trims/color_palettes/ruby",
         "mithril": "odyssey:trims/color_palettes/mithril",
+        "silver": "odyssey:trims/color_palettes/silver",
+        "titanium": "odyssey:trims/color_palettes/titanium",
+        "andonizedtitanium": "odyssey:trims/color_palettes/andonizedtitanium",
+        "iridium": "odyssey:trims/color_palettes/iridium",
+
         "quartz": "trims/color_palettes/quartz",
         "iron": "trims/color_palettes/iron",
         "gold": "trims/color_palettes/gold",
@@ -59,7 +68,11 @@
         "copper": "trims/color_palettes/copper",
         "emerald": "trims/color_palettes/emerald",
         "lapis": "trims/color_palettes/lapis",
-        "amethyst": "trims/color_palettes/amethyst"
+        "amethyst": "trims/color_palettes/amethyst",
+        "iron_darker": "trims/color_palettes/iron_darker",
+        "gold_darker": "trims/color_palettes/gold_darker",
+        "diamond_darker": "trims/color_palettes/diamond_darker",
+        "netherite_darker": "trims/color_palettes/netherite_darker"
       }
     }
   ]

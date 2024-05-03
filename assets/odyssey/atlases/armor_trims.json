@@ -17,7 +17,11 @@
         "alexandrite": "odyssey:trims/color_palettes/alexandrite",
         "jade": "odyssey:trims/color_palettes/jade",
         "ruby": "odyssey:trims/color_palettes/ruby",
-        "mithril":"odyssey:trims/color_palettes/mithril"
+        "mithril":"odyssey:trims/color_palettes/mithril",
+        "silver":"odyssey:trims/color_palettes/silver",
+        "titanium":"odyssey:trims/color_palettes/titanium",
+        "andonizedtitanium":"odyssey:trims/color_palettes/andonizedtitanium",
+        "iridium":"odyssey:trims/color_palettes/iridium"
       }
     }
   ]
