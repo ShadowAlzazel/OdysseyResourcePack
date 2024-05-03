@@ -1,1 +1,7 @@
-{"parent": "odyssey:item/weapons/bases/sickle", "textures": {"0": "odyssey:item/weapons/sickle_texture_soul_steel", "particle": "odyssey:item/weapons/sickle_texture_soul_steel"}}
+{
+  "parent": "odyssey:item/weapons/bases/sickle",
+  "textures": {
+    "0": "odyssey:item/weapons/sickle_texture_soul_steel",
+    "particle": "odyssey:item/weapons/sickle_texture_soul_steel"
+  }
+}

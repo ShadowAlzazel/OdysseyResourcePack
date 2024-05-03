@@ -4,8 +4,41 @@
     "layer0": "minecraft:item/golden_shovel"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6905774}, "model": "odyssey:item/weapons/golden_spear"},
-    { "predicate": {"custom_model_data": 6905775}, "model": "odyssey:item/weapons/golden_halberd"},
-    { "predicate": {"custom_model_data": 6905776}, "model": "odyssey:item/weapons/golden_lance"}
+    {
+      "model": "odyssey:item/weapons/golden_spear",
+      "predicate": {
+        "custom_model_data": 6905274
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/golden_halberd",
+      "predicate": {
+        "custom_model_data": 6905275
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/golden_lance",
+      "predicate": {
+        "custom_model_data": 6905276
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/copper_spear",
+      "predicate": {
+        "custom_model_data": 6905574
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/copper_halberd",
+      "predicate": {
+        "custom_model_data": 6905575
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/copper_lance",
+      "predicate": {
+        "custom_model_data": 6905576
+      }
+    }
   ]
 }

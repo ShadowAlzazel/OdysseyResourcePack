@@ -1,1 +1,7 @@
-{"parent": "odyssey:item/weapons/bases/warhammer", "textures": {"0": "odyssey:item/weapons/warhammer_texture_iron", "particle": "odyssey:item/weapons/warhammer_texture_iron"}}
+{
+  "parent": "odyssey:item/weapons/bases/warhammer",
+  "textures": {
+    "0": "odyssey:item/weapons/warhammer_texture_iron",
+    "particle": "odyssey:item/weapons/warhammer_texture_iron"
+  }
+}

@@ -1,1 +1,7 @@
-{"parent": "odyssey:item/weapons/bases/chakram", "textures": {"0": "odyssey:item/weapons/chakram_texture_titanium", "particle": "odyssey:item/weapons/chakram_texture_titanium"}}
+{
+  "parent": "odyssey:item/weapons/bases/chakram",
+  "textures": {
+    "0": "odyssey:item/weapons/chakram_texture_titanium",
+    "particle": "odyssey:item/weapons/chakram_texture_titanium"
+  }
+}

@@ -1,20 +1,37 @@
 {
-    "music_disc.gilded": {
-        "subtitle": "subtitles.gildedmusic",
-        "sounds": [
-            {
-                "name": "odyssey:music_disc/gilded",
-                "stream": true
-            }
-        ]
-    },
-    "entity.yippee": {
-        "subtitle": "subtitles.yippee",
-        "sounds": [
-            {
-                "name": "odyssey:entity/yippee",
-                "stream": true
-            }
-        ]
-    }
+  "entity.yippee": {
+    "subtitle": "subtitles.yippee",
+    "sounds": [
+      {
+        "name": "odyssey:entity/yippee",
+        "stream": true
+      }
+    ]
+  },
+  "music.edge_dimension": {
+    "sounds": [
+      {
+        "name": "odyssey:music/far_lands",
+        "stream": true
+      }
+    ]
+  },
+  "music.far_lands": {
+    "subtitle": "subtitles.far_lands_music",
+    "sounds": [
+      {
+        "name": "odyssey:music/far_lands",
+        "stream": true
+      }
+    ]
+  },
+  "records.gilded": {
+    "subtitle": "subtitles.gilded_records",
+    "sounds": [
+      {
+        "name": "odyssey:records/gilded",
+        "stream": true
+      }
+    ]
+  }
 }

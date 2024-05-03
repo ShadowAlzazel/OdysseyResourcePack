@@ -1,9 +1,20 @@
 {
-    "parent": "minecraft:item/handheld",
-    "textures": {
-      "layer0": "minecraft:item/diamond_axe"
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_axe"
+  },
+  "overrides": [
+    {
+      "model": "odyssey:item/weapons/diamond_longaxe",
+      "predicate": {
+        "custom_model_data": 6905885
+      }
     },
-    "overrides": [
-      { "predicate": {"custom_model_data": 6905785}, "model": "odyssey:item/weapons/diamond_longaxe"}
-    ]
-  }
+    {
+      "model": "odyssey:item/weapons/diamond_poleaxe",
+      "predicate": {
+        "custom_model_data": 6905886
+      }
+    }
+  ]
+}

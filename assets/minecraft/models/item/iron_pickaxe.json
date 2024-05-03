@@ -4,8 +4,47 @@
     "layer0": "minecraft:item/iron_pickaxe"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6905711}, "model": "odyssey:item/weapons/iron_warhammer"},
-
-    { "predicate": {"custom_model_data": 6906611}, "model": "odyssey:item/weapons/soul_steel_warhammer"}
+    {
+      "model": "odyssey:item/weapons/iron_warhammer",
+      "predicate": {
+        "custom_model_data": 6905711
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/silver_warhammer",
+      "predicate": {
+        "custom_model_data": 6906311
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/soul_steel_warhammer",
+      "predicate": {
+        "custom_model_data": 6906611
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/titanium_warhammer",
+      "predicate": {
+        "custom_model_data": 6906811
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/andonized_titanium_warhammer",
+      "predicate": {
+        "custom_model_data": 6907011
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iridium_warhammer",
+      "predicate": {
+        "custom_model_data": 6907111
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/mithril_warhammer",
+      "predicate": {
+        "custom_model_data": 6907611
+      }
+    }
   ]
 }

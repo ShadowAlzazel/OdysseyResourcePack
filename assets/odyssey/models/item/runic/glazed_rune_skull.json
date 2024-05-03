@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "odyssey:item/arcane/volume_of_pole_arms"
+      "layer0": "odyssey:item/runic/glazed_rune_skull"
     }
   }

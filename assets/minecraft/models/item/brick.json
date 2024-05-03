@@ -4,6 +4,8 @@
       "layer0": "minecraft:item/brick"
     },
     "overrides": [
+      { "predicate": {"custom_model_data": 6901450}, "model": "odyssey:item/runic/arcane_runesherd"},
+
       { "predicate": {"custom_model_data": 6901453}, "model": "odyssey:item/runic/assault_runesherd"},
       { "predicate": {"custom_model_data": 6901454}, "model": "odyssey:item/runic/guard_runesherd"},
       { "predicate": {"custom_model_data": 6901455}, "model": "odyssey:item/runic/finesse_runesherd"},
@@ -11,10 +13,21 @@
       { "predicate": {"custom_model_data": 6901457}, "model": "odyssey:item/runic/vitality_runesherd"},
       { "predicate": {"custom_model_data": 6901458}, "model": "odyssey:item/runic/steadfast_runesherd"},
       { "predicate": {"custom_model_data": 6901459}, "model": "odyssey:item/runic/force_runesherd"},
+      { "predicate": {"custom_model_data": 6901460}, "model": "odyssey:item/runic/break_runesherd"},
+      { "predicate": {"custom_model_data": 6901461}, "model": "odyssey:item/runic/breach_runesherd"},
+      { "predicate": {"custom_model_data": 6901462}, "model": "odyssey:item/runic/jump_runesherd"},
+      { "predicate": {"custom_model_data": 6901463}, "model": "odyssey:item/runic/gravity_runesherd"},
+      { "predicate": {"custom_model_data": 6901464}, "model": "odyssey:item/runic/range_runesherd"},
+      { "predicate": {"custom_model_data": 6901465}, "model": "odyssey:item/runic/size_runesherd"},
 
       { "predicate": {"custom_model_data": 6901544}, "model": "odyssey:item/runic/glazed_rune_orb"},
       { "predicate": {"custom_model_data": 6901545}, "model": "odyssey:item/runic/glazed_rune_totem"},
-      
+      { "predicate": {"custom_model_data": 6901546}, "model": "odyssey:item/runic/glazed_rune_skull"},
+      { "predicate": {"custom_model_data": 6901547}, "model": "odyssey:item/runic/glazed_rune_dowel"},
+      { "predicate": {"custom_model_data": 6901548}, "model": "odyssey:item/runic/glazed_rune_rods"},
+      { "predicate": {"custom_model_data": 6901549}, "model": "odyssey:item/runic/glazed_rune_key"},
+
+
       { "predicate": {"custom_model_data": 6905632}, "model": "odyssey:item/misc/unknown_runesherd"},
       { "predicate": {"custom_model_data": 6905633}, "model": "odyssey:item/misc/ancient_tablet"}
     ]

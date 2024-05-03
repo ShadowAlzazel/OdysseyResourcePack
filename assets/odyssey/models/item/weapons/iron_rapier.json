@@ -1,1 +1,7 @@
-{"parent": "odyssey:item/weapons/bases/rapier", "textures": {"0": "odyssey:item/weapons/rapier_texture_iron", "particle": "odyssey:item/weapons/rapier_texture_iron"}}
+{
+  "parent": "odyssey:item/weapons/bases/rapier",
+  "textures": {
+    "0": "odyssey:item/weapons/rapier_texture_iron",
+    "particle": "odyssey:item/weapons/rapier_texture_iron"
+  }
+}

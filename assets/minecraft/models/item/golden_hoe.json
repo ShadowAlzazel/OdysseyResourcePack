@@ -1,9 +1,20 @@
 {
-    "parent": "minecraft:item/handheld",
-    "textures": {
-      "layer0": "minecraft:item/golden_hoe"
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/golden_hoe"
+  },
+  "overrides": [
+    {
+      "model": "odyssey:item/weapons/golden_scythe",
+      "predicate": {
+        "custom_model_data": 6905292
+      }
     },
-    "overrides": [
-        { "predicate": {"custom_model_data": 6905792}, "model": "odyssey:item/weapons/golden_scythe"}
-    ]
-  }
+    {
+      "model": "odyssey:item/weapons/copper_scythe",
+      "predicate": {
+        "custom_model_data": 6905592
+      }
+    }
+  ]
+}

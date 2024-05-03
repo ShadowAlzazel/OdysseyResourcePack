@@ -4,81 +4,468 @@
     "layer0": "minecraft:item/iron_sword"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6905744}, "model": "odyssey:item/weapons/iron_katana"},
-    { "predicate": {"custom_model_data": 6905745}, "model": "odyssey:item/weapons/iron_claymore"},
-    { "predicate": {"custom_model_data": 6905746}, "model": "odyssey:item/weapons/iron_dagger"},
-    { "predicate": {"custom_model_data": 6905747}, "model": "odyssey:item/weapons/iron_rapier"},
-    { "predicate": {"custom_model_data": 6905748}, "model": "odyssey:item/weapons/iron_cutlass"},
-    { "predicate": {"custom_model_data": 6905749}, "model": "odyssey:item/weapons/iron_saber"},
-    { "predicate": {"custom_model_data": 6905750}, "model": "odyssey:item/weapons/iron_sickle"},
-    { "predicate": {"custom_model_data": 6905751}, "model": "odyssey:item/weapons/iron_chakram"},
-    { "predicate": {"custom_model_data": 6905752}, "model": "odyssey:item/weapons/iron_kunai"},
-    { "predicate": {"custom_model_data": 6905753}, "model": "odyssey:item/weapons/iron_longsword"},
+    {
+      "model": "odyssey:item/weapons/iron_katana",
+      "predicate": {
+        "custom_model_data": 6905744
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iron_claymore",
+      "predicate": {
+        "custom_model_data": 6905745
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iron_dagger",
+      "predicate": {
+        "custom_model_data": 6905746
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iron_rapier",
+      "predicate": {
+        "custom_model_data": 6905747
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iron_cutlass",
+      "predicate": {
+        "custom_model_data": 6905748
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iron_saber",
+      "predicate": {
+        "custom_model_data": 6905749
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iron_sickle",
+      "predicate": {
+        "custom_model_data": 6905750
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iron_chakram",
+      "predicate": {
+        "custom_model_data": 6905751
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iron_kunai",
+      "predicate": {
+        "custom_model_data": 6905752
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iron_longsword",
+      "predicate": {
+        "custom_model_data": 6905753
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/silver_katana",
+      "predicate": {
+        "custom_model_data": 6906344
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/silver_claymore",
+      "predicate": {
+        "custom_model_data": 6906345
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/silver_dagger",
+      "predicate": {
+        "custom_model_data": 6906346
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/silver_rapier",
+      "predicate": {
+        "custom_model_data": 6906347
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/silver_cutlass",
+      "predicate": {
+        "custom_model_data": 6906348
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/silver_saber",
+      "predicate": {
+        "custom_model_data": 6906349
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/silver_sickle",
+      "predicate": {
+        "custom_model_data": 6906350
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/silver_chakram",
+      "predicate": {
+        "custom_model_data": 6906351
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/silver_kunai",
+      "predicate": {
+        "custom_model_data": 6906352
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/silver_longsword",
+      "predicate": {
+        "custom_model_data": 6906353
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/soul_steel_katana",
+      "predicate": {
+        "custom_model_data": 6906644
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/soul_steel_claymore",
+      "predicate": {
+        "custom_model_data": 6906645
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/soul_steel_dagger",
+      "predicate": {
+        "custom_model_data": 6906646
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/soul_steel_rapier",
+      "predicate": {
+        "custom_model_data": 6906647
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/soul_steel_cutlass",
+      "predicate": {
+        "custom_model_data": 6906648
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/soul_steel_saber",
+      "predicate": {
+        "custom_model_data": 6906649
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/soul_steel_sickle",
+      "predicate": {
+        "custom_model_data": 6906650
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/soul_steel_chakram",
+      "predicate": {
+        "custom_model_data": 6906651
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/soul_steel_kunai",
+      "predicate": {
+        "custom_model_data": 6906652
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/soul_steel_longsword",
+      "predicate": {
+        "custom_model_data": 6906653
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/titanium_katana",
+      "predicate": {
+        "custom_model_data": 6906844
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/titanium_claymore",
+      "predicate": {
+        "custom_model_data": 6906845
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/titanium_dagger",
+      "predicate": {
+        "custom_model_data": 6906846
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/titanium_rapier",
+      "predicate": {
+        "custom_model_data": 6906847
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/titanium_cutlass",
+      "predicate": {
+        "custom_model_data": 6906848
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/titanium_saber",
+      "predicate": {
+        "custom_model_data": 6906849
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/titanium_sickle",
+      "predicate": {
+        "custom_model_data": 6906850
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/titanium_chakram",
+      "predicate": {
+        "custom_model_data": 6906851
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/titanium_kunai",
+      "predicate": {
+        "custom_model_data": 6906852
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/titanium_longsword",
+      "predicate": {
+        "custom_model_data": 6906853
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/andonized_titanium_katana",
+      "predicate": {
+        "custom_model_data": 6907044
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/andonized_titanium_claymore",
+      "predicate": {
+        "custom_model_data": 6907045
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/andonized_titanium_dagger",
+      "predicate": {
+        "custom_model_data": 6907046
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/andonized_titanium_rapier",
+      "predicate": {
+        "custom_model_data": 6907047
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/andonized_titanium_cutlass",
+      "predicate": {
+        "custom_model_data": 6907048
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/andonized_titanium_saber",
+      "predicate": {
+        "custom_model_data": 6907049
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/andonized_titanium_sickle",
+      "predicate": {
+        "custom_model_data": 6907050
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/andonized_titanium_chakram",
+      "predicate": {
+        "custom_model_data": 6907051
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/andonized_titanium_kunai",
+      "predicate": {
+        "custom_model_data": 6907052
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/andonized_titanium_longsword",
+      "predicate": {
+        "custom_model_data": 6907053
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iridium_katana",
+      "predicate": {
+        "custom_model_data": 6907144
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iridium_claymore",
+      "predicate": {
+        "custom_model_data": 6907145
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iridium_dagger",
+      "predicate": {
+        "custom_model_data": 6907146
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iridium_rapier",
+      "predicate": {
+        "custom_model_data": 6907147
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iridium_cutlass",
+      "predicate": {
+        "custom_model_data": 6907148
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iridium_saber",
+      "predicate": {
+        "custom_model_data": 6907149
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iridium_sickle",
+      "predicate": {
+        "custom_model_data": 6907150
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iridium_chakram",
+      "predicate": {
+        "custom_model_data": 6907151
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iridium_kunai",
+      "predicate": {
+        "custom_model_data": 6907152
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iridium_longsword",
+      "predicate": {
+        "custom_model_data": 6907153
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/mithril_katana",
+      "predicate": {
+        "custom_model_data": 6907644
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/mithril_claymore",
+      "predicate": {
+        "custom_model_data": 6907645
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/mithril_dagger",
+      "predicate": {
+        "custom_model_data": 6907646
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/mithril_rapier",
+      "predicate": {
+        "custom_model_data": 6907647
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/mithril_cutlass",
+      "predicate": {
+        "custom_model_data": 6907648
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/mithril_saber",
+      "predicate": {
+        "custom_model_data": 6907649
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/mithril_sickle",
+      "predicate": {
+        "custom_model_data": 6907650
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/mithril_chakram",
+      "predicate": {
+        "custom_model_data": 6907651
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/mithril_kunai",
+      "predicate": {
+        "custom_model_data": 6907652
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/mithril_longsword",
+      "predicate": {
+        "custom_model_data": 6907653
+      }
+    },
 
-    { "predicate": {"custom_model_data": 6906344}, "model": "odyssey:item/weapons/silver_katana"},
-    { "predicate": {"custom_model_data": 6906345}, "model": "odyssey:item/weapons/silver_claymore"},
-    { "predicate": {"custom_model_data": 6906346}, "model": "odyssey:item/weapons/silver_dagger"},
-    { "predicate": {"custom_model_data": 6906347}, "model": "odyssey:item/weapons/silver_rapier"},
-    { "predicate": {"custom_model_data": 6906348}, "model": "odyssey:item/weapons/silver_cutlass"},
-    { "predicate": {"custom_model_data": 6906349}, "model": "odyssey:item/weapons/silver_saber"},
-    { "predicate": {"custom_model_data": 6906350}, "model": "odyssey:item/weapons/silver_sickle"},
-    { "predicate": {"custom_model_data": 6906351}, "model": "odyssey:item/weapons/silver_chakram"},
-    { "predicate": {"custom_model_data": 6906352}, "model": "odyssey:item/weapons/silver_kunai"},
-    { "predicate": {"custom_model_data": 6906353}, "model": "odyssey:item/weapons/silver_longsword"},
-
-    { "predicate": {"custom_model_data": 6906644}, "model": "odyssey:item/weapons/soul_steel_katana"},
-    { "predicate": {"custom_model_data": 6906645}, "model": "odyssey:item/weapons/soul_steel_claymore"},
-    { "predicate": {"custom_model_data": 6906646}, "model": "odyssey:item/weapons/soul_steel_dagger"},
-    { "predicate": {"custom_model_data": 6906647}, "model": "odyssey:item/weapons/soul_steel_rapier"},
-    { "predicate": {"custom_model_data": 6906648}, "model": "odyssey:item/weapons/soul_steel_cutlass"},
-    { "predicate": {"custom_model_data": 6906649}, "model": "odyssey:item/weapons/soul_steel_saber"},
-    { "predicate": {"custom_model_data": 6906650}, "model": "odyssey:item/weapons/soul_steel_sickle"},
-    { "predicate": {"custom_model_data": 6906651}, "model": "odyssey:item/weapons/soul_steel_chakram"},
-    { "predicate": {"custom_model_data": 6906652}, "model": "odyssey:item/weapons/soul_steel_kunai"},
-    { "predicate": {"custom_model_data": 6906653}, "model": "odyssey:item/weapons/soul_steel_longsword"},
-
-    { "predicate": {"custom_model_data": 6906844}, "model": "odyssey:item/weapons/titanium_katana"},
-    { "predicate": {"custom_model_data": 6906845}, "model": "odyssey:item/weapons/titanium_claymore"},
-    { "predicate": {"custom_model_data": 6906846}, "model": "odyssey:item/weapons/titanium_dagger"},
-    { "predicate": {"custom_model_data": 6906847}, "model": "odyssey:item/weapons/titanium_rapier"},
-    { "predicate": {"custom_model_data": 6906848}, "model": "odyssey:item/weapons/titanium_cutlass"},
-    { "predicate": {"custom_model_data": 6906849}, "model": "odyssey:item/weapons/titanium_saber"},
-    { "predicate": {"custom_model_data": 6906850}, "model": "odyssey:item/weapons/titanium_sickle"},
-    { "predicate": {"custom_model_data": 6906851}, "model": "odyssey:item/weapons/titanium_chakram"},
-    { "predicate": {"custom_model_data": 6906852}, "model": "odyssey:item/weapons/titanium_kunai"},
-    { "predicate": {"custom_model_data": 6906853}, "model": "odyssey:item/weapons/titanium_longsword"},
-
-    { "predicate": {"custom_model_data": 6907044}, "model": "odyssey:item/weapons/andonized_titanium_katana"},
-    { "predicate": {"custom_model_data": 6907045}, "model": "odyssey:item/weapons/andonized_titanium_claymore"},
-    { "predicate": {"custom_model_data": 6907046}, "model": "odyssey:item/weapons/andonized_titanium_dagger"},
-    { "predicate": {"custom_model_data": 6907047}, "model": "odyssey:item/weapons/andonized_titanium_rapier"},
-    { "predicate": {"custom_model_data": 6907048}, "model": "odyssey:item/weapons/andonized_titanium_cutlass"},
-    { "predicate": {"custom_model_data": 6907049}, "model": "odyssey:item/weapons/andonized_titanium_saber"},
-    { "predicate": {"custom_model_data": 6907050}, "model": "odyssey:item/weapons/andonized_titanium_sickle"},
-    { "predicate": {"custom_model_data": 6907051}, "model": "odyssey:item/weapons/andonized_titanium_chakram"},
-    { "predicate": {"custom_model_data": 6907052}, "model": "odyssey:item/weapons/andonized_titanium_kunai"},
-    { "predicate": {"custom_model_data": 6907053}, "model": "odyssey:item/weapons/andonized_titanium_longsword"},
-
-    { "predicate": {"custom_model_data": 6907144}, "model": "odyssey:item/weapons/iridium_katana"},
-    { "predicate": {"custom_model_data": 6907145}, "model": "odyssey:item/weapons/iridium_claymore"},
-    { "predicate": {"custom_model_data": 6907146}, "model": "odyssey:item/weapons/iridium_dagger"},
-    { "predicate": {"custom_model_data": 6907147}, "model": "odyssey:item/weapons/iridium_rapier"},
-    { "predicate": {"custom_model_data": 6907148}, "model": "odyssey:item/weapons/iridium_cutlass"},
-    { "predicate": {"custom_model_data": 6907149}, "model": "odyssey:item/weapons/iridium_saber"},
-    { "predicate": {"custom_model_data": 6907150}, "model": "odyssey:item/weapons/iridium_sickle"},
-    { "predicate": {"custom_model_data": 6907151}, "model": "odyssey:item/weapons/iridium_chakram"},
-    { "predicate": {"custom_model_data": 6907152}, "model": "odyssey:item/weapons/iridium_kunai"},
-    { "predicate": {"custom_model_data": 6907153}, "model": "odyssey:item/weapons/iridium_longsword"},
-
-    { "predicate": {"custom_model_data": 6907644}, "model": "odyssey:item/weapons/mithril_katana"},
-    { "predicate": {"custom_model_data": 6907645}, "model": "odyssey:item/weapons/mithril_claymore"},
-    { "predicate": {"custom_model_data": 6907646}, "model": "odyssey:item/weapons/mithril_dagger"},
-    { "predicate": {"custom_model_data": 6907647}, "model": "odyssey:item/weapons/mithril_rapier"},
-    { "predicate": {"custom_model_data": 6907648}, "model": "odyssey:item/weapons/mithril_cutlass"},
-    { "predicate": {"custom_model_data": 6907649}, "model": "odyssey:item/weapons/mithril_saber"},
-    { "predicate": {"custom_model_data": 6907650}, "model": "odyssey:item/weapons/mithril_sickle"},
-    { "predicate": {"custom_model_data": 6907651}, "model": "odyssey:item/weapons/mithril_chakram"},
-    { "predicate": {"custom_model_data": 6907652}, "model": "odyssey:item/weapons/mithril_kunai"},
-    { "predicate": {"custom_model_data": 6907653}, "model": "odyssey:item/weapons/mithril_longsword"}
+    {
+      "model": "odyssey:item/weapons/knight_breaker",
+      "predicate": {
+        "custom_model_data": 6909600
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/shogun_lightning",
+      "predicate": {
+        "custom_model_data": 6909601
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/abzu_blade",
+      "predicate": {
+        "custom_model_data": 6909602
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/excalibur",
+      "predicate": {
+        "custom_model_data": 6909603
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/frost_fang",
+      "predicate": {
+        "custom_model_data": 6909604
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/elucidator",
+      "predicate": {
+        "custom_model_data": 6909605
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/serenity_iris",
+      "predicate": {
+        "custom_model_data": 6909606
+      }
+    }
   ]
 }

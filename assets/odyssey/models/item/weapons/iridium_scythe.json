@@ -1,1 +1,7 @@
-{"parent": "odyssey:item/weapons/bases/scythe", "textures": {"0": "odyssey:item/weapons/scythe_texture_iridium", "particle": "odyssey:item/weapons/scythe_texture_iridium"}}
+{
+  "parent": "odyssey:item/weapons/bases/scythe",
+  "textures": {
+    "0": "odyssey:item/weapons/scythe_texture_iridium",
+    "particle": "odyssey:item/weapons/scythe_texture_iridium"
+  }
+}

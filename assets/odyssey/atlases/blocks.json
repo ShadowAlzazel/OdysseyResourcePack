@@ -18,7 +18,9 @@
         "odyssey:item/weapons/lance_texture",
         "odyssey:item/weapons/scythe_texture",
         "odyssey:item/weapons/kunai_texture",
-        "odyssey:item/weapons/longsword_texture"
+        "odyssey:item/weapons/longsword_texture",
+        "odyssey:item/weapons/poleaxe_texture",
+        "odyssey:item/weapons/shuriken_base"
       ],
       "palette_key": "odyssey:colormap/weapon_palettes/base_weapon_palette",
       "permutations": {
@@ -33,8 +35,24 @@
         "soul_steel": "odyssey:colormap/weapon_palettes/soul_steel",
         "titanium": "odyssey:colormap/weapon_palettes/titanium",
         "andonized_titanium": "odyssey:colormap/weapon_palettes/andonized_titanium",
-        "iridium":"odyssey:colormap/weapon_palettes/iridium",
-        "mithril":"odyssey:colormap/weapon_palettes/mithril"
+        "iridium": "odyssey:colormap/weapon_palettes/iridium",
+        "mithril": "odyssey:colormap/weapon_palettes/mithril"
+      }
+    },
+    {
+      "type": "paletted_permutations",
+      "textures": [
+        "odyssey:item/runic/sigils/assault_sigil",
+        "odyssey:item/runic/sigils/break_sigil",
+        "odyssey:item/runic/sigils/feather_sigil",
+        "odyssey:item/runic/sigils/guard_sigil",
+        "odyssey:item/runic/sigils/vitality_sigil"
+      ],
+      "palette_key": "odyssey:colormap/rune_palettes/base_map",
+      "permutations": {
+        "arcane": "odyssey:colormap/rune_palettes/arcane",
+        "diamond": "odyssey:colormap/rune_palettes/diamond",
+        "gilded": "odyssey:colormap/rune_palettes/gilded"
       }
     }
   ]

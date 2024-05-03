@@ -1,9 +1,14 @@
 {
-    "parent": "minecraft:item/handheld",
-    "textures": {
-      "layer0": "minecraft:item/netherite_pickaxe"
-    },
-    "overrides": [
-      { "predicate": {"custom_model_data": 6905711}, "model": "odyssey:item/weapons/netherite_warhammer"}
-    ]
-  }
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/netherite_pickaxe"
+  },
+  "overrides": [
+    {
+      "model": "odyssey:item/weapons/netherite_warhammer",
+      "predicate": {
+        "custom_model_data": 6905911
+      }
+    }
+  ]
+}

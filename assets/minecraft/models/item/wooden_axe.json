@@ -1,9 +1,20 @@
 {
-    "parent": "minecraft:item/handheld",
-    "textures": {
-      "layer0": "minecraft:item/wooden_axe"
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/wooden_axe"
+  },
+  "overrides": [
+    {
+      "model": "odyssey:item/weapons/wooden_longaxe",
+      "predicate": {
+        "custom_model_data": 6905185
+      }
     },
-    "overrides": [
-      { "predicate": {"custom_model_data": 6905785}, "model": "odyssey:item/weapons/wooden_longaxe"}
-    ]
-  }
+    {
+      "model": "odyssey:item/weapons/wooden_poleaxe",
+      "predicate": {
+        "custom_model_data": 6905186
+      }
+    }
+  ]
+}
