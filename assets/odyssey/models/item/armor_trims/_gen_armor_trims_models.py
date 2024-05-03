@@ -39,6 +39,7 @@ def create_armor_trim_files():
                 
 
 def write_armor_trim_file(mat: str, atyp: str, trim: str):
+    filename = f'{mat}_{atyp}_{trim}_trim.json'
     json_obj = {
         "parent": "minecraft:item/generated",
         "textures": {
@@ -48,14 +49,14 @@ def write_armor_trim_file(mat: str, atyp: str, trim: str):
     }
     text = json.dumps(json_obj, indent=2)
     # Write the text to opened file
-    #with open(filename, 'w') as file:
-    #    file.write(text)
+    with open(filename, 'w') as file:
+        file.write(text)
 
 # Main
 def main():
     # Prompt 
     print("Confirm Creation of New files? This will overwrite old files.")
-    print(f"Will Create {len(armor_type) * len(armor_material) * len(trims)} armor trim combinations.")
+    print(f"Will Create {len(armor_type) * len(armor_material) * len(trims)} armor trim files.")
     print("Proceed (y/n) . . .")
     answer = input()
     # Input
