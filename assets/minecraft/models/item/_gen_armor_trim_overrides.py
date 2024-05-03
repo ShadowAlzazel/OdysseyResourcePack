@@ -11,20 +11,20 @@ armor_type = [
     'chestplate', 'leggings', 'boots', 'helmet'
 ]
 trims = {
-    'alexandrite': 0.5501,
-    'andonizedtitanium': 0.5502, 
-    'iridium': 0.5503,
-    'jade': 0.5504, 
-    'jovianemerald': 0.5505,
-    'kunzite': 0.5506, 
-    'mithril': 0.5507, 
-    'neptuniandiamond': 0.5508,
-    'obsidian': 0.5509, 
-    'ruby': 0.5510,
-    'silver': 0.5511, 
-    'soulquartz': 0.5512,
-    'soulsteel': 0.5513, 
-    'titanium': 0.5514,
+    'alexandrite': 0.0001,
+    'andonizedtitanium': 0.0002, 
+    'iridium': 0.0003,
+    'jade': 0.0004, 
+    'jovianemerald': 0.0005,
+    'kunzite': 0.0006, 
+    'mithril': 0.0007, 
+    'neptuniandiamond': 0.0008,
+    'obsidian': 0.0009, 
+    'ruby': 0.0010,
+    'silver': 0.0011, 
+    'soulquartz': 0.0012,
+    'soulsteel': 0.0013, 
+    'titanium': 0.0014,
     
     "quartz": 0.1,
     "iron": 0.2,
@@ -45,23 +45,26 @@ minecraft_trims = [
 FILE_OBJS = {}
 
 # To Create Parent object file header
-def create_parent_file_obj(filename: str):
+def create_parent_file_obj(filename: str, has_overlay: bool = False):
     parent_obj = {
         "parent": "minecraft:item/handheld",
         "textures": {
             "layer0": f"minecraft:item/{filename}"
         },
         "overrides": []
-    }    
+    } 
+    if has_overlay:
+        parent_obj['textures']['layer1'] = f"minecraft:item/{filename}_overlay"
+       
     return parent_obj
 
 # Get parent file obg from global var or create new
-def get_or_create_file_obj(filename: str):
+def get_or_create_file_obj(filename: str, has_overlay: bool = False):
     global FILE_OBJS
     if filename in FILE_OBJS.keys():
         return FILE_OBJS[filename]
     else:
-        new_obj = create_parent_file_obj(filename)
+        new_obj = create_parent_file_obj(filename, has_overlay)
         FILE_OBJS[filename] = new_obj        
         return FILE_OBJS[filename]
 
@@ -71,8 +74,8 @@ def create_armor_trim_files():
         for j in range(len(armor_material)):
             for k in range(len(armor_type)):
                 mat = armor_material[j]
-                ttyp = armor_type[k]
-                write_to_global_obj(mat, ttyp, trim, i)
+                atyp = armor_type[k]
+                write_to_global_obj(mat, atyp, trim, i)
     # -----------------------------------------------------------------------    
     # Add All file obj after loop to now overwrite previous 
     for file_key in FILE_OBJS:
@@ -85,19 +88,21 @@ def create_armor_trim_files():
 
 
 # Seperate write function to 
-def write_to_global_obj(mat: str, ttyp: str, t: str, i: int):
+def write_to_global_obj(mat: str, atyp: str, t: str, i: int):
     global FILE_OBJS
-    filename = f'{mat}_{ttyp}'
-    file_obj = get_or_create_file_obj(filename)
+    filename = f'{mat}_{atyp}'
+    has_overlay = mat == "leather"
+    file_obj = get_or_create_file_obj(filename, has_overlay)
     trim = t
-    # Check if darker
-    if (trim == mat):
+    # Check for darker
+    gold_on_gold = mat == "golden" and t == "gold"
+    if (t == mat or gold_on_gold):
         trim = f'{t}_darker'
     # Create override to add
-    if (trim in minecraft_trims):
-        model = f"minecraft:item/{mat}_{ttyp}_{trim}_trim",
+    if (t in minecraft_trims):
+        model = f"minecraft:item/{mat}_{atyp}_{trim}_trim"
     else:
-        model = f"odyssey:item/armor_trims/{mat}_{ttyp}_{trim}_trim",
+        model = f"odyssey:item/armor_trims/{mat}_{atyp}_{trim}_trim"
     # Write to found file    
     override_obj = {
         "model": model,
