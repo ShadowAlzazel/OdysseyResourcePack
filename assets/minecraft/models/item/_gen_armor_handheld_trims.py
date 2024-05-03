@@ -37,8 +37,23 @@ trims = {
     "lapis": 0.9,
     "amethyst": 1.0,
 }
+minecraft_trims = [
+    "quartz", "iron", "netherite", "redstone", "copper",
+    "gold", "emerald", "diamond", "lapis", "amethyst"
+]
 
 FILE_OBJS = {}
+
+# To Create Parent object file header
+def create_parent_file_obj(filename: str):
+    parent_obj = {
+        "parent": "minecraft:item/handheld",
+        "textures": {
+            "layer0": f"minecraft:item/{filename}"
+        },
+        "overrides": []
+    }    
+    return parent_obj
 
 # Get parent file obg from global var or create new
 def get_or_create_file_obj(filename: str):
@@ -58,16 +73,34 @@ def create_armor_trim_files():
                 mat = armor_material[j]
                 ttyp = armor_type[k]
                 write_to_global_obj(mat, ttyp, trim, i)
+    # -----------------------------------------------------------------------    
+    # Add All file obj after loop to now overwrite previous 
+    for file_key in FILE_OBJS:
+        print(file_key)
+        text = json.dumps(FILE_OBJS[file_key], indent=2)
+        filename = f"{file_key}.json"
+        with open(filename, 'w') as file:
+            file.write(text)
+    print(f"Overwrote {len(FILE_OBJS)} files.")
 
 
 # Seperate write function to 
-def write_to_global_obj(mat: str, ttyp: str, trim: str, i: int):
+def write_to_global_obj(mat: str, ttyp: str, t: str, i: int):
     global FILE_OBJS
     filename = f'{mat}_{ttyp}'
     file_obj = get_or_create_file_obj(filename)
+    trim = t
+    # Check if darker
+    if (trim == mat):
+        trim = f'{t}_darker'
     # Create override to add
+    if (trim in minecraft_trims):
+        model = f"minecraft:item/{mat}_{ttyp}_{trim}_trim",
+    else:
+        model = f"odyssey:item/armor_trims/{mat}_{ttyp}_{trim}_trim",
+    # Write to found file    
     override_obj = {
-        "model": f"minecraft:item/iron_chestplate_quartz_trim",
+        "model": model,
         "predicate": {
             "trim_type": i
         }
