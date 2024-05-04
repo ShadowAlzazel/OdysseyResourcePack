@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapons/bases/longaxe",
+  "textures": {
+    "0": "odyssey:item/weapons/longaxe_texture_anodized_titanium",
+    "particle": "odyssey:item/weapons/longaxe_texture_anodized_titanium"
+  }
+}

@@ -53,13 +53,13 @@
       }
     },
     {
-      "model": "odyssey:item/weapons/andonized_titanium_longaxe",
+      "model": "odyssey:item/weapons/anodized_titanium_longaxe",
       "predicate": {
         "custom_model_data": 6907085
       }
     },
     {
-      "model": "odyssey:item/weapons/andonized_titanium_poleaxe",
+      "model": "odyssey:item/weapons/anodized_titanium_poleaxe",
       "predicate": {
         "custom_model_data": 6907086
       }

@@ -34,7 +34,7 @@ materials = [
     Material('silver', 69063, 'iron'),
     Material('soul_steel', 69066, 'iron'),
     Material('titanium', 69068, 'iron'),
-    Material('andonized_titanium', 69070, 'iron'),
+    Material('anodized_titanium', 69070, 'iron'),
     Material('iridium', 69071, 'iron'),
     Material('mithril', 69076, 'iron'),
 ]

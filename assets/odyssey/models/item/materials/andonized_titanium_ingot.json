@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "odyssey:item/materials/andonized_titanium_ingot"
+      "layer0": "odyssey:item/materials/anodized_titanium_ingot"
     }
   }

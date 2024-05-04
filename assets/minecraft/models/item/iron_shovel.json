@@ -77,19 +77,19 @@
       }
     },
     {
-      "model": "odyssey:item/weapons/andonized_titanium_spear",
+      "model": "odyssey:item/weapons/anodized_titanium_spear",
       "predicate": {
         "custom_model_data": 6907074
       }
     },
     {
-      "model": "odyssey:item/weapons/andonized_titanium_halberd",
+      "model": "odyssey:item/weapons/anodized_titanium_halberd",
       "predicate": {
         "custom_model_data": 6907075
       }
     },
     {
-      "model": "odyssey:item/weapons/andonized_titanium_lance",
+      "model": "odyssey:item/weapons/anodized_titanium_lance",
       "predicate": {
         "custom_model_data": 6907076
       }
