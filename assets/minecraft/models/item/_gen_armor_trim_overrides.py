@@ -12,7 +12,7 @@ armor_type = [
 ]
 trims = {
     'alexandrite': 0.0001,
-    'andonizedtitanium': 0.0002, 
+    'anodizedtitanium': 0.0002, 
     'iridium': 0.0003,
     'jade': 0.0004, 
     'jovianemerald': 0.0005,

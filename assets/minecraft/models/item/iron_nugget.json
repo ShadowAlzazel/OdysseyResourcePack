@@ -73,7 +73,7 @@
       }
     },
     {
-      "model": "odyssey:item/weapons/andonized_titanium_shuriken",
+      "model": "odyssey:item/weapons/anodized_titanium_shuriken",
       "predicate": {
         "custom_model_data": 6907001
       }

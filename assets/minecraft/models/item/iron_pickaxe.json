@@ -29,7 +29,7 @@
       }
     },
     {
-      "model": "odyssey:item/weapons/andonized_titanium_warhammer",
+      "model": "odyssey:item/weapons/anodized_titanium_warhammer",
       "predicate": {
         "custom_model_data": 6907011
       }

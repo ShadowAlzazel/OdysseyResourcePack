@@ -29,7 +29,7 @@
       }
     },
     {
-      "model": "odyssey:item/weapons/andonized_titanium_scythe",
+      "model": "odyssey:item/weapons/anodized_titanium_scythe",
       "predicate": {
         "custom_model_data": 6907092
       }

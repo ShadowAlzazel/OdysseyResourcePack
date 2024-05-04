@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/bases/shuriken",
   "textures": {
-    "layer0": "odyssey:item/weapons/shuriken_base_andonized_titanium"
+    "layer0": "odyssey:item/weapons/shuriken_base_anodized_titanium"
   }
 }

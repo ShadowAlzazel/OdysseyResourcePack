@@ -34,7 +34,7 @@
         "silver": "odyssey:colormap/weapon_palettes/silver",
         "soul_steel": "odyssey:colormap/weapon_palettes/soul_steel",
         "titanium": "odyssey:colormap/weapon_palettes/titanium",
-        "andonized_titanium": "odyssey:colormap/weapon_palettes/andonized_titanium",
+        "anodized_titanium": "odyssey:colormap/weapon_palettes/anodized_titanium",
         "iridium": "odyssey:colormap/weapon_palettes/iridium",
         "mithril": "odyssey:colormap/weapon_palettes/mithril"
       }
@@ -77,7 +77,7 @@
         "mithril": "odyssey:trims/color_palettes/mithril",
         "silver": "odyssey:trims/color_palettes/silver",
         "titanium": "odyssey:trims/color_palettes/titanium",
-        "andonizedtitanium": "odyssey:trims/color_palettes/andonizedtitanium",
+        "anodizedtitanium": "odyssey:trims/color_palettes/anodizedtitanium",
         "iridium": "odyssey:trims/color_palettes/iridium",
 
         "quartz": "trims/color_palettes/quartz",

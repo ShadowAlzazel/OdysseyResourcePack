@@ -1,7 +1,7 @@
 {
   "parent": "odyssey:item/weapons/bases/kunai",
   "textures": {
-    "0": "odyssey:item/weapons/kunai_texture_andonized_titanium",
-    "particle": "odyssey:item/weapons/kunai_texture_andonized_titanium"
+    "0": "odyssey:item/weapons/kunai_texture_anodized_titanium",
+    "particle": "odyssey:item/weapons/kunai_texture_anodized_titanium"
   }
 }

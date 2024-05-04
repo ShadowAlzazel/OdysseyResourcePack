@@ -11,7 +11,7 @@
       }
     },
     {
-      "model": "odyssey:item/armor_trims/chainmail_boots_andonizedtitanium_trim",
+      "model": "odyssey:item/armor_trims/chainmail_boots_anodizedtitanium_trim",
       "predicate": {
         "trim_type": 0.0002
       }

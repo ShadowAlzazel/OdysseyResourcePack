@@ -10,7 +10,7 @@
     { "predicate": {"custom_model_data": 6906878}, "model": "odyssey:item/materials/iridium_ingot"},
     { "predicate": {"custom_model_data": 6906879}, "model": "odyssey:item/materials/titanium_ingot"},
     { "predicate": {"custom_model_data": 6906880}, "model": "odyssey:item/materials/heated_titanium_ingot"},
-    { "predicate": {"custom_model_data": 6906881}, "model": "odyssey:item/materials/andonized_titanium_ingot"}
+    { "predicate": {"custom_model_data": 6906881}, "model": "odyssey:item/materials/anodized_titanium_ingot"}
   
   ]
 }

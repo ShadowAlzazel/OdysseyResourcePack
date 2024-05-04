@@ -12,7 +12,7 @@
       }
     },
     {
-      "model": "odyssey:item/armor_trims/leather_helmet_andonizedtitanium_trim",
+      "model": "odyssey:item/armor_trims/leather_helmet_anodizedtitanium_trim",
       "predicate": {
         "trim_type": 0.0002
       }

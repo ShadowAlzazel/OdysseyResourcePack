@@ -15,7 +15,7 @@ tool_types = [
     'poleaxe', 'shuriken']
 materials = [
     'wooden', 'golden', 'stone', 'iron', 'diamond', 'netherite',
-    'copper', 'silver', 'soul_steel', 'titanium', 'andonized_titanium', 'iridium', 'mithril']
+    'copper', 'silver', 'soul_steel', 'titanium', 'anodized_titanium', 'iridium', 'mithril']
 
 other_tools = ['shuriken']
 
