@@ -4,13 +4,16 @@
     "layer0": "minecraft:item/enchanted_book"
   },
   "overrides": [
+    { "predicate": {"custom_model_data": 6905501}, "model": "odyssey:item/arcane/arcane_book"},
+    { "predicate": {"custom_model_data": 6905502}, "model": "odyssey:item/arcane/gilded_book"},
+    { "predicate": {"custom_model_data": 6905503}, "model": "odyssey:item/arcane/prismatic_book"},
+
     { "predicate": {"custom_model_data": 6905520}, "model": "odyssey:item/arcane/volume_of_blunting"},
     { "predicate": {"custom_model_data": 6905521}, "model": "odyssey:item/arcane/volume_of_cleaving"},
     { "predicate": {"custom_model_data": 6905522}, "model": "odyssey:item/arcane/volume_of_poking"},
     { "predicate": {"custom_model_data": 6905523}, "model": "odyssey:item/arcane/volume_of_slashing"},
     { "predicate": {"custom_model_data": 6905524}, "model": "odyssey:item/arcane/volume_of_tilling"},
 
-    { "predicate": {"custom_model_data": 6906066}, "model": "odyssey:item/arcane/gilded_book"},
 
     { "predicate": {"custom_model_data": 6906067}, "model": "odyssey:item/arcane/tome_of_discharge"},
     { "predicate": {"custom_model_data": 6906068}, "model": "odyssey:item/arcane/tome_of_promotion"},

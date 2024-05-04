@@ -44,7 +44,7 @@ def write_armor_trim_file(mat: str, atyp: str, trim: str):
         "parent": "minecraft:item/generated",
         "textures": {
             "layer0": f"minecraft:item/{mat}_{atyp}",
-            "layer1": f"minecraft:trims/items/chestplate_trim_{trim}",
+            "layer1": f"minecraft:trims/items/{atyp}_trim_{trim}",
         }
     }
     text = json.dumps(json_obj, indent=2)
