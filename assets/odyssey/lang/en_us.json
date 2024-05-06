@@ -114,8 +114,10 @@
     "odyssey.music_disc.gilded.desc": "T_en_M - Gilded",
 
     "painting.odyssey.mesa_prime.title": "Mesa Prime",
-    "painting.odyssey.mesa_prime.author": "ShadowAlzazel",
+    "painting.odyssey.mesa_prime.author": "Morgan A. Neils",
 
     "subtitles.gilded_records": "Gilded Plays",
-    "subtitles.far_lands_music": "Far Land Plays"
+    "subtitles.far_lands_music": "Far Land Plays",
+
+    "trim_pattern.odyssey.imperial": "Imperial Armor Trim"
 }
