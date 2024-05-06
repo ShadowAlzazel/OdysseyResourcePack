@@ -22,7 +22,6 @@
     "enchantment.odyssey.blurcise": "Blurcise",
     "enchantment.odyssey.brawler": "Brawler",
     "enchantment.odyssey.brewful_breath": "Brewful Breath",
-    "enchantment.odyssey.chitin": "Chitin",
     "enchantment.odyssey.cowardice": "Cowardice",
     "enchantment.odyssey.devastating_drop": "Devastating Drop",
     "enchantment.odyssey.dreadful_shriek": "Dreadful Shriek",
@@ -32,7 +31,6 @@
     "enchantment.odyssey.leapfrog": "Leap Frog",
     "enchantment.odyssey.mandiblemania": "Mandiblemania",
     "enchantment.odyssey.molten_core": "Molten Core",
-    "enchantment.odyssey.moonpatch": "Moonpatch",
     "enchantment.odyssey.opticalization": "Opticalization",
     "enchantment.odyssey.pollen_guard": "Pollen Guard",
     "enchantment.odyssey.potion_barrier": "Potion Barrier",
@@ -108,9 +106,15 @@
     "enchantment.odyssey.temporal": "Temporal",
     "enchantment.odyssey.vulnerocity": "Vulnerocity",
   
+    "enchantment.odyssey.chitin": "Chitin",
+    "enchantment.odyssey.moonpatch": "Moonpatch",
+
     "entity.yippee": "yippee",  
 
     "odyssey.music_disc.gilded.desc": "T_en_M - Gilded",
+
+    "painting.odyssey.mesa_prime.title": "Mesa Prime",
+    "painting.odyssey.mesa_prime.author": "ShadowAlzazel",
 
     "subtitles.gilded_records": "Gilded Plays",
     "subtitles.far_lands_music": "Far Land Plays"
