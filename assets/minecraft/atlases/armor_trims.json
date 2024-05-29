@@ -5,6 +5,10 @@
       "textures": [
         "odyssey:trims/models/armor/alpine",
         "odyssey:trims/models/armor/alpine_leggings",
+        "odyssey:trims/models/armor/imperial",
+        "odyssey:trims/models/armor/imperial_leggings",
+        "odyssey:trims/models/armor/leaf",
+        "odyssey:trims/models/armor/leaf_leggings",
         "trims/models/armor/coast",
         "trims/models/armor/coast_leggings",
         "trims/models/armor/sentry",

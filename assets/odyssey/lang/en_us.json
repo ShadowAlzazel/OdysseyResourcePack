@@ -22,7 +22,7 @@
     "enchantment.odyssey.blurcise": "Blurcise",
     "enchantment.odyssey.brawler": "Brawler",
     "enchantment.odyssey.brewful_breath": "Brewful Breath",
-    "enchantment.odyssey.chitin": "Chitin",
+    "enchantment.odyssey.claw_climbing": "Claw Climbing",
     "enchantment.odyssey.cowardice": "Cowardice",
     "enchantment.odyssey.devastating_drop": "Devastating Drop",
     "enchantment.odyssey.dreadful_shriek": "Dreadful Shriek",
@@ -32,7 +32,6 @@
     "enchantment.odyssey.leapfrog": "Leap Frog",
     "enchantment.odyssey.mandiblemania": "Mandiblemania",
     "enchantment.odyssey.molten_core": "Molten Core",
-    "enchantment.odyssey.moonpatch": "Moonpatch",
     "enchantment.odyssey.opticalization": "Opticalization",
     "enchantment.odyssey.pollen_guard": "Pollen Guard",
     "enchantment.odyssey.potion_barrier": "Potion Barrier",
@@ -56,11 +55,12 @@
     "enchantment.odyssey.asphyxiate": "Asphyxiate",
     "enchantment.odyssey.backstabber": "Backstabber",
     "enchantment.odyssey.bane_of_the_illager": "Bane of the Illager",
-    "enchantment.odyssey.bane_of_the_sea": "Bane of the Sea",
+    "enchantment.odyssey.bane_of_the_sea": "Bane of the Sea", 
     "enchantment.odyssey.bane_of_the_swine": "Bane of the Swine",
     "enchantment.odyssey.blitz_shift": "Blitz Shift",
     "enchantment.odyssey.buzzy_bees": "Buzzy Bees",
     "enchantment.odyssey.budding": "Budding",
+    "enchantment.odyssey.cleave": "Cleave",
     "enchantment.odyssey.committed": "Committed",
     "enchantment.odyssey.cull_the_weak": "Cull the Weak",
     "enchantment.odyssey.decaying_touch": "Decaying Touch",
@@ -71,6 +71,7 @@
     "enchantment.odyssey.freezing_aspect": "Freezing Aspect",
     "enchantment.odyssey.frog_fright": "Frog Fright",
     "enchantment.odyssey.frosty_fuse": "Frosty Fuse",
+    "enchantment.odyssey.grasp": "Grasp",
     "enchantment.odyssey.gravity_well": "Gravity Well",
     "enchantment.odyssey.guarding_strike": "Guarding Strike",
     "enchantment.odyssey.gust": "Gust",
@@ -108,10 +109,19 @@
     "enchantment.odyssey.temporal": "Temporal",
     "enchantment.odyssey.vulnerocity": "Vulnerocity",
   
+    "enchantment.odyssey.encumbering_curse": "Curse of Encumbering",
+    "enchantment.odyssey.chitin": "Chitin",
+    "enchantment.odyssey.moonpatch": "Moonpatch",
+
     "entity.yippee": "yippee",  
 
-    "odyssey.music_disc.gilded.desc": "T_en_M - Gilded",
+    "jukebox_song.odyssey.gilded": "T_en_M - Gilded",
+    "odyssey.music_disc.gilded.desc": "Gilded plays",
 
-    "subtitles.gilded_records": "Gilded Plays",
-    "subtitles.far_lands_music": "Far Land Plays"
+    "painting.odyssey.mesa_prime.title": "Mesa Prime",
+    "painting.odyssey.mesa_prime.author": "Morgan A. Neils",
+
+    "trim_pattern.odyssey.alpine": "Alpine Armor Trim",
+    "trim_pattern.odyssey.imperial": "Imperial Armor Trim",
+    "trim_pattern.odyssey.leaf": "Leaf Armor Trim"
 }
