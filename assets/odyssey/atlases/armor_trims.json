@@ -6,7 +6,9 @@
         "odyssey:trims/models/armor/alpine",
         "odyssey:trims/models/armor/alpine_leggings",
         "odyssey:trims/models/armor/imperial",
-        "odyssey:trims/models/armor/imperial_leggings"
+        "odyssey:trims/models/armor/imperial_leggings",
+        "odyssey:trims/models/armor/leaf",
+        "odyssey:trims/models/armor/leaf_leggings"
       ],
       "palette_key": "odyssey:trims/color_palettes/trim_palette",
       "permutations": {
