@@ -4,6 +4,10 @@
     "layer0": "minecraft:item/paper"
   },
   "overrides": [
-      { "predicate": {"custom_model_data": 6906649}, "model": "odyssey:item/misc/enigmatic_omamori"}
+    
+    { "predicate": {"custom_model_data": 6906502}, "model": "odyssey:item/misc/soul_steel_upgrade_template"},
+    { "predicate": {"custom_model_data": 6906503}, "model": "odyssey:item/misc/imperial_armor_trim_smithing_template"},
+    
+    { "predicate": {"custom_model_data": 6906649}, "model": "odyssey:item/misc/enigmatic_omamori"}
   ]
 }

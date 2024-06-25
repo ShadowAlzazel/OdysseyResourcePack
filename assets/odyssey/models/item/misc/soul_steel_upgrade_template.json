@@ -1,6 +1,6 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-      "layer0": "odyssey:item/misc/soul_steel_upgrade_template"
-    }
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "odyssey:item/misc/soul_steel_upgrade_template"
   }
+}
