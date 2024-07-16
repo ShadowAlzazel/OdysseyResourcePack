@@ -11,9 +11,21 @@
       }
     },
     {
+      "model": "odyssey:item/equipment/silver_hoe",
+      "predicate": {
+        "custom_model_data": 6906309
+      }
+    },
+    {
       "model": "odyssey:item/weapons/silver_scythe",
       "predicate": {
         "custom_model_data": 6906392
+      }
+    },
+    {
+      "model": "odyssey:item/equipment/soul_steel_hoe",
+      "predicate": {
+        "custom_model_data": 6906609
       }
     },
     {
@@ -23,9 +35,21 @@
       }
     },
     {
+      "model": "odyssey:item/equipment/titanium_hoe",
+      "predicate": {
+        "custom_model_data": 6906809
+      }
+    },
+    {
       "model": "odyssey:item/weapons/titanium_scythe",
       "predicate": {
         "custom_model_data": 6906892
+      }
+    },
+    {
+      "model": "odyssey:item/equipment/anodized_titanium_hoe",
+      "predicate": {
+        "custom_model_data": 6907009
       }
     },
     {
@@ -35,9 +59,21 @@
       }
     },
     {
+      "model": "odyssey:item/equipment/iridium_hoe",
+      "predicate": {
+        "custom_model_data": 6907109
+      }
+    },
+    {
       "model": "odyssey:item/weapons/iridium_scythe",
       "predicate": {
         "custom_model_data": 6907192
+      }
+    },
+    {
+      "model": "odyssey:item/equipment/mithril_hoe",
+      "predicate": {
+        "custom_model_data": 6907609
       }
     },
     {

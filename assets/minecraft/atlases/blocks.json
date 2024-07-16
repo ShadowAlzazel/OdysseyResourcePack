@@ -20,7 +20,13 @@
         "odyssey:item/weapons/kunai_texture",
         "odyssey:item/weapons/longsword_texture",
         "odyssey:item/weapons/poleaxe_texture",
-        "odyssey:item/weapons/shuriken_base"
+        "odyssey:item/weapons/shuriken_base",
+
+        "odyssey:item/equipment/base_sword",
+        "odyssey:item/equipment/base_pickaxe",
+        "odyssey:item/equipment/base_axe",
+        "odyssey:item/equipment/base_shovel",
+        "odyssey:item/equipment/base_hoe"
       ],
       "palette_key": "odyssey:colormap/weapon_palettes/base_weapon_palette",
       "permutations": {
@@ -43,16 +49,26 @@
       "type": "paletted_permutations",
       "textures": [
         "odyssey:item/runic/sigils/assault_sigil",
-        "odyssey:item/runic/sigils/break_sigil",
-        "odyssey:item/runic/sigils/feather_sigil",
         "odyssey:item/runic/sigils/guard_sigil",
-        "odyssey:item/runic/sigils/vitality_sigil"
+        "odyssey:item/runic/sigils/finesse_sigil",
+        "odyssey:item/runic/sigils/swift_sigil",
+        "odyssey:item/runic/sigils/vitality_sigil",
+        "odyssey:item/runic/sigils/steadfast_sigil",
+        "odyssey:item/runic/sigils/force_sigil",
+        "odyssey:item/runic/sigils/break_sigil",
+        "odyssey:item/runic/sigils/grasp_sigil",
+        "odyssey:item/runic/sigils/jump_sigil",
+        "odyssey:item/runic/sigils/gravity_sigil",
+        "odyssey:item/runic/sigils/range_sigil",
+        "odyssey:item/runic/sigils/size_sigil"
       ],
       "palette_key": "odyssey:colormap/rune_palettes/base_map",
       "permutations": {
         "arcane": "odyssey:colormap/rune_palettes/arcane",
         "diamond": "odyssey:colormap/rune_palettes/diamond",
-        "gilded": "odyssey:colormap/rune_palettes/gilded"
+        "gilded": "odyssey:colormap/rune_palettes/gilded",
+        "silver": "odyssey:colormap/rune_palettes/silver",
+        "mithril": "odyssey:colormap/rune_palettes/mithril"
       }
     },
     {

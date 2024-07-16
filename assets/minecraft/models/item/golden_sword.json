@@ -65,6 +65,12 @@
       }
     },
     {
+      "model": "odyssey:item/equipment/copper_sword",
+      "predicate": {
+        "custom_model_data": 6905505
+      }
+    },
+    {
       "model": "odyssey:item/weapons/copper_katana",
       "predicate": {
         "custom_model_data": 6905544

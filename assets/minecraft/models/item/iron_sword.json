@@ -65,6 +65,12 @@
       }
     },
     {
+      "model": "odyssey:item/equipment/silver_sword",
+      "predicate": {
+        "custom_model_data": 6906305
+      }
+    },
+    {
       "model": "odyssey:item/weapons/silver_katana",
       "predicate": {
         "custom_model_data": 6906344
@@ -122,6 +128,12 @@
       "model": "odyssey:item/weapons/silver_longsword",
       "predicate": {
         "custom_model_data": 6906353
+      }
+    },
+    {
+      "model": "odyssey:item/equipment/soul_steel_sword",
+      "predicate": {
+        "custom_model_data": 6906605
       }
     },
     {
@@ -185,6 +197,12 @@
       }
     },
     {
+      "model": "odyssey:item/equipment/titanium_sword",
+      "predicate": {
+        "custom_model_data": 6906805
+      }
+    },
+    {
       "model": "odyssey:item/weapons/titanium_katana",
       "predicate": {
         "custom_model_data": 6906844
@@ -242,6 +260,12 @@
       "model": "odyssey:item/weapons/titanium_longsword",
       "predicate": {
         "custom_model_data": 6906853
+      }
+    },
+    {
+      "model": "odyssey:item/equipment/anodized_titanium_sword",
+      "predicate": {
+        "custom_model_data": 6907005
       }
     },
     {
@@ -305,6 +329,12 @@
       }
     },
     {
+      "model": "odyssey:item/equipment/iridium_sword",
+      "predicate": {
+        "custom_model_data": 6907105
+      }
+    },
+    {
       "model": "odyssey:item/weapons/iridium_katana",
       "predicate": {
         "custom_model_data": 6907144
@@ -362,6 +392,12 @@
       "model": "odyssey:item/weapons/iridium_longsword",
       "predicate": {
         "custom_model_data": 6907153
+      }
+    },
+    {
+      "model": "odyssey:item/equipment/mithril_sword",
+      "predicate": {
+        "custom_model_data": 6907605
       }
     },
     {
@@ -424,7 +460,7 @@
         "custom_model_data": 6907653
       }
     },
-
+    
     {
       "model": "odyssey:item/weapons/knight_breaker",
       "predicate": {

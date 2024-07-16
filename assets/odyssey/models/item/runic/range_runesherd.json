@@ -1,6 +1,7 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-      "layer0": "odyssey:item/runic/range_runesherd"
-    }
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "odyssey:item/runic/blanks/blank_runesherd",
+    "layer1": "odyssey:item/runic/sigils/range_sigil_diamond"
   }
+}

@@ -4,6 +4,20 @@
       "layer0": "minecraft:item/clay_ball"
     },
     "overrides": [
+      { "predicate": {"custom_model_data": 6901453}, "model": "odyssey:item/runic/assault_runepeice"},
+      { "predicate": {"custom_model_data": 6901454}, "model": "odyssey:item/runic/guard_runepeice"},
+      { "predicate": {"custom_model_data": 6901455}, "model": "odyssey:item/runic/finesse_runepeice"},
+      { "predicate": {"custom_model_data": 6901456}, "model": "odyssey:item/runic/swift_runepeice"},
+      { "predicate": {"custom_model_data": 6901457}, "model": "odyssey:item/runic/vitality_runepeice"},
+      { "predicate": {"custom_model_data": 6901458}, "model": "odyssey:item/runic/steadfast_runepeice"},
+      { "predicate": {"custom_model_data": 6901459}, "model": "odyssey:item/runic/force_runepeice"},
+      { "predicate": {"custom_model_data": 6901460}, "model": "odyssey:item/runic/break_runepeice"},
+      { "predicate": {"custom_model_data": 6901461}, "model": "odyssey:item/runic/grasp_runepeice"},
+      { "predicate": {"custom_model_data": 6901462}, "model": "odyssey:item/runic/jump_runepeice"},
+      { "predicate": {"custom_model_data": 6901463}, "model": "odyssey:item/runic/gravity_runepeice"},
+      { "predicate": {"custom_model_data": 6901464}, "model": "odyssey:item/runic/range_runepeice"},
+      { "predicate": {"custom_model_data": 6901465}, "model": "odyssey:item/runic/size_runepeice"},
+
       { "predicate": {"custom_model_data": 6901544}, "model": "odyssey:item/runic/fragmented_orb"},
       { "predicate": {"custom_model_data": 6901545}, "model": "odyssey:item/runic/clay_totem"},
       { "predicate": {"custom_model_data": 6901546}, "model": "odyssey:item/runic/clay_skull"},

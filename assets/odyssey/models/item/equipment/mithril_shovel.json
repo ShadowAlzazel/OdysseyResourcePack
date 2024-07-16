@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/equipment/bases/shovel",
+  "textures": {
+    "layer0": "odyssey:item/equipment/base_shovel_mithril"
+  }
+}

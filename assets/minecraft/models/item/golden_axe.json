@@ -17,6 +17,12 @@
       }
     },
     {
+      "model": "odyssey:item/equipment/copper_axe",
+      "predicate": {
+        "custom_model_data": 6905507
+      }
+    },
+    {
       "model": "odyssey:item/weapons/copper_longaxe",
       "predicate": {
         "custom_model_data": 6905585

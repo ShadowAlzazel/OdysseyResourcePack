@@ -11,6 +11,12 @@
       }
     },
     {
+      "model": "odyssey:item/equipment/copper_pickaxe",
+      "predicate": {
+        "custom_model_data": 6905506
+      }
+    },
+    {
       "model": "odyssey:item/weapons/copper_warhammer",
       "predicate": {
         "custom_model_data": 6905511

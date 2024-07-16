@@ -14,7 +14,7 @@
       { "predicate": {"custom_model_data": 6901458}, "model": "odyssey:item/runic/steadfast_runesherd"},
       { "predicate": {"custom_model_data": 6901459}, "model": "odyssey:item/runic/force_runesherd"},
       { "predicate": {"custom_model_data": 6901460}, "model": "odyssey:item/runic/break_runesherd"},
-      { "predicate": {"custom_model_data": 6901461}, "model": "odyssey:item/runic/breach_runesherd"},
+      { "predicate": {"custom_model_data": 6901461}, "model": "odyssey:item/runic/grasp_runesherd"},
       { "predicate": {"custom_model_data": 6901462}, "model": "odyssey:item/runic/jump_runesherd"},
       { "predicate": {"custom_model_data": 6901463}, "model": "odyssey:item/runic/gravity_runesherd"},
       { "predicate": {"custom_model_data": 6901464}, "model": "odyssey:item/runic/range_runesherd"},

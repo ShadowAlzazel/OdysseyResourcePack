@@ -23,6 +23,12 @@
       }
     },
     {
+      "model": "odyssey:item/equipment/silver_shovel",
+      "predicate": {
+        "custom_model_data": 6906308
+      }
+    },
+    {
       "model": "odyssey:item/weapons/silver_spear",
       "predicate": {
         "custom_model_data": 6906374
@@ -38,6 +44,12 @@
       "model": "odyssey:item/weapons/silver_lance",
       "predicate": {
         "custom_model_data": 6906376
+      }
+    },
+    {
+      "model": "odyssey:item/equipment/soul_steel_shovel",
+      "predicate": {
+        "custom_model_data": 6906608
       }
     },
     {
@@ -59,6 +71,12 @@
       }
     },
     {
+      "model": "odyssey:item/equipment/titanium_shovel",
+      "predicate": {
+        "custom_model_data": 6906808
+      }
+    },
+    {
       "model": "odyssey:item/weapons/titanium_spear",
       "predicate": {
         "custom_model_data": 6906874
@@ -74,6 +92,12 @@
       "model": "odyssey:item/weapons/titanium_lance",
       "predicate": {
         "custom_model_data": 6906876
+      }
+    },
+    {
+      "model": "odyssey:item/equipment/anodized_titanium_shovel",
+      "predicate": {
+        "custom_model_data": 6907008
       }
     },
     {
@@ -95,6 +119,12 @@
       }
     },
     {
+      "model": "odyssey:item/equipment/iridium_shovel",
+      "predicate": {
+        "custom_model_data": 6907108
+      }
+    },
+    {
       "model": "odyssey:item/weapons/iridium_spear",
       "predicate": {
         "custom_model_data": 6907174
@@ -110,6 +140,12 @@
       "model": "odyssey:item/weapons/iridium_lance",
       "predicate": {
         "custom_model_data": 6907176
+      }
+    },
+    {
+      "model": "odyssey:item/equipment/mithril_shovel",
+      "predicate": {
+        "custom_model_data": 6907608
       }
     },
     {

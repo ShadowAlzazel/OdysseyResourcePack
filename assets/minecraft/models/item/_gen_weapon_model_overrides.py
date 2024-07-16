@@ -42,6 +42,12 @@ materials = [
 tool_types = [
     # Other
     ToolType('shuriken', 1, 'iron_nugget'),
+    # Vanilla Base
+    ToolType('sword', 5, 'sword'),
+    ToolType('pickaxe', 6, 'pickaxe'),
+    ToolType('axe', 7, 'axe'),
+    ToolType('shovel', 8, 'shovel'),
+    ToolType('hoe', 9, 'hoe'),
     # Swords
     ToolType('katana', 44, 'sword'),
     ToolType('claymore', 45, 'sword'),
@@ -108,14 +114,22 @@ def create_model_files():
                 custom_model = (mat.item_model_pre * 100) + (ttyp.item_model_suf)
                 filename = ttyp.item_override_suf
                 file_obj = get_or_create_file_obj(filename)
+            # Odyssey Tools
             else:
                 custom_model = (mat.item_model_pre * 100) + (ttyp.item_model_suf)
                 filename = f'{mat.item_override_pre}_{ttyp.item_override_suf}'
+                # If base name matches file name skip as it is vanilla tool
+                if item_name == filename:
+                    continue
                 file_obj = get_or_create_file_obj(filename)
             # -----------------------------------------------------------------------
+            # Set Folder name space
+            item_space = "weapons"
+            if ttyp.name == ttyp.item_override_suf:
+                item_space = "equipment"
             # Create override to add
             override_obj = {
-                "model": f"odyssey:item/weapons/{item_name}",
+                "model": f"odyssey:item/{item_space}/{item_name}",
                 "predicate": {
                     "custom_model_data": custom_model
                 }

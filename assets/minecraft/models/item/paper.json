@@ -5,8 +5,25 @@
   },
   "overrides": [
     
+    { "predicate": {"custom_model_data": 6901453}, "model": "odyssey:item/runic/assault_greater_runesherd"},
+    { "predicate": {"custom_model_data": 6901454}, "model": "odyssey:item/runic/guard_greater_runesherd"},
+    { "predicate": {"custom_model_data": 6901455}, "model": "odyssey:item/runic/finesse_greater_runesherd"},
+    { "predicate": {"custom_model_data": 6901456}, "model": "odyssey:item/runic/swift_greater_runesherd"},
+    { "predicate": {"custom_model_data": 6901457}, "model": "odyssey:item/runic/vitality_greater_runesherd"},
+    { "predicate": {"custom_model_data": 6901458}, "model": "odyssey:item/runic/steadfast_greater_runesherd"},
+    { "predicate": {"custom_model_data": 6901459}, "model": "odyssey:item/runic/force_greater_runesherd"},
+    { "predicate": {"custom_model_data": 6901460}, "model": "odyssey:item/runic/break_greater_runesherd"},
+    { "predicate": {"custom_model_data": 6901461}, "model": "odyssey:item/runic/grasp_greater_runesherd"},
+    { "predicate": {"custom_model_data": 6901462}, "model": "odyssey:item/runic/jump_greater_runesherd"},
+    { "predicate": {"custom_model_data": 6901463}, "model": "odyssey:item/runic/gravity_greater_runesherd"},
+    { "predicate": {"custom_model_data": 6901464}, "model": "odyssey:item/runic/range_greater_runesherd"},
+    { "predicate": {"custom_model_data": 6901465}, "model": "odyssey:item/runic/size_greater_runesherd"},
+
     { "predicate": {"custom_model_data": 6906502}, "model": "odyssey:item/misc/soul_steel_upgrade_template"},
     { "predicate": {"custom_model_data": 6906503}, "model": "odyssey:item/misc/imperial_armor_trim_smithing_template"},
+    { "predicate": {"custom_model_data": 6906504}, "model": "odyssey:item/misc/titanium_upgrade_template"},
+    { "predicate": {"custom_model_data": 6906505}, "model": "odyssey:item/misc/iridium_upgrade_template"},
+    { "predicate": {"custom_model_data": 6906506}, "model": "odyssey:item/misc/mithril_upgrade_template"},
     
     { "predicate": {"custom_model_data": 6906649}, "model": "odyssey:item/misc/enigmatic_omamori"}
   ]
