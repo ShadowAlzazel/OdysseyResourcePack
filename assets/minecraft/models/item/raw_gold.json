@@ -4,6 +4,7 @@
       "layer0": "minecraft:item/raw_gold"
     },
     "overrides": [
-      { "predicate": {"custom_model_data": 3002201}, "model": "odyssey:item/misc/www_trophy_1"}
+      { "predicate": {"custom_model_data": 3002201}, "model": "odyssey:item/misc/www_trophy_1"},
+      { "predicate": {"custom_model_data": 3002202}, "model": "odyssey:item/misc/bbb1_trophy"}
     ]
   }

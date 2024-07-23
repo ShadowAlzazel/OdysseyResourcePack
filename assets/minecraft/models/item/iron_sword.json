@@ -502,6 +502,12 @@
       "predicate": {
         "custom_model_data": 6909606
       }
+    },
+    {
+      "model": "odyssey:item/weapons/the_dragon_slayer",
+      "predicate": {
+        "custom_model_data": 6909607
+      }
     }
   ]
 }
