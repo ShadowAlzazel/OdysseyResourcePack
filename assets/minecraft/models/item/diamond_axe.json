@@ -15,6 +15,12 @@
       "predicate": {
         "custom_model_data": 6905886
       }
+    },
+    {
+      "model": "odyssey:item/weapons/diamond_glaive",
+      "predicate": {
+        "custom_model_data": 6905887
+      }
     }
   ]
 }

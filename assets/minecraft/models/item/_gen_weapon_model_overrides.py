@@ -66,6 +66,7 @@ tool_types = [
     # Axe
     ToolType('longaxe', 85, 'axe'),
     ToolType('poleaxe', 86, 'axe'),
+    ToolType('glaive', 87, 'axe'),
     # Pickaxe
     ToolType('warhammer', 11, 'pickaxe'),
     # Hoe

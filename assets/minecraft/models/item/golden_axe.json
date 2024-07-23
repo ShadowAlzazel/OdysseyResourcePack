@@ -17,6 +17,12 @@
       }
     },
     {
+      "model": "odyssey:item/weapons/golden_glaive",
+      "predicate": {
+        "custom_model_data": 6905287
+      }
+    },
+    {
       "model": "odyssey:item/equipment/copper_axe",
       "predicate": {
         "custom_model_data": 6905507
@@ -32,6 +38,12 @@
       "model": "odyssey:item/weapons/copper_poleaxe",
       "predicate": {
         "custom_model_data": 6905586
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/copper_glaive",
+      "predicate": {
+        "custom_model_data": 6905587
       }
     }
   ]

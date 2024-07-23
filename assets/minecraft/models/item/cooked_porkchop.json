@@ -4,6 +4,7 @@
     "layer0": "minecraft:item/cooked_porkchop"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6908055}, "model": "odyssey:item/foods/shoyu_ramen"}
+    { "predicate": {"custom_model_data": 6908052}, "model": "odyssey:item/foods/bacon"},
+    { "predicate": {"custom_model_data": 6908062}, "model": "odyssey:item/foods/shoyu_ramen"}
   ]
 }

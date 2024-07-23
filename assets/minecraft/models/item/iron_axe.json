@@ -17,6 +17,12 @@
       }
     },
     {
+      "model": "odyssey:item/weapons/iron_glaive",
+      "predicate": {
+        "custom_model_data": 6905787
+      }
+    },
+    {
       "model": "odyssey:item/equipment/silver_axe",
       "predicate": {
         "custom_model_data": 6906307
@@ -32,6 +38,12 @@
       "model": "odyssey:item/weapons/silver_poleaxe",
       "predicate": {
         "custom_model_data": 6906386
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/silver_glaive",
+      "predicate": {
+        "custom_model_data": 6906387
       }
     },
     {
@@ -53,6 +65,12 @@
       }
     },
     {
+      "model": "odyssey:item/weapons/soul_steel_glaive",
+      "predicate": {
+        "custom_model_data": 6906687
+      }
+    },
+    {
       "model": "odyssey:item/equipment/titanium_axe",
       "predicate": {
         "custom_model_data": 6906807
@@ -68,6 +86,12 @@
       "model": "odyssey:item/weapons/titanium_poleaxe",
       "predicate": {
         "custom_model_data": 6906886
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/titanium_glaive",
+      "predicate": {
+        "custom_model_data": 6906887
       }
     },
     {
@@ -89,6 +113,12 @@
       }
     },
     {
+      "model": "odyssey:item/weapons/anodized_titanium_glaive",
+      "predicate": {
+        "custom_model_data": 6907087
+      }
+    },
+    {
       "model": "odyssey:item/equipment/iridium_axe",
       "predicate": {
         "custom_model_data": 6907107
@@ -107,6 +137,12 @@
       }
     },
     {
+      "model": "odyssey:item/weapons/iridium_glaive",
+      "predicate": {
+        "custom_model_data": 6907187
+      }
+    },
+    {
       "model": "odyssey:item/equipment/mithril_axe",
       "predicate": {
         "custom_model_data": 6907607
@@ -122,6 +158,12 @@
       "model": "odyssey:item/weapons/mithril_poleaxe",
       "predicate": {
         "custom_model_data": 6907686
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/mithril_glaive",
+      "predicate": {
+        "custom_model_data": 6907687
       }
     }
   ]

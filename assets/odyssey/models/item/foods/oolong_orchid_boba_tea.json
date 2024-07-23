@@ -1,6 +1,7 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "odyssey:item/foods/chorus_fruit_cookie"
+      "layer0": "odyssey:item/foods/oolong_orchid_boba_tea"
     }
   }
+  

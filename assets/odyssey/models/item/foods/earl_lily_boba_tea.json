@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "odyssey:item/foods/apple_cookie"
+    "layer0": "odyssey:item/foods/earl_lily_boba_tea"
   }
 }

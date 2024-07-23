@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "odyssey:item/foods/sugary_bread"
+    "layer0": "odyssey:item/foods/french_toast"
   }
-}   
+}
