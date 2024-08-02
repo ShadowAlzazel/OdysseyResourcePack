@@ -3,7 +3,5 @@
   "textures": {
     "layer0": "minecraft:item/written_book"
   },
-  "overrides": [
-    { "predicate": {"custom_model_data": 6905066}, "model": "odyssey:item/arcane/necronomicon_book"}
-  ]
+  "overrides": []
 }

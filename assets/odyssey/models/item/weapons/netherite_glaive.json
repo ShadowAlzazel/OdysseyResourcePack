@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapons/bases/glaive",
+  "textures": {
+    "0": "odyssey:item/weapons/glaive_texture_netherite",
+    "particle": "odyssey:item/weapons/glaive_texture_netherite"
+  }
+}

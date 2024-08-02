@@ -17,6 +17,24 @@
       }
     },
     {
+      "model": "odyssey:item/weapons/iron_glaive",
+      "predicate": {
+        "custom_model_data": 6905787
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iron_battlesaw",
+      "predicate": {
+        "custom_model_data": 6905788
+      }
+    },
+    {
+      "model": "odyssey:item/equipment/silver_axe",
+      "predicate": {
+        "custom_model_data": 6906307
+      }
+    },
+    {
       "model": "odyssey:item/weapons/silver_longaxe",
       "predicate": {
         "custom_model_data": 6906385
@@ -26,6 +44,24 @@
       "model": "odyssey:item/weapons/silver_poleaxe",
       "predicate": {
         "custom_model_data": 6906386
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/silver_glaive",
+      "predicate": {
+        "custom_model_data": 6906387
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/silver_battlesaw",
+      "predicate": {
+        "custom_model_data": 6906388
+      }
+    },
+    {
+      "model": "odyssey:item/equipment/soul_steel_axe",
+      "predicate": {
+        "custom_model_data": 6906607
       }
     },
     {
@@ -41,6 +77,24 @@
       }
     },
     {
+      "model": "odyssey:item/weapons/soul_steel_glaive",
+      "predicate": {
+        "custom_model_data": 6906687
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/soul_steel_battlesaw",
+      "predicate": {
+        "custom_model_data": 6906688
+      }
+    },
+    {
+      "model": "odyssey:item/equipment/titanium_axe",
+      "predicate": {
+        "custom_model_data": 6906807
+      }
+    },
+    {
       "model": "odyssey:item/weapons/titanium_longaxe",
       "predicate": {
         "custom_model_data": 6906885
@@ -50,6 +104,24 @@
       "model": "odyssey:item/weapons/titanium_poleaxe",
       "predicate": {
         "custom_model_data": 6906886
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/titanium_glaive",
+      "predicate": {
+        "custom_model_data": 6906887
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/titanium_battlesaw",
+      "predicate": {
+        "custom_model_data": 6906888
+      }
+    },
+    {
+      "model": "odyssey:item/equipment/anodized_titanium_axe",
+      "predicate": {
+        "custom_model_data": 6907007
       }
     },
     {
@@ -65,6 +137,24 @@
       }
     },
     {
+      "model": "odyssey:item/weapons/anodized_titanium_glaive",
+      "predicate": {
+        "custom_model_data": 6907087
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/anodized_titanium_battlesaw",
+      "predicate": {
+        "custom_model_data": 6907088
+      }
+    },
+    {
+      "model": "odyssey:item/equipment/iridium_axe",
+      "predicate": {
+        "custom_model_data": 6907107
+      }
+    },
+    {
       "model": "odyssey:item/weapons/iridium_longaxe",
       "predicate": {
         "custom_model_data": 6907185
@@ -77,6 +167,24 @@
       }
     },
     {
+      "model": "odyssey:item/weapons/iridium_glaive",
+      "predicate": {
+        "custom_model_data": 6907187
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iridium_battlesaw",
+      "predicate": {
+        "custom_model_data": 6907188
+      }
+    },
+    {
+      "model": "odyssey:item/equipment/mithril_axe",
+      "predicate": {
+        "custom_model_data": 6907607
+      }
+    },
+    {
       "model": "odyssey:item/weapons/mithril_longaxe",
       "predicate": {
         "custom_model_data": 6907685
@@ -86,6 +194,18 @@
       "model": "odyssey:item/weapons/mithril_poleaxe",
       "predicate": {
         "custom_model_data": 6907686
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/mithril_glaive",
+      "predicate": {
+        "custom_model_data": 6907687
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/mithril_battlesaw",
+      "predicate": {
+        "custom_model_data": 6907688
       }
     }
   ]

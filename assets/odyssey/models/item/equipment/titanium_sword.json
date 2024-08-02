@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/equipment/bases/sword",
+  "textures": {
+    "layer0": "odyssey:item/equipment/base_sword_titanium"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "odyssey:item/runic/blanks/blank_gilded_runesherd",
+    "layer1": "odyssey:item/runic/sigils/break_sigil_gold"
+  }
+}

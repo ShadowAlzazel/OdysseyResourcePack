@@ -1,6 +1,7 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-      "layer0": "odyssey:item/runic/steadfast_runesherd"
-    }
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "odyssey:item/runic/blanks/blank_runesherd",
+    "layer1": "odyssey:item/runic/sigils/steadfast_sigil_diamond"
   }
+}

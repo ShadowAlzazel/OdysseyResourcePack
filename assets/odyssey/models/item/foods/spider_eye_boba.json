@@ -1,6 +1,6 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-      "layer0": "odyssey:item/foods/spider_eye_boba"
-    }
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "odyssey:item/foods/spider_eye_boba"
   }
+}

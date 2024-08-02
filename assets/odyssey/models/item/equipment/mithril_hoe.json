@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/equipment/bases/hoe",
+  "textures": {
+    "layer0": "odyssey:item/equipment/base_hoe_mithril"
+  }
+}

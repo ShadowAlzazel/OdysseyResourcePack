@@ -65,6 +65,18 @@
       }
     },
     {
+      "model": "odyssey:item/weapons/golden_arm_blade",
+      "predicate": {
+        "custom_model_data": 6905254
+      }
+    },
+    {
+      "model": "odyssey:item/equipment/copper_sword",
+      "predicate": {
+        "custom_model_data": 6905505
+      }
+    },
+    {
       "model": "odyssey:item/weapons/copper_katana",
       "predicate": {
         "custom_model_data": 6905544
@@ -122,6 +134,12 @@
       "model": "odyssey:item/weapons/copper_longsword",
       "predicate": {
         "custom_model_data": 6905553
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/copper_arm_blade",
+      "predicate": {
+        "custom_model_data": 6905554
       }
     }
   ]

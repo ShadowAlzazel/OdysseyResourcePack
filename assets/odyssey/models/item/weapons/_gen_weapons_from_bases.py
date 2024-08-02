@@ -12,7 +12,7 @@ os.chdir(dir_name)
 tool_types = [
     'chakram', 'claymore', 'cutlass', 'dagger', 'halberd', 'katana', 'kunai', 'lance', 
     'longaxe', 'longsword', 'rapier', 'saber', 'scythe', 'sickle', 'spear', 'warhammer',
-    'poleaxe', 'shuriken']
+    'poleaxe', 'shuriken', 'glaive', 'battlesaw', 'arm_blade']
 materials = [
     'wooden', 'golden', 'stone', 'iron', 'diamond', 'netherite',
     'copper', 'silver', 'soul_steel', 'titanium', 'anodized_titanium', 'iridium', 'mithril']

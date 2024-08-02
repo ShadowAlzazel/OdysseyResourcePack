@@ -4,19 +4,15 @@
     "layer0": "minecraft:item/cookie"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 6905040}, "model": "odyssey:item/foods/apple_cookie"},
-    { "predicate": {"custom_model_data": 6905041}, "model": "odyssey:item/foods/beetroot_cookie"},
-    { "predicate": {"custom_model_data": 6905042}, "model": "odyssey:item/foods/pumpkin_cookie"},
-    { "predicate": {"custom_model_data": 6905043}, "model": "odyssey:item/foods/honey_cookie"},
-    { "predicate": {"custom_model_data": 6905044}, "model": "odyssey:item/foods/berry_cookie"},
-    { "predicate": {"custom_model_data": 6905045}, "model": "odyssey:item/foods/glowberry_cookie"},
-    { "predicate": {"custom_model_data": 6905046}, "model": "odyssey:item/foods/melon_cookie"},
-    { "predicate": {"custom_model_data": 6905047}, "model": "odyssey:item/foods/sugar_cookie"},
-    { "predicate": {"custom_model_data": 6905048}, "model": "odyssey:item/foods/golden_cookie"},
-    { "predicate": {"custom_model_data": 6905049}, "model": "odyssey:item/foods/chorus_fruit_cookie"},
-
-    { "predicate": {"custom_model_data": 6908053}, "model": "odyssey:item/foods/strawberry_tart"},
-    { "predicate": {"custom_model_data": 6908054}, "model": "odyssey:item/foods/chocolate_mochi"}
+    { "predicate": {"custom_model_data": 6908053}, "model": "odyssey:item/foods/berry_tart"},
+    { "predicate": {"custom_model_data": 6908054}, "model": "odyssey:item/foods/chocolate_mochi"},
+    { "predicate": {"custom_model_data": 6908055}, "model": "odyssey:item/foods/coffee"},
+    { "predicate": {"custom_model_data": 6908064}, "model": "odyssey:item/foods/earl_lily_boba_tea"},
+    { "predicate": {"custom_model_data": 6908066}, "model": "odyssey:item/foods/oolong_orchid_boba_tea"},
+    { "predicate": {"custom_model_data": 6908067}, "model": "odyssey:item/foods/matcha_melon_boba_tea"},
+    { "predicate": {"custom_model_data": 6908068}, "model": "odyssey:item/foods/thai_tulip_boba_tea"},
+    { "predicate": {"custom_model_data": 6908069}, "model": "odyssey:item/foods/allium_jade_boba_tea"},
+    { "predicate": {"custom_model_data": 6908070}, "model": "odyssey:item/foods/cornflower_ceylon_boba_tea"}
 
   ]
 }

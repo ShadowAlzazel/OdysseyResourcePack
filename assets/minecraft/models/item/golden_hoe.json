@@ -11,6 +11,12 @@
       }
     },
     {
+      "model": "odyssey:item/equipment/copper_hoe",
+      "predicate": {
+        "custom_model_data": 6905509
+      }
+    },
+    {
       "model": "odyssey:item/weapons/copper_scythe",
       "predicate": {
         "custom_model_data": 6905592

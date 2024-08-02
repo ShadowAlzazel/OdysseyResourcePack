@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "odyssey:item/runic/blanks/blank_runepiece",
+    "layer1": "odyssey:item/runic/sigils/vitality_sigil_silver"
+  }
+}

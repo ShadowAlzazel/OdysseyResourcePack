@@ -271,6 +271,10 @@
 		},
 		"gui": {
 			"rotation": [90, 0, 0]
+		},
+		"fixed": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 0, 7.75]
 		}
 	},
 	"groups": [
@@ -278,56 +282,42 @@
 			"name": "wooden_handle",
 			"origin": [0, 0, 0],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [0, 1, 2, 3]
 		},
 		{
 			"name": "metal_shaft",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": []
 		},
 		{
 			"name": "head",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": []
 		},
 		{
 			"name": "head",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": []
 		},
 		{
 			"name": "tip",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": []
 		},
 		{
 			"name": "hilt",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [4, 5, 6]
 		},
 		{
 			"name": "blade",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
 			"children": [7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19]
 		}
 	]

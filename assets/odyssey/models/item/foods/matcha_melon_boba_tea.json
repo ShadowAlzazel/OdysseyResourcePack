@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "odyssey:item/foods/matcha_melon_boba_tea"
+    }
+  }
+  

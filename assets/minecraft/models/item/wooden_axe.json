@@ -15,6 +15,18 @@
       "predicate": {
         "custom_model_data": 6905186
       }
+    },
+    {
+      "model": "odyssey:item/weapons/wooden_glaive",
+      "predicate": {
+        "custom_model_data": 6905187
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/wooden_battlesaw",
+      "predicate": {
+        "custom_model_data": 6905188
+      }
     }
   ]
 }
