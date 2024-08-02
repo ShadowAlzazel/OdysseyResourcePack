@@ -63,6 +63,12 @@
       "predicate": {
         "custom_model_data": 6905153
       }
+    },
+    {
+      "model": "odyssey:item/weapons/wooden_arm_blade",
+      "predicate": {
+        "custom_model_data": 6905154
+      }
     }
   ]
 }

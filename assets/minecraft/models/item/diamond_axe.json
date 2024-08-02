@@ -21,6 +21,12 @@
       "predicate": {
         "custom_model_data": 6905887
       }
+    },
+    {
+      "model": "odyssey:item/weapons/diamond_battlesaw",
+      "predicate": {
+        "custom_model_data": 6905888
+      }
     }
   ]
 }

@@ -21,6 +21,12 @@
       "predicate": {
         "custom_model_data": 6905987
       }
+    },
+    {
+      "model": "odyssey:item/weapons/netherite_battlesaw",
+      "predicate": {
+        "custom_model_data": 6905988
+      }
     }
   ]
 }

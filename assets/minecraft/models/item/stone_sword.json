@@ -63,6 +63,12 @@
       "predicate": {
         "custom_model_data": 6905353
       }
+    },
+    {
+      "model": "odyssey:item/weapons/stone_arm_blade",
+      "predicate": {
+        "custom_model_data": 6905354
+      }
     }
   ]
 }

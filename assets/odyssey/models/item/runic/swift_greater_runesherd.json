@@ -2,6 +2,6 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "odyssey:item/runic/blanks/blank_greater_runesherd",
-    "layer1": "odyssey:item/runic/sigils/swift_sigil_mithril"
+    "layer1": "odyssey:item/runic/sigils/swift_sigil_silver"
   }
 }

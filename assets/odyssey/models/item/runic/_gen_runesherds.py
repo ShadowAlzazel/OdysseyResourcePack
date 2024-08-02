@@ -5,29 +5,28 @@ abspath = os.path.abspath(__file__)
 dir_name = os.path.dirname(abspath)
 os.chdir(dir_name)
 
-rune_blanks = [
-    'runesherd', 'runepeice']
-rune_materials = [
-    'copper', 'silver', 'soul_steel', 'titanium', 'anodized_titanium', 'iridium', 'mithril']
-rune_sigils = [
+sigils = [
     'assault', 'break', 'feather', 'finesse', 
     'force', 'gravity', 'guard', 
     'grasp', 'jump', 'range', 'size',
     'steadfast', 'swift', 'vitality'
 ]
-
-rune_types = {
-    'runesherd': 'diamond',
-    'runepeice': 'silver',
-    'greater_runesherd': 'mithril'
+rune_map = {
+    'runepiece': 'silver', # Flat
+    'runesherd': 'diamond',  # Flat
+    'greater_runesherd': 'silver',  # Flat
+    #'runepiece_alter': 'silver', # Percent
+    
+    'gilded_runesherd': 'gold',
+    'mythic_runesherd': 'mithril'
 }
 
 # Function to create files
 def create_files():
-    for i in range(len(rune_sigils)):
-        sigil = rune_sigils[i]
+    for i in range(len(sigils)):
+        sigil = sigils[i]
         # Loop through types
-        for blank, material in rune_types.items():
+        for blank, material in rune_map.items():
             filename = f'{sigil}_{blank}.json'
             # Create an obj using the dictionary
             json_obj = {
@@ -48,7 +47,7 @@ def create_files():
 def main():
     # Prompt 
     print("Confirm Creation of New files? This will overwrite old files.")
-    print(f"Will Create {len(rune_types) * len(rune_sigils)} rune combinations.")
+    print(f"Will Create {len(rune_map) * len(sigils)} rune combinations.")
     print("Proceed (y/n) . . .")
     answer = input()
     # Input

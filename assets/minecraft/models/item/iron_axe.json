@@ -23,6 +23,12 @@
       }
     },
     {
+      "model": "odyssey:item/weapons/iron_battlesaw",
+      "predicate": {
+        "custom_model_data": 6905788
+      }
+    },
+    {
       "model": "odyssey:item/equipment/silver_axe",
       "predicate": {
         "custom_model_data": 6906307
@@ -44,6 +50,12 @@
       "model": "odyssey:item/weapons/silver_glaive",
       "predicate": {
         "custom_model_data": 6906387
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/silver_battlesaw",
+      "predicate": {
+        "custom_model_data": 6906388
       }
     },
     {
@@ -71,6 +83,12 @@
       }
     },
     {
+      "model": "odyssey:item/weapons/soul_steel_battlesaw",
+      "predicate": {
+        "custom_model_data": 6906688
+      }
+    },
+    {
       "model": "odyssey:item/equipment/titanium_axe",
       "predicate": {
         "custom_model_data": 6906807
@@ -92,6 +110,12 @@
       "model": "odyssey:item/weapons/titanium_glaive",
       "predicate": {
         "custom_model_data": 6906887
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/titanium_battlesaw",
+      "predicate": {
+        "custom_model_data": 6906888
       }
     },
     {
@@ -119,6 +143,12 @@
       }
     },
     {
+      "model": "odyssey:item/weapons/anodized_titanium_battlesaw",
+      "predicate": {
+        "custom_model_data": 6907088
+      }
+    },
+    {
       "model": "odyssey:item/equipment/iridium_axe",
       "predicate": {
         "custom_model_data": 6907107
@@ -143,6 +173,12 @@
       }
     },
     {
+      "model": "odyssey:item/weapons/iridium_battlesaw",
+      "predicate": {
+        "custom_model_data": 6907188
+      }
+    },
+    {
       "model": "odyssey:item/equipment/mithril_axe",
       "predicate": {
         "custom_model_data": 6907607
@@ -164,6 +200,12 @@
       "model": "odyssey:item/weapons/mithril_glaive",
       "predicate": {
         "custom_model_data": 6907687
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/mithril_battlesaw",
+      "predicate": {
+        "custom_model_data": 6907688
       }
     }
   ]

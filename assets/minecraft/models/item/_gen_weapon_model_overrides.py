@@ -59,6 +59,7 @@ tool_types = [
     ToolType('chakram', 51, 'sword'),
     ToolType('kunai', 52, 'sword'),
     ToolType('longsword', 53, 'sword'),
+    ToolType('arm_blade', 54, 'sword'),
     # Shovels
     ToolType('spear', 74, 'shovel'),
     ToolType('halberd', 75, 'shovel'),
@@ -67,6 +68,7 @@ tool_types = [
     ToolType('longaxe', 85, 'axe'),
     ToolType('poleaxe', 86, 'axe'),
     ToolType('glaive', 87, 'axe'),
+    ToolType('battlesaw', 88, 'axe'),
     # Pickaxe
     ToolType('warhammer', 11, 'pickaxe'),
     # Hoe

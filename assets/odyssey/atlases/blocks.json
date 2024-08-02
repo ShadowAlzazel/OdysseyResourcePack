@@ -20,7 +20,10 @@
         "odyssey:item/weapons/kunai_texture",
         "odyssey:item/weapons/longsword_texture",
         "odyssey:item/weapons/poleaxe_texture",
+        "odyssey:item/weapons/shuriken_base",
         "odyssey:item/weapons/glaive_texture",
+        "odyssey:item/weapons/battlesaw_texture",
+        "odyssey:item/weapons/arm_blade_texture",
 
         "odyssey:item/weapons/shuriken_base",
 
@@ -68,7 +71,7 @@
       "permutations": {
         "arcane": "odyssey:colormap/rune_palettes/arcane",
         "diamond": "odyssey:colormap/rune_palettes/diamond",
-        "gilded": "odyssey:colormap/rune_palettes/gilded",
+        "gold": "odyssey:colormap/rune_palettes/gold",
         "silver": "odyssey:colormap/rune_palettes/silver",
         "mithril": "odyssey:colormap/rune_palettes/mithril"
       }

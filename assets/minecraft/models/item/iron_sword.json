@@ -65,6 +65,12 @@
       }
     },
     {
+      "model": "odyssey:item/weapons/iron_arm_blade",
+      "predicate": {
+        "custom_model_data": 6905754
+      }
+    },
+    {
       "model": "odyssey:item/equipment/silver_sword",
       "predicate": {
         "custom_model_data": 6906305
@@ -128,6 +134,12 @@
       "model": "odyssey:item/weapons/silver_longsword",
       "predicate": {
         "custom_model_data": 6906353
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/silver_arm_blade",
+      "predicate": {
+        "custom_model_data": 6906354
       }
     },
     {
@@ -197,6 +209,12 @@
       }
     },
     {
+      "model": "odyssey:item/weapons/soul_steel_arm_blade",
+      "predicate": {
+        "custom_model_data": 6906654
+      }
+    },
+    {
       "model": "odyssey:item/equipment/titanium_sword",
       "predicate": {
         "custom_model_data": 6906805
@@ -260,6 +278,12 @@
       "model": "odyssey:item/weapons/titanium_longsword",
       "predicate": {
         "custom_model_data": 6906853
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/titanium_arm_blade",
+      "predicate": {
+        "custom_model_data": 6906854
       }
     },
     {
@@ -329,6 +353,12 @@
       }
     },
     {
+      "model": "odyssey:item/weapons/anodized_titanium_arm_blade",
+      "predicate": {
+        "custom_model_data": 6907054
+      }
+    },
+    {
       "model": "odyssey:item/equipment/iridium_sword",
       "predicate": {
         "custom_model_data": 6907105
@@ -392,6 +422,12 @@
       "model": "odyssey:item/weapons/iridium_longsword",
       "predicate": {
         "custom_model_data": 6907153
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/iridium_arm_blade",
+      "predicate": {
+        "custom_model_data": 6907154
       }
     },
     {
@@ -459,7 +495,13 @@
       "predicate": {
         "custom_model_data": 6907653
       }
-    }, 
+    },
+    {
+      "model": "odyssey:item/weapons/mithril_arm_blade",
+      "predicate": {
+        "custom_model_data": 6907654
+      }
+    },
 
     {
       "model": "odyssey:item/weapons/knight_breaker",

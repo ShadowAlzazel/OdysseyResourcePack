@@ -23,6 +23,12 @@
       }
     },
     {
+      "model": "odyssey:item/weapons/golden_battlesaw",
+      "predicate": {
+        "custom_model_data": 6905288
+      }
+    },
+    {
       "model": "odyssey:item/equipment/copper_axe",
       "predicate": {
         "custom_model_data": 6905507
@@ -44,6 +50,12 @@
       "model": "odyssey:item/weapons/copper_glaive",
       "predicate": {
         "custom_model_data": 6905587
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/copper_battlesaw",
+      "predicate": {
+        "custom_model_data": 6905588
       }
     }
   ]
