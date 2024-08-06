@@ -28,6 +28,5 @@
     { "predicate": {"custom_model_data": 6906078}, "model": "odyssey:item/arcane/tome_of_extraction"},
     { "predicate": {"custom_model_data": 6906079}, "model": "odyssey:item/arcane/tome_of_imitation"}
 
-    
   ]
 }

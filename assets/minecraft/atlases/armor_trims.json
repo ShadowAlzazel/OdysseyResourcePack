@@ -3,12 +3,15 @@
     {
       "type": "paletted_permutations",
       "textures": [
-        "odyssey:trims/models/armor/alpine",
-        "odyssey:trims/models/armor/alpine_leggings",
+        "odyssey:trims/models/armor/arcane",
+        "odyssey:trims/models/armor/arcane_leggings",
         "odyssey:trims/models/armor/imperial",
         "odyssey:trims/models/armor/imperial_leggings",
         "odyssey:trims/models/armor/leaf",
         "odyssey:trims/models/armor/leaf_leggings",
+        "odyssey:trims/models/armor/danger",
+        "odyssey:trims/models/armor/danger_leggings", 
+        
         "trims/models/armor/coast",
         "trims/models/armor/coast_leggings",
         "trims/models/armor/sentry",
