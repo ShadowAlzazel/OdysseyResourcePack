@@ -60,6 +60,7 @@ tool_types = [
     ToolType('kunai', 52, 'sword'),
     ToolType('longsword', 53, 'sword'),
     ToolType('arm_blade', 54, 'sword'),
+    ToolType('zweihander', 55, 'sword'),
     # Shovels
     ToolType('spear', 74, 'shovel'),
     ToolType('halberd', 75, 'shovel'),
