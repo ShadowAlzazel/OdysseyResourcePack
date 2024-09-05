@@ -69,6 +69,12 @@
       "predicate": {
         "custom_model_data": 6905854
       }
+    },
+    {
+      "model": "odyssey:item/weapons/diamond_zweihander",
+      "predicate": {
+        "custom_model_data": 6905855
+      }
     }
   ]
 }

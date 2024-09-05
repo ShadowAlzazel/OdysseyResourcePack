@@ -13,6 +13,9 @@
     { "predicate": {"custom_model_data": 6905523}, "model": "odyssey:item/arcane/volume_of_slashing"},
     { "predicate": {"custom_model_data": 6905524}, "model": "odyssey:item/arcane/volume_of_tilling"},
 
+    { "predicate": {"custom_model_data": 6905701}, "model": "odyssey:item/equipment/spell_book"},
+    { "predicate": {"custom_model_data": 6905702}, "model": "odyssey:item/equipment/arcane_spell_book"},
+
     { "predicate": {"custom_model_data": 6906000}, "model": "odyssey:item/arcane/blank_tome"},
     { "predicate": {"custom_model_data": 6906067}, "model": "odyssey:item/arcane/tome_of_discharge"},
     { "predicate": {"custom_model_data": 6906068}, "model": "odyssey:item/arcane/tome_of_promotion"},
@@ -28,6 +31,5 @@
     { "predicate": {"custom_model_data": 6906078}, "model": "odyssey:item/arcane/tome_of_extraction"},
     { "predicate": {"custom_model_data": 6906079}, "model": "odyssey:item/arcane/tome_of_imitation"}
 
-    
   ]
 }

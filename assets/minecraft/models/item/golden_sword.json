@@ -71,6 +71,12 @@
       }
     },
     {
+      "model": "odyssey:item/weapons/golden_zweihander",
+      "predicate": {
+        "custom_model_data": 6905255
+      }
+    },
+    {
       "model": "odyssey:item/equipment/copper_sword",
       "predicate": {
         "custom_model_data": 6905505
@@ -140,6 +146,12 @@
       "model": "odyssey:item/weapons/copper_arm_blade",
       "predicate": {
         "custom_model_data": 6905554
+      }
+    },
+    {
+      "model": "odyssey:item/weapons/copper_zweihander",
+      "predicate": {
+        "custom_model_data": 6905555
       }
     }
   ]

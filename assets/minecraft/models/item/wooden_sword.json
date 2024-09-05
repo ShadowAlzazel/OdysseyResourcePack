@@ -69,6 +69,12 @@
       "predicate": {
         "custom_model_data": 6905154
       }
+    },
+    {
+      "model": "odyssey:item/weapons/wooden_zweihander",
+      "predicate": {
+        "custom_model_data": 6905155
+      }
     }
   ]
 }
