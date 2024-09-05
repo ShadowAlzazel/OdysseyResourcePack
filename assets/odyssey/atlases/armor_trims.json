@@ -3,14 +3,14 @@
     {
       "type": "paletted_permutations",
       "textures": [
-        "odyssey:trims/models/armor/arcane",
-        "odyssey:trims/models/armor/arcane_leggings",
-        "odyssey:trims/models/armor/imperial",
-        "odyssey:trims/models/armor/imperial_leggings",
-        "odyssey:trims/models/armor/leaf",
-        "odyssey:trims/models/armor/leaf_leggings",
-        "odyssey:trims/models/armor/danger",
-        "odyssey:trims/models/armor/danger_leggings"
+        "odyssey:trims/entity/humanoid/arcane",
+        "odyssey:trims/entity/humanoid_leggings/arcane",
+        "odyssey:trims/entity/humanoid/imperial",
+        "odyssey:trims/entity/humanoid_leggings/imperial",
+        "odyssey:trims/entity/humanoid/leaf",
+        "odyssey:trims/entity/humanoid_leggings/leaf",
+        "odyssey:trims/entity/humanoid/danger",
+        "odyssey:trims/entity/humanoid_leggings/danger"
       ],
       "palette_key": "odyssey:trims/color_palettes/trim_palette",
       "permutations": {

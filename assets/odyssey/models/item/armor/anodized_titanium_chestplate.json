@@ -1,0 +1,152 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "odyssey:item/armor/anodized_titanium_chestplate"
+  },
+  "overrides": [
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_alexandrite_trim",
+      "predicate": {
+        "trim_type": 0.0001
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_anodizedtitanium_trim",
+      "predicate": {
+        "trim_type": 0.0002
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_iridium_trim",
+      "predicate": {
+        "trim_type": 0.0003
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_jade_trim",
+      "predicate": {
+        "trim_type": 0.0004
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_jovianemerald_trim",
+      "predicate": {
+        "trim_type": 0.0005
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_kunzite_trim",
+      "predicate": {
+        "trim_type": 0.0006
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_mithril_trim",
+      "predicate": {
+        "trim_type": 0.0007
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_neptuniandiamond_trim",
+      "predicate": {
+        "trim_type": 0.0008
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_obsidian_trim",
+      "predicate": {
+        "trim_type": 0.0009
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_ruby_trim",
+      "predicate": {
+        "trim_type": 0.001
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_silver_trim",
+      "predicate": {
+        "trim_type": 0.0011
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_soulquartz_trim",
+      "predicate": {
+        "trim_type": 0.0012
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_soulsteel_trim",
+      "predicate": {
+        "trim_type": 0.0013
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_titanium_trim",
+      "predicate": {
+        "trim_type": 0.0014
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_quartz_trim",
+      "predicate": {
+        "trim_type": 0.1
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_iron_trim",
+      "predicate": {
+        "trim_type": 0.2
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_netherite_trim",
+      "predicate": {
+        "trim_type": 0.3
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_redstone_trim",
+      "predicate": {
+        "trim_type": 0.4
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_copper_trim",
+      "predicate": {
+        "trim_type": 0.5
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_gold_trim",
+      "predicate": {
+        "trim_type": 0.6
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_emerald_trim",
+      "predicate": {
+        "trim_type": 0.7
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_diamond_trim",
+      "predicate": {
+        "trim_type": 0.8
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_lapis_trim",
+      "predicate": {
+        "trim_type": 0.9
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/anodized_titanium_chestplate_amethyst_trim",
+      "predicate": {
+        "trim_type": 1.0
+      }
+    }
+  ]
+}

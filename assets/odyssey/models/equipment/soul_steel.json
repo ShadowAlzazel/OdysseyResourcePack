@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "odyssey:soul_steel"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "odyssey:soul_steel"
+      }
+    ]
+  }
+}

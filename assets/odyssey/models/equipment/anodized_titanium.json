@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "odyssey:anodized_titanium"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "odyssey:anodized_titanium"
+      }
+    ]
+  }
+}

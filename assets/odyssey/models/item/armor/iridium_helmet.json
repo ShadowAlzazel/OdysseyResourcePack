@@ -1,0 +1,152 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "odyssey:item/armor/iridium_helmet"
+  },
+  "overrides": [
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_alexandrite_trim",
+      "predicate": {
+        "trim_type": 0.0001
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_anodizedtitanium_trim",
+      "predicate": {
+        "trim_type": 0.0002
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_iridium_darker_trim",
+      "predicate": {
+        "trim_type": 0.0003
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_jade_trim",
+      "predicate": {
+        "trim_type": 0.0004
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_jovianemerald_trim",
+      "predicate": {
+        "trim_type": 0.0005
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_kunzite_trim",
+      "predicate": {
+        "trim_type": 0.0006
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_mithril_trim",
+      "predicate": {
+        "trim_type": 0.0007
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_neptuniandiamond_trim",
+      "predicate": {
+        "trim_type": 0.0008
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_obsidian_trim",
+      "predicate": {
+        "trim_type": 0.0009
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_ruby_trim",
+      "predicate": {
+        "trim_type": 0.001
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_silver_trim",
+      "predicate": {
+        "trim_type": 0.0011
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_soulquartz_trim",
+      "predicate": {
+        "trim_type": 0.0012
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_soulsteel_trim",
+      "predicate": {
+        "trim_type": 0.0013
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_titanium_trim",
+      "predicate": {
+        "trim_type": 0.0014
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_quartz_trim",
+      "predicate": {
+        "trim_type": 0.1
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_iron_trim",
+      "predicate": {
+        "trim_type": 0.2
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_netherite_trim",
+      "predicate": {
+        "trim_type": 0.3
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_redstone_trim",
+      "predicate": {
+        "trim_type": 0.4
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_copper_trim",
+      "predicate": {
+        "trim_type": 0.5
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_gold_trim",
+      "predicate": {
+        "trim_type": 0.6
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_emerald_trim",
+      "predicate": {
+        "trim_type": 0.7
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_diamond_trim",
+      "predicate": {
+        "trim_type": 0.8
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_lapis_trim",
+      "predicate": {
+        "trim_type": 0.9
+      }
+    },
+    {
+      "model": "odyssey:item/armor_trims/iridium_helmet_amethyst_trim",
+      "predicate": {
+        "trim_type": 1.0
+      }
+    }
+  ]
+}

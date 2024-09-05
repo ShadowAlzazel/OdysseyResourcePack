@@ -1,10 +1,10 @@
 {
   "pack": {
-    "pack_format": 34,
+    "pack_format": 37,
 		"supported_formats": [
 			15,
-			34
+			37
 		],
-    "description": "Minecraft Odyssey Textures"
+    "description": "Odyssey assets and textures"
   }
 }
