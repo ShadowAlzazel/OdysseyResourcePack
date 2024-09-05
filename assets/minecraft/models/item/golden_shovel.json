@@ -5,19 +5,19 @@
   },
   "overrides": [
     {
-      "model": "odyssey:item/weapons/golden_spear",
+      "model": "odyssey:item/weapon/golden_spear",
       "predicate": {
         "custom_model_data": 6905274
       }
     },
     {
-      "model": "odyssey:item/weapons/golden_halberd",
+      "model": "odyssey:item/weapon/golden_halberd",
       "predicate": {
         "custom_model_data": 6905275
       }
     },
     {
-      "model": "odyssey:item/weapons/golden_lance",
+      "model": "odyssey:item/weapon/golden_lance",
       "predicate": {
         "custom_model_data": 6905276
       }
@@ -29,19 +29,19 @@
       }
     },
     {
-      "model": "odyssey:item/weapons/copper_spear",
+      "model": "odyssey:item/weapon/copper_spear",
       "predicate": {
         "custom_model_data": 6905574
       }
     },
     {
-      "model": "odyssey:item/weapons/copper_halberd",
+      "model": "odyssey:item/weapon/copper_halberd",
       "predicate": {
         "custom_model_data": 6905575
       }
     },
     {
-      "model": "odyssey:item/weapons/copper_lance",
+      "model": "odyssey:item/weapon/copper_lance",
       "predicate": {
         "custom_model_data": 6905576
       }

@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapon/bases/shuriken",
+  "textures": {
+    "layer0": "odyssey:item/weapon/shuriken_base_copper"
+  }
+}

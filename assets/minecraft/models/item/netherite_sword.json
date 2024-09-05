@@ -5,73 +5,73 @@
   },
   "overrides": [
     {
-      "model": "odyssey:item/weapons/netherite_katana",
+      "model": "odyssey:item/weapon/netherite_katana",
       "predicate": {
         "custom_model_data": 6905944
       }
     },
     {
-      "model": "odyssey:item/weapons/netherite_claymore",
+      "model": "odyssey:item/weapon/netherite_claymore",
       "predicate": {
         "custom_model_data": 6905945
       }
     },
     {
-      "model": "odyssey:item/weapons/netherite_dagger",
+      "model": "odyssey:item/weapon/netherite_dagger",
       "predicate": {
         "custom_model_data": 6905946
       }
     },
     {
-      "model": "odyssey:item/weapons/netherite_rapier",
+      "model": "odyssey:item/weapon/netherite_rapier",
       "predicate": {
         "custom_model_data": 6905947
       }
     },
     {
-      "model": "odyssey:item/weapons/netherite_cutlass",
+      "model": "odyssey:item/weapon/netherite_cutlass",
       "predicate": {
         "custom_model_data": 6905948
       }
     },
     {
-      "model": "odyssey:item/weapons/netherite_saber",
+      "model": "odyssey:item/weapon/netherite_saber",
       "predicate": {
         "custom_model_data": 6905949
       }
     },
     {
-      "model": "odyssey:item/weapons/netherite_sickle",
+      "model": "odyssey:item/weapon/netherite_sickle",
       "predicate": {
         "custom_model_data": 6905950
       }
     },
     {
-      "model": "odyssey:item/weapons/netherite_chakram",
+      "model": "odyssey:item/weapon/netherite_chakram",
       "predicate": {
         "custom_model_data": 6905951
       }
     },
     {
-      "model": "odyssey:item/weapons/netherite_kunai",
+      "model": "odyssey:item/weapon/netherite_kunai",
       "predicate": {
         "custom_model_data": 6905952
       }
     },
     {
-      "model": "odyssey:item/weapons/netherite_longsword",
+      "model": "odyssey:item/weapon/netherite_longsword",
       "predicate": {
         "custom_model_data": 6905953
       }
     },
     {
-      "model": "odyssey:item/weapons/netherite_arm_blade",
+      "model": "odyssey:item/weapon/netherite_arm_blade",
       "predicate": {
         "custom_model_data": 6905954
       }
     },
     {
-      "model": "odyssey:item/weapons/netherite_zweihander",
+      "model": "odyssey:item/weapon/netherite_zweihander",
       "predicate": {
         "custom_model_data": 6905955
       }

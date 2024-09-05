@@ -5,7 +5,7 @@
   },
   "overrides": [
     {
-      "model": "odyssey:item/weapons/golden_warhammer",
+      "model": "odyssey:item/weapon/golden_warhammer",
       "predicate": {
         "custom_model_data": 6905211
       }
@@ -17,7 +17,7 @@
       }
     },
     {
-      "model": "odyssey:item/weapons/copper_warhammer",
+      "model": "odyssey:item/weapon/copper_warhammer",
       "predicate": {
         "custom_model_data": 6905511
       }

@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapon/bases/poleaxe",
+  "textures": {
+    "0": "odyssey:item/weapon/poleaxe_texture_soul_steel",
+    "particle": "odyssey:item/weapon/poleaxe_texture_soul_steel"
+  }
+}

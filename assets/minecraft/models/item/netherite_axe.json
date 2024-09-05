@@ -5,25 +5,25 @@
   },
   "overrides": [
     {
-      "model": "odyssey:item/weapons/netherite_longaxe",
+      "model": "odyssey:item/weapon/netherite_longaxe",
       "predicate": {
         "custom_model_data": 6905985
       }
     },
     {
-      "model": "odyssey:item/weapons/netherite_poleaxe",
+      "model": "odyssey:item/weapon/netherite_poleaxe",
       "predicate": {
         "custom_model_data": 6905986
       }
     },
     {
-      "model": "odyssey:item/weapons/netherite_glaive",
+      "model": "odyssey:item/weapon/netherite_glaive",
       "predicate": {
         "custom_model_data": 6905987
       }
     },
     {
-      "model": "odyssey:item/weapons/netherite_battlesaw",
+      "model": "odyssey:item/weapon/netherite_battlesaw",
       "predicate": {
         "custom_model_data": 6905988
       }

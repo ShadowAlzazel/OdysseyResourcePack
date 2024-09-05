@@ -5,25 +5,25 @@
   },
   "overrides": [
     {
-      "model": "odyssey:item/weapons/diamond_longaxe",
+      "model": "odyssey:item/weapon/diamond_longaxe",
       "predicate": {
         "custom_model_data": 6905885
       }
     },
     {
-      "model": "odyssey:item/weapons/diamond_poleaxe",
+      "model": "odyssey:item/weapon/diamond_poleaxe",
       "predicate": {
         "custom_model_data": 6905886
       }
     },
     {
-      "model": "odyssey:item/weapons/diamond_glaive",
+      "model": "odyssey:item/weapon/diamond_glaive",
       "predicate": {
         "custom_model_data": 6905887
       }
     },
     {
-      "model": "odyssey:item/weapons/diamond_battlesaw",
+      "model": "odyssey:item/weapon/diamond_battlesaw",
       "predicate": {
         "custom_model_data": 6905888
       }

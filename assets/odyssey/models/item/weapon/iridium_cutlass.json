@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapon/bases/cutlass",
+  "textures": {
+    "0": "odyssey:item/weapon/cutlass_texture_iridium",
+    "particle": "odyssey:item/weapon/cutlass_texture_iridium"
+  }
+}

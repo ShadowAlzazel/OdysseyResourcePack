@@ -5,19 +5,19 @@
   },
   "overrides": [
     {
-      "model": "odyssey:item/weapons/wooden_spear",
+      "model": "odyssey:item/weapon/wooden_spear",
       "predicate": {
         "custom_model_data": 6905174
       }
     },
     {
-      "model": "odyssey:item/weapons/wooden_halberd",
+      "model": "odyssey:item/weapon/wooden_halberd",
       "predicate": {
         "custom_model_data": 6905175
       }
     },
     {
-      "model": "odyssey:item/weapons/wooden_lance",
+      "model": "odyssey:item/weapon/wooden_lance",
       "predicate": {
         "custom_model_data": 6905176
       }

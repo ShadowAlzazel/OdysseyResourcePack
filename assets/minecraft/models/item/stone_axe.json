@@ -5,25 +5,25 @@
   },
   "overrides": [
     {
-      "model": "odyssey:item/weapons/stone_longaxe",
+      "model": "odyssey:item/weapon/stone_longaxe",
       "predicate": {
         "custom_model_data": 6905385
       }
     },
     {
-      "model": "odyssey:item/weapons/stone_poleaxe",
+      "model": "odyssey:item/weapon/stone_poleaxe",
       "predicate": {
         "custom_model_data": 6905386
       }
     },
     {
-      "model": "odyssey:item/weapons/stone_glaive",
+      "model": "odyssey:item/weapon/stone_glaive",
       "predicate": {
         "custom_model_data": 6905387
       }
     },
     {
-      "model": "odyssey:item/weapons/stone_battlesaw",
+      "model": "odyssey:item/weapon/stone_battlesaw",
       "predicate": {
         "custom_model_data": 6905388
       }

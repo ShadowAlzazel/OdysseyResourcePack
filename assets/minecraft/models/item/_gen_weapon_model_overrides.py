@@ -128,7 +128,7 @@ def create_model_files():
                 file_obj = get_or_create_file_obj(filename)
             # -----------------------------------------------------------------------
             # Set Folder name space
-            item_space = "weapons"
+            item_space = "weapon"
             if ttyp.name == ttyp.item_override_suf:
                 item_space = "equipment"
             # Create override to add

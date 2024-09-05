@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapon/bases/spear",
+  "textures": {
+    "0": "odyssey:item/weapon/spear_texture_stone",
+    "particle": "odyssey:item/weapon/spear_texture_stone"
+  }
+}

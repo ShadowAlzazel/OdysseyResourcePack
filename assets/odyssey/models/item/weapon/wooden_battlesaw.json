@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapon/bases/battlesaw",
+  "textures": {
+    "0": "odyssey:item/weapon/battlesaw_texture_wooden",
+    "particle": "odyssey:item/weapon/battlesaw_texture_wooden"
+  }
+}

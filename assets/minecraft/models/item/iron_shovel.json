@@ -5,19 +5,19 @@
   },
   "overrides": [
     {
-      "model": "odyssey:item/weapons/iron_spear",
+      "model": "odyssey:item/weapon/iron_spear",
       "predicate": {
         "custom_model_data": 6905774
       }
     },
     {
-      "model": "odyssey:item/weapons/iron_halberd",
+      "model": "odyssey:item/weapon/iron_halberd",
       "predicate": {
         "custom_model_data": 6905775
       }
     },
     {
-      "model": "odyssey:item/weapons/iron_lance",
+      "model": "odyssey:item/weapon/iron_lance",
       "predicate": {
         "custom_model_data": 6905776
       }
@@ -29,19 +29,19 @@
       }
     },
     {
-      "model": "odyssey:item/weapons/silver_spear",
+      "model": "odyssey:item/weapon/silver_spear",
       "predicate": {
         "custom_model_data": 6906374
       }
     },
     {
-      "model": "odyssey:item/weapons/silver_halberd",
+      "model": "odyssey:item/weapon/silver_halberd",
       "predicate": {
         "custom_model_data": 6906375
       }
     },
     {
-      "model": "odyssey:item/weapons/silver_lance",
+      "model": "odyssey:item/weapon/silver_lance",
       "predicate": {
         "custom_model_data": 6906376
       }
@@ -53,19 +53,19 @@
       }
     },
     {
-      "model": "odyssey:item/weapons/soul_steel_spear",
+      "model": "odyssey:item/weapon/soul_steel_spear",
       "predicate": {
         "custom_model_data": 6906674
       }
     },
     {
-      "model": "odyssey:item/weapons/soul_steel_halberd",
+      "model": "odyssey:item/weapon/soul_steel_halberd",
       "predicate": {
         "custom_model_data": 6906675
       }
     },
     {
-      "model": "odyssey:item/weapons/soul_steel_lance",
+      "model": "odyssey:item/weapon/soul_steel_lance",
       "predicate": {
         "custom_model_data": 6906676
       }
@@ -77,19 +77,19 @@
       }
     },
     {
-      "model": "odyssey:item/weapons/titanium_spear",
+      "model": "odyssey:item/weapon/titanium_spear",
       "predicate": {
         "custom_model_data": 6906874
       }
     },
     {
-      "model": "odyssey:item/weapons/titanium_halberd",
+      "model": "odyssey:item/weapon/titanium_halberd",
       "predicate": {
         "custom_model_data": 6906875
       }
     },
     {
-      "model": "odyssey:item/weapons/titanium_lance",
+      "model": "odyssey:item/weapon/titanium_lance",
       "predicate": {
         "custom_model_data": 6906876
       }
@@ -101,19 +101,19 @@
       }
     },
     {
-      "model": "odyssey:item/weapons/anodized_titanium_spear",
+      "model": "odyssey:item/weapon/anodized_titanium_spear",
       "predicate": {
         "custom_model_data": 6907074
       }
     },
     {
-      "model": "odyssey:item/weapons/anodized_titanium_halberd",
+      "model": "odyssey:item/weapon/anodized_titanium_halberd",
       "predicate": {
         "custom_model_data": 6907075
       }
     },
     {
-      "model": "odyssey:item/weapons/anodized_titanium_lance",
+      "model": "odyssey:item/weapon/anodized_titanium_lance",
       "predicate": {
         "custom_model_data": 6907076
       }
@@ -125,19 +125,19 @@
       }
     },
     {
-      "model": "odyssey:item/weapons/iridium_spear",
+      "model": "odyssey:item/weapon/iridium_spear",
       "predicate": {
         "custom_model_data": 6907174
       }
     },
     {
-      "model": "odyssey:item/weapons/iridium_halberd",
+      "model": "odyssey:item/weapon/iridium_halberd",
       "predicate": {
         "custom_model_data": 6907175
       }
     },
     {
-      "model": "odyssey:item/weapons/iridium_lance",
+      "model": "odyssey:item/weapon/iridium_lance",
       "predicate": {
         "custom_model_data": 6907176
       }
@@ -149,19 +149,19 @@
       }
     },
     {
-      "model": "odyssey:item/weapons/mithril_spear",
+      "model": "odyssey:item/weapon/mithril_spear",
       "predicate": {
         "custom_model_data": 6907674
       }
     },
     {
-      "model": "odyssey:item/weapons/mithril_halberd",
+      "model": "odyssey:item/weapon/mithril_halberd",
       "predicate": {
         "custom_model_data": 6907675
       }
     },
     {
-      "model": "odyssey:item/weapons/mithril_lance",
+      "model": "odyssey:item/weapon/mithril_lance",
       "predicate": {
         "custom_model_data": 6907676
       }

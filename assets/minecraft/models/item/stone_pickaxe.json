@@ -5,7 +5,7 @@
   },
   "overrides": [
     {
-      "model": "odyssey:item/weapons/stone_warhammer",
+      "model": "odyssey:item/weapon/stone_warhammer",
       "predicate": {
         "custom_model_data": 6905311
       }

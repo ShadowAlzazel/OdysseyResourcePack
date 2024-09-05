@@ -5,7 +5,7 @@
   },
   "overrides": [
     {
-      "model": "odyssey:item/weapons/iron_scythe",
+      "model": "odyssey:item/weapon/iron_scythe",
       "predicate": {
         "custom_model_data": 6905792
       }
@@ -17,7 +17,7 @@
       }
     },
     {
-      "model": "odyssey:item/weapons/silver_scythe",
+      "model": "odyssey:item/weapon/silver_scythe",
       "predicate": {
         "custom_model_data": 6906392
       }
@@ -29,7 +29,7 @@
       }
     },
     {
-      "model": "odyssey:item/weapons/soul_steel_scythe",
+      "model": "odyssey:item/weapon/soul_steel_scythe",
       "predicate": {
         "custom_model_data": 6906692
       }
@@ -41,7 +41,7 @@
       }
     },
     {
-      "model": "odyssey:item/weapons/titanium_scythe",
+      "model": "odyssey:item/weapon/titanium_scythe",
       "predicate": {
         "custom_model_data": 6906892
       }
@@ -53,7 +53,7 @@
       }
     },
     {
-      "model": "odyssey:item/weapons/anodized_titanium_scythe",
+      "model": "odyssey:item/weapon/anodized_titanium_scythe",
       "predicate": {
         "custom_model_data": 6907092
       }
@@ -65,7 +65,7 @@
       }
     },
     {
-      "model": "odyssey:item/weapons/iridium_scythe",
+      "model": "odyssey:item/weapon/iridium_scythe",
       "predicate": {
         "custom_model_data": 6907192
       }
@@ -77,7 +77,7 @@
       }
     },
     {
-      "model": "odyssey:item/weapons/mithril_scythe",
+      "model": "odyssey:item/weapon/mithril_scythe",
       "predicate": {
         "custom_model_data": 6907692
       }

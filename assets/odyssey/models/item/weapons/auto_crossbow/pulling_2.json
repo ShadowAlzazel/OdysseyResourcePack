@@ -1,6 +1,0 @@
-{
-    "parent": "odyssey:item/weapons/auto_crossbow",
-    "textures": {
-        "layer0": "odyssey:item/weapons/auto_crossbow/pulling_2"
-    }
-}

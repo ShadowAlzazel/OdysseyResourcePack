@@ -5,7 +5,7 @@
   },
   "overrides": [
     {
-      "model": "odyssey:item/weapons/stone_scythe",
+      "model": "odyssey:item/weapon/stone_scythe",
       "predicate": {
         "custom_model_data": 6905392
       }

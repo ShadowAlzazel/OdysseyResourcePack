@@ -5,19 +5,19 @@
   },
   "overrides": [
     {
-      "model": "odyssey:item/weapons/stone_spear",
+      "model": "odyssey:item/weapon/stone_spear",
       "predicate": {
         "custom_model_data": 6905374
       }
     },
     {
-      "model": "odyssey:item/weapons/stone_halberd",
+      "model": "odyssey:item/weapon/stone_halberd",
       "predicate": {
         "custom_model_data": 6905375
       }
     },
     {
-      "model": "odyssey:item/weapons/stone_lance",
+      "model": "odyssey:item/weapon/stone_lance",
       "predicate": {
         "custom_model_data": 6905376
       }

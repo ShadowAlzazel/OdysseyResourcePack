@@ -1,7 +1,0 @@
-{
-  "parent": "odyssey:item/weapons/bases/poleaxe",
-  "textures": {
-    "0": "odyssey:item/weapons/poleaxe_texture_netherite",
-    "particle": "odyssey:item/weapons/poleaxe_texture_netherite"
-  }
-}

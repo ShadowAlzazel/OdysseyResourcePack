@@ -5,7 +5,7 @@
   },
   "overrides": [
     {
-      "model": "odyssey:item/weapons/wooden_warhammer",
+      "model": "odyssey:item/weapon/wooden_warhammer",
       "predicate": {
         "custom_model_data": 6905111
       }

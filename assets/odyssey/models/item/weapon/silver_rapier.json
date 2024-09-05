@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapon/bases/rapier",
+  "textures": {
+    "0": "odyssey:item/weapon/rapier_texture_silver",
+    "particle": "odyssey:item/weapon/rapier_texture_silver"
+  }
+}

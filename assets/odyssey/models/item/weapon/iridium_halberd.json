@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapon/bases/halberd",
+  "textures": {
+    "0": "odyssey:item/weapon/halberd_texture_iridium",
+    "particle": "odyssey:item/weapon/halberd_texture_iridium"
+  }
+}

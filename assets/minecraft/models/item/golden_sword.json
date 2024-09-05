@@ -5,73 +5,73 @@
   },
   "overrides": [
     {
-      "model": "odyssey:item/weapons/golden_katana",
+      "model": "odyssey:item/weapon/golden_katana",
       "predicate": {
         "custom_model_data": 6905244
       }
     },
     {
-      "model": "odyssey:item/weapons/golden_claymore",
+      "model": "odyssey:item/weapon/golden_claymore",
       "predicate": {
         "custom_model_data": 6905245
       }
     },
     {
-      "model": "odyssey:item/weapons/golden_dagger",
+      "model": "odyssey:item/weapon/golden_dagger",
       "predicate": {
         "custom_model_data": 6905246
       }
     },
     {
-      "model": "odyssey:item/weapons/golden_rapier",
+      "model": "odyssey:item/weapon/golden_rapier",
       "predicate": {
         "custom_model_data": 6905247
       }
     },
     {
-      "model": "odyssey:item/weapons/golden_cutlass",
+      "model": "odyssey:item/weapon/golden_cutlass",
       "predicate": {
         "custom_model_data": 6905248
       }
     },
     {
-      "model": "odyssey:item/weapons/golden_saber",
+      "model": "odyssey:item/weapon/golden_saber",
       "predicate": {
         "custom_model_data": 6905249
       }
     },
     {
-      "model": "odyssey:item/weapons/golden_sickle",
+      "model": "odyssey:item/weapon/golden_sickle",
       "predicate": {
         "custom_model_data": 6905250
       }
     },
     {
-      "model": "odyssey:item/weapons/golden_chakram",
+      "model": "odyssey:item/weapon/golden_chakram",
       "predicate": {
         "custom_model_data": 6905251
       }
     },
     {
-      "model": "odyssey:item/weapons/golden_kunai",
+      "model": "odyssey:item/weapon/golden_kunai",
       "predicate": {
         "custom_model_data": 6905252
       }
     },
     {
-      "model": "odyssey:item/weapons/golden_longsword",
+      "model": "odyssey:item/weapon/golden_longsword",
       "predicate": {
         "custom_model_data": 6905253
       }
     },
     {
-      "model": "odyssey:item/weapons/golden_arm_blade",
+      "model": "odyssey:item/weapon/golden_arm_blade",
       "predicate": {
         "custom_model_data": 6905254
       }
     },
     {
-      "model": "odyssey:item/weapons/golden_zweihander",
+      "model": "odyssey:item/weapon/golden_zweihander",
       "predicate": {
         "custom_model_data": 6905255
       }
@@ -83,73 +83,73 @@
       }
     },
     {
-      "model": "odyssey:item/weapons/copper_katana",
+      "model": "odyssey:item/weapon/copper_katana",
       "predicate": {
         "custom_model_data": 6905544
       }
     },
     {
-      "model": "odyssey:item/weapons/copper_claymore",
+      "model": "odyssey:item/weapon/copper_claymore",
       "predicate": {
         "custom_model_data": 6905545
       }
     },
     {
-      "model": "odyssey:item/weapons/copper_dagger",
+      "model": "odyssey:item/weapon/copper_dagger",
       "predicate": {
         "custom_model_data": 6905546
       }
     },
     {
-      "model": "odyssey:item/weapons/copper_rapier",
+      "model": "odyssey:item/weapon/copper_rapier",
       "predicate": {
         "custom_model_data": 6905547
       }
     },
     {
-      "model": "odyssey:item/weapons/copper_cutlass",
+      "model": "odyssey:item/weapon/copper_cutlass",
       "predicate": {
         "custom_model_data": 6905548
       }
     },
     {
-      "model": "odyssey:item/weapons/copper_saber",
+      "model": "odyssey:item/weapon/copper_saber",
       "predicate": {
         "custom_model_data": 6905549
       }
     },
     {
-      "model": "odyssey:item/weapons/copper_sickle",
+      "model": "odyssey:item/weapon/copper_sickle",
       "predicate": {
         "custom_model_data": 6905550
       }
     },
     {
-      "model": "odyssey:item/weapons/copper_chakram",
+      "model": "odyssey:item/weapon/copper_chakram",
       "predicate": {
         "custom_model_data": 6905551
       }
     },
     {
-      "model": "odyssey:item/weapons/copper_kunai",
+      "model": "odyssey:item/weapon/copper_kunai",
       "predicate": {
         "custom_model_data": 6905552
       }
     },
     {
-      "model": "odyssey:item/weapons/copper_longsword",
+      "model": "odyssey:item/weapon/copper_longsword",
       "predicate": {
         "custom_model_data": 6905553
       }
     },
     {
-      "model": "odyssey:item/weapons/copper_arm_blade",
+      "model": "odyssey:item/weapon/copper_arm_blade",
       "predicate": {
         "custom_model_data": 6905554
       }
     },
     {
-      "model": "odyssey:item/weapons/copper_zweihander",
+      "model": "odyssey:item/weapon/copper_zweihander",
       "predicate": {
         "custom_model_data": 6905555
       }

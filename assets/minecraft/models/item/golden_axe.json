@@ -5,25 +5,25 @@
   },
   "overrides": [
     {
-      "model": "odyssey:item/weapons/golden_longaxe",
+      "model": "odyssey:item/weapon/golden_longaxe",
       "predicate": {
         "custom_model_data": 6905285
       }
     },
     {
-      "model": "odyssey:item/weapons/golden_poleaxe",
+      "model": "odyssey:item/weapon/golden_poleaxe",
       "predicate": {
         "custom_model_data": 6905286
       }
     },
     {
-      "model": "odyssey:item/weapons/golden_glaive",
+      "model": "odyssey:item/weapon/golden_glaive",
       "predicate": {
         "custom_model_data": 6905287
       }
     },
     {
-      "model": "odyssey:item/weapons/golden_battlesaw",
+      "model": "odyssey:item/weapon/golden_battlesaw",
       "predicate": {
         "custom_model_data": 6905288
       }
@@ -35,25 +35,25 @@
       }
     },
     {
-      "model": "odyssey:item/weapons/copper_longaxe",
+      "model": "odyssey:item/weapon/copper_longaxe",
       "predicate": {
         "custom_model_data": 6905585
       }
     },
     {
-      "model": "odyssey:item/weapons/copper_poleaxe",
+      "model": "odyssey:item/weapon/copper_poleaxe",
       "predicate": {
         "custom_model_data": 6905586
       }
     },
     {
-      "model": "odyssey:item/weapons/copper_glaive",
+      "model": "odyssey:item/weapon/copper_glaive",
       "predicate": {
         "custom_model_data": 6905587
       }
     },
     {
-      "model": "odyssey:item/weapons/copper_battlesaw",
+      "model": "odyssey:item/weapon/copper_battlesaw",
       "predicate": {
         "custom_model_data": 6905588
       }

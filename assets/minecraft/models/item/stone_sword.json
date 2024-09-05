@@ -5,73 +5,73 @@
   },
   "overrides": [
     {
-      "model": "odyssey:item/weapons/stone_katana",
+      "model": "odyssey:item/weapon/stone_katana",
       "predicate": {
         "custom_model_data": 6905344
       }
     },
     {
-      "model": "odyssey:item/weapons/stone_claymore",
+      "model": "odyssey:item/weapon/stone_claymore",
       "predicate": {
         "custom_model_data": 6905345
       }
     },
     {
-      "model": "odyssey:item/weapons/stone_dagger",
+      "model": "odyssey:item/weapon/stone_dagger",
       "predicate": {
         "custom_model_data": 6905346
       }
     },
     {
-      "model": "odyssey:item/weapons/stone_rapier",
+      "model": "odyssey:item/weapon/stone_rapier",
       "predicate": {
         "custom_model_data": 6905347
       }
     },
     {
-      "model": "odyssey:item/weapons/stone_cutlass",
+      "model": "odyssey:item/weapon/stone_cutlass",
       "predicate": {
         "custom_model_data": 6905348
       }
     },
     {
-      "model": "odyssey:item/weapons/stone_saber",
+      "model": "odyssey:item/weapon/stone_saber",
       "predicate": {
         "custom_model_data": 6905349
       }
     },
     {
-      "model": "odyssey:item/weapons/stone_sickle",
+      "model": "odyssey:item/weapon/stone_sickle",
       "predicate": {
         "custom_model_data": 6905350
       }
     },
     {
-      "model": "odyssey:item/weapons/stone_chakram",
+      "model": "odyssey:item/weapon/stone_chakram",
       "predicate": {
         "custom_model_data": 6905351
       }
     },
     {
-      "model": "odyssey:item/weapons/stone_kunai",
+      "model": "odyssey:item/weapon/stone_kunai",
       "predicate": {
         "custom_model_data": 6905352
       }
     },
     {
-      "model": "odyssey:item/weapons/stone_longsword",
+      "model": "odyssey:item/weapon/stone_longsword",
       "predicate": {
         "custom_model_data": 6905353
       }
     },
     {
-      "model": "odyssey:item/weapons/stone_arm_blade",
+      "model": "odyssey:item/weapon/stone_arm_blade",
       "predicate": {
         "custom_model_data": 6905354
       }
     },
     {
-      "model": "odyssey:item/weapons/stone_zweihander",
+      "model": "odyssey:item/weapon/stone_zweihander",
       "predicate": {
         "custom_model_data": 6905355
       }

@@ -5,7 +5,7 @@
   },
   "overrides": [
     {
-      "model": "odyssey:item/weapons/netherite_warhammer",
+      "model": "odyssey:item/weapon/netherite_warhammer",
       "predicate": {
         "custom_model_data": 6905911
       }

@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapon/bases/dagger",
+  "textures": {
+    "0": "odyssey:item/weapon/dagger_texture_soul_steel",
+    "particle": "odyssey:item/weapon/dagger_texture_soul_steel"
+  }
+}
