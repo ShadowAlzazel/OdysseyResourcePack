@@ -108,7 +108,6 @@ def write_to_global_obj(material: str, base: str, trim_name: str, namespace: int
     # Check for darker
     #if (trim_name == material or gold_on_gold):
     #    trim = f'{trim_name}_darker'
-    
     # Create model case obj 
     model_obj = {
         "model": {

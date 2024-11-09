@@ -1,9 +1,0 @@
-{
-    "parent": "minecraft:item/generated",
-    "textures": {
-      "layer0": "minecraft:item/cooked_salmon"
-    },
-    "overrides": [
-      { "predicate": {"custom_model_data": 6908048}, "model": "odyssey:item/foods/salmon_roll"}
-    ]
-  }

@@ -1,9 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/netherite_scrap"
-  },
-  "overrides": [
-    { "predicate": {"custom_model_data": 6900565}, "model": "odyssey:item/materials/neutronium_bark_scraps"}
-  ]
-}
