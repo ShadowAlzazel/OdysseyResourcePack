@@ -11,7 +11,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/silver_hoe",
+      "model": "odyssey:item/tool/silver_hoe",
       "predicate": {
         "custom_model_data": 6906309
       }
@@ -23,7 +23,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/soul_steel_hoe",
+      "model": "odyssey:item/tool/soul_steel_hoe",
       "predicate": {
         "custom_model_data": 6906609
       }
@@ -35,7 +35,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/titanium_hoe",
+      "model": "odyssey:item/tool/titanium_hoe",
       "predicate": {
         "custom_model_data": 6906809
       }
@@ -47,7 +47,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/anodized_titanium_hoe",
+      "model": "odyssey:item/tool/anodized_titanium_hoe",
       "predicate": {
         "custom_model_data": 6907009
       }
@@ -59,7 +59,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/iridium_hoe",
+      "model": "odyssey:item/tool/iridium_hoe",
       "predicate": {
         "custom_model_data": 6907109
       }
@@ -71,7 +71,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/mithril_hoe",
+      "model": "odyssey:item/tool/mithril_hoe",
       "predicate": {
         "custom_model_data": 6907609
       }

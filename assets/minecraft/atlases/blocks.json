@@ -26,11 +26,11 @@
         "odyssey:item/weapon/arm_blade_texture",
         "odyssey:item/weapon/zweihander_texture",
 
-        "odyssey:item/equipment/base_sword",
-        "odyssey:item/equipment/base_pickaxe",
-        "odyssey:item/equipment/base_axe",
-        "odyssey:item/equipment/base_shovel",
-        "odyssey:item/equipment/base_hoe"
+        "odyssey:item/tool/base_sword",
+        "odyssey:item/tool/base_pickaxe",
+        "odyssey:item/tool/base_axe",
+        "odyssey:item/tool/base_shovel",
+        "odyssey:item/tool/base_hoe"
       ],
       "palette_key": "odyssey:colormap/weapon_palettes/base_weapon_palette",
       "permutations": {

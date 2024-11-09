@@ -72,7 +72,11 @@ def create_armor_trim_files():
                 
 
 def write_armor_trim_file(material: str, base: str, trim: str, key: str):
-    filename = f'{material}_{base}_{trim}_trim.json'
+    # Create Darker
+    trim_id = trim
+    if trim == material:
+        trim_id = f"{trim}_darker"
+    filename = f'{material}_{base}_{trim_id}_trim.json'
     # Create layer0
     if key == "odyssey":
         layer0 = f"{key}:item/armor/{material}_{base}"
@@ -83,7 +87,7 @@ def write_armor_trim_file(material: str, base: str, trim: str, key: str):
         "parent": "minecraft:item/generated",
         "textures": {
             "layer0": layer0,
-            "layer1": f"minecraft:trims/items/{base}_trim_{trim}",
+            "layer1": f"minecraft:trims/items/{base}_trim_{trim_id}",
         }
     }
     text = json.dumps(json_obj, indent=2)

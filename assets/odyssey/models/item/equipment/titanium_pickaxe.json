@@ -1,6 +1,0 @@
-{
-  "parent": "odyssey:item/equipment/bases/pickaxe",
-  "textures": {
-    "layer0": "odyssey:item/equipment/base_pickaxe_titanium"
-  }
-}

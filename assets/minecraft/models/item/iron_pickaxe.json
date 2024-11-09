@@ -11,7 +11,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/silver_pickaxe",
+      "model": "odyssey:item/tool/silver_pickaxe",
       "predicate": {
         "custom_model_data": 6906306
       }
@@ -23,7 +23,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/soul_steel_pickaxe",
+      "model": "odyssey:item/tool/soul_steel_pickaxe",
       "predicate": {
         "custom_model_data": 6906606
       }
@@ -35,7 +35,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/titanium_pickaxe",
+      "model": "odyssey:item/tool/titanium_pickaxe",
       "predicate": {
         "custom_model_data": 6906806
       }
@@ -47,7 +47,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/anodized_titanium_pickaxe",
+      "model": "odyssey:item/tool/anodized_titanium_pickaxe",
       "predicate": {
         "custom_model_data": 6907006
       }
@@ -59,7 +59,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/iridium_pickaxe",
+      "model": "odyssey:item/tool/iridium_pickaxe",
       "predicate": {
         "custom_model_data": 6907106
       }
@@ -71,7 +71,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/mithril_pickaxe",
+      "model": "odyssey:item/tool/mithril_pickaxe",
       "predicate": {
         "custom_model_data": 6907606
       }

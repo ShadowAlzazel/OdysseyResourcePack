@@ -11,7 +11,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/copper_pickaxe",
+      "model": "odyssey:item/tool/copper_pickaxe",
       "predicate": {
         "custom_model_data": 6905506
       }

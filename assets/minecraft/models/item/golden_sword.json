@@ -77,7 +77,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/copper_sword",
+      "model": "odyssey:item/tool/copper_sword",
       "predicate": {
         "custom_model_data": 6905505
       }

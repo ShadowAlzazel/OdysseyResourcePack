@@ -130,7 +130,7 @@ def create_model_files():
             # Set Folder name space
             item_space = "weapon"
             if ttyp.name == ttyp.item_override_suf:
-                item_space = "equipment"
+                item_space = "tool"
             # Create override to add
             override_obj = {
                 "model": f"odyssey:item/{item_space}/{item_name}",

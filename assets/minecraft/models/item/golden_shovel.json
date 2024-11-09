@@ -23,7 +23,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/copper_shovel",
+      "model": "odyssey:item/tool/copper_shovel",
       "predicate": {
         "custom_model_data": 6905508
       }

@@ -29,7 +29,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/copper_axe",
+      "model": "odyssey:item/tool/copper_axe",
       "predicate": {
         "custom_model_data": 6905507
       }

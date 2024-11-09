@@ -29,7 +29,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/silver_axe",
+      "model": "odyssey:item/tool/silver_axe",
       "predicate": {
         "custom_model_data": 6906307
       }
@@ -59,7 +59,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/soul_steel_axe",
+      "model": "odyssey:item/tool/soul_steel_axe",
       "predicate": {
         "custom_model_data": 6906607
       }
@@ -89,7 +89,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/titanium_axe",
+      "model": "odyssey:item/tool/titanium_axe",
       "predicate": {
         "custom_model_data": 6906807
       }
@@ -119,7 +119,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/anodized_titanium_axe",
+      "model": "odyssey:item/tool/anodized_titanium_axe",
       "predicate": {
         "custom_model_data": 6907007
       }
@@ -149,7 +149,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/iridium_axe",
+      "model": "odyssey:item/tool/iridium_axe",
       "predicate": {
         "custom_model_data": 6907107
       }
@@ -179,7 +179,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/mithril_axe",
+      "model": "odyssey:item/tool/mithril_axe",
       "predicate": {
         "custom_model_data": 6907607
       }

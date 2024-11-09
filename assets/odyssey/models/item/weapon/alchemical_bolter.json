@@ -1,7 +1,7 @@
 {
     "parent": "item/crossbow",
     "textures": {
-        "layer0": "odyssey:item/weapons/alchemical_bolter"
+        "layer0": "odyssey:item/weapon/alchemical_bolter"
     },
     "display": {
         "thirdperson_righthand": {
@@ -30,34 +30,34 @@
             "predicate": {
                 "pulling": 1
             },
-            "model": "odyssey:item/weapons/alchemical_bolter/pulling_0"
+            "model": "odyssey:item/weapon/alchemical_bolter/pulling_0"
         },
         {
             "predicate": {
                 "pulling": 1,
                 "pull": 0.58
             },
-            "model": "odyssey:item/weapons/alchemical_bolter/pulling_1"
+            "model": "odyssey:item/weapon/alchemical_bolter/pulling_1"
         },
         {
             "predicate": {
                 "pulling": 1,
                 "pull": 1.0
             },
-            "model": "odyssey:item/weapons/alchemical_bolter/pulling_2"
+            "model": "odyssey:item/weapon/alchemical_bolter/pulling_2"
         },
         {
             "predicate": {
                 "charged": 1
             },
-            "model": "odyssey:item/weapons/alchemical_bolter/arrow"
+            "model": "odyssey:item/weapon/alchemical_bolter/arrow"
         },
         {
             "predicate": {
                 "charged": 1,
                 "firework": 1
             },
-            "model": "odyssey:item/weapons/alchemical_bolter/firework"
+            "model": "odyssey:item/weapon/alchemical_bolter/firework"
         }
     ]
 }

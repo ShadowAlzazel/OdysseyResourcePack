@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/tool/bases/axe",
+  "textures": {
+    "layer0": "odyssey:item/tool/base_axe_titanium"
+  }
+}

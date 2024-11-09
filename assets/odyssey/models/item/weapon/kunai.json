@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-      "layer0": "odyssey:item/weapons/kunai_base"
+      "layer0": "odyssey:item/weapon/kunai_base"
     }
   }

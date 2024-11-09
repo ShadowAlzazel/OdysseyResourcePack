@@ -23,7 +23,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/silver_shovel",
+      "model": "odyssey:item/tool/silver_shovel",
       "predicate": {
         "custom_model_data": 6906308
       }
@@ -47,7 +47,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/soul_steel_shovel",
+      "model": "odyssey:item/tool/soul_steel_shovel",
       "predicate": {
         "custom_model_data": 6906608
       }
@@ -71,7 +71,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/titanium_shovel",
+      "model": "odyssey:item/tool/titanium_shovel",
       "predicate": {
         "custom_model_data": 6906808
       }
@@ -95,7 +95,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/anodized_titanium_shovel",
+      "model": "odyssey:item/tool/anodized_titanium_shovel",
       "predicate": {
         "custom_model_data": 6907008
       }
@@ -119,7 +119,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/iridium_shovel",
+      "model": "odyssey:item/tool/iridium_shovel",
       "predicate": {
         "custom_model_data": 6907108
       }
@@ -143,7 +143,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/mithril_shovel",
+      "model": "odyssey:item/tool/mithril_shovel",
       "predicate": {
         "custom_model_data": 6907608
       }

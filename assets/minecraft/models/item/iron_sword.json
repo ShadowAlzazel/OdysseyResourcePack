@@ -77,7 +77,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/silver_sword",
+      "model": "odyssey:item/tool/silver_sword",
       "predicate": {
         "custom_model_data": 6906305
       }
@@ -155,7 +155,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/soul_steel_sword",
+      "model": "odyssey:item/tool/soul_steel_sword",
       "predicate": {
         "custom_model_data": 6906605
       }
@@ -233,7 +233,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/titanium_sword",
+      "model": "odyssey:item/tool/titanium_sword",
       "predicate": {
         "custom_model_data": 6906805
       }
@@ -311,7 +311,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/anodized_titanium_sword",
+      "model": "odyssey:item/tool/anodized_titanium_sword",
       "predicate": {
         "custom_model_data": 6907005
       }
@@ -389,7 +389,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/iridium_sword",
+      "model": "odyssey:item/tool/iridium_sword",
       "predicate": {
         "custom_model_data": 6907105
       }
@@ -467,7 +467,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/mithril_sword",
+      "model": "odyssey:item/tool/mithril_sword",
       "predicate": {
         "custom_model_data": 6907605
       }
@@ -542,6 +542,55 @@
       "model": "odyssey:item/weapon/mithril_zweihander",
       "predicate": {
         "custom_model_data": 6907655
+      }
+    }, 
+
+    {
+      "model": "odyssey:item/weapon/knight_breaker",
+      "predicate": {
+        "custom_model_data": 6909600
+      }
+    },
+    {
+      "model": "odyssey:item/weapon/shogun_lightning",
+      "predicate": {
+        "custom_model_data": 6909601
+      }
+    },
+    {
+      "model": "odyssey:item/weapon/abzu_blade",
+      "predicate": {
+        "custom_model_data": 6909602
+      }
+    },
+    {
+      "model": "odyssey:item/weapon/excalibur",
+      "predicate": {
+        "custom_model_data": 6909603
+      }
+    },
+    {
+      "model": "odyssey:item/weapon/frost_fang",
+      "predicate": {
+        "custom_model_data": 6909604
+      }
+    },
+    {
+      "model": "odyssey:item/weapon/elucidator",
+      "predicate": {
+        "custom_model_data": 6909605
+      }
+    },
+    {
+      "model": "odyssey:item/weapon/serenity_iris",
+      "predicate": {
+        "custom_model_data": 6909606
+      }
+    },
+    {
+      "model": "odyssey:item/weapon/the_dragon_slayer",
+      "predicate": {
+        "custom_model_data": 6909607
       }
     }
   ]

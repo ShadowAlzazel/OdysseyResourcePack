@@ -63,14 +63,14 @@
             "predicate": {
                 "custom_model_data": 6905535
             },
-            "model": "odyssey:item/weapons/compact_crossbow"
+            "model": "odyssey:item/weapon/compact_crossbow"
         },
         {
             "predicate": {
                 "custom_model_data": 6905535,
                 "pulling": 1
             },
-            "model": "odyssey:item/weapons/compact_crossbow/pulling_0"
+            "model": "odyssey:item/weapon/compact_crossbow/pulling_0"
         },
         {
             "predicate": {
@@ -78,7 +78,7 @@
                 "pulling": 1,
                 "pull": 0.58
             },
-            "model": "odyssey:item/weapons/compact_crossbow/pulling_1"
+            "model": "odyssey:item/weapon/compact_crossbow/pulling_1"
         },
         {
             "predicate": {
@@ -86,14 +86,14 @@
                 "pulling": 1,
                 "pull": 1.0
             },
-            "model": "odyssey:item/weapons/compact_crossbow/pulling_2"
+            "model": "odyssey:item/weapon/compact_crossbow/pulling_2"
         },
         {
             "predicate": {
                 "custom_model_data": 6905535,
                 "charged": 1
             },
-            "model": "odyssey:item/weapons/compact_crossbow/arrow"
+            "model": "odyssey:item/weapon/compact_crossbow/arrow"
         },
         {
             "predicate": {
@@ -101,20 +101,20 @@
                 "charged": 1,
                 "firework": 1
             },
-            "model": "odyssey:item/weapons/compact_crossbow/firework"
+            "model": "odyssey:item/weapon/compact_crossbow/firework"
         },
         {
             "predicate": {
                 "custom_model_data": 6905536
             },
-            "model": "odyssey:item/weapons/auto_crossbow"
+            "model": "odyssey:item/weapon/auto_crossbow"
         },
         {
             "predicate": {
                 "custom_model_data": 6905536,
                 "pulling": 1
             },
-            "model": "odyssey:item/weapons/auto_crossbow/pulling_0"
+            "model": "odyssey:item/weapon/auto_crossbow/pulling_0"
         },
         {
             "predicate": {
@@ -122,7 +122,7 @@
                 "pulling": 1,
                 "pull": 0.58
             },
-            "model": "odyssey:item/weapons/auto_crossbow/pulling_1"
+            "model": "odyssey:item/weapon/auto_crossbow/pulling_1"
         },
         {
             "predicate": {
@@ -130,14 +130,14 @@
                 "pulling": 1,
                 "pull": 1.0
             },
-            "model": "odyssey:item/weapons/auto_crossbow/pulling_2"
+            "model": "odyssey:item/weapon/auto_crossbow/pulling_2"
         },
         {
             "predicate": {
                 "custom_model_data": 6905536,
                 "charged": 1
             },
-            "model": "odyssey:item/weapons/auto_crossbow/arrow"
+            "model": "odyssey:item/weapon/auto_crossbow/arrow"
         },
         {
             "predicate": {
@@ -145,20 +145,20 @@
                 "charged": 1,
                 "firework": 1
             },
-            "model": "odyssey:item/weapons/auto_crossbow/firework"
+            "model": "odyssey:item/weapon/auto_crossbow/firework"
         },
         {
             "predicate": {
                 "custom_model_data": 6905537
             },
-            "model": "odyssey:item/weapons/alchemical_bolter"
+            "model": "odyssey:item/weapon/alchemical_bolter"
         },
         {
             "predicate": {
                 "custom_model_data": 6905537,
                 "pulling": 1
             },
-            "model": "odyssey:item/weapons/alchemical_bolter/pulling_0"
+            "model": "odyssey:item/weapon/alchemical_bolter/pulling_0"
         },
         {
             "predicate": {
@@ -166,7 +166,7 @@
                 "pulling": 1,
                 "pull": 0.58
             },
-            "model": "odyssey:item/weapons/alchemical_bolter/pulling_1"
+            "model": "odyssey:item/weapon/alchemical_bolter/pulling_1"
         },
         {
             "predicate": {
@@ -174,14 +174,14 @@
                 "pulling": 1,
                 "pull": 1.0
             },
-            "model": "odyssey:item/weapons/alchemical_bolter/pulling_2"
+            "model": "odyssey:item/weapon/alchemical_bolter/pulling_2"
         },
         {
             "predicate": {
                 "custom_model_data": 6905537,
                 "charged": 1
             },
-            "model": "odyssey:item/weapons/alchemical_bolter/arrow"
+            "model": "odyssey:item/weapon/alchemical_bolter/arrow"
         },
         {
             "predicate": {
@@ -189,7 +189,7 @@
                 "charged": 1,
                 "firework": 1
             },
-            "model": "odyssey:item/weapons/alchemical_bolter/firework"
+            "model": "odyssey:item/weapon/alchemical_bolter/firework"
         }
     ]
 }

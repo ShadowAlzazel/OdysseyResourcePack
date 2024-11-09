@@ -11,7 +11,7 @@
       }
     },
     {
-      "model": "odyssey:item/equipment/copper_hoe",
+      "model": "odyssey:item/tool/copper_hoe",
       "predicate": {
         "custom_model_data": 6905509
       }
