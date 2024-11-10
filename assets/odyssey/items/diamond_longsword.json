@@ -1,0 +1,100 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/blade_diamond"
+            },
+            "when": "blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/fancy_blade_diamond"
+            },
+            "when": "fancy_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/imperial_blade_diamond"
+            },
+            "when": "imperial_blade"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/longsword/composite/blade_diamond"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 1
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/handle_diamond"
+            },
+            "when": "handle"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/longsword/composite/handle_diamond"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 2
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/hilt_diamond"
+            },
+            "when": "hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/imperial_hilt_diamond"
+            },
+            "when": "imperial_hilt"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/longsword/composite/hilt_diamond"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 3
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/pommel_diamond"
+            },
+            "when": "pommel"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/longsword/composite/pommel_diamond"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 4
+      }
+    ]
+  }
+}

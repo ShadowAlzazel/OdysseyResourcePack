@@ -1,0 +1,100 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/blade_netherite"
+            },
+            "when": "blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/fancy_blade_netherite"
+            },
+            "when": "fancy_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/imperial_blade_netherite"
+            },
+            "when": "imperial_blade"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/longsword/composite/blade_netherite"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 1
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/handle_netherite"
+            },
+            "when": "handle"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/longsword/composite/handle_netherite"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 2
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/hilt_netherite"
+            },
+            "when": "hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/imperial_hilt_netherite"
+            },
+            "when": "imperial_hilt"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/longsword/composite/hilt_netherite"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 3
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/pommel_netherite"
+            },
+            "when": "pommel"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/longsword/composite/pommel_netherite"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 4
+      }
+    ]
+  }
+}

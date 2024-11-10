@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "odyssey:item/weapon/composite/broadsword/voyager_hilt"
+  }
+}

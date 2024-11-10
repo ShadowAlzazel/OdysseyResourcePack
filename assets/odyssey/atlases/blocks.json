@@ -28,6 +28,26 @@
 
         "odyssey:item/weapon/shuriken_base",
 
+        "odyssey:item/weapon/composite/broadsword/big_blade",
+        "odyssey:item/weapon/composite/broadsword/blade",
+        "odyssey:item/weapon/composite/broadsword/fancy_blade",
+        "odyssey:item/weapon/composite/broadsword/fancy_hilt",
+        "odyssey:item/weapon/composite/broadsword/fancy_pommel",
+        "odyssey:item/weapon/composite/broadsword/handle",
+        "odyssey:item/weapon/composite/broadsword/hilt",
+        "odyssey:item/weapon/composite/broadsword/imperial_hilt",
+        "odyssey:item/weapon/composite/broadsword/voyager_hilt",
+        "odyssey:item/weapon/composite/broadsword/pommel",
+        "odyssey:item/weapon/composite/broadsword/thick_handle",
+
+        "odyssey:item/weapon/composite/longsword/imperial_blade",
+        "odyssey:item/weapon/composite/longsword/blade",
+        "odyssey:item/weapon/composite/longsword/handle",
+        "odyssey:item/weapon/composite/longsword/hilt",
+        "odyssey:item/weapon/composite/longsword/imperial_hilt",
+        "odyssey:item/weapon/composite/longsword/pommel",
+        "odyssey:item/weapon/composite/longsword/fancy_blade",
+
         "odyssey:item/tool/base_sword",
         "odyssey:item/tool/base_pickaxe",
         "odyssey:item/tool/base_axe",

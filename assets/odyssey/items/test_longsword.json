@@ -8,28 +8,14 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/longer_blade"
+              "model": "odyssey:item/weapons/longsword/imperial_blade"
             },
-            "when": "longer_blade"
-          },
-          {
-            "model": {
-              "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/big_blade"
-            },
-            "when": "big_blade"
-          },
-          {
-            "model": {
-              "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/fancy_blade"
-            },
-            "when": "fancy_blade"
+            "when": "imperial_blade"
           }
         ],
         "fallback": {
           "type": "minecraft:model",
-          "model": "odyssey:item/weapons/longsword/composite/blade"
+          "model": "odyssey:item/weapons/longsword/blade"
         },
         "property": "minecraft:custom_model_data",
         "index": 1
@@ -40,14 +26,14 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/thick_handle"
+              "model": "odyssey:item/weapons/longsword/imperial_blade"
             },
-            "when": "thick_handle"
+            "when": "imperial_blade"
           }
         ],
         "fallback": {
           "type": "minecraft:model",
-          "model": "odyssey:item/weapons/longsword/composite/handle"
+          "model": "odyssey:item/weapons/longsword/handle"
         },
         "property": "minecraft:custom_model_data",
         "index": 2
@@ -58,21 +44,14 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/fancy_hilt"
+              "model": "odyssey:item/weapons/longsword/imperial_blade"
             },
-            "when": "fancy_hilt"
-          },
-          {
-            "model": {
-              "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/imperial_hilt"
-            },
-            "when": "imperial_hilt"
+            "when": "imperial_blade"
           }
         ],
         "fallback": {
           "type": "minecraft:model",
-          "model": "odyssey:item/weapons/longsword/composite/hilt"
+          "model": "odyssey:item/weapons/longsword/hilt"
         },
         "property": "minecraft:custom_model_data",
         "index": 3
@@ -83,14 +62,14 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/fancy_pommel"
+              "model": "odyssey:item/weapons/longsword/imperial_blade"
             },
-            "when": "fancy_pommel"
+            "when": "imperial_blade"
           }
         ],
         "fallback": {
           "type": "minecraft:model",
-          "model": "odyssey:item/weapons/longsword/composite/pommel"
+          "model": "odyssey:item/weapons/longsword/pommel"
         },
         "property": "minecraft:custom_model_data",
         "index": 4
