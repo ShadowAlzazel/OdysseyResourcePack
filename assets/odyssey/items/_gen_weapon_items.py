@@ -19,7 +19,8 @@ MATERIALS = [
     "mithril",
     "iridium",
     "netherite",
-    "silver"
+    "silver",
+    "iron"
 ]
 
 WEAPON_PARTS = {
@@ -29,6 +30,7 @@ WEAPON_PARTS = {
          "big_blade"],
         ["handle"],
         ["hilt",
+         "fancy_hilt",
          "imperial_hilt",
          "voyager_hilt"],
         ["pommel",
@@ -36,11 +38,14 @@ WEAPON_PARTS = {
     ],
      "longsword": [
         ["blade",
+         "big_blade",
          "fancy_blade",
          "imperial_blade"],
         ["handle"],
         ["hilt",
-         "imperial_hilt"],
+         "fancy_hilt",
+         "imperial_hilt",
+         "voyager_hilt"],
         ["pommel"]
     ]
 }

@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapons/broadsword/pommel",
+  "textures": {
+    "0": "odyssey:item/weapon/composite/broadsword/pommel_iron",
+    "particle": "odyssey:item/weapon/composite/broadsword/pommel_iron"
+  }
+}

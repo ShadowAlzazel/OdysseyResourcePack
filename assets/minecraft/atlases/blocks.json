@@ -46,6 +46,9 @@
         "odyssey:item/weapon/composite/longsword/imperial_hilt",
         "odyssey:item/weapon/composite/longsword/pommel",
         "odyssey:item/weapon/composite/longsword/fancy_blade",
+        "odyssey:item/weapon/composite/longsword/fancy_hilt",
+        "odyssey:item/weapon/composite/longsword/big_blade",
+        "odyssey:item/weapon/composite/longsword/voyager_hilt",
 
         "odyssey:item/tool/base_sword",
         "odyssey:item/tool/base_pickaxe",
@@ -102,7 +105,9 @@
         "trims/items/leggings_trim",
         "trims/items/chestplate_trim",
         "trims/items/helmet_trim",
-        "trims/items/boots_trim"
+        "trims/items/boots_trim",
+
+        "odyssey:item/misc/fancy_book/lining"
       ],
       "palette_key": "trims/color_palettes/trim_palette",
       "permutations": {
@@ -111,8 +116,8 @@
         "soulquartz": "odyssey:trims/color_palettes/soulquartz",
         "soulsteel": "odyssey:trims/color_palettes/soulsteel",
         "obsidian": "odyssey:trims/color_palettes/obsidian",
-        "neptuniandiamond": "odyssey:trims/color_palettes/neptuniandiamond",
-        "jovianemerald": "odyssey:trims/color_palettes/jovianemerald",
+        "neptunian": "odyssey:trims/color_palettes/neptunian",
+        "jovianite": "odyssey:trims/color_palettes/jovianite",
         "jade": "odyssey:trims/color_palettes/jade",
         "ruby": "odyssey:trims/color_palettes/ruby",
         "mithril": "odyssey:trims/color_palettes/mithril",
@@ -134,7 +139,8 @@
         "iron_darker": "trims/color_palettes/iron_darker",
         "gold_darker": "trims/color_palettes/gold_darker",
         "diamond_darker": "trims/color_palettes/diamond_darker",
-        "netherite_darker": "trims/color_palettes/netherite_darker"
+        "netherite_darker": "trims/color_palettes/netherite_darker",
+        "resin": "trims/color_palettes/resin"
       }
     }
   ]

@@ -47,6 +47,9 @@
         "odyssey:item/weapon/composite/longsword/imperial_hilt",
         "odyssey:item/weapon/composite/longsword/pommel",
         "odyssey:item/weapon/composite/longsword/fancy_blade",
+        "odyssey:item/weapon/composite/longsword/fancy_hilt",
+        "odyssey:item/weapon/composite/longsword/big_blade",
+        "odyssey:item/weapon/composite/longsword/voyager_hilt",
 
         "odyssey:item/tool/base_sword",
         "odyssey:item/tool/base_pickaxe",
@@ -103,7 +106,9 @@
         "trims/items/leggings_trim",
         "trims/items/chestplate_trim",
         "trims/items/helmet_trim",
-        "trims/items/boots_trim"
+        "trims/items/boots_trim",
+
+        "odyssey:item/misc/fancy_book/lining"
       ],
       "palette_key": "trims/color_palettes/trim_palette",
       "permutations": {
@@ -131,7 +136,8 @@
         "copper": "trims/color_palettes/copper",
         "emerald": "trims/color_palettes/emerald",
         "lapis": "trims/color_palettes/lapis",
-        "amethyst": "trims/color_palettes/amethyst"
+        "amethyst": "trims/color_palettes/amethyst",
+        "resin": "trims/color_palettes/resin"
       }
     }
   ]

@@ -45,7 +45,8 @@ minecraft_trims = [
     "emerald",
     "diamond",
     "lapis",
-    "amethyst"
+    "amethyst",
+    "resin"
 ]
 
 # Function to create files
@@ -118,7 +119,6 @@ def write_armor_trim_file(material: str, base: str, trim_name: str, key: str):
 def main():
     # Prompt 
     print("Confirm Creation of New files? This will overwrite old files.")
-    print(f"Will Create {len(armor_bases) * len(minecraft_armor_materials) * len(odyssey_trims)} armor trim files.")
     print("Proceed (y/n) . . .")
     answer = input()
     # Input

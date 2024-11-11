@@ -65,6 +65,13 @@
           {
             "model": {
               "type": "minecraft:model",
+              "model": "odyssey:item/weapons/broadsword/composite/fancy_hilt_iridium"
+            },
+            "when": "fancy_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
               "model": "odyssey:item/weapons/broadsword/composite/imperial_hilt_iridium"
             },
             "when": "imperial_hilt"

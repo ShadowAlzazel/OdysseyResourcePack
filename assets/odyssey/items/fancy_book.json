@@ -1,0 +1,78 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "odyssey:item/misc/fancy_book/cover",
+        "tints": [
+          {
+            "type": "minecraft:dye",
+            "default": -6265536
+          }
+        ]
+      },
+      {
+        "type": "minecraft:model",
+        "model": "odyssey:item/misc/fancy_book/pages"
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/fancy_book/composite/lining_iridium"
+            },
+            "when": "iridium"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/fancy_book/composite/lining_gold"
+            },
+            "when": "gold"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/fancy_book/composite/lining_titanium"
+            },
+            "when": "titanium"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/fancy_book/composite/lining_silver"
+            },
+            "when": "silver"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/fancy_book/composite/lining_diamond"
+            },
+            "when": "diamond"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/fancy_book/composite/lining_netherite"
+            },
+            "when": "netherite"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/misc/fancy_book/composite/lining_gold"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 1
+      },
+      {
+        "type": "minecraft:model",
+        "model": "odyssey:item/misc/fancy_book/sash"
+      }
+    ]
+  }
+}

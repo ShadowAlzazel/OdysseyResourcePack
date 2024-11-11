@@ -14,16 +14,20 @@ MATERIALS = [
     "mithril",
     "iridium",
     "netherite",
-    "silver"
+    "silver",
+    "iron"
 ]
 
 PARTS = [
     "imperial_blade",
     "blade",
+    "big_blade",
     "fancy_blade",
     "handle",
     "hilt",
+    "fancy_hilt",
     "imperial_hilt",
+    "voyager_hilt",
     "pommel"
 ]
 

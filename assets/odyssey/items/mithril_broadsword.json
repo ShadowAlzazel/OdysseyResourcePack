@@ -65,6 +65,13 @@
           {
             "model": {
               "type": "minecraft:model",
+              "model": "odyssey:item/weapons/broadsword/composite/fancy_hilt_mithril"
+            },
+            "when": "fancy_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
               "model": "odyssey:item/weapons/broadsword/composite/imperial_hilt_mithril"
             },
             "when": "imperial_hilt"

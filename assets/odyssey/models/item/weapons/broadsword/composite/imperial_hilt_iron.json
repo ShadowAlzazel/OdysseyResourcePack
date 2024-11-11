@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapons/broadsword/imperial_hilt",
+  "textures": {
+    "0": "odyssey:item/weapon/composite/broadsword/imperial_hilt_iron",
+    "particle": "odyssey:item/weapon/composite/broadsword/imperial_hilt_iron"
+  }
+}

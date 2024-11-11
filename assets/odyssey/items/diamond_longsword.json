@@ -15,6 +15,13 @@
           {
             "model": {
               "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/big_blade_diamond"
+            },
+            "when": "big_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
               "model": "odyssey:item/weapons/longsword/composite/fancy_blade_diamond"
             },
             "when": "fancy_blade"
@@ -65,9 +72,23 @@
           {
             "model": {
               "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/fancy_hilt_diamond"
+            },
+            "when": "fancy_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
               "model": "odyssey:item/weapons/longsword/composite/imperial_hilt_diamond"
             },
             "when": "imperial_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/voyager_hilt_diamond"
+            },
+            "when": "voyager_hilt"
           }
         ],
         "fallback": {
