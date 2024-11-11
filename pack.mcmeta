@@ -1,9 +1,9 @@
 {
   "pack": {
-    "pack_format": 37,
+    "pack_format": 44,
 		"supported_formats": [
 			15,
-			37
+			44
 		],
     "description": "Odyssey assets and textures"
   }

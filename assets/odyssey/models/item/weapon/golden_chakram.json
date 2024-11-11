@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapon/bases/chakram",
+  "textures": {
+    "0": "odyssey:item/weapon/chakram_texture_golden",
+    "particle": "odyssey:item/weapon/chakram_texture_golden"
+  }
+}

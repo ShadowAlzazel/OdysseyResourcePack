@@ -1,7 +1,0 @@
-{
-  "parent": "odyssey:item/weapons/bases/halberd",
-  "textures": {
-    "0": "odyssey:item/weapons/halberd_texture_stone",
-    "particle": "odyssey:item/weapons/halberd_texture_stone"
-  }
-}

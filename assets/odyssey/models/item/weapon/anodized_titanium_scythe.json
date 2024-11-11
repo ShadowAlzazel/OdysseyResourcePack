@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapon/bases/scythe",
+  "textures": {
+    "0": "odyssey:item/weapon/scythe_texture_anodized_titanium",
+    "particle": "odyssey:item/weapon/scythe_texture_anodized_titanium"
+  }
+}

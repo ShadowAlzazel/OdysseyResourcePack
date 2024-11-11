@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapon/bases/longsword",
+  "textures": {
+    "0": "odyssey:item/weapon/longsword_texture_silver",
+    "particle": "odyssey:item/weapon/longsword_texture_silver"
+  }
+}

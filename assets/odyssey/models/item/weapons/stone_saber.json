@@ -1,7 +1,0 @@
-{
-  "parent": "odyssey:item/weapons/bases/saber",
-  "textures": {
-    "0": "odyssey:item/weapons/saber_texture_stone",
-    "particle": "odyssey:item/weapons/saber_texture_stone"
-  }
-}

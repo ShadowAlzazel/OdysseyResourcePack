@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapon/bases/kunai",
+  "textures": {
+    "0": "odyssey:item/weapon/kunai_texture_silver",
+    "particle": "odyssey:item/weapon/kunai_texture_silver"
+  }
+}

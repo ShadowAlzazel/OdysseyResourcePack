@@ -1,0 +1,7 @@
+{
+    "parent": "odyssey:item/misc/fancy_book/lining",
+    "textures": {
+      "layer0": "odyssey:item/misc/fancy_book/lining_silver"
+    }
+  }
+  

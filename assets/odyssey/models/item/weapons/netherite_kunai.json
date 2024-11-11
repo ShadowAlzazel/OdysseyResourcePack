@@ -1,7 +1,0 @@
-{
-  "parent": "odyssey:item/weapons/bases/kunai",
-  "textures": {
-    "0": "odyssey:item/weapons/kunai_texture_netherite",
-    "particle": "odyssey:item/weapons/kunai_texture_netherite"
-  }
-}

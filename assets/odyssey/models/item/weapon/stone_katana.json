@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapon/bases/katana",
+  "textures": {
+    "0": "odyssey:item/weapon/katana_texture_stone",
+    "particle": "odyssey:item/weapon/katana_texture_stone"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapon/bases/arm_blade",
+  "textures": {
+    "0": "odyssey:item/weapon/arm_blade_texture_titanium",
+    "particle": "odyssey:item/weapon/arm_blade_texture_titanium"
+  }
+}

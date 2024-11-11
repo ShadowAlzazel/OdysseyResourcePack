@@ -1,9 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/arrow"
-  },
-  "overrides": [
-    { "predicate": { "custom_model_data": 6903820}, "model": "odyssey:item/equipment/explosive_arrow"}
-  ]
-}

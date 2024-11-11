@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapon/bases/longaxe",
+  "textures": {
+    "0": "odyssey:item/weapon/longaxe_texture_netherite",
+    "particle": "odyssey:item/weapon/longaxe_texture_netherite"
+  }
+}

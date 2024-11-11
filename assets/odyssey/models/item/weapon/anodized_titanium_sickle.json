@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapon/bases/sickle",
+  "textures": {
+    "0": "odyssey:item/weapon/sickle_texture_anodized_titanium",
+    "particle": "odyssey:item/weapon/sickle_texture_anodized_titanium"
+  }
+}

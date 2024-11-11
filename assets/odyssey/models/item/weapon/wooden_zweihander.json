@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapon/bases/zweihander",
+  "textures": {
+    "0": "odyssey:item/weapon/zweihander_texture_wooden",
+    "particle": "odyssey:item/weapon/zweihander_texture_wooden"
+  }
+}

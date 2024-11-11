@@ -1,7 +1,0 @@
-{
-  "parent": "odyssey:item/weapons/bases/glaive",
-  "textures": {
-    "0": "odyssey:item/weapons/glaive_texture_stone",
-    "particle": "odyssey:item/weapons/glaive_texture_stone"
-  }
-}

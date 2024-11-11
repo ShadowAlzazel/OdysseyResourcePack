@@ -1,6 +1,0 @@
-{
-  "parent": "odyssey:item/equipment/bases/axe",
-  "textures": {
-    "layer0": "odyssey:item/equipment/base_axe_iridium"
-  }
-}
