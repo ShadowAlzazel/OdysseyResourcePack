@@ -64,30 +64,30 @@
 		},
 		{
 			"name": "fancy_hilt_4",
-			"from": [5, 0, 10],
-			"to": [6, 1, 12],
+			"from": [5, 0, 9],
+			"to": [7, 1, 12],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
 			"faces": {
-				"north": {"uv": [7, 9, 6.5, 9.5], "texture": "#0"},
-				"east": {"uv": [6.5, 9, 7, 10], "rotation": 90, "texture": "#0"},
-				"south": {"uv": [6.5, 9.5, 7, 10], "texture": "#0"},
-				"west": {"uv": [6.5, 9, 7, 10], "rotation": 270, "texture": "#0"},
-				"up": {"uv": [6.5, 9, 7, 10], "texture": "#0"},
-				"down": {"uv": [6.5, 10, 7, 9], "texture": "#0"}
+				"north": {"uv": [7.5, 8.5, 6.5, 9], "texture": "#0"},
+				"east": {"uv": [7, 8.5, 7.5, 10], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [6.5, 9.5, 7.5, 10], "texture": "#0"},
+				"west": {"uv": [6.5, 8.5, 7, 10], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [6.5, 8.5, 7.5, 10], "texture": "#0"},
+				"down": {"uv": [6.5, 10, 7.5, 8.5], "texture": "#0"}
 			}
 		},
 		{
 			"name": "fancy_hilt_5",
-			"from": [6, 0, 11],
+			"from": [7, 0, 11],
 			"to": [9, 1, 13],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
 			"faces": {
-				"north": {"uv": [8.5, 9.5, 7, 10], "texture": "#0"},
+				"north": {"uv": [8.5, 9.5, 7.5, 10], "texture": "#0"},
 				"east": {"uv": [8, 9.5, 8.5, 10.5], "rotation": 90, "texture": "#0"},
-				"south": {"uv": [7, 10, 8.5, 10.5], "texture": "#0"},
-				"west": {"uv": [7, 9.5, 7.5, 10.5], "rotation": 270, "texture": "#0"},
-				"up": {"uv": [7, 9.5, 8.5, 10.5], "texture": "#0"},
-				"down": {"uv": [7, 10.5, 8.5, 9.5], "texture": "#0"}
+				"south": {"uv": [7.5, 10, 8.5, 10.5], "texture": "#0"},
+				"west": {"uv": [7.5, 9.5, 8, 10.5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [7.5, 9.5, 8.5, 10.5], "texture": "#0"},
+				"down": {"uv": [7.5, 10.5, 8.5, 9.5], "texture": "#0"}
 			}
 		},
 		{
@@ -106,6 +106,20 @@
 		},
 		{
 			"name": "fancy_hilt_7",
+			"from": [6, 0, 12],
+			"to": [7, 1, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
+			"faces": {
+				"north": {"uv": [7.5, 10, 7, 10.5], "texture": "#0"},
+				"east": {"uv": [7, 10, 7.5, 10.5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [7, 10, 7.5, 10.5], "texture": "#0"},
+				"west": {"uv": [7, 10, 7.5, 10.5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [7, 10, 7.5, 10.5], "texture": "#0"},
+				"down": {"uv": [7, 10.5, 7.5, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fancy_hilt_8",
 			"from": [10, 0, 12],
 			"to": [11, 1, 14],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
@@ -119,7 +133,7 @@
 			}
 		},
 		{
-			"name": "fancy_hilt_8",
+			"name": "fancy_hilt_9",
 			"from": [8, 0, 13],
 			"to": [10, 1, 14],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
@@ -173,7 +187,13 @@
 			"name": "fancy_hilt",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8]
+			"children": []
+		},
+		{
+			"name": "fancy_hilt",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
 		}
 	]
 }

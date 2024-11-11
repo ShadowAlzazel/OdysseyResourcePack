@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/broadsword/pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/composite/broadsword/pommel_titanium"
+  }
+}

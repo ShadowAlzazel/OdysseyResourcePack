@@ -32,6 +32,20 @@
               "model": "odyssey:item/weapons/longsword/composite/imperial_blade_mithril"
             },
             "when": "imperial_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/marauder_blade_mithril"
+            },
+            "when": "marauder_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/crusader_blade_mithril"
+            },
+            "when": "crusader_blade"
           }
         ],
         "fallback": {
@@ -89,6 +103,20 @@
               "model": "odyssey:item/weapons/longsword/composite/voyager_hilt_mithril"
             },
             "when": "voyager_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/marauder_hilt_mithril"
+            },
+            "when": "marauder_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/crusader_hilt_mithril"
+            },
+            "when": "crusader_hilt"
           }
         ],
         "fallback": {
@@ -107,6 +135,27 @@
               "model": "odyssey:item/weapons/longsword/composite/pommel_mithril"
             },
             "when": "pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/imperial_pommel_mithril"
+            },
+            "when": "imperial_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/fancy_pommel_mithril"
+            },
+            "when": "fancy_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/marauder_pommel_mithril"
+            },
+            "when": "marauder_pommel"
           }
         ],
         "fallback": {

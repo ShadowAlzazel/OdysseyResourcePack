@@ -27,7 +27,6 @@ PARTS = [
     "hilt",
     "fancy_hilt",
     "imperial_hilt",
-    "voyager_hilt",
     "pommel"
 ]
 

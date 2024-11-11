@@ -42,6 +42,7 @@
 
         "odyssey:item/weapon/composite/longsword/imperial_blade",
         "odyssey:item/weapon/composite/longsword/blade",
+        "odyssey:item/weapon/composite/longsword/marauder_blade",
         "odyssey:item/weapon/composite/longsword/handle",
         "odyssey:item/weapon/composite/longsword/hilt",
         "odyssey:item/weapon/composite/longsword/imperial_hilt",
@@ -50,6 +51,12 @@
         "odyssey:item/weapon/composite/longsword/fancy_hilt",
         "odyssey:item/weapon/composite/longsword/big_blade",
         "odyssey:item/weapon/composite/longsword/voyager_hilt",
+        "odyssey:item/weapon/composite/longsword/marauder_hilt",
+        "odyssey:item/weapon/composite/longsword/fancy_pommel",
+        "odyssey:item/weapon/composite/longsword/imperial_pommel",
+        "odyssey:item/weapon/composite/longsword/marauder_pommel",
+        "odyssey:item/weapon/composite/longsword/crusader_hilt",
+        "odyssey:item/weapon/composite/longsword/crusader_blade",
 
         "odyssey:item/tool/base_sword",
         "odyssey:item/tool/base_pickaxe",

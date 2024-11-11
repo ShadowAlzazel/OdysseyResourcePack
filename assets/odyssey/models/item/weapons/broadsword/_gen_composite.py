@@ -8,11 +8,8 @@ os.chdir(dir_name)
 WEAPON_NAME = "broadsword"
 
 MATERIALS = [
-    "diamond",
-    "mithril",
-    "iridium",
-    "netherite",
-    "silver"
+    'wooden', 'golden', 'stone', 'iron', 'diamond', 'netherite',
+    'copper', 'silver', 'soul_steel', 'titanium', 'anodized_titanium', 'iridium', 'mithril'
 ]
 
 PARTS = [

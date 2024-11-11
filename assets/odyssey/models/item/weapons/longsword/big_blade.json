@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "odyssey:item/weapon/composite/longsword/big_blade"
+		"0": "odyssey:item/weapon/composite/longsword/big_blade",
+		"particle": "odyssey:item/weapon/composite/longsword/big_blade"
 	},
 	"elements": [
 		{
@@ -162,29 +163,29 @@
 		{
 			"name": "big_blade_11",
 			"from": [6, 0, 7],
-			"to": [7, 1, 11],
+			"to": [7, 1, 9],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
 			"faces": {
 				"north": {"uv": [7.5, 7.5, 7, 8], "texture": "#0"},
-				"east": {"uv": [7, 7.5, 7.5, 9.5], "rotation": 90, "texture": "#0"},
-				"south": {"uv": [7, 9, 7.5, 9.5], "texture": "#0"},
-				"west": {"uv": [7, 7.5, 7.5, 9.5], "rotation": 270, "texture": "#0"},
-				"up": {"uv": [7, 7.5, 7.5, 9.5], "texture": "#0"},
-				"down": {"uv": [7, 9.5, 7.5, 7.5], "texture": "#0"}
+				"east": {"uv": [7, 7.5, 7.5, 8.5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [7, 8, 7.5, 8.5], "texture": "#0"},
+				"west": {"uv": [7, 7.5, 7.5, 8.5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [7, 7.5, 7.5, 8.5], "texture": "#0"},
+				"down": {"uv": [7, 8.5, 7.5, 7.5], "texture": "#0"}
 			}
 		},
 		{
 			"name": "big_blade_12",
 			"from": [5, 0, 8],
-			"to": [6, 1, 10],
+			"to": [6, 1, 9],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
 			"faces": {
 				"north": {"uv": [7, 8, 6.5, 8.5], "texture": "#0"},
-				"east": {"uv": [6.5, 8, 7, 9], "rotation": 90, "texture": "#0"},
-				"south": {"uv": [6.5, 8.5, 7, 9], "texture": "#0"},
-				"west": {"uv": [6.5, 8, 7, 9], "rotation": 270, "texture": "#0"},
-				"up": {"uv": [6.5, 8, 7, 9], "texture": "#0"},
-				"down": {"uv": [6.5, 9, 7, 8], "texture": "#0"}
+				"east": {"uv": [6.5, 8, 7, 8.5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [6.5, 8, 7, 8.5], "texture": "#0"},
+				"west": {"uv": [6.5, 8, 7, 8.5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [6.5, 8, 7, 8.5], "texture": "#0"},
+				"down": {"uv": [6.5, 8.5, 7, 8], "texture": "#0"}
 			}
 		}
 	],

@@ -11,21 +11,43 @@ os.chdir(dir_name)
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------
 
-WEAPONS = [
-    "longsword"
-]
 # broadsword excluded since 2D
+WEAPONS = [
+    "longsword",
+    "katana"
+]
 
 MATERIALS = [
-    "diamond",
-    "mithril",
-    "iridium",
-    "netherite",
-    "silver",
-    "iron"
+    'wooden', 'golden', 'stone', 'iron', 'diamond', 'netherite',
+    'copper', 'silver', 'soul_steel', 'titanium', 'anodized_titanium', 'iridium', 'mithril'
 ]
 
 WEAPON_PARTS = {
+     "longsword": [
+        ["blade",
+         "big_blade",
+         "fancy_blade",
+         "imperial_blade",
+         "marauder_blade",
+         "crusader_blade"],
+        ["handle"],
+        ["hilt",
+         "fancy_hilt",
+         "imperial_hilt",
+         "voyager_hilt",
+         "marauder_hilt",
+         "crusader_hilt"],
+        ["pommel",
+         "imperial_pommel",
+         "fancy_pommel",
+         "marauder_pommel"]
+    ],
+     "katana": [
+        ["blade"],
+        ["handle"],
+        ["hilt"],
+        ["pommel"]
+    ],
     "broadsword": [
         ["blade",
          "fancy_blade",
@@ -37,18 +59,6 @@ WEAPON_PARTS = {
          "voyager_hilt"],
         ["pommel",
          "fancy_pommel"]
-    ],
-     "longsword": [
-        ["blade",
-         "big_blade",
-         "fancy_blade",
-         "imperial_blade"],
-        ["handle"],
-        ["hilt",
-         "fancy_hilt",
-         "imperial_hilt",
-         "voyager_hilt"],
-        ["pommel"]
     ]
 }
 
@@ -83,6 +93,8 @@ def populate_files():
         # create dir if does not exist
         if not os.path.exists(weapon):
             os.makedirs(weapon)
+        if not os.path.exists(f'{weapon}/composite'):
+            os.makedirs(f'{weapon}/composite')
         # Loop for weapon
         for material in MATERIALS:
             part_list = WEAPON_PARTS[weapon]
