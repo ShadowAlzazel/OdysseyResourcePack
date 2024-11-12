@@ -11,6 +11,13 @@
               "model": "odyssey:item/weapons/katana/composite/blade_copper"
             },
             "when": "blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/fancy_blade_copper"
+            },
+            "when": "fancy_blade"
           }
         ],
         "fallback": {
@@ -47,6 +54,13 @@
               "model": "odyssey:item/weapons/katana/composite/hilt_copper"
             },
             "when": "hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/fancy_hilt_copper"
+            },
+            "when": "fancy_hilt"
           }
         ],
         "fallback": {
@@ -65,6 +79,13 @@
               "model": "odyssey:item/weapons/katana/composite/pommel_copper"
             },
             "when": "pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/fancy_pommel_copper"
+            },
+            "when": "fancy_pommel"
           }
         ],
         "fallback": {

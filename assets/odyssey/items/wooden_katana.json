@@ -11,6 +11,13 @@
               "model": "odyssey:item/weapons/katana/composite/blade_wooden"
             },
             "when": "blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/fancy_blade_wooden"
+            },
+            "when": "fancy_blade"
           }
         ],
         "fallback": {
@@ -47,6 +54,13 @@
               "model": "odyssey:item/weapons/katana/composite/hilt_wooden"
             },
             "when": "hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/fancy_hilt_wooden"
+            },
+            "when": "fancy_hilt"
           }
         ],
         "fallback": {
@@ -65,6 +79,13 @@
               "model": "odyssey:item/weapons/katana/composite/pommel_wooden"
             },
             "when": "pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/fancy_pommel_wooden"
+            },
+            "when": "fancy_pommel"
           }
         ],
         "fallback": {

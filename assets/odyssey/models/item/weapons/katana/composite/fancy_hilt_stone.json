@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapons/katana/fancy_hilt",
+  "textures": {
+    "0": "odyssey:item/weapon/composite/katana/fancy_hilt_stone",
+    "particle": "odyssey:item/weapon/composite/katana/fancy_hilt_stone"
+  }
+}

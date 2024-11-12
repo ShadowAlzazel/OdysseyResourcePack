@@ -11,6 +11,13 @@
               "model": "odyssey:item/weapons/katana/composite/blade_soul_steel"
             },
             "when": "blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/fancy_blade_soul_steel"
+            },
+            "when": "fancy_blade"
           }
         ],
         "fallback": {
@@ -47,6 +54,13 @@
               "model": "odyssey:item/weapons/katana/composite/hilt_soul_steel"
             },
             "when": "hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/fancy_hilt_soul_steel"
+            },
+            "when": "fancy_hilt"
           }
         ],
         "fallback": {
@@ -65,6 +79,13 @@
               "model": "odyssey:item/weapons/katana/composite/pommel_soul_steel"
             },
             "when": "pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/fancy_pommel_soul_steel"
+            },
+            "when": "fancy_pommel"
           }
         ],
         "fallback": {

@@ -11,6 +11,13 @@
               "model": "odyssey:item/weapons/katana/composite/blade_iron"
             },
             "when": "blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/fancy_blade_iron"
+            },
+            "when": "fancy_blade"
           }
         ],
         "fallback": {
@@ -47,6 +54,13 @@
               "model": "odyssey:item/weapons/katana/composite/hilt_iron"
             },
             "when": "hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/fancy_hilt_iron"
+            },
+            "when": "fancy_hilt"
           }
         ],
         "fallback": {
@@ -65,6 +79,13 @@
               "model": "odyssey:item/weapons/katana/composite/pommel_iron"
             },
             "when": "pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/fancy_pommel_iron"
+            },
+            "when": "fancy_pommel"
           }
         ],
         "fallback": {

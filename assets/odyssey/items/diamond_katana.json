@@ -11,6 +11,13 @@
               "model": "odyssey:item/weapons/katana/composite/blade_diamond"
             },
             "when": "blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/fancy_blade_diamond"
+            },
+            "when": "fancy_blade"
           }
         ],
         "fallback": {
@@ -47,6 +54,13 @@
               "model": "odyssey:item/weapons/katana/composite/hilt_diamond"
             },
             "when": "hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/fancy_hilt_diamond"
+            },
+            "when": "fancy_hilt"
           }
         ],
         "fallback": {
@@ -65,6 +79,13 @@
               "model": "odyssey:item/weapons/katana/composite/pommel_diamond"
             },
             "when": "pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/fancy_pommel_diamond"
+            },
+            "when": "fancy_pommel"
           }
         ],
         "fallback": {

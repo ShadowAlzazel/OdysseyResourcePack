@@ -46,6 +46,27 @@
               "model": "odyssey:item/weapons/longsword/composite/crusader_blade_mithril"
             },
             "when": "crusader_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/vandal_blade_mithril"
+            },
+            "when": "vandal_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/seraph_blade_mithril"
+            },
+            "when": "seraph_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/voyager_blade_mithril"
+            },
+            "when": "voyager_blade"
           }
         ],
         "fallback": {
@@ -117,6 +138,27 @@
               "model": "odyssey:item/weapons/longsword/composite/crusader_hilt_mithril"
             },
             "when": "crusader_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/danger_hilt_mithril"
+            },
+            "when": "danger_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/vandal_hilt_mithril"
+            },
+            "when": "vandal_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/seraph_hilt_mithril"
+            },
+            "when": "seraph_hilt"
           }
         ],
         "fallback": {
@@ -156,6 +198,41 @@
               "model": "odyssey:item/weapons/longsword/composite/marauder_pommel_mithril"
             },
             "when": "marauder_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/vandal_pommel_mithril"
+            },
+            "when": "vandal_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/crusader_pommel_mithril"
+            },
+            "when": "crusader_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/seraph_pommel_mithril"
+            },
+            "when": "seraph_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/danger_pommel_mithril"
+            },
+            "when": "danger_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/voyager_pommel_mithril"
+            },
+            "when": "voyager_pommel"
           }
         ],
         "fallback": {

@@ -21,31 +21,44 @@ MATERIALS = [
 ]
 
 WEAPON_PARTS = {
-   
      "longsword": [
         ["blade",
          "big_blade",
          "fancy_blade",
          "imperial_blade",
          "marauder_blade",
-         "crusader_blade"],
+         "crusader_blade",
+         "vandal_blade",
+         "seraph_blade",
+         "voyager_blade"],
         ["handle"],
         ["hilt",
          "fancy_hilt",
          "imperial_hilt",
          "voyager_hilt",
          "marauder_hilt",
-         "crusader_hilt"],
+         "crusader_hilt",
+         "danger_hilt",
+         "vandal_hilt",
+         "seraph_hilt"],
         ["pommel",
          "imperial_pommel",
          "fancy_pommel",
-         "marauder_pommel"]
+         "marauder_pommel",
+         "vandal_pommel",
+         "crusader_pommel",
+         "seraph_pommel",
+         "danger_pommel",
+         "voyager_pommel"]
     ],
-     "katana": [
-        ["blade"],
+    "katana": [
+        ["blade",
+         "fancy_blade"],
         ["handle"],
-        ["hilt"],
-        ["pommel"]
+        ["hilt",
+         "fancy_hilt"],
+        ["pommel",
+         "fancy_pommel"]
     ],
     "broadsword": [
         ["blade",

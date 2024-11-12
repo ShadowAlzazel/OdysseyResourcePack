@@ -73,6 +73,31 @@
         },
         "property": "minecraft:custom_model_data",
         "index": 4
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/flame_effect"
+            },
+            "when": "flame_effect"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/glow_effect"
+            },
+            "when": "glow_effect"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/longsword/no_effect"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 5
       }
     ]
   }
