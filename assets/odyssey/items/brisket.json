@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "odyssey:item/foods/brisket"
+    "model": "odyssey:item/generic/brisket"
   }
 }

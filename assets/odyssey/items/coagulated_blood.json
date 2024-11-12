@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "odyssey:item/materials/coagulated_blood"
+    "model": "odyssey:item/generic/coagulated_blood"
   }
 }

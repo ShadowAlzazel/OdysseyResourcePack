@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "odyssey:item/materials/heated_titanium_ingot"
+    "model": "odyssey:item/generic/heated_titanium_ingot"
   }
 }

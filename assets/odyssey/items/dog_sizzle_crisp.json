@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "odyssey:item/foods/dog_sizzle_crisp"
+    "model": "odyssey:item/generic/dog_sizzle_crisp"
   }
 }
