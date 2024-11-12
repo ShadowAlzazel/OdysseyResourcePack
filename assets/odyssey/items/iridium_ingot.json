@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "odyssey:item/materials/iridium_ingot"
+    "model": "odyssey:item/generic/iridium_ingot"
   }
 }

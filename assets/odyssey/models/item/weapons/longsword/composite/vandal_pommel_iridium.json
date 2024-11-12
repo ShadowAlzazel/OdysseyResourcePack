@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapons/longsword/vandal_pommel",
+  "textures": {
+    "0": "odyssey:item/weapon/composite/longsword/vandal_pommel_iridium",
+    "particle": "odyssey:item/weapon/composite/longsword/vandal_pommel_iridium"
+  }
+}

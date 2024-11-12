@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "odyssey:item/foods/oolong_orchid_boba_tea"
+    "model": "odyssey:item/generic/oolong_orchid_boba_tea"
   }
 }

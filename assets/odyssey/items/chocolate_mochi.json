@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "odyssey:item/foods/chocolate_mochi"
+    "model": "odyssey:item/generic/chocolate_mochi"
   }
 }

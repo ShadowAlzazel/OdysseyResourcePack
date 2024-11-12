@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "odyssey:item/foods/green_apple"
+    "model": "odyssey:item/generic/green_apple"
   }
 }

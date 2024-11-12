@@ -5,6 +5,10 @@ abspath = os.path.abspath(__file__)
 dir_name = os.path.dirname(abspath)
 os.chdir(dir_name)
 
+# --------------------------------------------------------------------------
+# --------------------------------------------------------------------------
+# --------------------------------------------------------------------------
+    
 # The four basic armor slots
 armor_bases = [
     'chestplate', 'leggings', 'boots', 'helmet'

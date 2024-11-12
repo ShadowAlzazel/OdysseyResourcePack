@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapons/katana/voyager_pommel",
+  "textures": {
+    "0": "odyssey:item/weapon/composite/katana/voyager_pommel_diamond",
+    "particle": "odyssey:item/weapon/composite/katana/voyager_pommel_diamond"
+  }
+}

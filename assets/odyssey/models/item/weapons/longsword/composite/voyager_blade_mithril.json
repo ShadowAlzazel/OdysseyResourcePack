@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapons/longsword/voyager_blade",
+  "textures": {
+    "0": "odyssey:item/weapon/composite/longsword/voyager_blade_mithril",
+    "particle": "odyssey:item/weapon/composite/longsword/voyager_blade_mithril"
+  }
+}

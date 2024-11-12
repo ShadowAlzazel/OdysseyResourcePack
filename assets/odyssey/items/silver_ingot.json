@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "odyssey:item/materials/silver_ingot"
+    "model": "odyssey:item/generic/silver_ingot"
   }
 }

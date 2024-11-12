@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "odyssey:item/foods/crystal_candy"
+    "model": "odyssey:item/generic/crystal_candy"
   }
 }

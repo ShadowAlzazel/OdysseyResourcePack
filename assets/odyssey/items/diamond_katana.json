@@ -11,6 +11,34 @@
               "model": "odyssey:item/weapons/katana/composite/blade_diamond"
             },
             "when": "blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/seraph_blade_diamond"
+            },
+            "when": "seraph_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/imperial_blade_diamond"
+            },
+            "when": "imperial_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/fancy_blade_diamond"
+            },
+            "when": "fancy_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/voyager_blade_diamond"
+            },
+            "when": "voyager_blade"
           }
         ],
         "fallback": {
@@ -47,6 +75,34 @@
               "model": "odyssey:item/weapons/katana/composite/hilt_diamond"
             },
             "when": "hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/seraph_hilt_diamond"
+            },
+            "when": "seraph_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/imperial_hilt_diamond"
+            },
+            "when": "imperial_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/fancy_hilt_diamond"
+            },
+            "when": "fancy_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/voyager_hilt_diamond"
+            },
+            "when": "voyager_hilt"
           }
         ],
         "fallback": {
@@ -65,6 +121,34 @@
               "model": "odyssey:item/weapons/katana/composite/pommel_diamond"
             },
             "when": "pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/seraph_pommel_diamond"
+            },
+            "when": "seraph_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/imperial_pommel_diamond"
+            },
+            "when": "imperial_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/fancy_pommel_diamond"
+            },
+            "when": "fancy_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/voyager_pommel_diamond"
+            },
+            "when": "voyager_pommel"
           }
         ],
         "fallback": {

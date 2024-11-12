@@ -8,20 +8,34 @@
 	"elements": [
 		{
 			"name": "crusader_blade_0",
-			"from": [15, 0, -2],
-			"to": [18, 1, 1],
+			"from": [14, 0, -2],
+			"to": [18, 1, -1],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
 			"faces": {
-				"north": {"uv": [13, 3, 11.5, 3.5], "texture": "#0"},
-				"east": {"uv": [12.5, 3, 13, 4.5], "rotation": 90, "texture": "#0"},
-				"south": {"uv": [11.5, 4, 13, 4.5], "texture": "#0"},
-				"west": {"uv": [11.5, 3, 12, 4.5], "rotation": 270, "texture": "#0"},
-				"up": {"uv": [11.5, 3, 13, 4.5], "texture": "#0"},
-				"down": {"uv": [11.5, 4.5, 13, 3], "texture": "#0"}
+				"north": {"uv": [13, 3, 11, 3.5], "texture": "#0"},
+				"east": {"uv": [12.5, 3, 13, 3.5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [11, 3, 13, 3.5], "texture": "#0"},
+				"west": {"uv": [11, 3, 11.5, 3.5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [11, 3, 13, 3.5], "texture": "#0"},
+				"down": {"uv": [11, 3.5, 13, 3], "texture": "#0"}
 			}
 		},
 		{
 			"name": "crusader_blade_1",
+			"from": [15, 0, -1],
+			"to": [18, 1, 1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
+			"faces": {
+				"north": {"uv": [13, 3.5, 11.5, 4], "texture": "#0"},
+				"east": {"uv": [12.5, 3.5, 13, 4.5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [11.5, 4, 13, 4.5], "texture": "#0"},
+				"west": {"uv": [11.5, 3.5, 12, 4.5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [11.5, 3.5, 13, 4.5], "texture": "#0"},
+				"down": {"uv": [11.5, 4.5, 13, 3.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "crusader_blade_2",
 			"from": [14, 0, 0],
 			"to": [15, 1, 3],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
@@ -35,7 +49,7 @@
 			}
 		},
 		{
-			"name": "crusader_blade_2",
+			"name": "crusader_blade_3",
 			"from": [13, 0, 1],
 			"to": [14, 1, 4],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
@@ -49,7 +63,7 @@
 			}
 		},
 		{
-			"name": "crusader_blade_3",
+			"name": "crusader_blade_4",
 			"from": [15, 0, 1],
 			"to": [16, 1, 2],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
@@ -63,7 +77,21 @@
 			}
 		},
 		{
-			"name": "crusader_blade_4",
+			"name": "crusader_blade_5",
+			"from": [17, 0, 1],
+			"to": [18, 1, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
+			"faces": {
+				"north": {"uv": [13, 4.5, 12.5, 5], "texture": "#0"},
+				"east": {"uv": [12.5, 4.5, 13, 5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [12.5, 4.5, 13, 5], "texture": "#0"},
+				"west": {"uv": [12.5, 4.5, 13, 5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [12.5, 4.5, 13, 5], "texture": "#0"},
+				"down": {"uv": [12.5, 5, 13, 4.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "crusader_blade_6",
 			"from": [12, 0, 2],
 			"to": [13, 1, 5],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
@@ -77,7 +105,7 @@
 			}
 		},
 		{
-			"name": "crusader_blade_5",
+			"name": "crusader_blade_7",
 			"from": [11, 0, 3],
 			"to": [12, 1, 6],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
@@ -91,7 +119,7 @@
 			}
 		},
 		{
-			"name": "crusader_blade_6",
+			"name": "crusader_blade_8",
 			"from": [10, 0, 4],
 			"to": [11, 1, 7],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
@@ -105,7 +133,7 @@
 			}
 		},
 		{
-			"name": "crusader_blade_7",
+			"name": "crusader_blade_9",
 			"from": [9, 0, 5],
 			"to": [10, 1, 8],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
@@ -119,45 +147,45 @@
 			}
 		},
 		{
-			"name": "crusader_blade_8",
+			"name": "crusader_blade_10",
 			"from": [8, 0, 6],
-			"to": [9, 1, 10],
+			"to": [9, 1, 9],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
 			"faces": {
 				"north": {"uv": [8.5, 7, 8, 7.5], "texture": "#0"},
-				"east": {"uv": [8, 7, 8.5, 9], "rotation": 90, "texture": "#0"},
-				"south": {"uv": [8, 8.5, 8.5, 9], "texture": "#0"},
-				"west": {"uv": [8, 7, 8.5, 9], "rotation": 270, "texture": "#0"},
-				"up": {"uv": [8, 7, 8.5, 9], "texture": "#0"},
-				"down": {"uv": [8, 9, 8.5, 7], "texture": "#0"}
+				"east": {"uv": [8, 7, 8.5, 8.5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [8, 8, 8.5, 8.5], "texture": "#0"},
+				"west": {"uv": [8, 7, 8.5, 8.5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [8, 7, 8.5, 8.5], "texture": "#0"},
+				"down": {"uv": [8, 8.5, 8.5, 7], "texture": "#0"}
 			}
 		},
 		{
-			"name": "crusader_blade_9",
-			"from": [6, 0, 7],
-			"to": [8, 1, 9],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
-			"faces": {
-				"north": {"uv": [8, 7.5, 7, 8], "texture": "#0"},
-				"east": {"uv": [7.5, 7.5, 8, 8.5], "rotation": 90, "texture": "#0"},
-				"south": {"uv": [7, 8, 8, 8.5], "texture": "#0"},
-				"west": {"uv": [7, 7.5, 7.5, 8.5], "rotation": 270, "texture": "#0"},
-				"up": {"uv": [7, 7.5, 8, 8.5], "texture": "#0"},
-				"down": {"uv": [7, 8.5, 8, 7.5], "texture": "#0"}
-			}
-		},
-		{
-			"name": "crusader_blade_10",
-			"from": [7, 0, 9],
+			"name": "crusader_blade_11",
+			"from": [7, 0, 7],
 			"to": [8, 1, 10],
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
 			"faces": {
-				"north": {"uv": [8, 8.5, 7.5, 9], "texture": "#0"},
-				"east": {"uv": [7.5, 8.5, 8, 9], "rotation": 90, "texture": "#0"},
+				"north": {"uv": [8, 7.5, 7.5, 8], "texture": "#0"},
+				"east": {"uv": [7.5, 7.5, 8, 9], "rotation": 90, "texture": "#0"},
 				"south": {"uv": [7.5, 8.5, 8, 9], "texture": "#0"},
-				"west": {"uv": [7.5, 8.5, 8, 9], "rotation": 270, "texture": "#0"},
-				"up": {"uv": [7.5, 8.5, 8, 9], "texture": "#0"},
-				"down": {"uv": [7.5, 9, 8, 8.5], "texture": "#0"}
+				"west": {"uv": [7.5, 7.5, 8, 9], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [7.5, 7.5, 8, 9], "texture": "#0"},
+				"down": {"uv": [7.5, 9, 8, 7.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "crusader_blade_12",
+			"from": [6, 0, 8],
+			"to": [7, 1, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
+			"faces": {
+				"north": {"uv": [7.5, 8, 7, 8.5], "texture": "#0"},
+				"east": {"uv": [7, 8, 7.5, 8.5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [7, 8, 7.5, 8.5], "texture": "#0"},
+				"west": {"uv": [7, 8, 7.5, 8.5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [7, 8, 7.5, 8.5], "texture": "#0"},
+				"down": {"uv": [7, 8.5, 7.5, 8], "texture": "#0"}
 			}
 		}
 	],
@@ -201,7 +229,7 @@
 			"name": "crusader_blade",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
 		}
 	]
 }

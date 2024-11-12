@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapons/longsword/danger_pommel",
+  "textures": {
+    "0": "odyssey:item/weapon/composite/longsword/danger_pommel_iridium",
+    "particle": "odyssey:item/weapon/composite/longsword/danger_pommel_iridium"
+  }
+}
