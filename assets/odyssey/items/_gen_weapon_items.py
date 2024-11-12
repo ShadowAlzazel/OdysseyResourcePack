@@ -21,7 +21,7 @@ MATERIALS = [
 ]
 
 WEAPON_PARTS = {
-     "longsword": [
+    "longsword": [
         ["blade",
          "big_blade",
          "fancy_blade",
@@ -97,7 +97,7 @@ def create_parent_obg():
     } 
     return parent_obj
 
-# Create select model obj that chooses parts
+# Create select model obj that chooses model
 def create_part_selecter_obj(weapon: str, material: str, part_name: str, index: int): 
     part_selecter_obj = {
         "type": "minecraft:select",

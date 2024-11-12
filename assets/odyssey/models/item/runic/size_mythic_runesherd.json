@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "odyssey:item/runic/blanks/blank_mythic_runesherd",
-    "layer1": "odyssey:item/runic/sigils/size_sigil_mithril"
-  }
-}

@@ -123,7 +123,9 @@
         "odyssey:item/runic/sigils/jump_sigil",
         "odyssey:item/runic/sigils/gravity_sigil",
         "odyssey:item/runic/sigils/range_sigil",
-        "odyssey:item/runic/sigils/size_sigil"
+        "odyssey:item/runic/sigils/size_sigil",
+        "odyssey:item/runic/sigils/feather_sigil",
+        "odyssey:item/runic/sigils/unknown_sigil"
       ],
       "palette_key": "odyssey:colormap/rune_palettes/base_map",
       "permutations": {
