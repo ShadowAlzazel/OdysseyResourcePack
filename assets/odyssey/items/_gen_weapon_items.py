@@ -53,12 +53,21 @@ WEAPON_PARTS = {
     ],
     "katana": [
         ["blade",
-         "fancy_blade"],
+         "seraph_blade",
+         "imperial_blade",
+         "fancy_blade",
+         "voyager_blade"],
         ["handle"],
         ["hilt",
-         "fancy_hilt"],
+         "seraph_hilt",
+         "imperial_hilt",
+         "fancy_hilt",
+         "voyager_hilt"],
         ["pommel",
-         "fancy_pommel"]
+         "seraph_pommel",
+         "imperial_pommel",
+         "fancy_pommel",
+         "voyager_pommel"]
     ],
     "broadsword": [
         ["blade",
@@ -73,7 +82,6 @@ WEAPON_PARTS = {
          "fancy_pommel"]
     ],
 }
-
 
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------

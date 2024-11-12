@@ -1,0 +1,187 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/armor/netherite_leggings_alexandrite_trim"
+        },
+        "when": "odyssey:alexandrite"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/armor/netherite_leggings_anodizedtitanium_trim"
+        },
+        "when": "odyssey:anodizedtitanium"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/armor/netherite_leggings_iridium_trim"
+        },
+        "when": "odyssey:iridium"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/armor/netherite_leggings_jade_trim"
+        },
+        "when": "odyssey:jade"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/armor/netherite_leggings_jovianite_trim"
+        },
+        "when": "odyssey:jovianite"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/armor/netherite_leggings_kunzite_trim"
+        },
+        "when": "odyssey:kunzite"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/armor/netherite_leggings_mithril_trim"
+        },
+        "when": "odyssey:mithril"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/armor/netherite_leggings_neptunian_trim"
+        },
+        "when": "odyssey:neptunian"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/armor/netherite_leggings_obsidian_trim"
+        },
+        "when": "odyssey:obsidian"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/armor/netherite_leggings_ruby_trim"
+        },
+        "when": "odyssey:ruby"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/armor/netherite_leggings_silver_trim"
+        },
+        "when": "odyssey:silver"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/armor/netherite_leggings_soulquartz_trim"
+        },
+        "when": "odyssey:soulquartz"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/armor/netherite_leggings_soulsteel_trim"
+        },
+        "when": "odyssey:soulsteel"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/armor/netherite_leggings_titanium_trim"
+        },
+        "when": "odyssey:titanium"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_leggings_quartz_trim"
+        },
+        "when": "minecraft:quartz"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_leggings_iron_trim"
+        },
+        "when": "minecraft:iron"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_leggings_netherite_trim"
+        },
+        "when": "minecraft:netherite"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_leggings_redstone_trim"
+        },
+        "when": "minecraft:redstone"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_leggings_copper_trim"
+        },
+        "when": "minecraft:copper"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_leggings_gold_trim"
+        },
+        "when": "minecraft:gold"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_leggings_emerald_trim"
+        },
+        "when": "minecraft:emerald"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_leggings_diamond_trim"
+        },
+        "when": "minecraft:diamond"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_leggings_lapis_trim"
+        },
+        "when": "minecraft:lapis"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_leggings_amethyst_trim"
+        },
+        "when": "minecraft:amethyst"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/netherite_leggings_resin_trim"
+        },
+        "when": "minecraft:resin"
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_leggings"
+    },
+    "property": "minecraft:trim_material"
+  }
+}

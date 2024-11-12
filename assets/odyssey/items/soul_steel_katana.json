@@ -15,9 +15,30 @@
           {
             "model": {
               "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/seraph_blade_soul_steel"
+            },
+            "when": "seraph_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/imperial_blade_soul_steel"
+            },
+            "when": "imperial_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
               "model": "odyssey:item/weapons/katana/composite/fancy_blade_soul_steel"
             },
             "when": "fancy_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/voyager_blade_soul_steel"
+            },
+            "when": "voyager_blade"
           }
         ],
         "fallback": {
@@ -58,9 +79,30 @@
           {
             "model": {
               "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/seraph_hilt_soul_steel"
+            },
+            "when": "seraph_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/imperial_hilt_soul_steel"
+            },
+            "when": "imperial_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
               "model": "odyssey:item/weapons/katana/composite/fancy_hilt_soul_steel"
             },
             "when": "fancy_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/voyager_hilt_soul_steel"
+            },
+            "when": "voyager_hilt"
           }
         ],
         "fallback": {
@@ -83,9 +125,30 @@
           {
             "model": {
               "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/seraph_pommel_soul_steel"
+            },
+            "when": "seraph_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/imperial_pommel_soul_steel"
+            },
+            "when": "imperial_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
               "model": "odyssey:item/weapons/katana/composite/fancy_pommel_soul_steel"
             },
             "when": "fancy_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/voyager_pommel_soul_steel"
+            },
+            "when": "voyager_pommel"
           }
         ],
         "fallback": {

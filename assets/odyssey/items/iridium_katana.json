@@ -15,9 +15,30 @@
           {
             "model": {
               "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/seraph_blade_iridium"
+            },
+            "when": "seraph_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/imperial_blade_iridium"
+            },
+            "when": "imperial_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
               "model": "odyssey:item/weapons/katana/composite/fancy_blade_iridium"
             },
             "when": "fancy_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/voyager_blade_iridium"
+            },
+            "when": "voyager_blade"
           }
         ],
         "fallback": {
@@ -58,9 +79,30 @@
           {
             "model": {
               "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/seraph_hilt_iridium"
+            },
+            "when": "seraph_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/imperial_hilt_iridium"
+            },
+            "when": "imperial_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
               "model": "odyssey:item/weapons/katana/composite/fancy_hilt_iridium"
             },
             "when": "fancy_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/voyager_hilt_iridium"
+            },
+            "when": "voyager_hilt"
           }
         ],
         "fallback": {
@@ -83,9 +125,30 @@
           {
             "model": {
               "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/seraph_pommel_iridium"
+            },
+            "when": "seraph_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/imperial_pommel_iridium"
+            },
+            "when": "imperial_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
               "model": "odyssey:item/weapons/katana/composite/fancy_pommel_iridium"
             },
             "when": "fancy_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/voyager_pommel_iridium"
+            },
+            "when": "voyager_pommel"
           }
         ],
         "fallback": {
