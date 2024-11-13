@@ -5,182 +5,338 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_chestplate_alexandrite_trim"
+          "model": "odyssey:item/armor/leather_chestplate_alexandrite_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:alexandrite"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_chestplate_anodizedtitanium_trim"
+          "model": "odyssey:item/armor/leather_chestplate_anodizedtitanium_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:anodizedtitanium"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_chestplate_iridium_trim"
+          "model": "odyssey:item/armor/leather_chestplate_iridium_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:iridium"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_chestplate_jade_trim"
+          "model": "odyssey:item/armor/leather_chestplate_jade_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:jade"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_chestplate_jovianite_trim"
+          "model": "odyssey:item/armor/leather_chestplate_jovianite_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:jovianite"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_chestplate_kunzite_trim"
+          "model": "odyssey:item/armor/leather_chestplate_kunzite_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:kunzite"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_chestplate_mithril_trim"
+          "model": "odyssey:item/armor/leather_chestplate_mithril_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:mithril"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_chestplate_neptunian_trim"
+          "model": "odyssey:item/armor/leather_chestplate_neptunian_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:neptunian"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_chestplate_obsidian_trim"
+          "model": "odyssey:item/armor/leather_chestplate_obsidian_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:obsidian"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_chestplate_ruby_trim"
+          "model": "odyssey:item/armor/leather_chestplate_ruby_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:ruby"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_chestplate_silver_trim"
+          "model": "odyssey:item/armor/leather_chestplate_silver_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:silver"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_chestplate_soulquartz_trim"
+          "model": "odyssey:item/armor/leather_chestplate_soulquartz_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:soulquartz"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_chestplate_soulsteel_trim"
+          "model": "odyssey:item/armor/leather_chestplate_soulsteel_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:soulsteel"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_chestplate_titanium_trim"
+          "model": "odyssey:item/armor/leather_chestplate_titanium_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:titanium"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_chestplate_quartz_trim"
+          "model": "minecraft:item/leather_chestplate_quartz_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "minecraft:quartz"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_chestplate_iron_trim"
+          "model": "minecraft:item/leather_chestplate_iron_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "minecraft:iron"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_chestplate_netherite_trim"
+          "model": "minecraft:item/leather_chestplate_netherite_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "minecraft:netherite"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_chestplate_redstone_trim"
+          "model": "minecraft:item/leather_chestplate_redstone_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "minecraft:redstone"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_chestplate_copper_trim"
+          "model": "minecraft:item/leather_chestplate_copper_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "minecraft:copper"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_chestplate_gold_trim"
+          "model": "minecraft:item/leather_chestplate_gold_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "minecraft:gold"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_chestplate_emerald_trim"
+          "model": "minecraft:item/leather_chestplate_emerald_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "minecraft:emerald"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_chestplate_diamond_trim"
+          "model": "minecraft:item/leather_chestplate_diamond_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "minecraft:diamond"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_chestplate_lapis_trim"
+          "model": "minecraft:item/leather_chestplate_lapis_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "minecraft:lapis"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_chestplate_amethyst_trim"
+          "model": "minecraft:item/leather_chestplate_amethyst_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "minecraft:amethyst"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_chestplate_resin_trim"
+          "model": "minecraft:item/leather_chestplate_resin_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "minecraft:resin"
       }
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/leather_chestplate"
+      "model": "minecraft:item/leather_chestplate",
+      "tints": [
+        {
+          "type": "minecraft:dye",
+          "default": -6265536
+        }
+      ]
     },
     "property": "minecraft:trim_material"
   }

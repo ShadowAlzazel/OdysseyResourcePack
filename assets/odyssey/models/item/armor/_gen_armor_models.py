@@ -10,20 +10,21 @@ os.chdir(dir_name)
 # --------------------------------------------------------------------------
     
 # The four basic armor slots
-armor_bases = [
+ARMOR_MODELS = [
     'chestplate', 'leggings', 'boots', 'helmet'
 ]
 
 # The available materials for armor
-minecraft_armor_materials = [
+VANILLA_ARMOR_MATERIALS = [
     'leather', 'golden', 'chainmail', 'iron', 'diamond', 'netherite'
 ]
-odyssey_armor_materials = [
+ODYSSEY_ARMOR_MATERIALS = [
     'mithril', 'iridium', 'soul_steel', 'titanium', 'anodized_titanium',
     'copper', 'silver'
 ]
+
 # The trim materials
-odyssey_trims = [
+ODYSSEY_TRIMS = [
     'alexandrite',
     'anodizedtitanium',
     'iridium',
@@ -39,7 +40,7 @@ odyssey_trims = [
     'soulsteel', 
     'titanium'
 ]
-minecraft_trims = [
+VANILLA_TRIMS = [
     "quartz",
     "iron",
     "netherite",
@@ -53,35 +54,11 @@ minecraft_trims = [
     "resin"
 ]
 
-# Function to create files
-def create_armor_trim_files():
-    # Loop through all vanilla armor to create custom trim items
-    for i in range(len(minecraft_armor_materials)):
-        for j in range(len(armor_bases)):
-            for k in range(len(odyssey_trims)):
-                mat = minecraft_armor_materials[i]
-                base = armor_bases[j]
-                trim = odyssey_trims[k]
-                key = "minecraft"
-                write_armor_trim_file(mat, base, trim, key)
-    # Loop through all odyssey armor to create trims
-    all_trims = odyssey_trims + minecraft_trims
-    for i in range(len(odyssey_armor_materials)):
-        for j in range(len(armor_bases)):
-            for k in range(len(all_trims)):
-                mat = odyssey_armor_materials[i]
-                base = armor_bases[j]
-                trim = all_trims[k]
-                key = "odyssey"
-                write_armor_trim_file(mat, base, trim, key)
-    # Create base model files
-    for i in range(len(odyssey_armor_materials)):
-        for j in range(len(armor_bases)):
-            mat = odyssey_armor_materials[i]
-            base = armor_bases[j]
-            write_base_trim_file(mat, base)
+# --------------------------------------------------------------------------
+# --------------------------------------------------------------------------
+# --------------------------------------------------------------------------
                 
-def write_base_trim_file(material: str, base: str):
+def create_base_armor_model(material: str, base: str):
     filename = f'{material}_{base}.json'
      # Create json_obj
     json_obj = {
@@ -95,15 +72,17 @@ def write_base_trim_file(material: str, base: str):
     with open(filename, 'w') as file:
         file.write(text)
 
-def write_armor_trim_file(material: str, base: str, trim_name: str, key: str):
+
+def create_armor_trim(material: str, base: str, trim_name: str, namespace: str):
     filename = f'{material}_{base}_{trim_name}_trim.json'
     trim_id = trim_name
-    # Create Darker
+    # Vars
+    has_overlay = material == "leather"
     if trim_name == material:
         trim_id = f"{trim_name}_darker"
     # Create layer0
-    if key == "odyssey":
-        layer0 = f"{key}:item/armor/{material}_{base}"
+    if namespace == "odyssey":
+        layer0 = f"{namespace}:item/armor/{material}_{base}"
     else:
         layer0 = f"minecraft:item/{material}_{base}"
     # Create json_obj
@@ -111,13 +90,38 @@ def write_armor_trim_file(material: str, base: str, trim_name: str, key: str):
         "parent": "minecraft:item/generated",
         "textures": {
             "layer0": layer0,
-            "layer1": f"minecraft:trims/items/{base}_trim_{trim_id}",
+            "layer1": f'minecraft:trims/items/{base}_trim_{trim_id}',
         }
     }
-    text = json.dumps(json_obj, indent=2)
+    # Overlay
+    if has_overlay:
+        json_obj["textures"]["layer1"] = f'{layer0}_overlay'
+        json_obj["textures"]["layer2"] = f'minecraft:trims/items/{base}_trim_{trim_id}'
+    
     # Write the text to opened file
+    text = json.dumps(json_obj, indent=2)
     with open(filename, 'w') as file:
         file.write(text)
+
+
+# Function to create files
+def populate_files():
+    all_trims = ODYSSEY_TRIMS + VANILLA_TRIMS
+    for model in ARMOR_MODELS:
+        #  Loop through all odyssey armor to create all trim models and base models
+        for odyssey_material in ODYSSEY_ARMOR_MATERIALS:
+            # Base armor model (no trim)
+            create_base_armor_model(odyssey_material, model)
+            # Armor trim file
+            namespace = "odyssey"
+            for trim in all_trims:
+                create_armor_trim(odyssey_material, model, trim, namespace)
+        # Loop through all vanilla armor to create odyssey trim models
+        for vanilla_material in VANILLA_ARMOR_MATERIALS:
+            namespace = "minecraft"
+            for trim in ODYSSEY_TRIMS:
+                create_armor_trim(vanilla_material, model, trim, namespace)
+            
 
 # Main
 def main():
@@ -128,7 +132,7 @@ def main():
     # Input
     if answer == "y":
         print("Ok")
-        create_armor_trim_files() 
+        populate_files() 
         
 # Main
 if __name__ == "__main__":

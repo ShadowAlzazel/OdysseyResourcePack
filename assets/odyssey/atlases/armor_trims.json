@@ -27,7 +27,12 @@
         "silver": "odyssey:trims/color_palettes/silver",
         "titanium": "odyssey:trims/color_palettes/titanium",
         "anodizedtitanium": "odyssey:trims/color_palettes/anodizedtitanium",
-        "iridium": "odyssey:trims/color_palettes/iridium"
+        "iridium": "odyssey:trims/color_palettes/iridium",
+        "mithril_darker": "odyssey:trims/color_palettes/mithril_darker",
+        "silver_darker": "odyssey:trims/color_palettes/silver_darker",
+        "titanium_darker": "odyssey:trims/color_palettes/titanium_darker",
+        "anodizedtitanium_darker": "odyssey:trims/color_palettes/anodizedtitanium_darker",
+        "iridium_darker": "odyssey:trims/color_palettes/iridium_darker"
       }
     }
   ]

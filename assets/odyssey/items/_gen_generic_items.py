@@ -85,7 +85,26 @@ OTHER = [
     "irradiated_fruit"
 ]
 
-ITEM_LIST = OTHER + RUNIC + MATERIALS + FOODS
+ARCANE = [
+    "arcane_book",
+    "blank_tome",
+    "gilded_book",
+    "tome_of_avarice",
+    "tome_of_banishment",
+    "tome_of_discharge",
+    "tome_of_embrace",
+    "tome_of_euphony",
+    "tome_of_expenditure",
+    "tome_of_extraction",
+    "tome_of_harmony",
+    "tome_of_imitation",
+    "tome_of_infusion",
+    "tome_of_polymerization",
+    "tome_of_promotion",
+    "tome_of_replication",
+]
+
+ITEM_LIST = OTHER + RUNIC + MATERIALS + FOODS + ARCANE 
 
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------
