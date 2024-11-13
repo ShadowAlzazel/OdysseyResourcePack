@@ -10,16 +10,16 @@ os.chdir(dir_name)
 # --------------------------------------------------------------------------
 
 # Creating odyssey armor with trims
-armor_materials = [
+ODYSSEY_ARMOR_MATERIALS = [
     'mithril', 'iridium', 'soul_steel', 'titanium', 'anodized_titanium',
     'copper', 'silver'
 ]
-armor_base_model = [
+ARMOR_MODELS = [
     'chestplate', 'leggings', 'boots', 'helmet'
 ]
 
 #Name to namespace
-armor_trims = {
+ARMOR_TRIMS = {
     'alexandrite': "odyssey",
     'anodizedtitanium': "odyssey", 
     'iridium': "odyssey",
@@ -68,8 +68,8 @@ def create_parent_file_obj(filename: str, has_overlay: bool=False):
             "property": "minecraft:trim_material"
         }
     } 
+    # Add leather dye tint
     if has_overlay:
-        # WIP TODO
         pass
     return parent_obj
 
@@ -108,11 +108,11 @@ def write_to_global_obj(material: str, base: str, trim_name: str, namespace: int
       
 # Function to populate files
 def populate_files():
-    for name, namespace in armor_trims.items():
-        for j in range(len(armor_materials)):
-            for k in range(len(armor_base_model)):
-                mat = armor_materials[j]
-                base = armor_base_model[k]
+    for name, namespace in ARMOR_TRIMS.items():
+        for j in range(len(ODYSSEY_ARMOR_MATERIALS)):
+            for k in range(len(ARMOR_MODELS)):
+                mat = ODYSSEY_ARMOR_MATERIALS[j]
+                base = ARMOR_MODELS[k]
                 write_to_global_obj(mat, base, name, namespace)
     # -----------------------------------------------------------------------    
     # Add All file obj after loop to now overwrite previous 
@@ -120,8 +120,7 @@ def populate_files():
         text = json.dumps(FILE_OBJS[file_key], indent=2)
         filename = f"{file_key}.json"
         with open(filename, 'w') as file:
-            file.write(text)
-    print(f"Overwrote {len(FILE_OBJS)} files.")      
+            file.write(text) 
         
         
 # Main

@@ -5,182 +5,338 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_leggings_alexandrite_trim"
+          "model": "odyssey:item/armor/leather_leggings_alexandrite_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:alexandrite"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_leggings_anodizedtitanium_trim"
+          "model": "odyssey:item/armor/leather_leggings_anodizedtitanium_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:anodizedtitanium"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_leggings_iridium_trim"
+          "model": "odyssey:item/armor/leather_leggings_iridium_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:iridium"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_leggings_jade_trim"
+          "model": "odyssey:item/armor/leather_leggings_jade_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:jade"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_leggings_jovianite_trim"
+          "model": "odyssey:item/armor/leather_leggings_jovianite_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:jovianite"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_leggings_kunzite_trim"
+          "model": "odyssey:item/armor/leather_leggings_kunzite_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:kunzite"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_leggings_mithril_trim"
+          "model": "odyssey:item/armor/leather_leggings_mithril_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:mithril"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_leggings_neptunian_trim"
+          "model": "odyssey:item/armor/leather_leggings_neptunian_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:neptunian"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_leggings_obsidian_trim"
+          "model": "odyssey:item/armor/leather_leggings_obsidian_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:obsidian"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_leggings_ruby_trim"
+          "model": "odyssey:item/armor/leather_leggings_ruby_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:ruby"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_leggings_silver_trim"
+          "model": "odyssey:item/armor/leather_leggings_silver_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:silver"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_leggings_soulquartz_trim"
+          "model": "odyssey:item/armor/leather_leggings_soulquartz_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:soulquartz"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_leggings_soulsteel_trim"
+          "model": "odyssey:item/armor/leather_leggings_soulsteel_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:soulsteel"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_leggings_titanium_trim"
+          "model": "odyssey:item/armor/leather_leggings_titanium_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "odyssey:titanium"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_leggings_quartz_trim"
+          "model": "minecraft:item/leather_leggings_quartz_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "minecraft:quartz"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_leggings_iron_trim"
+          "model": "minecraft:item/leather_leggings_iron_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "minecraft:iron"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_leggings_netherite_trim"
+          "model": "minecraft:item/leather_leggings_netherite_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "minecraft:netherite"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_leggings_redstone_trim"
+          "model": "minecraft:item/leather_leggings_redstone_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "minecraft:redstone"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_leggings_copper_trim"
+          "model": "minecraft:item/leather_leggings_copper_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "minecraft:copper"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_leggings_gold_trim"
+          "model": "minecraft:item/leather_leggings_gold_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "minecraft:gold"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_leggings_emerald_trim"
+          "model": "minecraft:item/leather_leggings_emerald_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "minecraft:emerald"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_leggings_diamond_trim"
+          "model": "minecraft:item/leather_leggings_diamond_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "minecraft:diamond"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_leggings_lapis_trim"
+          "model": "minecraft:item/leather_leggings_lapis_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "minecraft:lapis"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_leggings_amethyst_trim"
+          "model": "minecraft:item/leather_leggings_amethyst_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "minecraft:amethyst"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/leather_leggings_resin_trim"
+          "model": "minecraft:item/leather_leggings_resin_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
         },
         "when": "minecraft:resin"
       }
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/leather_leggings"
+      "model": "minecraft:item/leather_leggings",
+      "tints": [
+        {
+          "type": "minecraft:dye",
+          "default": -6265536
+        }
+      ]
     },
     "property": "minecraft:trim_material"
   }

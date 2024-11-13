@@ -66,9 +66,14 @@ def create_parent_file_obj(filename: str, has_overlay: bool=False):
             "property": "minecraft:trim_material"
         }
     } 
+    # Add leather dye tint
     if has_overlay:
-        # WIP TODO
-        pass
+        parent_obj["model"]["fallback"]["tints"] = [
+            {
+                "type": "minecraft:dye",
+                "default": -6265536
+            }
+        ]
     return parent_obj
 
 
@@ -105,7 +110,15 @@ def write_to_global_obj(material: str, base: str, trim_name: str, namespace: int
             "model": model_path
         },
         "when": f'{namespace}:{trim_name}'
-    }        
+    }     
+    # Add leather dye tint
+    if has_overlay:
+        model_obj["model"]["tints"] = [
+            {
+                "type": "minecraft:dye",
+                "default": -6265536
+            }
+        ]   
     # Add override to "cases list"
     file_obj["model"]["cases"].append(model_obj)           
         

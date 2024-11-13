@@ -103,7 +103,9 @@ def generate_files(rune_item: str, tablet: str, material: str):
 def populate_files():
     # Generate files for rune items
     for rune_item, rune_parts in RUNIC_MAP.items():
-        generate_files(rune_item, rune_parts[0], rune_parts[1])
+        tablet = rune_parts[0]
+        material = rune_parts[1]
+        generate_files(rune_item, tablet, material)
        
 # Main
 def main():
