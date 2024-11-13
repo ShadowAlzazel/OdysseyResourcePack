@@ -18,7 +18,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_helmet_anodizedtitanium_trim",
+          "model": "odyssey:item/armor/leather_helmet_anodized_titanium_trim",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -26,7 +26,7 @@
             }
           ]
         },
-        "when": "odyssey:anodizedtitanium"
+        "when": "odyssey:anodized_titanium"
       },
       {
         "model": {
@@ -148,7 +148,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_helmet_soulquartz_trim",
+          "model": "odyssey:item/armor/leather_helmet_soul_quartz_trim",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -156,12 +156,12 @@
             }
           ]
         },
-        "when": "odyssey:soulquartz"
+        "when": "odyssey:soul_quartz"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/leather_helmet_soulsteel_trim",
+          "model": "odyssey:item/armor/leather_helmet_soul_steel_trim",
           "tints": [
             {
               "type": "minecraft:dye",
@@ -169,7 +169,7 @@
             }
           ]
         },
-        "when": "odyssey:soulsteel"
+        "when": "odyssey:soul_steel"
       },
       {
         "model": {

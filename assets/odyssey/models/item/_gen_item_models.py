@@ -82,7 +82,11 @@ OTHER = [
     "explosive_arrow",
     "imperial_armor_trim_smithing_template",
     "iridium_upgrade_template",
-    "irradiated_fruit"
+    "irradiated_fruit",
+    "shadow_trial_key",
+    "mithril_upgrade_template",
+    "soul_steel_upgrade_template",
+    "titanium_upgrade_template"
 ]
 
 ARCANE = [

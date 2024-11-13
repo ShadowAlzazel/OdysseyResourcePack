@@ -26,7 +26,7 @@ ODYSSEY_ARMOR_MATERIALS = [
 # The trim materials
 ODYSSEY_TRIMS = [
     'alexandrite',
-    'anodizedtitanium',
+    'anodized_titanium',
     'iridium',
     'jade', 
     'jovianite',
@@ -36,8 +36,8 @@ ODYSSEY_TRIMS = [
     'obsidian', 
     'ruby',
     'silver', 
-    'soulquartz',
-    'soulsteel', 
+    'soul_quartz',
+    'soul_steel', 
     'titanium'
 ]
 VANILLA_TRIMS = [

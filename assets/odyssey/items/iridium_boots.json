@@ -12,9 +12,9 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/iridium_boots_anodizedtitanium_trim"
+          "model": "odyssey:item/armor/iridium_boots_anodized_titanium_trim"
         },
-        "when": "odyssey:anodizedtitanium"
+        "when": "odyssey:anodized_titanium"
       },
       {
         "model": {
@@ -82,16 +82,16 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/iridium_boots_soulquartz_trim"
+          "model": "odyssey:item/armor/iridium_boots_soul_quartz_trim"
         },
-        "when": "odyssey:soulquartz"
+        "when": "odyssey:soul_quartz"
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "odyssey:item/armor/iridium_boots_soulsteel_trim"
+          "model": "odyssey:item/armor/iridium_boots_soul_steel_trim"
         },
-        "when": "odyssey:soulsteel"
+        "when": "odyssey:soul_steel"
       },
       {
         "model": {
