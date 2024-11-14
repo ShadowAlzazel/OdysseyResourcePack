@@ -19,7 +19,7 @@ ARMOR_MODELS = [
 ]
 
 #Name to namespace
-ARMOR_TRIMS = {
+TRIM_MAP = {
     'alexandrite': "odyssey",
     'anodized_titanium': "odyssey", 
     'iridium': "odyssey",
@@ -108,7 +108,7 @@ def write_to_global_obj(material: str, base: str, trim_name: str, namespace: int
       
 # Function to populate files
 def populate_files():
-    for name, namespace in ARMOR_TRIMS.items():
+    for name, namespace in TRIM_MAP.items():
         for j in range(len(ODYSSEY_ARMOR_MATERIALS)):
             for k in range(len(ARMOR_MODELS)):
                 mat = ODYSSEY_ARMOR_MATERIALS[j]

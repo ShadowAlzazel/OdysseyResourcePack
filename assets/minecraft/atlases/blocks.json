@@ -144,6 +144,8 @@
         "trims/items/helmet_trim",
         "trims/items/boots_trim",
 
+        "odyssey:item/weapon/composite/longsword/jewel_trim",
+
         "odyssey:item/misc/fancy_book/lining"
       ],
       "palette_key": "trims/color_palettes/trim_palette",

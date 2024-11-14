@@ -97,6 +97,7 @@ def create_parent_obg():
     } 
     return parent_obj
 
+
 # Create select model obj that chooses model
 def create_part_selecter_obj(weapon: str, material: str, part_name: str, index: int): 
     part_selecter_obj = {
@@ -111,6 +112,7 @@ def create_part_selecter_obj(weapon: str, material: str, part_name: str, index: 
     } 
     return part_selecter_obj
 
+
 # Create part case obj
 def create_case_obj(weapon: str, material: str, part_name: str):
     case_obj = {
@@ -121,6 +123,7 @@ def create_case_obj(weapon: str, material: str, part_name: str):
         "when": f'{part_name}'
     }
     return case_obj
+
 
 # Create parts for the sub_models from the weapon parts list
 def create_model_parts(weapon: str, material: str):
@@ -139,6 +142,7 @@ def create_model_parts(weapon: str, material: str):
         model_list.append(part_selecter_obj)
         
     return model_list
+
 
 # Generate files for list
 def create_weapon_file(weapon: str, material: str):

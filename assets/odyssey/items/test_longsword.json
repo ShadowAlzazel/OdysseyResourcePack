@@ -90,6 +90,31 @@
               "model": "odyssey:item/weapons/longsword/glow_effect"
             },
             "when": "glow_effect"
+          },
+          {
+            "type": "minecraft:select",
+            "cases": [
+              {
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "odyssey:item/weapons/longsword/composite/no_trim"
+                },
+                "when": "no_trim"
+              },
+              {
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "odyssey:item/weapons/longsword/composite/jewel_trim_iridium"
+                },
+                "when": "jewel_trim"
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/no_trim"
+            },
+            "property": "minecraft:custom_model_data",
+            "index": 5
           }
         ],
         "fallback": {
