@@ -87,16 +87,16 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/jewel_trim_iridium"
+              "model": "odyssey:item/weapons/longsword/trims/jewel_amethyst_trim"
             },
-            "when": "jewel_trim"
+            "when": "jewel"
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/jewel_trim_titanium"
+              "model": "odyssey:item/weapons/longsword/trims/spine_gold_trim"
             },
-            "when": "titanium"
+            "when": "spine"
           }
         ],
         "fallback": {
