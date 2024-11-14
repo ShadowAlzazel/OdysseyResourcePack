@@ -1,7 +1,6 @@
 {
   "parent": "odyssey:item/weapons/katana/handle",
   "textures": {
-    "0": "odyssey:item/weapon/composite/katana/handle_iridium",
-    "particle": "odyssey:item/weapon/composite/katana/handle_iridium"
+    "0": "odyssey:item/weapon/composite/katana/handle_iridium"
   }
 }

@@ -1,7 +1,6 @@
 {
   "parent": "odyssey:item/weapons/katana/voyager_blade",
   "textures": {
-    "0": "odyssey:item/weapon/composite/katana/voyager_blade_anodized_titanium",
-    "particle": "odyssey:item/weapon/composite/katana/voyager_blade_anodized_titanium"
+    "0": "odyssey:item/weapon/composite/katana/voyager_blade_anodized_titanium"
   }
 }

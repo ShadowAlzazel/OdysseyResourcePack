@@ -1,7 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/danger_hilt",
   "textures": {
-    "0": "odyssey:item/weapon/composite/longsword/danger_hilt_silver",
-    "particle": "odyssey:item/weapon/composite/longsword/danger_hilt_silver"
+    "0": "odyssey:item/weapon/composite/longsword/danger_hilt_silver"
   }
 }

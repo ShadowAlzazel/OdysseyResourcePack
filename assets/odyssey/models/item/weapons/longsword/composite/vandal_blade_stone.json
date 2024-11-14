@@ -1,7 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/vandal_blade",
   "textures": {
-    "0": "odyssey:item/weapon/composite/longsword/vandal_blade_stone",
-    "particle": "odyssey:item/weapon/composite/longsword/vandal_blade_stone"
+    "0": "odyssey:item/weapon/composite/longsword/vandal_blade_stone"
   }
 }

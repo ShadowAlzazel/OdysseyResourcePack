@@ -1,7 +1,6 @@
 {
   "parent": "odyssey:item/weapons/katana/voyager_blade",
   "textures": {
-    "0": "odyssey:item/weapon/composite/katana/voyager_blade_wooden",
-    "particle": "odyssey:item/weapon/composite/katana/voyager_blade_wooden"
+    "0": "odyssey:item/weapon/composite/katana/voyager_blade_wooden"
   }
 }

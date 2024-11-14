@@ -1,7 +1,6 @@
 {
   "parent": "odyssey:item/weapons/katana/imperial_hilt",
   "textures": {
-    "0": "odyssey:item/weapon/composite/katana/imperial_hilt_silver",
-    "particle": "odyssey:item/weapon/composite/katana/imperial_hilt_silver"
+    "0": "odyssey:item/weapon/composite/katana/imperial_hilt_silver"
   }
 }

@@ -1,7 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/seraph_pommel",
   "textures": {
-    "0": "odyssey:item/weapon/composite/longsword/seraph_pommel_iridium",
-    "particle": "odyssey:item/weapon/composite/longsword/seraph_pommel_iridium"
+    "0": "odyssey:item/weapon/composite/longsword/seraph_pommel_iridium"
   }
 }

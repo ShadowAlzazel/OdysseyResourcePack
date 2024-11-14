@@ -1,7 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/blade",
   "textures": {
-    "0": "odyssey:item/weapon/composite/longsword/blade_iron",
-    "particle": "odyssey:item/weapon/composite/longsword/blade_iron"
+    "0": "odyssey:item/weapon/composite/longsword/blade_iron"
   }
 }

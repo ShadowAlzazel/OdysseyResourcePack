@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "odyssey:item/misc/fancy_book/cover"
+    "layer0": "odyssey:item/misc/fancy_book_cover"
   }
 }

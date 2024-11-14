@@ -80,6 +80,38 @@
           {
             "model": {
               "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/no_trim"
+            },
+            "when": "no_trim"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/jewel_trim_iridium"
+            },
+            "when": "jewel_trim"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/jewel_trim_titanium"
+            },
+            "when": "titanium"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/longsword/no_trim"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 5
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
               "model": "odyssey:item/weapons/longsword/flame_effect"
             },
             "when": "flame_effect"
@@ -90,31 +122,6 @@
               "model": "odyssey:item/weapons/longsword/glow_effect"
             },
             "when": "glow_effect"
-          },
-          {
-            "type": "minecraft:select",
-            "cases": [
-              {
-                "model": {
-                  "type": "minecraft:model",
-                  "model": "odyssey:item/weapons/longsword/composite/no_trim"
-                },
-                "when": "no_trim"
-              },
-              {
-                "model": {
-                  "type": "minecraft:model",
-                  "model": "odyssey:item/weapons/longsword/composite/jewel_trim_iridium"
-                },
-                "when": "jewel_trim"
-              }
-            ],
-            "fallback": {
-              "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/no_trim"
-            },
-            "property": "minecraft:custom_model_data",
-            "index": 5
           }
         ],
         "fallback": {
@@ -122,7 +129,7 @@
           "model": "odyssey:item/weapons/longsword/no_effect"
         },
         "property": "minecraft:custom_model_data",
-        "index": 5
+        "index": 6
       }
     ]
   }

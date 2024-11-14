@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/misc/fancy_book/lining",
   "textures": {
-    "layer0": "odyssey:item/misc/fancy_book/lining_iridium"
+    "layer0": "odyssey:item/misc/fancy_book_lining_iridium"
   }
 }

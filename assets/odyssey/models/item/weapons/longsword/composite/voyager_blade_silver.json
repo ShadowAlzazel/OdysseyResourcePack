@@ -1,7 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/voyager_blade",
   "textures": {
-    "0": "odyssey:item/weapon/composite/longsword/voyager_blade_silver",
-    "particle": "odyssey:item/weapon/composite/longsword/voyager_blade_silver"
+    "0": "odyssey:item/weapon/composite/longsword/voyager_blade_silver"
   }
 }
