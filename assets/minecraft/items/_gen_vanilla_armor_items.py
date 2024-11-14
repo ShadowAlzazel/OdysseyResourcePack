@@ -20,7 +20,7 @@ armor_base_model = [
 #Name to namespace
 armor_trims = {
     'alexandrite': "odyssey",
-    'anodizedtitanium': "odyssey", 
+    'anodized_titanium': "odyssey", 
     'iridium': "odyssey",
     'jade': "odyssey", 
     'jovianite': "odyssey",
@@ -30,8 +30,8 @@ armor_trims = {
     'obsidian': "odyssey", 
     'ruby': "odyssey",
     'silver': "odyssey", 
-    'soulquartz': "odyssey",
-    'soulsteel': "odyssey", 
+    'soul_quartz': "odyssey",
+    'soul_steel': "odyssey", 
     'titanium': "odyssey",
     
     "quartz": "minecraft",

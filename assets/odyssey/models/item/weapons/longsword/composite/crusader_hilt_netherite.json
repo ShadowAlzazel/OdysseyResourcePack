@@ -1,7 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/crusader_hilt",
   "textures": {
-    "0": "odyssey:item/weapon/composite/longsword/crusader_hilt_netherite",
-    "particle": "odyssey:item/weapon/composite/longsword/crusader_hilt_netherite"
+    "0": "odyssey:item/weapon/composite/longsword/crusader_hilt_netherite"
   }
 }

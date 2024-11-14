@@ -1,7 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/marauder_hilt",
   "textures": {
-    "0": "odyssey:item/weapon/composite/longsword/marauder_hilt_stone",
-    "particle": "odyssey:item/weapon/composite/longsword/marauder_hilt_stone"
+    "0": "odyssey:item/weapon/composite/longsword/marauder_hilt_stone"
   }
 }

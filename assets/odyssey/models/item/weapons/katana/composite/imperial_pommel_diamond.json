@@ -1,7 +1,6 @@
 {
   "parent": "odyssey:item/weapons/katana/imperial_pommel",
   "textures": {
-    "0": "odyssey:item/weapon/composite/katana/imperial_pommel_diamond",
-    "particle": "odyssey:item/weapon/composite/katana/imperial_pommel_diamond"
+    "0": "odyssey:item/weapon/composite/katana/imperial_pommel_diamond"
   }
 }

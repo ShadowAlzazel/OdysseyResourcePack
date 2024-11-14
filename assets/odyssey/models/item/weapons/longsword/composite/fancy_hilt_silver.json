@@ -1,7 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/fancy_hilt",
   "textures": {
-    "0": "odyssey:item/weapon/composite/longsword/fancy_hilt_silver",
-    "particle": "odyssey:item/weapon/composite/longsword/fancy_hilt_silver"
+    "0": "odyssey:item/weapon/composite/longsword/fancy_hilt_silver"
   }
 }

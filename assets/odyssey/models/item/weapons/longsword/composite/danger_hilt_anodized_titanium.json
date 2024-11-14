@@ -1,7 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/danger_hilt",
   "textures": {
-    "0": "odyssey:item/weapon/composite/longsword/danger_hilt_anodized_titanium",
-    "particle": "odyssey:item/weapon/composite/longsword/danger_hilt_anodized_titanium"
+    "0": "odyssey:item/weapon/composite/longsword/danger_hilt_anodized_titanium"
   }
 }

@@ -1,7 +1,6 @@
 {
   "parent": "odyssey:item/weapons/katana/blade",
   "textures": {
-    "0": "odyssey:item/weapon/composite/katana/blade_anodized_titanium",
-    "particle": "odyssey:item/weapon/composite/katana/blade_anodized_titanium"
+    "0": "odyssey:item/weapon/composite/katana/blade_anodized_titanium"
   }
 }

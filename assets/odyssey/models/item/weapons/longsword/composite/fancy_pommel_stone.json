@@ -1,7 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/fancy_pommel",
   "textures": {
-    "0": "odyssey:item/weapon/composite/longsword/fancy_pommel_stone",
-    "particle": "odyssey:item/weapon/composite/longsword/fancy_pommel_stone"
+    "0": "odyssey:item/weapon/composite/longsword/fancy_pommel_stone"
   }
 }

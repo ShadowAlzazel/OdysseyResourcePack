@@ -93,11 +93,11 @@ WEAPON_PARTS = {
 def generate_composite_file(part: str, material: str, weapon_name: str):
     filename = f'{weapon_name}/composite/{part}_{material}.json'
     # create json obj
+    # TODO maybe remove particles?
     json_obj = {
         "parent": f'odyssey:item/weapons/{weapon_name}/{part}',
         "textures": {
-            "0": f'odyssey:item/weapon/composite/{weapon_name}/{part}_{material}',
-            "particle": f'odyssey:item/weapon/composite/{weapon_name}/{part}_{material}'
+            "0": f'odyssey:item/weapon/composite/{weapon_name}/{part}_{material}'
         }
     }
     # Write the text to opened file

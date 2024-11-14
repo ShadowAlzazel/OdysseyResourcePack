@@ -1,7 +1,6 @@
 {
   "parent": "odyssey:item/weapons/katana/pommel",
   "textures": {
-    "0": "odyssey:item/weapon/composite/katana/pommel_titanium",
-    "particle": "odyssey:item/weapon/composite/katana/pommel_titanium"
+    "0": "odyssey:item/weapon/composite/katana/pommel_titanium"
   }
 }

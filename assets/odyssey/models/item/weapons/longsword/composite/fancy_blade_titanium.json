@@ -1,7 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/fancy_blade",
   "textures": {
-    "0": "odyssey:item/weapon/composite/longsword/fancy_blade_titanium",
-    "particle": "odyssey:item/weapon/composite/longsword/fancy_blade_titanium"
+    "0": "odyssey:item/weapon/composite/longsword/fancy_blade_titanium"
   }
 }

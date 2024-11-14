@@ -1,7 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/handle",
   "textures": {
-    "0": "odyssey:item/weapon/composite/longsword/handle_mithril",
-    "particle": "odyssey:item/weapon/composite/longsword/handle_mithril"
+    "0": "odyssey:item/weapon/composite/longsword/handle_mithril"
   }
 }

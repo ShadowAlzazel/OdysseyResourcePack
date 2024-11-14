@@ -1,7 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/handle",
   "textures": {
-    "0": "odyssey:item/weapon/composite/longsword/handle_titanium",
-    "particle": "odyssey:item/weapon/composite/longsword/handle_titanium"
+    "0": "odyssey:item/weapon/composite/longsword/handle_titanium"
   }
 }

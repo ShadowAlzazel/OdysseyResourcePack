@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/misc/fancy_book/lining",
   "textures": {
-    "layer0": "odyssey:item/misc/fancy_book/lining_gold"
+    "layer0": "odyssey:item/misc/fancy_book_lining_gold"
   }
 }

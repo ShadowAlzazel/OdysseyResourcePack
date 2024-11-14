@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "odyssey:item/armor/anodized_titanium_leggings",
-    "layer1": "minecraft:trims/items/leggings_trim_anodizedtitanium"
-  }
-}
