@@ -83,6 +83,43 @@ WEAPON_PARTS = {
     ],
 }
 
+# All patterns
+WEAPON_TRIMS = [
+    "jewel",
+    "spine",
+    "wings"
+]
+
+#Name to namespace
+MATERIAL_MAP = {
+    'alexandrite': "odyssey",
+    'anodized_titanium': "odyssey", 
+    'iridium': "odyssey",
+    'jade': "odyssey", 
+    'jovianite': "odyssey",
+    'kunzite': "odyssey", 
+    'mithril': "odyssey", 
+    'neptunian': "odyssey",
+    'obsidian': "odyssey", 
+    'ruby': "odyssey",
+    'silver': "odyssey", 
+    'soul_quartz': "odyssey",
+    'soul_steel': "odyssey", 
+    'titanium': "odyssey",
+    
+    "quartz": "minecraft",
+    "iron": "minecraft",
+    "netherite": "minecraft",
+    "redstone": "minecraft",
+    "copper": "minecraft",
+    "gold": "minecraft",
+    "emerald": "minecraft",
+    "diamond": "minecraft",
+    "lapis": "minecraft",
+    "amethyst": "minecraft",
+    "resin": "minecraft"
+}
+
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------
@@ -125,6 +162,57 @@ def create_case_obj(weapon: str, material: str, part_name: str):
     return case_obj
 
 
+# Trim Selecter 
+def create_trim_selecter(weapon: str):
+    # Main obj
+    master_trim_obj = {
+        "type": "minecraft:select",
+        "cases": [],
+        "fallback": {
+            "type":"minecraft:model",
+            "model": f'odyssey:item/weapons/{weapon}/no_trim'
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 5
+    } 
+    # loop through patterns
+    for pattern in WEAPON_TRIMS:
+        # Create trim cases
+        trim_cases: list = []
+        for material, namespace in MATERIAL_MAP.items():
+            case_obj = create_trim_case_obj(namespace, weapon, pattern, material)
+            trim_cases.append(case_obj)
+        # Create pattern selecter
+        pattern_obj = {
+            "model": {
+                "type": "minecraft:select",
+                "cases": trim_cases,
+                "fallback": {
+                    "type":"minecraft:model",
+                    "model": f'odyssey:item/weapons/{weapon}/no_trim'
+                },
+                "property": "minecraft:trim_material"
+            },
+            "when": f'{pattern}_trim'
+        } 
+        # Add to main
+        master_trim_obj["cases"].append(pattern_obj)
+    # return
+    return master_trim_obj
+
+
+# Create trim sub model
+def create_trim_case_obj(namespace: str, weapon: str, trim_name: str, material: str):
+    case_obj = {
+        "model": {
+            "type": "minecraft:model",
+            "model": f'odyssey:item/weapons/{weapon}/trims/{trim_name}_{material}_trim'
+        },
+        "when": f'{namespace}:{material}'
+    } 
+    return case_obj
+
+
 # Create parts for the sub_models from the weapon parts list
 def create_model_parts(weapon: str, material: str):
     # The first entry in WEAPON_PARTS is the fallback part
@@ -140,6 +228,11 @@ def create_model_parts(weapon: str, material: str):
             part_selecter_obj["cases"].append(case_obj)
         list_count += 1
         model_list.append(part_selecter_obj)
+        
+    # ------ TEST -----
+    if weapon == "longsword":
+        trim_selecter_obg = create_trim_selecter(weapon)
+        model_list.append(trim_selecter_obg)
         
     return model_list
 

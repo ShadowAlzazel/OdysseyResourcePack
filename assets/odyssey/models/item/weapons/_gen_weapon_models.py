@@ -85,6 +85,43 @@ WEAPON_PARTS = {
     ]
 }
 
+# All patterns
+WEAPON_TRIMS = [
+    "jewel",
+    "spine",
+    "wings"
+]
+
+#Name to namespace
+MATERIAL_MAP = {
+    'alexandrite': "odyssey",
+    'anodized_titanium': "odyssey", 
+    'iridium': "odyssey",
+    'jade': "odyssey", 
+    'jovianite': "odyssey",
+    'kunzite': "odyssey", 
+    'mithril': "odyssey", 
+    'neptunian': "odyssey",
+    'obsidian': "odyssey", 
+    'ruby': "odyssey",
+    'silver': "odyssey", 
+    'soul_quartz': "odyssey",
+    'soul_steel': "odyssey", 
+    'titanium': "odyssey",
+    
+    "quartz": "minecraft",
+    "iron": "minecraft",
+    "netherite": "minecraft",
+    "redstone": "minecraft",
+    "copper": "minecraft",
+    "gold": "minecraft",
+    "emerald": "minecraft",
+    "diamond": "minecraft",
+    "lapis": "minecraft",
+    "amethyst": "minecraft",
+    "resin": "minecraft"
+}
+
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------
@@ -106,25 +143,50 @@ def generate_composite_file(part: str, material: str, weapon_name: str):
         file.write(text) 
 
 
+# Generate file for composite part
+def generate_trim_file(trim_name: str, material: str, weapon_name: str):
+    filename = f'{weapon_name}/trims/{trim_name}_{material}_trim.json'
+    # create json obj
+    json_obj = {
+        "parent": f'odyssey:item/weapons/{weapon_name}/{trim_name}_trim',
+        "textures": {
+            "0": f'odyssey:item/weapon/composite/{weapon_name}/{trim_name}_trim_{material}'
+        }
+    }
+    # Write the text to opened file
+    text = json.dumps(json_obj, indent=2)
+    with open(filename, 'w') as file:
+        file.write(text) 
+
+
 # poulate files
 def populate_files():
     global MATERIALS
     global WEAPON_PARTS
     global WEAPONS
-    # Generate files for weapon material combinations
+    global WEAPON_TRIMS
+    global MATERIAL_MAP
+    # Loop throgh all weapons
     for weapon in WEAPONS:
         # create dir if does not exist
         if not os.path.exists(weapon):
             os.makedirs(weapon)
         if not os.path.exists(f'{weapon}/composite'):
             os.makedirs(f'{weapon}/composite')
-        # Loop for weapon
+        if not os.path.exists(f'{weapon}/trims'):
+            os.makedirs(f'{weapon}/trims')
+        # Generate files for weapon material combinations
         for material in MATERIALS:
             part_list = WEAPON_PARTS[weapon]
+            # Create one list to loop through materials
             combined_parts = list(itertools.chain(*part_list))
             for part in combined_parts:
                 generate_composite_file(part, material, weapon)
-        
+        # Generate for trims
+        if weapon == "longsword": # Test
+            for trim in WEAPON_TRIMS:
+                for material, namespace in MATERIAL_MAP.items():
+                    generate_trim_file(trim, material, weapon)
 
 # Main
 def main():

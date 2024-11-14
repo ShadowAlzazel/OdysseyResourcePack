@@ -241,6 +241,581 @@
         },
         "property": "minecraft:custom_model_data",
         "index": 4
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:select",
+              "cases": [
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_alexandrite_trim"
+                  },
+                  "when": "odyssey:alexandrite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_anodized_titanium_trim"
+                  },
+                  "when": "odyssey:anodized_titanium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_iridium_trim"
+                  },
+                  "when": "odyssey:iridium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_jade_trim"
+                  },
+                  "when": "odyssey:jade"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_jovianite_trim"
+                  },
+                  "when": "odyssey:jovianite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_kunzite_trim"
+                  },
+                  "when": "odyssey:kunzite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_mithril_trim"
+                  },
+                  "when": "odyssey:mithril"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_neptunian_trim"
+                  },
+                  "when": "odyssey:neptunian"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_obsidian_trim"
+                  },
+                  "when": "odyssey:obsidian"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_ruby_trim"
+                  },
+                  "when": "odyssey:ruby"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_silver_trim"
+                  },
+                  "when": "odyssey:silver"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_soul_quartz_trim"
+                  },
+                  "when": "odyssey:soul_quartz"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_soul_steel_trim"
+                  },
+                  "when": "odyssey:soul_steel"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_titanium_trim"
+                  },
+                  "when": "odyssey:titanium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_quartz_trim"
+                  },
+                  "when": "minecraft:quartz"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_iron_trim"
+                  },
+                  "when": "minecraft:iron"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_netherite_trim"
+                  },
+                  "when": "minecraft:netherite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_redstone_trim"
+                  },
+                  "when": "minecraft:redstone"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_copper_trim"
+                  },
+                  "when": "minecraft:copper"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_gold_trim"
+                  },
+                  "when": "minecraft:gold"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_emerald_trim"
+                  },
+                  "when": "minecraft:emerald"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_diamond_trim"
+                  },
+                  "when": "minecraft:diamond"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_lapis_trim"
+                  },
+                  "when": "minecraft:lapis"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_amethyst_trim"
+                  },
+                  "when": "minecraft:amethyst"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_resin_trim"
+                  },
+                  "when": "minecraft:resin"
+                }
+              ],
+              "fallback": {
+                "type": "minecraft:model",
+                "model": "odyssey:item/weapons/longsword/no_trim"
+              },
+              "property": "minecraft:trim_material"
+            },
+            "when": "jewel_trim"
+          },
+          {
+            "model": {
+              "type": "minecraft:select",
+              "cases": [
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_alexandrite_trim"
+                  },
+                  "when": "odyssey:alexandrite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_anodized_titanium_trim"
+                  },
+                  "when": "odyssey:anodized_titanium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_iridium_trim"
+                  },
+                  "when": "odyssey:iridium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_jade_trim"
+                  },
+                  "when": "odyssey:jade"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_jovianite_trim"
+                  },
+                  "when": "odyssey:jovianite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_kunzite_trim"
+                  },
+                  "when": "odyssey:kunzite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_mithril_trim"
+                  },
+                  "when": "odyssey:mithril"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_neptunian_trim"
+                  },
+                  "when": "odyssey:neptunian"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_obsidian_trim"
+                  },
+                  "when": "odyssey:obsidian"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_ruby_trim"
+                  },
+                  "when": "odyssey:ruby"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_silver_trim"
+                  },
+                  "when": "odyssey:silver"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_soul_quartz_trim"
+                  },
+                  "when": "odyssey:soul_quartz"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_soul_steel_trim"
+                  },
+                  "when": "odyssey:soul_steel"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_titanium_trim"
+                  },
+                  "when": "odyssey:titanium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_quartz_trim"
+                  },
+                  "when": "minecraft:quartz"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_iron_trim"
+                  },
+                  "when": "minecraft:iron"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_netherite_trim"
+                  },
+                  "when": "minecraft:netherite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_redstone_trim"
+                  },
+                  "when": "minecraft:redstone"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_copper_trim"
+                  },
+                  "when": "minecraft:copper"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_gold_trim"
+                  },
+                  "when": "minecraft:gold"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_emerald_trim"
+                  },
+                  "when": "minecraft:emerald"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_diamond_trim"
+                  },
+                  "when": "minecraft:diamond"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_lapis_trim"
+                  },
+                  "when": "minecraft:lapis"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_amethyst_trim"
+                  },
+                  "when": "minecraft:amethyst"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_resin_trim"
+                  },
+                  "when": "minecraft:resin"
+                }
+              ],
+              "fallback": {
+                "type": "minecraft:model",
+                "model": "odyssey:item/weapons/longsword/no_trim"
+              },
+              "property": "minecraft:trim_material"
+            },
+            "when": "spine_trim"
+          },
+          {
+            "model": {
+              "type": "minecraft:select",
+              "cases": [
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_alexandrite_trim"
+                  },
+                  "when": "odyssey:alexandrite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_anodized_titanium_trim"
+                  },
+                  "when": "odyssey:anodized_titanium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_iridium_trim"
+                  },
+                  "when": "odyssey:iridium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_jade_trim"
+                  },
+                  "when": "odyssey:jade"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_jovianite_trim"
+                  },
+                  "when": "odyssey:jovianite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_kunzite_trim"
+                  },
+                  "when": "odyssey:kunzite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_mithril_trim"
+                  },
+                  "when": "odyssey:mithril"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_neptunian_trim"
+                  },
+                  "when": "odyssey:neptunian"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_obsidian_trim"
+                  },
+                  "when": "odyssey:obsidian"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_ruby_trim"
+                  },
+                  "when": "odyssey:ruby"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_silver_trim"
+                  },
+                  "when": "odyssey:silver"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_soul_quartz_trim"
+                  },
+                  "when": "odyssey:soul_quartz"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_soul_steel_trim"
+                  },
+                  "when": "odyssey:soul_steel"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_titanium_trim"
+                  },
+                  "when": "odyssey:titanium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_quartz_trim"
+                  },
+                  "when": "minecraft:quartz"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_iron_trim"
+                  },
+                  "when": "minecraft:iron"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_netherite_trim"
+                  },
+                  "when": "minecraft:netherite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_redstone_trim"
+                  },
+                  "when": "minecraft:redstone"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_copper_trim"
+                  },
+                  "when": "minecraft:copper"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_gold_trim"
+                  },
+                  "when": "minecraft:gold"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_emerald_trim"
+                  },
+                  "when": "minecraft:emerald"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_diamond_trim"
+                  },
+                  "when": "minecraft:diamond"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_lapis_trim"
+                  },
+                  "when": "minecraft:lapis"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_amethyst_trim"
+                  },
+                  "when": "minecraft:amethyst"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_resin_trim"
+                  },
+                  "when": "minecraft:resin"
+                }
+              ],
+              "fallback": {
+                "type": "minecraft:model",
+                "model": "odyssey:item/weapons/longsword/no_trim"
+              },
+              "property": "minecraft:trim_material"
+            },
+            "when": "wings_trim"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/longsword/no_trim"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 5
       }
     ]
   }

@@ -19,7 +19,7 @@ ARMOR_MODELS = [
 ]
 
 #Name to namespace
-TRIM_MAP = {
+MATERIAL_MAP = {
     'alexandrite': "odyssey",
     'anodized_titanium': "odyssey", 
     'iridium': "odyssey",
@@ -59,11 +59,10 @@ def create_parent_file_obj(filename: str, has_overlay: bool=False):
     parent_obj = {
         "model": {
             "type": "minecraft:select",
-            "cases": [   
-            ],
+            "cases": [],
             "fallback": {
                 "type":"minecraft:model",
-                "model": f"odyssey:item/armor/{filename}"
+                "model": f'odyssey:item/armor/{filename}'
             },
             "property": "minecraft:trim_material"
         }
@@ -86,21 +85,21 @@ def get_or_create_file_obj(filename: str, has_overlay: bool=False):
 
 
 # Seperate write function to 
-def write_to_global_obj(material: str, base: str, trim_name: str, namespace: int):
+def write_to_global_obj(material: str, base: str, material_name: str, namespace: int):
     global FILE_OBJS
     filename = f'{material}_{base}'
     has_overlay = material == "leather"
     file_obj = get_or_create_file_obj(filename, has_overlay)
     # Check for darker
-    #if (trim_name == material or gold_on_gold):
-    #    trim = f'{trim_name}_darker'
+    #if (material_name == material or gold_on_gold):
+    #    trim = f'{material_name}_darker'
     # Create model case obj 
     model_obj = {
         "model": {
             "type": "minecraft:model",
-            "model": f'odyssey:item/armor/{material}_{base}_{trim_name}_trim'
+            "model": f'odyssey:item/armor/{material}_{base}_{material_name}_trim'
         },
-        "when": f'{namespace}:{trim_name}'
+        "when": f'{namespace}:{material_name}'
     }        
     # Add override to "cases list"
     file_obj["model"]["cases"].append(model_obj)           
@@ -108,7 +107,7 @@ def write_to_global_obj(material: str, base: str, trim_name: str, namespace: int
       
 # Function to populate files
 def populate_files():
-    for name, namespace in TRIM_MAP.items():
+    for name, namespace in MATERIAL_MAP.items():
         for j in range(len(ODYSSEY_ARMOR_MATERIALS)):
             for k in range(len(ARMOR_MODELS)):
                 mat = ODYSSEY_ARMOR_MATERIALS[j]
