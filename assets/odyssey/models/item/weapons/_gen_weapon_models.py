@@ -23,7 +23,7 @@ MATERIALS = [
 ]
 
 WEAPON_PARTS = {
-     "longsword": [
+    "longsword": [
         ["blade",
          "big_blade",
          "fancy_blade",
@@ -42,7 +42,8 @@ WEAPON_PARTS = {
          "crusader_hilt",
          "danger_hilt",
          "vandal_hilt",
-         "seraph_hilt"],
+         "seraph_hilt",
+         "humble_hilt"],
         ["pommel",
          "imperial_pommel",
          "fancy_pommel",
@@ -51,7 +52,8 @@ WEAPON_PARTS = {
          "crusader_pommel",
          "seraph_pommel",
          "danger_pommel",
-         "voyager_pommel"]
+         "voyager_pommel",
+         "humble_pommel"]
     ],
     "katana": [
         ["blade",

@@ -86,7 +86,22 @@ OTHER = [
     "shadow_trial_key",
     "mithril_upgrade_template",
     "soul_steel_upgrade_template",
-    "titanium_upgrade_template"
+    "titanium_upgrade_template",
+    "blade_part_upgrade_template",
+    "handle_part_upgrade_template",
+    "pommel_part_upgrade_template",
+    "hilt_part_upgrade_template",
+    "empty_part_upgrade_template",
+    "voyager_part_pattern",
+    "danger_part_pattern",
+    "seraph_part_pattern",
+    "marauder_part_pattern",
+    "crusader_part_pattern",
+    "vandal_part_pattern",
+    "imperial_part_pattern",
+    "fancy_part_pattern",
+    "humble_part_pattern",
+    "empty_part_pattern"
 ]
 
 ARCANE = [

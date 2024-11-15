@@ -159,6 +159,13 @@
               "model": "odyssey:item/weapons/longsword/composite/seraph_hilt_titanium"
             },
             "when": "seraph_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/humble_hilt_titanium"
+            },
+            "when": "humble_hilt"
           }
         ],
         "fallback": {
@@ -233,6 +240,13 @@
               "model": "odyssey:item/weapons/longsword/composite/voyager_pommel_titanium"
             },
             "when": "voyager_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/humble_pommel_titanium"
+            },
+            "when": "humble_pommel"
           }
         ],
         "fallback": {
