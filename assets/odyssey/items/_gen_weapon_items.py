@@ -20,38 +20,30 @@ MATERIALS = [
     'copper', 'silver', 'soul_steel', 'titanium', 'anodized_titanium', 'iridium', 'mithril'
 ]
 
+# Starter set for the 9 basic parts
+STARTER_SET = [
+    "crusader",
+    "danger",
+    "fancy",
+    "humble",
+    "imperial",
+    "marauder",
+    "seraph",
+    "vandal",
+    "voyager"
+]
+
+STARTER_BLADES = ["blade"] + [f'{x}_blade' for x in STARTER_SET]
+STARTER_HILTS = ["hilt"] + [f'{x}_hilt' for x in STARTER_SET]
+STARTER_POMMELS = ["pommel"] + [f'{x}_pommel' for x in STARTER_SET]
+
+
 WEAPON_PARTS = {
     "longsword": [
-        ["blade",
-         "big_blade",
-         "fancy_blade",
-         "imperial_blade",
-         "marauder_blade",
-         "crusader_blade",
-         "vandal_blade",
-         "seraph_blade",
-         "voyager_blade"],
+        STARTER_BLADES,
         ["handle"],
-        ["hilt",
-         "fancy_hilt",
-         "imperial_hilt",
-         "voyager_hilt",
-         "marauder_hilt",
-         "crusader_hilt",
-         "danger_hilt",
-         "vandal_hilt",
-         "seraph_hilt",
-         "humble_hilt"],
-        ["pommel",
-         "imperial_pommel",
-         "fancy_pommel",
-         "marauder_pommel",
-         "vandal_pommel",
-         "crusader_pommel",
-         "seraph_pommel",
-         "danger_pommel",
-         "voyager_pommel",
-         "humble_pommel"]
+        STARTER_HILTS,
+        STARTER_POMMELS
     ],
     "katana": [
         ["blade",
@@ -89,7 +81,9 @@ WEAPON_PARTS = {
 WEAPON_TRIMS = [
     "jewel",
     "spine",
-    "wings"
+    "wings",
+    "cross",
+    "trace"
 ]
 
 #Name to namespace

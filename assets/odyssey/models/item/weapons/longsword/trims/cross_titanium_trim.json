@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/longsword/cross_trim",
+  "textures": {
+    "0": "odyssey:item/weapon/composite/longsword/cross_trim_titanium"
+  }
+}

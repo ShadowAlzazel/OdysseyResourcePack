@@ -15,9 +15,16 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/big_blade_anodized_titanium"
+              "model": "odyssey:item/weapons/longsword/composite/crusader_blade_anodized_titanium"
             },
-            "when": "big_blade"
+            "when": "crusader_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/danger_blade_anodized_titanium"
+            },
+            "when": "danger_blade"
           },
           {
             "model": {
@@ -25,6 +32,13 @@
               "model": "odyssey:item/weapons/longsword/composite/fancy_blade_anodized_titanium"
             },
             "when": "fancy_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/humble_blade_anodized_titanium"
+            },
+            "when": "humble_blade"
           },
           {
             "model": {
@@ -43,9 +57,9 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/crusader_blade_anodized_titanium"
+              "model": "odyssey:item/weapons/longsword/composite/seraph_blade_anodized_titanium"
             },
-            "when": "crusader_blade"
+            "when": "seraph_blade"
           },
           {
             "model": {
@@ -53,13 +67,6 @@
               "model": "odyssey:item/weapons/longsword/composite/vandal_blade_anodized_titanium"
             },
             "when": "vandal_blade"
-          },
-          {
-            "model": {
-              "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/seraph_blade_anodized_titanium"
-            },
-            "when": "seraph_blade"
           },
           {
             "model": {
@@ -107,34 +114,6 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/fancy_hilt_anodized_titanium"
-            },
-            "when": "fancy_hilt"
-          },
-          {
-            "model": {
-              "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/imperial_hilt_anodized_titanium"
-            },
-            "when": "imperial_hilt"
-          },
-          {
-            "model": {
-              "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/voyager_hilt_anodized_titanium"
-            },
-            "when": "voyager_hilt"
-          },
-          {
-            "model": {
-              "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/marauder_hilt_anodized_titanium"
-            },
-            "when": "marauder_hilt"
-          },
-          {
-            "model": {
-              "type": "minecraft:model",
               "model": "odyssey:item/weapons/longsword/composite/crusader_hilt_anodized_titanium"
             },
             "when": "crusader_hilt"
@@ -149,9 +128,30 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/vandal_hilt_anodized_titanium"
+              "model": "odyssey:item/weapons/longsword/composite/fancy_hilt_anodized_titanium"
             },
-            "when": "vandal_hilt"
+            "when": "fancy_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/humble_hilt_anodized_titanium"
+            },
+            "when": "humble_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/imperial_hilt_anodized_titanium"
+            },
+            "when": "imperial_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/marauder_hilt_anodized_titanium"
+            },
+            "when": "marauder_hilt"
           },
           {
             "model": {
@@ -163,9 +163,16 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/humble_hilt_anodized_titanium"
+              "model": "odyssey:item/weapons/longsword/composite/vandal_hilt_anodized_titanium"
             },
-            "when": "humble_hilt"
+            "when": "vandal_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/voyager_hilt_anodized_titanium"
+            },
+            "when": "voyager_hilt"
           }
         ],
         "fallback": {
@@ -188,44 +195,9 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/imperial_pommel_anodized_titanium"
-            },
-            "when": "imperial_pommel"
-          },
-          {
-            "model": {
-              "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/fancy_pommel_anodized_titanium"
-            },
-            "when": "fancy_pommel"
-          },
-          {
-            "model": {
-              "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/marauder_pommel_anodized_titanium"
-            },
-            "when": "marauder_pommel"
-          },
-          {
-            "model": {
-              "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/vandal_pommel_anodized_titanium"
-            },
-            "when": "vandal_pommel"
-          },
-          {
-            "model": {
-              "type": "minecraft:model",
               "model": "odyssey:item/weapons/longsword/composite/crusader_pommel_anodized_titanium"
             },
             "when": "crusader_pommel"
-          },
-          {
-            "model": {
-              "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/seraph_pommel_anodized_titanium"
-            },
-            "when": "seraph_pommel"
           },
           {
             "model": {
@@ -237,9 +209,9 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/weapons/longsword/composite/voyager_pommel_anodized_titanium"
+              "model": "odyssey:item/weapons/longsword/composite/fancy_pommel_anodized_titanium"
             },
-            "when": "voyager_pommel"
+            "when": "fancy_pommel"
           },
           {
             "model": {
@@ -247,6 +219,41 @@
               "model": "odyssey:item/weapons/longsword/composite/humble_pommel_anodized_titanium"
             },
             "when": "humble_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/imperial_pommel_anodized_titanium"
+            },
+            "when": "imperial_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/marauder_pommel_anodized_titanium"
+            },
+            "when": "marauder_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/seraph_pommel_anodized_titanium"
+            },
+            "when": "seraph_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/vandal_pommel_anodized_titanium"
+            },
+            "when": "vandal_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/longsword/composite/voyager_pommel_anodized_titanium"
+            },
+            "when": "voyager_pommel"
           }
         ],
         "fallback": {
@@ -822,6 +829,382 @@
               "property": "minecraft:trim_material"
             },
             "when": "wings_trim"
+          },
+          {
+            "model": {
+              "type": "minecraft:select",
+              "cases": [
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_alexandrite_trim"
+                  },
+                  "when": "odyssey:alexandrite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_anodized_titanium_trim"
+                  },
+                  "when": "odyssey:anodized_titanium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_iridium_trim"
+                  },
+                  "when": "odyssey:iridium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_jade_trim"
+                  },
+                  "when": "odyssey:jade"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_jovianite_trim"
+                  },
+                  "when": "odyssey:jovianite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_kunzite_trim"
+                  },
+                  "when": "odyssey:kunzite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_mithril_trim"
+                  },
+                  "when": "odyssey:mithril"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_neptunian_trim"
+                  },
+                  "when": "odyssey:neptunian"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_obsidian_trim"
+                  },
+                  "when": "odyssey:obsidian"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_ruby_trim"
+                  },
+                  "when": "odyssey:ruby"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_silver_trim"
+                  },
+                  "when": "odyssey:silver"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_soul_quartz_trim"
+                  },
+                  "when": "odyssey:soul_quartz"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_soul_steel_trim"
+                  },
+                  "when": "odyssey:soul_steel"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_titanium_trim"
+                  },
+                  "when": "odyssey:titanium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_quartz_trim"
+                  },
+                  "when": "minecraft:quartz"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_iron_trim"
+                  },
+                  "when": "minecraft:iron"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_netherite_trim"
+                  },
+                  "when": "minecraft:netherite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_redstone_trim"
+                  },
+                  "when": "minecraft:redstone"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_copper_trim"
+                  },
+                  "when": "minecraft:copper"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_gold_trim"
+                  },
+                  "when": "minecraft:gold"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_emerald_trim"
+                  },
+                  "when": "minecraft:emerald"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_diamond_trim"
+                  },
+                  "when": "minecraft:diamond"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_lapis_trim"
+                  },
+                  "when": "minecraft:lapis"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_amethyst_trim"
+                  },
+                  "when": "minecraft:amethyst"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_resin_trim"
+                  },
+                  "when": "minecraft:resin"
+                }
+              ],
+              "fallback": {
+                "type": "minecraft:model",
+                "model": "odyssey:item/weapons/longsword/no_trim"
+              },
+              "property": "minecraft:trim_material"
+            },
+            "when": "cross_trim"
+          },
+          {
+            "model": {
+              "type": "minecraft:select",
+              "cases": [
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_alexandrite_trim"
+                  },
+                  "when": "odyssey:alexandrite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_anodized_titanium_trim"
+                  },
+                  "when": "odyssey:anodized_titanium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_iridium_trim"
+                  },
+                  "when": "odyssey:iridium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_jade_trim"
+                  },
+                  "when": "odyssey:jade"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_jovianite_trim"
+                  },
+                  "when": "odyssey:jovianite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_kunzite_trim"
+                  },
+                  "when": "odyssey:kunzite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_mithril_trim"
+                  },
+                  "when": "odyssey:mithril"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_neptunian_trim"
+                  },
+                  "when": "odyssey:neptunian"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_obsidian_trim"
+                  },
+                  "when": "odyssey:obsidian"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_ruby_trim"
+                  },
+                  "when": "odyssey:ruby"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_silver_trim"
+                  },
+                  "when": "odyssey:silver"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_soul_quartz_trim"
+                  },
+                  "when": "odyssey:soul_quartz"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_soul_steel_trim"
+                  },
+                  "when": "odyssey:soul_steel"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_titanium_trim"
+                  },
+                  "when": "odyssey:titanium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_quartz_trim"
+                  },
+                  "when": "minecraft:quartz"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_iron_trim"
+                  },
+                  "when": "minecraft:iron"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_netherite_trim"
+                  },
+                  "when": "minecraft:netherite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_redstone_trim"
+                  },
+                  "when": "minecraft:redstone"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_copper_trim"
+                  },
+                  "when": "minecraft:copper"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_gold_trim"
+                  },
+                  "when": "minecraft:gold"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_emerald_trim"
+                  },
+                  "when": "minecraft:emerald"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_diamond_trim"
+                  },
+                  "when": "minecraft:diamond"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_lapis_trim"
+                  },
+                  "when": "minecraft:lapis"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_amethyst_trim"
+                  },
+                  "when": "minecraft:amethyst"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_resin_trim"
+                  },
+                  "when": "minecraft:resin"
+                }
+              ],
+              "fallback": {
+                "type": "minecraft:model",
+                "model": "odyssey:item/weapons/longsword/no_trim"
+              },
+              "property": "minecraft:trim_material"
+            },
+            "when": "trace_trim"
           }
         ],
         "fallback": {
