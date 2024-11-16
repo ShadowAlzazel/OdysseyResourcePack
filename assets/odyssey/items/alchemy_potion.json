@@ -1,0 +1,155 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/potion_bottle",
+              "tints": [
+                {
+                  "type": "minecraft:potion",
+                  "default": -13083194
+                }
+              ]
+            },
+            "when": "potion_bottle"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/volumetric_bottle",
+              "tints": [
+                {
+                  "type": "minecraft:potion",
+                  "default": -13083194
+                }
+              ]
+            },
+            "when": "volumetric_bottle"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/square_bottle",
+              "tints": [
+                {
+                  "type": "minecraft:potion",
+                  "default": -13083194
+                }
+              ]
+            },
+            "when": "square_bottle"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/concoction_bottle",
+              "tints": [
+                {
+                  "type": "minecraft:potion",
+                  "default": -13083194
+                }
+              ]
+            },
+            "when": "concoction_bottle"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/conical_bottle",
+              "tints": [
+                {
+                  "type": "minecraft:potion",
+                  "default": -13083194
+                }
+              ]
+            },
+            "when": "conical_bottle"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/pearshape_bottle",
+              "tints": [
+                {
+                  "type": "minecraft:potion",
+                  "default": -13083194
+                }
+              ]
+            },
+            "when": "pearshape_bottle"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/tonic_bottle",
+              "tints": [
+                {
+                  "type": "minecraft:potion",
+                  "default": -13083194
+                }
+              ]
+            },
+            "when": "tonic_bottle"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/misc/alchemy_potion/potion_bottle"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 1
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/potion_cap"
+            },
+            "when": "potion_cap"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/volumetric_cap"
+            },
+            "when": "volumetric_cap"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/short_cap"
+            },
+            "when": "short_cap"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/diamond_cap"
+            },
+            "when": "diamond_cap"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/skull_cap"
+            },
+            "when": "skull_cap"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/misc/alchemy_potion/potion_cap"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 2
+      }
+    ]
+  }
+}
