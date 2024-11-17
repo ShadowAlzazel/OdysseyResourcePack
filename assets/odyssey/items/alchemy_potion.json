@@ -95,11 +95,95 @@
               ]
             },
             "when": "tonic_bottle"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/dairyshape_bottle",
+              "tints": [
+                {
+                  "type": "minecraft:potion",
+                  "default": -13083194
+                }
+              ]
+            },
+            "when": "dairyshape_bottle"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/round_bottle",
+              "tints": [
+                {
+                  "type": "minecraft:potion",
+                  "default": -13083194
+                }
+              ]
+            },
+            "when": "round_bottle"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/oil_bottle",
+              "tints": [
+                {
+                  "type": "minecraft:potion",
+                  "default": -13083194
+                }
+              ]
+            },
+            "when": "oil_bottle"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/heart_bottle",
+              "tints": [
+                {
+                  "type": "minecraft:potion",
+                  "default": -13083194
+                }
+              ]
+            },
+            "when": "heart_bottle"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/potent_bottle",
+              "tints": [
+                {
+                  "type": "minecraft:potion",
+                  "default": -13083194
+                }
+              ]
+            },
+            "when": "potent_bottle"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/compact_bottle",
+              "tints": [
+                {
+                  "type": "minecraft:potion",
+                  "default": -13083194
+                }
+              ]
+            },
+            "when": "compact_bottle"
           }
         ],
         "fallback": {
           "type": "minecraft:model",
-          "model": "odyssey:item/misc/alchemy_potion/potion_bottle"
+          "model": "odyssey:item/misc/alchemy_potion/potion_bottle",
+          "tints": [
+            {
+              "type": "minecraft:potion",
+              "default": -13083194
+            }
+          ]
         },
         "property": "minecraft:custom_model_data",
         "index": 1
@@ -141,6 +225,13 @@
               "model": "odyssey:item/misc/alchemy_potion/skull_cap"
             },
             "when": "skull_cap"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/ring_cap"
+            },
+            "when": "ring_cap"
           }
         ],
         "fallback": {
