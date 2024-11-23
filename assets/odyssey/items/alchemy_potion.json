@@ -232,6 +232,13 @@
               "model": "odyssey:item/misc/alchemy_potion/ring_cap"
             },
             "when": "ring_cap"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/screw_cap"
+            },
+            "when": "screw_cap"
           }
         ],
         "fallback": {

@@ -115,29 +115,29 @@
     {
       "type": "paletted_permutations",
       "textures": [
-        "odyssey:item/runic/sigils/assault_sigil",
-        "odyssey:item/runic/sigils/guard_sigil",
-        "odyssey:item/runic/sigils/finesse_sigil",
-        "odyssey:item/runic/sigils/swift_sigil",
-        "odyssey:item/runic/sigils/vitality_sigil",
-        "odyssey:item/runic/sigils/steadfast_sigil",
-        "odyssey:item/runic/sigils/force_sigil",
-        "odyssey:item/runic/sigils/break_sigil",
-        "odyssey:item/runic/sigils/grasp_sigil",
-        "odyssey:item/runic/sigils/jump_sigil",
-        "odyssey:item/runic/sigils/gravity_sigil",
-        "odyssey:item/runic/sigils/range_sigil",
-        "odyssey:item/runic/sigils/size_sigil",
-        "odyssey:item/runic/sigils/feather_sigil",
-        "odyssey:item/runic/sigils/unknown_sigil"
+        "odyssey:item/glyphs/assault_glyph",
+        "odyssey:item/glyphs/guard_glyph",
+        "odyssey:item/glyphs/finesse_glyph",
+        "odyssey:item/glyphs/swift_glyph",
+        "odyssey:item/glyphs/vitality_glyph",
+        "odyssey:item/glyphs/steadfast_glyph",
+        "odyssey:item/glyphs/force_glyph",
+        "odyssey:item/glyphs/break_glyph",
+        "odyssey:item/glyphs/grasp_glyph",
+        "odyssey:item/glyphs/jump_glyph",
+        "odyssey:item/glyphs/gravity_glyph",
+        "odyssey:item/glyphs/range_glyph",
+        "odyssey:item/glyphs/size_glyph",
+        "odyssey:item/glyphs/feather_glyph",
+        "odyssey:item/glyphs/unknown_glyph"
       ],
-      "palette_key": "odyssey:colormap/rune_palettes/base_map",
+      "palette_key": "odyssey:colormap/glyph_palettes/base_map",
       "permutations": {
-        "arcane": "odyssey:colormap/rune_palettes/arcane",
-        "diamond": "odyssey:colormap/rune_palettes/diamond",
-        "gold": "odyssey:colormap/rune_palettes/gold",
-        "silver": "odyssey:colormap/rune_palettes/silver",
-        "mithril": "odyssey:colormap/rune_palettes/mithril"
+        "arcane": "odyssey:colormap/glyph_palettes/arcane",
+        "diamond": "odyssey:colormap/glyph_palettes/diamond",
+        "gold": "odyssey:colormap/glyph_palettes/gold",
+        "silver": "odyssey:colormap/glyph_palettes/silver",
+        "mithril": "odyssey:colormap/glyph_palettes/mithril"
       }
     },
     {

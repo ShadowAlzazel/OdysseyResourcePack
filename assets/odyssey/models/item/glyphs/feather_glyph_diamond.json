@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "odyssey:item/glyphs/feather_glyph_diamond"
+  }
+}

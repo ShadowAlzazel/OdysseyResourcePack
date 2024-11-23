@@ -1,0 +1,141 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/brick_tablet"
+            },
+            "when": "brick"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/glyphs/clay_tablet"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 0
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/assault_glyph_silver"
+            },
+            "when": "assault"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/break_glyph_silver"
+            },
+            "when": "break"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/feather_glyph_silver"
+            },
+            "when": "feather"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/finesse_glyph_silver"
+            },
+            "when": "finesse"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/force_glyph_silver"
+            },
+            "when": "force"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/gravity_glyph_silver"
+            },
+            "when": "gravity"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/guard_glyph_silver"
+            },
+            "when": "guard"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/grasp_glyph_silver"
+            },
+            "when": "grasp"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/jump_glyph_silver"
+            },
+            "when": "jump"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/range_glyph_silver"
+            },
+            "when": "range"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/size_glyph_silver"
+            },
+            "when": "size"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/steadfast_glyph_silver"
+            },
+            "when": "steadfast"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/swift_glyph_silver"
+            },
+            "when": "swift"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/vitality_glyph_silver"
+            },
+            "when": "vitality"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/unknown_glyph_silver"
+            },
+            "when": "unknown"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/glyphs/unknown_glyph_silver"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 1
+      }
+    ]
+  }
+}
