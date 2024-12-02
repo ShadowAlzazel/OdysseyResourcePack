@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/longsword/humble_blade",
+  "textures": {
+    "0": "odyssey:item/weapon/composite/longsword/humble_blade_golden"
+  }
+}

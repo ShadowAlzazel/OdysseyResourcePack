@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "odyssey:item/glyphs/swift_glyph_gold"
+  }
+}

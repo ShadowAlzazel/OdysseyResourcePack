@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "odyssey:item/glyphs/assault_glyph_diamond"
+  }
+}

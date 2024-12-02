@@ -59,19 +59,19 @@ FOODS = [
     "thai_tulip_boba_tea",
 ]
 
-RUNIC = [
+GLYPHIC = [
     "clay_dowel",
     "clay_key",
     "clay_skull",
     "clay_totem",
     "clay_orb",
     "clay_rods",
-    "glazed_runic_dowel",
-    "glazed_runic_key",
-    "glazed_runic_skull",
-    "glazed_runic_totem",
-    "glazed_runic_orb",
-    "glazed_runic_rods",
+    "glazed_dowel",
+    "glazed_key",
+    "glazed_skull",
+    "glazed_totem",
+    "glazed_orb",
+    "glazed_rods",
 ]
 
 OTHER = [
@@ -86,10 +86,26 @@ OTHER = [
     "shadow_trial_key",
     "mithril_upgrade_template",
     "soul_steel_upgrade_template",
-    "titanium_upgrade_template"
+    "titanium_upgrade_template",
+    "blade_part_upgrade_template",
+    "handle_part_upgrade_template",
+    "pommel_part_upgrade_template",
+    "hilt_part_upgrade_template",
+    "empty_part_upgrade_template",
+    "voyager_part_pattern",
+    "danger_part_pattern",
+    "seraph_part_pattern",
+    "marauder_part_pattern",
+    "crusader_part_pattern",
+    "vandal_part_pattern",
+    "imperial_part_pattern",
+    "fancy_part_pattern",
+    "humble_part_pattern",
+    "empty_part_pattern",
+    "mastercrafted_tool_template"
 ]
 
-ARCANE = [
+ENCHANTING = [
     "arcane_book",
     "blank_tome",
     "gilded_book",
@@ -108,7 +124,7 @@ ARCANE = [
     "tome_of_replication",
 ]
 
-ITEM_LIST = OTHER + RUNIC + MATERIALS + FOODS + ARCANE 
+ITEM_LIST = OTHER + GLYPHIC + MATERIALS + FOODS + ENCHANTING 
 
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------

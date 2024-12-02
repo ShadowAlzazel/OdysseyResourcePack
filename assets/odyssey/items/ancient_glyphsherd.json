@@ -1,0 +1,127 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "odyssey:item/glyphs/deepslate_tablet"
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/assault_glyph_mithril"
+            },
+            "when": "assault"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/break_glyph_mithril"
+            },
+            "when": "break"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/feather_glyph_mithril"
+            },
+            "when": "feather"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/finesse_glyph_mithril"
+            },
+            "when": "finesse"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/force_glyph_mithril"
+            },
+            "when": "force"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/gravity_glyph_mithril"
+            },
+            "when": "gravity"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/guard_glyph_mithril"
+            },
+            "when": "guard"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/grasp_glyph_mithril"
+            },
+            "when": "grasp"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/jump_glyph_mithril"
+            },
+            "when": "jump"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/range_glyph_mithril"
+            },
+            "when": "range"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/size_glyph_mithril"
+            },
+            "when": "size"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/steadfast_glyph_mithril"
+            },
+            "when": "steadfast"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/swift_glyph_mithril"
+            },
+            "when": "swift"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/vitality_glyph_mithril"
+            },
+            "when": "vitality"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/glyphs/unknown_glyph_mithril"
+            },
+            "when": "unknown"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/glyphs/unknown_glyph_mithril"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 1
+      }
+    ]
+  }
+}
