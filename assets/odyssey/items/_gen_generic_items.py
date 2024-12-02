@@ -105,7 +105,7 @@ OTHER = [
     "mastercrafted_tool_template"
 ]
 
-ARCANE = [
+ENCHANTING = [
     "arcane_book",
     "blank_tome",
     "gilded_book",
@@ -124,7 +124,7 @@ ARCANE = [
     "tome_of_replication",
 ]
 
-ITEM_LIST = OTHER + GLYPHIC + MATERIALS + FOODS + ARCANE 
+ITEM_LIST = OTHER + GLYPHIC + MATERIALS + FOODS + ENCHANTING 
 
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------

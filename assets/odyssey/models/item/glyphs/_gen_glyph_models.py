@@ -37,10 +37,10 @@ TABLETS = [
 
 GLYPH_MATERIALS = [
     "diamond",
-    "silver"
-    #"arcane",
-    #"gold",
-    #"mithril"
+    "silver",
+    "gold",
+    "mithril"
+     #"arcane",
 ]
 
 # --------------------------------------------------------------------------

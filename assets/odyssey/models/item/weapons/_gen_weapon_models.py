@@ -134,8 +134,8 @@ def generate_composite_file(part: str, material: str, weapon_name: str):
     }
     # Write the text to opened file
     text = json.dumps(json_obj, indent=2)
-    with open(filename, 'w') as file:
-        file.write(text) 
+    with open(filename, 'w') as f:
+        f.write(text) 
 
 
 # Generate file for composite part
@@ -150,8 +150,8 @@ def generate_trim_file(trim_name: str, material: str, weapon_name: str):
     }
     # Write the text to opened file
     text = json.dumps(json_obj, indent=2)
-    with open(filename, 'w') as file:
-        file.write(text) 
+    with open(filename, 'w') as f:
+        f.write(text) 
 
 
 # poulate files

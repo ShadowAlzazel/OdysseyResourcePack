@@ -4,7 +4,7 @@
     "models": [
       {
         "type": "minecraft:model",
-        "model": "odyssey:item/glyphs/brick_tablet"
+        "model": "odyssey:item/glyphs/tuff_tablet"
       },
       {
         "type": "minecraft:select",
@@ -12,112 +12,112 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/glyphs/assault_glyph_silver"
+              "model": "odyssey:item/glyphs/assault_glyph_diamond"
             },
             "when": "assault"
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/glyphs/break_glyph_silver"
+              "model": "odyssey:item/glyphs/break_glyph_diamond"
             },
             "when": "break"
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/glyphs/feather_glyph_silver"
+              "model": "odyssey:item/glyphs/feather_glyph_diamond"
             },
             "when": "feather"
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/glyphs/finesse_glyph_silver"
+              "model": "odyssey:item/glyphs/finesse_glyph_diamond"
             },
             "when": "finesse"
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/glyphs/force_glyph_silver"
+              "model": "odyssey:item/glyphs/force_glyph_diamond"
             },
             "when": "force"
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/glyphs/gravity_glyph_silver"
+              "model": "odyssey:item/glyphs/gravity_glyph_diamond"
             },
             "when": "gravity"
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/glyphs/guard_glyph_silver"
+              "model": "odyssey:item/glyphs/guard_glyph_diamond"
             },
             "when": "guard"
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/glyphs/grasp_glyph_silver"
+              "model": "odyssey:item/glyphs/grasp_glyph_diamond"
             },
             "when": "grasp"
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/glyphs/jump_glyph_silver"
+              "model": "odyssey:item/glyphs/jump_glyph_diamond"
             },
             "when": "jump"
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/glyphs/range_glyph_silver"
+              "model": "odyssey:item/glyphs/range_glyph_diamond"
             },
             "when": "range"
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/glyphs/size_glyph_silver"
+              "model": "odyssey:item/glyphs/size_glyph_diamond"
             },
             "when": "size"
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/glyphs/steadfast_glyph_silver"
+              "model": "odyssey:item/glyphs/steadfast_glyph_diamond"
             },
             "when": "steadfast"
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/glyphs/swift_glyph_silver"
+              "model": "odyssey:item/glyphs/swift_glyph_diamond"
             },
             "when": "swift"
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/glyphs/vitality_glyph_silver"
+              "model": "odyssey:item/glyphs/vitality_glyph_diamond"
             },
             "when": "vitality"
           },
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/glyphs/unknown_glyph_silver"
+              "model": "odyssey:item/glyphs/unknown_glyph_diamond"
             },
             "when": "unknown"
           }
         ],
         "fallback": {
           "type": "minecraft:model",
-          "model": "odyssey:item/glyphs/unknown_glyph_silver"
+          "model": "odyssey:item/glyphs/unknown_glyph_diamond"
         },
         "property": "minecraft:custom_model_data",
         "index": 1
