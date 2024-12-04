@@ -3,14 +3,16 @@
     {
       "type": "paletted_permutations",
       "textures": [
-        "odyssey:trims/entity/humanoid/arcane",
-        "odyssey:trims/entity/humanoid_leggings/arcane",
+        "odyssey:trims/entity/humanoid/ring",
+        "odyssey:trims/entity/humanoid_leggings/ring",
         "odyssey:trims/entity/humanoid/imperial",
         "odyssey:trims/entity/humanoid_leggings/imperial",
         "odyssey:trims/entity/humanoid/leaf",
         "odyssey:trims/entity/humanoid_leggings/leaf",
         "odyssey:trims/entity/humanoid/danger",
-        "odyssey:trims/entity/humanoid_leggings/danger"
+        "odyssey:trims/entity/humanoid_leggings/danger",
+        "odyssey:trims/entity/humanoid/voyager",
+        "odyssey:trims/entity/humanoid_leggings/voyager"
       ],
       "palette_key": "odyssey:trims/color_palettes/trim_palette",
       "permutations": {
@@ -33,7 +35,8 @@
         "titanium_darker": "odyssey:trims/color_palettes/titanium_darker",
         "anodized_titanium_darker": "odyssey:trims/color_palettes/anodized_titanium_darker",
         "iridium_darker": "odyssey:trims/color_palettes/iridium_darker",
-        "soul_steel_darker": "odyssey:trims/color_palettes/soul_steel_darker"
+        "soul_steel_darker": "odyssey:trims/color_palettes/soul_steel_darker",
+        "copper_darker": "odyssey:trims/color_palettes/copper_darker"
       }
     }
   ]

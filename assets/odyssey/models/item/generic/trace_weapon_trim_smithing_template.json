@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "odyssey:item/generic/trace_weapon_trim_smithing_template"
+  }
+}
