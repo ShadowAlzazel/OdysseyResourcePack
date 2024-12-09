@@ -12,8 +12,9 @@ os.chdir(dir_name)
 # Glyph material can never be changed, tablet can
 # Glyph material denotes the level of the ENSCRIBED glyph and its power/stats
 GLYPH_MAP = {
-    #'minor_glyph': ["brick", "silver"], # Flat -> turns into brick when fired
+    #'glyphpiece': ["brick", "silver"], # Flat -> turns into brick when fired
     'glyphsherd': ["brick", "diamond"],  # Flat (denotes original)
+    #'minor_glyph': ["brick", "silver"], # Flat -> turns into brick when fired
     #'major_glyph': ["tuff", "diamond"],  # Flat * 1.5  
     #'nether_glyph': ["nether_brick", "gold"],  # Percent +10% 
     #'ancient_glyphsherd': ["deepslate", "mithril"]  # Percent +20% 

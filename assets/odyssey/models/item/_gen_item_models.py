@@ -109,7 +109,8 @@ OTHER = [
     "fancy_part_pattern",
     "humble_part_pattern",
     "empty_part_pattern",
-    "mastercrafted_tool_template"
+    "mastercrafted_tool_template",
+    "crystalline_potion"
 ]
 
 ARCANE = [
