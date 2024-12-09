@@ -1,6 +1,6 @@
 {
-    "parent": "odyssey:item/weapon/auto_crossbow",
-    "textures": {
-        "layer0": "odyssey:item/weapon/auto_crossbow/arrow"
-    }
+  "parent": "odyssey:item/weapons/auto_crossbow/standby",
+  "textures": {
+    "layer0": "odyssey:item/weapon/auto_crossbow/arrow"
+  }
 }

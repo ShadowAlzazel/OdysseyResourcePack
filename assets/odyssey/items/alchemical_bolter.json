@@ -4,7 +4,7 @@
     "models": [
       {
         "type": "minecraft:model",
-        "model": "odyssey:item/weapons/alchemical_bolter/potion_overlay",
+        "model": "odyssey:item/weapons/alchemical_bolter/potions",
         "tints": [
           {
             "type": "minecraft:potion",

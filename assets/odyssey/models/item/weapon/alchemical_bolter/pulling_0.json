@@ -1,6 +1,0 @@
-{
-    "parent": "odyssey:item/weapon/alchemical_bolter",
-    "textures": {
-        "layer0": "odyssey:item/weapon/alchemical_bolter/pulling_0"
-    }
-}

@@ -1,5 +1,5 @@
 {
-  "parent": "odyssey:item/weapon/alchemical_bolter/standby",
+  "parent": "odyssey:item/weapons/alchemical_bolter/standby",
   "textures": {
     "layer0": "odyssey:item/weapon/alchemical_bolter/arrow"
   }

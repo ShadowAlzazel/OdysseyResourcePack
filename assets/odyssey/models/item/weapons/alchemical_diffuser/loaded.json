@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapons/alchemical_diffuser/standby",
+  "textures": {
+    "layer0": "odyssey:item/weapon/alchemical_diffuser/loaded_overlay",
+    "layer1": "odyssey:item/weapon/alchemical_diffuser/loaded"
+  }
+}
