@@ -265,6 +265,34 @@
               "model": "odyssey:item/misc/alchemy_potion/screw_cap"
             },
             "when": "screw_cap"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/splash_cap"
+            },
+            "when": "splash_cap"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/lingering_cap"
+            },
+            "when": "lingering_cap"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/fuse_cap"
+            },
+            "when": "fuse_cap"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/valve_cap"
+            },
+            "when": "valve_cap"
           }
         ],
         "fallback": {
