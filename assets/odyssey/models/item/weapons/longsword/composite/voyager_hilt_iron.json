@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/voyager_hilt",
   "textures": {
-    "0": "odyssey:item/weapon/composite/longsword/voyager_hilt_iron"
+    "0": "odyssey:item/weapon/longsword/voyager_hilt_iron"
   }
 }

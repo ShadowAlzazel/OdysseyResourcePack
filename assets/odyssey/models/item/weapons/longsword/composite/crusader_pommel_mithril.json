@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/crusader_pommel",
   "textures": {
-    "0": "odyssey:item/weapon/composite/longsword/crusader_pommel_mithril"
+    "0": "odyssey:item/weapon/longsword/crusader_pommel_mithril"
   }
 }

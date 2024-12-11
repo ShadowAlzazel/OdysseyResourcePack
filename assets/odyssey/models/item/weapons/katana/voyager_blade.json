@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "odyssey:item/weapon/composite/katana/voyager_blade",
-		"particle": "odyssey:item/weapon/composite/katana/voyager_blade"
+		"0": "odyssey:item/weapon/katana/voyager_blade",
+		"particle": "odyssey:item/weapon/katana/voyager_blade"
 	},
 	"elements": [
 		{

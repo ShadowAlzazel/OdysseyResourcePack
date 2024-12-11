@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/broadsword/fancy_blade",
   "textures": {
-    "layer0": "odyssey:item/weapon/composite/broadsword/fancy_blade_anodized_titanium"
+    "layer0": "odyssey:item/weapon/broadsword/fancy_blade_anodized_titanium"
   }
 }

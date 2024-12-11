@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/broadsword/big_blade",
   "textures": {
-    "layer0": "odyssey:item/weapon/composite/broadsword/big_blade_golden"
+    "layer0": "odyssey:item/weapon/broadsword/big_blade_golden"
   }
 }

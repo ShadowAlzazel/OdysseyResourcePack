@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "odyssey:item/weapon/composite/longsword/humble_hilt",
-		"particle": "odyssey:item/weapon/composite/longsword/humble_hilt"
+		"0": "odyssey:item/weapon/longsword/humble_hilt",
+		"particle": "odyssey:item/weapon/longsword/humble_hilt"
 	},
 	"elements": [
 		{

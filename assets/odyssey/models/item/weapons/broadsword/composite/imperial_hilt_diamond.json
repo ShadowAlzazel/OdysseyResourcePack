@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/broadsword/imperial_hilt",
   "textures": {
-    "layer0": "odyssey:item/weapon/composite/broadsword/imperial_hilt_diamond"
+    "layer0": "odyssey:item/weapon/broadsword/imperial_hilt_diamond"
   }
 }

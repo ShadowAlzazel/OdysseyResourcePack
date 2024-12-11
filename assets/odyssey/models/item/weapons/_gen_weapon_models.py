@@ -129,7 +129,7 @@ def generate_composite_file(part: str, material: str, weapon_name: str):
     json_obj = {
         "parent": f'odyssey:item/weapons/{weapon_name}/{part}',
         "textures": {
-            "0": f'odyssey:item/weapon/composite/{weapon_name}/{part}_{material}'
+            "0": f'odyssey:item/weapon/{weapon_name}/{part}_{material}'
         }
     }
     # Write the text to opened file
@@ -145,7 +145,7 @@ def generate_trim_file(trim_name: str, material: str, weapon_name: str):
     json_obj = {
         "parent": f'odyssey:item/weapons/{weapon_name}/{trim_name}_trim',
         "textures": {
-            "0": f'odyssey:item/weapon/composite/{weapon_name}/{trim_name}_trim_{material}'
+            "0": f'odyssey:item/weapon/{weapon_name}/{trim_name}_trim_{material}'
         }
     }
     # Write the text to opened file

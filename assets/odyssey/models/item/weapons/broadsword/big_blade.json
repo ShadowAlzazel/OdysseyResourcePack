@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "odyssey:item/weapon/composite/broadsword/big_blade"
+    "layer0": "odyssey:item/weapon/broadsword/big_blade"
   }
 }

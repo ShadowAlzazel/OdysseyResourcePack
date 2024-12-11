@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/voyager_pommel",
   "textures": {
-    "0": "odyssey:item/weapon/composite/longsword/voyager_pommel_soul_steel"
+    "0": "odyssey:item/weapon/longsword/voyager_pommel_soul_steel"
   }
 }

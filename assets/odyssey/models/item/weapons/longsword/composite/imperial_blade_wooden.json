@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/imperial_blade",
   "textures": {
-    "0": "odyssey:item/weapon/composite/longsword/imperial_blade_wooden"
+    "0": "odyssey:item/weapon/longsword/imperial_blade_wooden"
   }
 }
