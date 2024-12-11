@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/danger_hilt",
   "textures": {
-    "0": "odyssey:item/weapon/composite/longsword/danger_hilt_wooden"
+    "0": "odyssey:item/weapon/longsword/danger_hilt_wooden"
   }
 }

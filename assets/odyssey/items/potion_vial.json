@@ -1,7 +1,7 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "odyssey:item/potion_vial",
+    "model": "odyssey:item/misc/potion_vial",
     "tints": [
       {
         "type": "minecraft:potion",

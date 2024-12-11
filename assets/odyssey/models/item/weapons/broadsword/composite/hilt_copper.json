@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/broadsword/hilt",
   "textures": {
-    "layer0": "odyssey:item/weapon/composite/broadsword/hilt_copper"
+    "layer0": "odyssey:item/weapon/broadsword/hilt_copper"
   }
 }

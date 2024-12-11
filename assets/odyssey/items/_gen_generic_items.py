@@ -76,14 +76,21 @@ GLYPHIC = [
 
 OTHER = [
     "ancient_tablet",
-    "arcane_armor_trim_smithing_template",
     "blazing_rocket",
-    "danger_armor_trim_smithing_template",
     "explosive_arrow",
-    "imperial_armor_trim_smithing_template",
     "iridium_upgrade_template",
     "irradiated_fruit",
     "shadow_trial_key",
+    "imperial_armor_trim_smithing_template",
+    "voyager_armor_trim_smithing_template",
+    "leaf_armor_trim_smithing_template",
+    "danger_armor_trim_smithing_template",
+    "ring_armor_trim_smithing_template",
+    "cross_weapon_trim_smithing_template",
+    "spine_weapon_trim_smithing_template",
+    "wings_weapon_trim_smithing_template",
+    "trace_weapon_trim_smithing_template",
+    "jewel_weapon_trim_smithing_template",
     "mithril_upgrade_template",
     "soul_steel_upgrade_template",
     "titanium_upgrade_template",
@@ -102,7 +109,8 @@ OTHER = [
     "fancy_part_pattern",
     "humble_part_pattern",
     "empty_part_pattern",
-    "mastercrafted_tool_template"
+    "mastercrafted_tool_template",
+    "crystalline_potion"
 ]
 
 ENCHANTING = [

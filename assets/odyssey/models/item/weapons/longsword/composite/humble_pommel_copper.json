@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/humble_pommel",
   "textures": {
-    "0": "odyssey:item/weapon/composite/longsword/humble_pommel_copper"
+    "0": "odyssey:item/weapon/longsword/humble_pommel_copper"
   }
 }

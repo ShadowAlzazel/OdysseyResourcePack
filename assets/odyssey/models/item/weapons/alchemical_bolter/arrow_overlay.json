@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/weapons/alchemical_bolter/standby",
+  "textures": {
+    "layer0": "odyssey:item/weapon/alchemical_bolter/arrow_overlay",
+    "layer1": "odyssey:item/weapon/alchemical_bolter/arrow_shaft"
+  }
+}

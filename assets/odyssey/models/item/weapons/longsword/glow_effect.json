@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "odyssey:item/weapon/composite/longsword/glow_effect",
-		"particle": "odyssey:item/weapon/composite/longsword/glow_effect"
+		"0": "odyssey:item/weapon/longsword/glow_effect",
+		"particle": "odyssey:item/weapon/longsword/glow_effect"
 	},
 	"elements": [
 		{

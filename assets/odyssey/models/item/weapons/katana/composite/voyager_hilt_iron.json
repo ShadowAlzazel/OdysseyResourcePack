@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/katana/voyager_hilt",
   "textures": {
-    "0": "odyssey:item/weapon/composite/katana/voyager_hilt_iron"
+    "0": "odyssey:item/weapon/katana/voyager_hilt_iron"
   }
 }

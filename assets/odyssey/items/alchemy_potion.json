@@ -173,6 +173,32 @@
               ]
             },
             "when": "compact_bottle"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/standard_bottle",
+              "tints": [
+                {
+                  "type": "minecraft:potion",
+                  "default": -13083194
+                }
+              ]
+            },
+            "when": "standard_bottle"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/aura_bottle",
+              "tints": [
+                {
+                  "type": "minecraft:potion",
+                  "default": -13083194
+                }
+              ]
+            },
+            "when": "aura_bottle"
           }
         ],
         "fallback": {
@@ -201,9 +227,9 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/misc/alchemy_potion/volumetric_cap"
+              "model": "odyssey:item/misc/alchemy_potion/tall_cap"
             },
-            "when": "volumetric_cap"
+            "when": "tall_cap"
           },
           {
             "model": {
@@ -239,6 +265,34 @@
               "model": "odyssey:item/misc/alchemy_potion/screw_cap"
             },
             "when": "screw_cap"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/splash_cap"
+            },
+            "when": "splash_cap"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/lingering_cap"
+            },
+            "when": "lingering_cap"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/fuse_cap"
+            },
+            "when": "fuse_cap"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/misc/alchemy_potion/valve_cap"
+            },
+            "when": "valve_cap"
           }
         ],
         "fallback": {

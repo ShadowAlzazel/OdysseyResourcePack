@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "odyssey:item/weapon/composite/longsword/thick_handle"
+    "layer0": "odyssey:item/weapon/longsword/thick_handle"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "odyssey:item/weapon/composite/broadsword/fancy_pommel"
+    "layer0": "odyssey:item/weapon/broadsword/fancy_pommel"
   }
 }

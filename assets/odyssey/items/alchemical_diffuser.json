@@ -1,0 +1,53 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:model",
+        "model": "odyssey:item/weapons/alchemical_diffuser/potions",
+        "tints": [
+          {
+            "type": "minecraft:potion",
+            "default": -13083194
+          }
+        ]
+      },
+      {
+        "type": "minecraft:condition",
+        "on_false": {
+          "type": "minecraft:select",
+          "cases": [
+            {
+              "model": {
+                "type": "minecraft:composite",
+                "models": [
+                  {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/alchemical_diffuser/loaded",
+                    "tints": [
+                      {
+                        "type": "minecraft:potion",
+                        "default": -13083194
+                      }
+                    ]
+                  }
+                ]
+              },
+              "when": "arrow"
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "odyssey:item/weapons/alchemical_diffuser/standby"
+          },
+          "property": "minecraft:charge_type"
+        },
+        "on_true": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/alchemical_diffuser/standby"
+        },
+        "property": "minecraft:using_item"
+      }
+    ]
+  }
+}

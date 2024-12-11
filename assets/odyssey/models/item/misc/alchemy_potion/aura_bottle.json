@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "odyssey:item/misc/aura_bottle_overlay",
+    "layer1": "odyssey:item/misc/aura_bottle"
+  }
+}

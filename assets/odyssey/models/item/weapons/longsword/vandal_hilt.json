@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "odyssey:item/weapon/composite/longsword/vandal_hilt",
-		"particle": "odyssey:item/weapon/composite/longsword/vandal_hilt"
+		"0": "odyssey:item/weapon/longsword/vandal_hilt",
+		"particle": "odyssey:item/weapon/longsword/vandal_hilt"
 	},
 	"elements": [
 		{
