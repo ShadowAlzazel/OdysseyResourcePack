@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/katana/hilt",
   "textures": {
-    "0": "odyssey:item/weapon/katana/hilt_netherite"
+    "layer0": "odyssey:item/weapon/katana/hilt_netherite"
   }
 }

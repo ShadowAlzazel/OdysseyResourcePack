@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kriegsmesser/imperial_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kriegsmesser/imperial_pommel_soul_steel"
+  }
+}

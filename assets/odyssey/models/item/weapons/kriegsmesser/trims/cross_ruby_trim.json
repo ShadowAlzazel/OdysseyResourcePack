@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kriegsmesser/cross_trim",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kriegsmesser/cross_trim_ruby"
+  }
+}

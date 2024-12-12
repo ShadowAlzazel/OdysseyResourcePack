@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/danger_blade",
   "textures": {
-    "0": "odyssey:item/weapon/longsword/danger_blade_golden"
+    "layer0": "odyssey:item/weapon/longsword/danger_blade_golden"
   }
 }

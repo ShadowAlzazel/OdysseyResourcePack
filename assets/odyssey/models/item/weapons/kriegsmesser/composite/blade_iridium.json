@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/kriegsmesser/blade",
   "textures": {
-    "0": "odyssey:item/weapon/kriegsmesser/blade_iridium"
+    "layer0": "odyssey:item/weapon/kriegsmesser/blade_iridium"
   }
 }

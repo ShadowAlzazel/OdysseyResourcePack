@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/claymore/hilt",
   "textures": {
-    "0": "odyssey:item/weapon/claymore/hilt_iron"
+    "layer0": "odyssey:item/weapon/claymore/hilt_iron"
   }
 }

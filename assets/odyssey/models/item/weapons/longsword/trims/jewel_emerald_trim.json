@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/jewel_trim",
   "textures": {
-    "0": "odyssey:item/weapon/longsword/jewel_trim_emerald"
+    "layer0": "odyssey:item/weapon/longsword/jewel_trim_emerald"
   }
 }

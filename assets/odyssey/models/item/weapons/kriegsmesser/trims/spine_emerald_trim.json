@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kriegsmesser/spine_trim",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kriegsmesser/spine_trim_emerald"
+  }
+}

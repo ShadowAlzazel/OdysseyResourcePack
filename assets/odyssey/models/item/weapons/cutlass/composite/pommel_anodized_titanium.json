@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/cutlass/pommel",
   "textures": {
-    "0": "odyssey:item/weapon/cutlass/pommel_anodized_titanium"
+    "layer0": "odyssey:item/weapon/cutlass/pommel_anodized_titanium"
   }
 }

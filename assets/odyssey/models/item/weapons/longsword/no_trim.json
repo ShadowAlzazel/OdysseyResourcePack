@@ -1,9 +1,6 @@
 {
-	"credit": "Made with Blockbench",
-	"parent": "odyssey:item/weapons/longsword/_base",
-	"texture_size": [32, 32],
-	"textures": {
-		"0": "odyssey:item/weapon/longsword/no_trim",
-		"particle": "odyssey:item/weapon/longsword/no_trim"
-	}
+  "parent": "odyssey:item/weapons/longsword/_base",
+  "textures": {
+    "layer0": "odyssey:item/weapon/longsword/no_trim"
+  }
 }

@@ -91,7 +91,7 @@ WEAPON_PARTS = {
     "dagger": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
     "sickle": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
     "saber": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
-    "kriegsmesser": [ ["blade"], ["handle"], ["hilt", "fancy_hilt"], ["pommel"]],
+    "kriegsmesser": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "katana": [
         ["blade",
          "seraph_blade",
@@ -235,7 +235,7 @@ def create_model_parts(weapon: str, material: str):
         model_list.append(part_selecter_obj)
         
     # ------ TEST -----
-    if weapon == "longsword":
+    if weapon == "longsword" or weapon == "kriegsmesser":
         trim_selecter_obg = create_trim_selecter(weapon)
         model_list.append(trim_selecter_obg)
         

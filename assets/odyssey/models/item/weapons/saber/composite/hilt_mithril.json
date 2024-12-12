@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/saber/hilt",
   "textures": {
-    "0": "odyssey:item/weapon/saber/hilt_mithril"
+    "layer0": "odyssey:item/weapon/saber/hilt_mithril"
   }
 }

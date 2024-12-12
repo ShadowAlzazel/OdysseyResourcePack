@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/imperial_pommel",
   "textures": {
-    "0": "odyssey:item/weapon/longsword/imperial_pommel_iridium"
+    "layer0": "odyssey:item/weapon/longsword/imperial_pommel_iridium"
   }
 }

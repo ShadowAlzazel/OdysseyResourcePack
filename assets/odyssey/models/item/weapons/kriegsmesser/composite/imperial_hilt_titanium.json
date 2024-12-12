@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kriegsmesser/imperial_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kriegsmesser/imperial_hilt_titanium"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/claymore/blade",
   "textures": {
-    "0": "odyssey:item/weapon/claymore/blade_golden"
+    "layer0": "odyssey:item/weapon/claymore/blade_golden"
   }
 }

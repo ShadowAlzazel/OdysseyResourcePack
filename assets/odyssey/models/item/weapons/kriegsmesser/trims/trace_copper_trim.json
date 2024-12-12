@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kriegsmesser/trace_trim",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kriegsmesser/trace_trim_copper"
+  }
+}

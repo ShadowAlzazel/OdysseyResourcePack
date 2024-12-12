@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/imperial_hilt",
   "textures": {
-    "0": "odyssey:item/weapon/longsword/imperial_hilt_stone"
+    "layer0": "odyssey:item/weapon/longsword/imperial_hilt_stone"
   }
 }

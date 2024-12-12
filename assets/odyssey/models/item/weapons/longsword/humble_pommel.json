@@ -1,61 +1,6 @@
 {
-	"credit": "Made with Blockbench",
-	"parent": "odyssey:item/weapons/longsword/_base",
-	"texture_size": [32, 32],
-	"textures": {
-		"0": "odyssey:item/weapon/longsword/humble_pommel",
-		"particle": "odyssey:item/weapon/longsword/humble_pommel"
-	},
-	"elements": [
-		{
-			"name": "humble_pommel_0",
-			"from": [0, 0, 14],
-			"to": [1, 1, 17],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
-			"faces": {
-				"north": {"uv": [4.5, 11, 4, 11.5], "texture": "#0"},
-				"east": {"uv": [4, 11, 4.5, 12.5], "rotation": 90, "texture": "#0"},
-				"south": {"uv": [4, 12, 4.5, 12.5], "texture": "#0"},
-				"west": {"uv": [4, 11, 4.5, 12.5], "rotation": 270, "texture": "#0"},
-				"up": {"uv": [4, 11, 4.5, 12.5], "texture": "#0"},
-				"down": {"uv": [4, 12.5, 4.5, 11], "texture": "#0"}
-			}
-		},
-		{
-			"name": "humble_pommel_1",
-			"from": [-1, 0, 15],
-			"to": [0, 1, 17],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
-			"faces": {
-				"north": {"uv": [4, 11.5, 3.5, 12], "texture": "#0"},
-				"east": {"uv": [3.5, 11.5, 4, 12.5], "rotation": 90, "texture": "#0"},
-				"south": {"uv": [3.5, 12, 4, 12.5], "texture": "#0"},
-				"west": {"uv": [3.5, 11.5, 4, 12.5], "rotation": 270, "texture": "#0"},
-				"up": {"uv": [3.5, 11.5, 4, 12.5], "texture": "#0"},
-				"down": {"uv": [3.5, 12.5, 4, 11.5], "texture": "#0"}
-			}
-		},
-		{
-			"name": "humble_pommel_2",
-			"from": [1, 0, 15],
-			"to": [2, 1, 16],
-			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
-			"faces": {
-				"north": {"uv": [5, 11.5, 4.5, 12], "texture": "#0"},
-				"east": {"uv": [4.5, 11.5, 5, 12], "rotation": 90, "texture": "#0"},
-				"south": {"uv": [4.5, 11.5, 5, 12], "texture": "#0"},
-				"west": {"uv": [4.5, 11.5, 5, 12], "rotation": 270, "texture": "#0"},
-				"up": {"uv": [4.5, 11.5, 5, 12], "texture": "#0"},
-				"down": {"uv": [4.5, 12, 5, 11.5], "texture": "#0"}
-			}
-		}
-	],
-	"groups": [
-		{
-			"name": "humble_pommel",
-			"origin": [8, 8, 8],
-			"color": 0,
-			"children": [0, 1, 2]
-		}
-	]
+  "parent": "odyssey:item/weapons/longsword/_base",
+  "textures": {
+    "layer0": "odyssey:item/weapon/longsword/humble_pommel"
+  }
 }

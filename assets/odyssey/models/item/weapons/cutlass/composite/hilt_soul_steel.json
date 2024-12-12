@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/cutlass/hilt",
   "textures": {
-    "0": "odyssey:item/weapon/cutlass/hilt_soul_steel"
+    "layer0": "odyssey:item/weapon/cutlass/hilt_soul_steel"
   }
 }

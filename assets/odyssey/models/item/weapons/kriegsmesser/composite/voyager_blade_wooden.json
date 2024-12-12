@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kriegsmesser/voyager_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kriegsmesser/voyager_blade_wooden"
+  }
+}

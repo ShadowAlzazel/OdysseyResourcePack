@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/seraph_blade",
   "textures": {
-    "0": "odyssey:item/weapon/longsword/seraph_blade_iridium"
+    "layer0": "odyssey:item/weapon/longsword/seraph_blade_iridium"
   }
 }

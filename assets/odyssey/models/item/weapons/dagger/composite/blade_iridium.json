@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/dagger/blade",
   "textures": {
-    "0": "odyssey:item/weapon/dagger/blade_iridium"
+    "layer0": "odyssey:item/weapon/dagger/blade_iridium"
   }
 }

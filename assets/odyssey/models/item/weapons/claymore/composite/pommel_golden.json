@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/claymore/pommel",
   "textures": {
-    "0": "odyssey:item/weapon/claymore/pommel_golden"
+    "layer0": "odyssey:item/weapon/claymore/pommel_golden"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/sickle/hilt",
   "textures": {
-    "0": "odyssey:item/weapon/sickle/hilt_wooden"
+    "layer0": "odyssey:item/weapon/sickle/hilt_wooden"
   }
 }

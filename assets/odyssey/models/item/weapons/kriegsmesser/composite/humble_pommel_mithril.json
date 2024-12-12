@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kriegsmesser/humble_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kriegsmesser/humble_pommel_mithril"
+  }
+}

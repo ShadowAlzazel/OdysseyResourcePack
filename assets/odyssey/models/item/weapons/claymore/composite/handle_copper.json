@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/claymore/handle",
   "textures": {
-    "0": "odyssey:item/weapon/claymore/handle_copper"
+    "layer0": "odyssey:item/weapon/claymore/handle_copper"
   }
 }

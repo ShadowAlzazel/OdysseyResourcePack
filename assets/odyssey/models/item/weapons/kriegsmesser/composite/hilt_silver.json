@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/kriegsmesser/hilt",
   "textures": {
-    "0": "odyssey:item/weapon/kriegsmesser/hilt_silver"
+    "layer0": "odyssey:item/weapon/kriegsmesser/hilt_silver"
   }
 }

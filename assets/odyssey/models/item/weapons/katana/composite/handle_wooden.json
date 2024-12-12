@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/katana/handle",
   "textures": {
-    "0": "odyssey:item/weapon/katana/handle_wooden"
+    "layer0": "odyssey:item/weapon/katana/handle_wooden"
   }
 }
