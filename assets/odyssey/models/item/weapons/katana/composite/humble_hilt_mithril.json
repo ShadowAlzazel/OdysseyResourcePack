@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/katana/humble_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/katana/humble_hilt_mithril"
+  }
+}

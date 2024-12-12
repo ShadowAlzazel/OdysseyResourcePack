@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/claymore/vandal_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/claymore/vandal_pommel_titanium"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/claymore/fancy_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/claymore/fancy_hilt_silver"
+  }
+}

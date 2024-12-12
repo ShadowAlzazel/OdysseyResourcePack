@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/katana/seraph_hilt",
   "textures": {
-    "0": "odyssey:item/weapon/katana/seraph_hilt_iridium"
+    "layer0": "odyssey:item/weapon/katana/seraph_hilt_iridium"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/katana/voyager_blade",
   "textures": {
-    "0": "odyssey:item/weapon/katana/voyager_blade_diamond"
+    "layer0": "odyssey:item/weapon/katana/voyager_blade_diamond"
   }
 }

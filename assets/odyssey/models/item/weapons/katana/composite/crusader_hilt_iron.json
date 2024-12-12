@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/katana/crusader_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/katana/crusader_hilt_iron"
+  }
+}

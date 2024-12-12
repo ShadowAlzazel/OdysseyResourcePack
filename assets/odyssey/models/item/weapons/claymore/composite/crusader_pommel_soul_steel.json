@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/claymore/crusader_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/claymore/crusader_pommel_soul_steel"
+  }
+}

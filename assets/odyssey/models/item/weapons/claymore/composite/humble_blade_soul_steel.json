@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/claymore/humble_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/claymore/humble_blade_soul_steel"
+  }
+}

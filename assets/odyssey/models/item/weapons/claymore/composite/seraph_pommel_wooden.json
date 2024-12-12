@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/claymore/seraph_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/claymore/seraph_pommel_wooden"
+  }
+}

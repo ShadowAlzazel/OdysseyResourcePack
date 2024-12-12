@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/katana/imperial_blade",
   "textures": {
-    "0": "odyssey:item/weapon/katana/imperial_blade_diamond"
+    "layer0": "odyssey:item/weapon/katana/imperial_blade_diamond"
   }
 }

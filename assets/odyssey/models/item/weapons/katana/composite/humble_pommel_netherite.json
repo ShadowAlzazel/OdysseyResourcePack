@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/katana/humble_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/katana/humble_pommel_netherite"
+  }
+}

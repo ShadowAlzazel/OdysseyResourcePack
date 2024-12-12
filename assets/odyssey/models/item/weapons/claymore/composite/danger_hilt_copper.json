@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/claymore/danger_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/claymore/danger_hilt_copper"
+  }
+}

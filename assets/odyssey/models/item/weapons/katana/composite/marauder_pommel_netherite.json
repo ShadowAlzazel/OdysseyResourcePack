@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/katana/marauder_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/katana/marauder_pommel_netherite"
+  }
+}

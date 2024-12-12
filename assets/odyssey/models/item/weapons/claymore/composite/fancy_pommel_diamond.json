@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/claymore/fancy_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/claymore/fancy_pommel_diamond"
+  }
+}

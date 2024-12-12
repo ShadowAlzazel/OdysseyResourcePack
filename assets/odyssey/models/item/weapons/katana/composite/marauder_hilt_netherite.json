@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/katana/marauder_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/katana/marauder_hilt_netherite"
+  }
+}

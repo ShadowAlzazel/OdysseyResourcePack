@@ -89,12 +89,12 @@ WEAPONS = [
 WEAPON_PARTS = {
     "longsword": [ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "cutlass": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
-    "claymore": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "claymore": [ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "dagger": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
     "sickle": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
     "saber": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
     "kriegsmesser": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
-    "katana": [ ["blade"], ["handle"], ["hilt"], ["pommel"]]
+    "katana": [ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
 }
 
 
