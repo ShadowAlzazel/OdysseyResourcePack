@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kriegsmesser/vandal_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kriegsmesser/vandal_hilt_netherite"
+  }
+}

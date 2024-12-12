@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/handle",
   "textures": {
-    "0": "odyssey:item/weapon/longsword/handle_wooden"
+    "layer0": "odyssey:item/weapon/longsword/handle_wooden"
   }
 }

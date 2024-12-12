@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/fancy_hilt",
   "textures": {
-    "0": "odyssey:item/weapon/longsword/fancy_hilt_soul_steel"
+    "layer0": "odyssey:item/weapon/longsword/fancy_hilt_soul_steel"
   }
 }

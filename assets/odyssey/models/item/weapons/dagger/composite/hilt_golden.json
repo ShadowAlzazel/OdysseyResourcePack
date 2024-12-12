@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/dagger/hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/dagger/hilt_golden"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kriegsmesser/seraph_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kriegsmesser/seraph_blade_golden"
+  }
+}

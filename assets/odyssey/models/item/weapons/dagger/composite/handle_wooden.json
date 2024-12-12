@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/dagger/handle",
+  "textures": {
+    "layer0": "odyssey:item/weapon/dagger/handle_wooden"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/crusader_hilt",
   "textures": {
-    "0": "odyssey:item/weapon/longsword/crusader_hilt_soul_steel"
+    "layer0": "odyssey:item/weapon/longsword/crusader_hilt_soul_steel"
   }
 }

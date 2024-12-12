@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/seraph_hilt",
   "textures": {
-    "0": "odyssey:item/weapon/longsword/seraph_hilt_wooden"
+    "layer0": "odyssey:item/weapon/longsword/seraph_hilt_wooden"
   }
 }

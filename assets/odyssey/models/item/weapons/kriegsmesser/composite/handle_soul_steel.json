@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kriegsmesser/handle",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kriegsmesser/handle_soul_steel"
+  }
+}

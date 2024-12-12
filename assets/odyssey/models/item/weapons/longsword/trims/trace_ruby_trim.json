@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/trace_trim",
   "textures": {
-    "0": "odyssey:item/weapon/longsword/trace_trim_ruby"
+    "layer0": "odyssey:item/weapon/longsword/trace_trim_ruby"
   }
 }

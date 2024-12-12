@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/longsword/marauder_hilt",
   "textures": {
-    "0": "odyssey:item/weapon/longsword/marauder_hilt_soul_steel"
+    "layer0": "odyssey:item/weapon/longsword/marauder_hilt_soul_steel"
   }
 }

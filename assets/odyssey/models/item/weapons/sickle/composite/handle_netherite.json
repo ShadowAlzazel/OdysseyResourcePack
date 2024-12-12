@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/sickle/handle",
+  "textures": {
+    "layer0": "odyssey:item/weapon/sickle/handle_netherite"
+  }
+}

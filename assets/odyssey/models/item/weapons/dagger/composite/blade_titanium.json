@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/dagger/blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/dagger/blade_titanium"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/cutlass/pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/cutlass/pommel_diamond"
+  }
+}

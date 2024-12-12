@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kriegsmesser/marauder_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kriegsmesser/marauder_blade_stone"
+  }
+}

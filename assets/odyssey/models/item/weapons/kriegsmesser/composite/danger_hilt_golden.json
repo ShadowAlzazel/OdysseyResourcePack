@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kriegsmesser/danger_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kriegsmesser/danger_hilt_golden"
+  }
+}

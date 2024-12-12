@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kriegsmesser/crusader_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kriegsmesser/crusader_hilt_stone"
+  }
+}

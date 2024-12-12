@@ -1,0 +1,1219 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/blade_iridium"
+            },
+            "when": "blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/crusader_blade_iridium"
+            },
+            "when": "crusader_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/danger_blade_iridium"
+            },
+            "when": "danger_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/fancy_blade_iridium"
+            },
+            "when": "fancy_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/humble_blade_iridium"
+            },
+            "when": "humble_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/imperial_blade_iridium"
+            },
+            "when": "imperial_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/marauder_blade_iridium"
+            },
+            "when": "marauder_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/seraph_blade_iridium"
+            },
+            "when": "seraph_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/vandal_blade_iridium"
+            },
+            "when": "vandal_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/voyager_blade_iridium"
+            },
+            "when": "voyager_blade"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/kriegsmesser/composite/blade_iridium"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 1
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/handle_iridium"
+            },
+            "when": "handle"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/kriegsmesser/composite/handle_iridium"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 2
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/hilt_iridium"
+            },
+            "when": "hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/crusader_hilt_iridium"
+            },
+            "when": "crusader_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/danger_hilt_iridium"
+            },
+            "when": "danger_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/fancy_hilt_iridium"
+            },
+            "when": "fancy_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/humble_hilt_iridium"
+            },
+            "when": "humble_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/imperial_hilt_iridium"
+            },
+            "when": "imperial_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/marauder_hilt_iridium"
+            },
+            "when": "marauder_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/seraph_hilt_iridium"
+            },
+            "when": "seraph_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/vandal_hilt_iridium"
+            },
+            "when": "vandal_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/voyager_hilt_iridium"
+            },
+            "when": "voyager_hilt"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/kriegsmesser/composite/hilt_iridium"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 3
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/pommel_iridium"
+            },
+            "when": "pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/crusader_pommel_iridium"
+            },
+            "when": "crusader_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/danger_pommel_iridium"
+            },
+            "when": "danger_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/fancy_pommel_iridium"
+            },
+            "when": "fancy_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/humble_pommel_iridium"
+            },
+            "when": "humble_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/imperial_pommel_iridium"
+            },
+            "when": "imperial_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/marauder_pommel_iridium"
+            },
+            "when": "marauder_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/seraph_pommel_iridium"
+            },
+            "when": "seraph_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/vandal_pommel_iridium"
+            },
+            "when": "vandal_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/kriegsmesser/composite/voyager_pommel_iridium"
+            },
+            "when": "voyager_pommel"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/kriegsmesser/composite/pommel_iridium"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 4
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:select",
+              "cases": [
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_alexandrite_trim"
+                  },
+                  "when": "odyssey:alexandrite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_anodized_titanium_trim"
+                  },
+                  "when": "odyssey:anodized_titanium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_iridium_trim"
+                  },
+                  "when": "odyssey:iridium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_jade_trim"
+                  },
+                  "when": "odyssey:jade"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_jovianite_trim"
+                  },
+                  "when": "odyssey:jovianite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_kunzite_trim"
+                  },
+                  "when": "odyssey:kunzite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_mithril_trim"
+                  },
+                  "when": "odyssey:mithril"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_neptunian_trim"
+                  },
+                  "when": "odyssey:neptunian"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_obsidian_trim"
+                  },
+                  "when": "odyssey:obsidian"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_ruby_trim"
+                  },
+                  "when": "odyssey:ruby"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_silver_trim"
+                  },
+                  "when": "odyssey:silver"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_soul_quartz_trim"
+                  },
+                  "when": "odyssey:soul_quartz"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_soul_steel_trim"
+                  },
+                  "when": "odyssey:soul_steel"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_titanium_trim"
+                  },
+                  "when": "odyssey:titanium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_quartz_trim"
+                  },
+                  "when": "minecraft:quartz"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_iron_trim"
+                  },
+                  "when": "minecraft:iron"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_netherite_trim"
+                  },
+                  "when": "minecraft:netherite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_redstone_trim"
+                  },
+                  "when": "minecraft:redstone"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_copper_trim"
+                  },
+                  "when": "minecraft:copper"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_gold_trim"
+                  },
+                  "when": "minecraft:gold"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_emerald_trim"
+                  },
+                  "when": "minecraft:emerald"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_diamond_trim"
+                  },
+                  "when": "minecraft:diamond"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_lapis_trim"
+                  },
+                  "when": "minecraft:lapis"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_amethyst_trim"
+                  },
+                  "when": "minecraft:amethyst"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/jewel_resin_trim"
+                  },
+                  "when": "minecraft:resin"
+                }
+              ],
+              "fallback": {
+                "type": "minecraft:model",
+                "model": "odyssey:item/weapons/kriegsmesser/no_trim"
+              },
+              "property": "minecraft:trim_material"
+            },
+            "when": "jewel_trim"
+          },
+          {
+            "model": {
+              "type": "minecraft:select",
+              "cases": [
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_alexandrite_trim"
+                  },
+                  "when": "odyssey:alexandrite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_anodized_titanium_trim"
+                  },
+                  "when": "odyssey:anodized_titanium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_iridium_trim"
+                  },
+                  "when": "odyssey:iridium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_jade_trim"
+                  },
+                  "when": "odyssey:jade"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_jovianite_trim"
+                  },
+                  "when": "odyssey:jovianite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_kunzite_trim"
+                  },
+                  "when": "odyssey:kunzite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_mithril_trim"
+                  },
+                  "when": "odyssey:mithril"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_neptunian_trim"
+                  },
+                  "when": "odyssey:neptunian"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_obsidian_trim"
+                  },
+                  "when": "odyssey:obsidian"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_ruby_trim"
+                  },
+                  "when": "odyssey:ruby"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_silver_trim"
+                  },
+                  "when": "odyssey:silver"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_soul_quartz_trim"
+                  },
+                  "when": "odyssey:soul_quartz"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_soul_steel_trim"
+                  },
+                  "when": "odyssey:soul_steel"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_titanium_trim"
+                  },
+                  "when": "odyssey:titanium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_quartz_trim"
+                  },
+                  "when": "minecraft:quartz"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_iron_trim"
+                  },
+                  "when": "minecraft:iron"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_netherite_trim"
+                  },
+                  "when": "minecraft:netherite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_redstone_trim"
+                  },
+                  "when": "minecraft:redstone"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_copper_trim"
+                  },
+                  "when": "minecraft:copper"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_gold_trim"
+                  },
+                  "when": "minecraft:gold"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_emerald_trim"
+                  },
+                  "when": "minecraft:emerald"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_diamond_trim"
+                  },
+                  "when": "minecraft:diamond"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_lapis_trim"
+                  },
+                  "when": "minecraft:lapis"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_amethyst_trim"
+                  },
+                  "when": "minecraft:amethyst"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/spine_resin_trim"
+                  },
+                  "when": "minecraft:resin"
+                }
+              ],
+              "fallback": {
+                "type": "minecraft:model",
+                "model": "odyssey:item/weapons/kriegsmesser/no_trim"
+              },
+              "property": "minecraft:trim_material"
+            },
+            "when": "spine_trim"
+          },
+          {
+            "model": {
+              "type": "minecraft:select",
+              "cases": [
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_alexandrite_trim"
+                  },
+                  "when": "odyssey:alexandrite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_anodized_titanium_trim"
+                  },
+                  "when": "odyssey:anodized_titanium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_iridium_trim"
+                  },
+                  "when": "odyssey:iridium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_jade_trim"
+                  },
+                  "when": "odyssey:jade"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_jovianite_trim"
+                  },
+                  "when": "odyssey:jovianite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_kunzite_trim"
+                  },
+                  "when": "odyssey:kunzite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_mithril_trim"
+                  },
+                  "when": "odyssey:mithril"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_neptunian_trim"
+                  },
+                  "when": "odyssey:neptunian"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_obsidian_trim"
+                  },
+                  "when": "odyssey:obsidian"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_ruby_trim"
+                  },
+                  "when": "odyssey:ruby"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_silver_trim"
+                  },
+                  "when": "odyssey:silver"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_soul_quartz_trim"
+                  },
+                  "when": "odyssey:soul_quartz"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_soul_steel_trim"
+                  },
+                  "when": "odyssey:soul_steel"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_titanium_trim"
+                  },
+                  "when": "odyssey:titanium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_quartz_trim"
+                  },
+                  "when": "minecraft:quartz"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_iron_trim"
+                  },
+                  "when": "minecraft:iron"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_netherite_trim"
+                  },
+                  "when": "minecraft:netherite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_redstone_trim"
+                  },
+                  "when": "minecraft:redstone"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_copper_trim"
+                  },
+                  "when": "minecraft:copper"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_gold_trim"
+                  },
+                  "when": "minecraft:gold"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_emerald_trim"
+                  },
+                  "when": "minecraft:emerald"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_diamond_trim"
+                  },
+                  "when": "minecraft:diamond"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_lapis_trim"
+                  },
+                  "when": "minecraft:lapis"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_amethyst_trim"
+                  },
+                  "when": "minecraft:amethyst"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/wings_resin_trim"
+                  },
+                  "when": "minecraft:resin"
+                }
+              ],
+              "fallback": {
+                "type": "minecraft:model",
+                "model": "odyssey:item/weapons/kriegsmesser/no_trim"
+              },
+              "property": "minecraft:trim_material"
+            },
+            "when": "wings_trim"
+          },
+          {
+            "model": {
+              "type": "minecraft:select",
+              "cases": [
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_alexandrite_trim"
+                  },
+                  "when": "odyssey:alexandrite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_anodized_titanium_trim"
+                  },
+                  "when": "odyssey:anodized_titanium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_iridium_trim"
+                  },
+                  "when": "odyssey:iridium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_jade_trim"
+                  },
+                  "when": "odyssey:jade"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_jovianite_trim"
+                  },
+                  "when": "odyssey:jovianite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_kunzite_trim"
+                  },
+                  "when": "odyssey:kunzite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_mithril_trim"
+                  },
+                  "when": "odyssey:mithril"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_neptunian_trim"
+                  },
+                  "when": "odyssey:neptunian"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_obsidian_trim"
+                  },
+                  "when": "odyssey:obsidian"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_ruby_trim"
+                  },
+                  "when": "odyssey:ruby"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_silver_trim"
+                  },
+                  "when": "odyssey:silver"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_soul_quartz_trim"
+                  },
+                  "when": "odyssey:soul_quartz"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_soul_steel_trim"
+                  },
+                  "when": "odyssey:soul_steel"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_titanium_trim"
+                  },
+                  "when": "odyssey:titanium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_quartz_trim"
+                  },
+                  "when": "minecraft:quartz"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_iron_trim"
+                  },
+                  "when": "minecraft:iron"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_netherite_trim"
+                  },
+                  "when": "minecraft:netherite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_redstone_trim"
+                  },
+                  "when": "minecraft:redstone"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_copper_trim"
+                  },
+                  "when": "minecraft:copper"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_gold_trim"
+                  },
+                  "when": "minecraft:gold"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_emerald_trim"
+                  },
+                  "when": "minecraft:emerald"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_diamond_trim"
+                  },
+                  "when": "minecraft:diamond"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_lapis_trim"
+                  },
+                  "when": "minecraft:lapis"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_amethyst_trim"
+                  },
+                  "when": "minecraft:amethyst"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/cross_resin_trim"
+                  },
+                  "when": "minecraft:resin"
+                }
+              ],
+              "fallback": {
+                "type": "minecraft:model",
+                "model": "odyssey:item/weapons/kriegsmesser/no_trim"
+              },
+              "property": "minecraft:trim_material"
+            },
+            "when": "cross_trim"
+          },
+          {
+            "model": {
+              "type": "minecraft:select",
+              "cases": [
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_alexandrite_trim"
+                  },
+                  "when": "odyssey:alexandrite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_anodized_titanium_trim"
+                  },
+                  "when": "odyssey:anodized_titanium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_iridium_trim"
+                  },
+                  "when": "odyssey:iridium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_jade_trim"
+                  },
+                  "when": "odyssey:jade"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_jovianite_trim"
+                  },
+                  "when": "odyssey:jovianite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_kunzite_trim"
+                  },
+                  "when": "odyssey:kunzite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_mithril_trim"
+                  },
+                  "when": "odyssey:mithril"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_neptunian_trim"
+                  },
+                  "when": "odyssey:neptunian"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_obsidian_trim"
+                  },
+                  "when": "odyssey:obsidian"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_ruby_trim"
+                  },
+                  "when": "odyssey:ruby"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_silver_trim"
+                  },
+                  "when": "odyssey:silver"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_soul_quartz_trim"
+                  },
+                  "when": "odyssey:soul_quartz"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_soul_steel_trim"
+                  },
+                  "when": "odyssey:soul_steel"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_titanium_trim"
+                  },
+                  "when": "odyssey:titanium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_quartz_trim"
+                  },
+                  "when": "minecraft:quartz"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_iron_trim"
+                  },
+                  "when": "minecraft:iron"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_netherite_trim"
+                  },
+                  "when": "minecraft:netherite"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_redstone_trim"
+                  },
+                  "when": "minecraft:redstone"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_copper_trim"
+                  },
+                  "when": "minecraft:copper"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_gold_trim"
+                  },
+                  "when": "minecraft:gold"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_emerald_trim"
+                  },
+                  "when": "minecraft:emerald"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_diamond_trim"
+                  },
+                  "when": "minecraft:diamond"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_lapis_trim"
+                  },
+                  "when": "minecraft:lapis"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_amethyst_trim"
+                  },
+                  "when": "minecraft:amethyst"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/kriegsmesser/trims/trace_resin_trim"
+                  },
+                  "when": "minecraft:resin"
+                }
+              ],
+              "fallback": {
+                "type": "minecraft:model",
+                "model": "odyssey:item/weapons/kriegsmesser/no_trim"
+              },
+              "property": "minecraft:trim_material"
+            },
+            "when": "trace_trim"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/kriegsmesser/no_trim"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 5
+      }
+    ]
+  }
+}

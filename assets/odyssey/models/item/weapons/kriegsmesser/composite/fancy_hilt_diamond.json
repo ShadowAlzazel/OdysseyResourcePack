@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kriegsmesser/fancy_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kriegsmesser/fancy_hilt_diamond"
+  }
+}

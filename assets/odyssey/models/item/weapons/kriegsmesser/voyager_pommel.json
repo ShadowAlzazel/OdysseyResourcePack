@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kriegsmesser/_base",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kriegsmesser/voyager_pommel"
+  }
+}
