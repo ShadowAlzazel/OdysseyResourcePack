@@ -11,19 +11,52 @@ os.chdir(dir_name)
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------
 
-# broadsword excluded since 2D
-WEAPONS = [
-    "longsword",
-    "katana"
-]
-
 MATERIALS = [
     'wooden', 'golden', 'stone', 'iron', 'diamond', 'netherite',
     'copper', 'silver', 'soul_steel', 'titanium', 'anodized_titanium', 'iridium', 'mithril'
 ]
 
+# All patterns
+WEAPON_TRIMS = [
+    "jewel",
+    "spine",
+    "wings",
+    "cross",
+    "trace"
+]
+
+#Name to namespace
+TRIM_MATERIAL_MAP = {
+    'alexandrite': "odyssey",
+    'anodized_titanium': "odyssey", 
+    'iridium': "odyssey",
+    'jade': "odyssey", 
+    'jovianite': "odyssey",
+    'kunzite': "odyssey", 
+    'mithril': "odyssey", 
+    'neptunian': "odyssey",
+    'obsidian': "odyssey", 
+    'ruby': "odyssey",
+    'silver': "odyssey", 
+    'soul_quartz': "odyssey",
+    'soul_steel': "odyssey", 
+    'titanium': "odyssey",
+    
+    "quartz": "minecraft",
+    "iron": "minecraft",
+    "netherite": "minecraft",
+    "redstone": "minecraft",
+    "copper": "minecraft",
+    "gold": "minecraft",
+    "emerald": "minecraft",
+    "diamond": "minecraft",
+    "lapis": "minecraft",
+    "amethyst": "minecraft",
+    "resin": "minecraft"
+}
+
 # Starter set for the 9 basic parts
-STARTER_SET = [
+WEAPON_PART_SETS = [
     "crusader",
     "danger",
     "fancy",
@@ -35,17 +68,32 @@ STARTER_SET = [
     "voyager"
 ]
 
-STARTER_BLADES = ["blade"] + [f'{x}_blade' for x in STARTER_SET]
-STARTER_HILTS = ["hilt"] + [f'{x}_hilt' for x in STARTER_SET]
-STARTER_POMMELS = ["pommel"] + [f'{x}_pommel' for x in STARTER_SET]
+ALL_BLADES = ["blade"] + [f'{x}_blade' for x in WEAPON_PART_SETS]
+ALL_HILTS = ["hilt"] + [f'{x}_hilt' for x in WEAPON_PART_SETS]
+ALL_POMMELS = ["pommel"] + [f'{x}_pommel' for x in WEAPON_PART_SETS]
+
+# --------------------------------------------------------------------------
+
+# broadsword excluded since 2D
+WEAPONS = [
+    "longsword",
+    "cutlass",
+    "claymore",
+    "dagger",
+    "sickle",
+    "saber",
+    "kriegsmesser",
+    "katana",
+]
 
 WEAPON_PARTS = {
-    "longsword": [
-        STARTER_BLADES,
-        ["handle"],
-        STARTER_HILTS,
-        STARTER_POMMELS
-    ],
+    "longsword": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
+    "cutlass": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "claymore": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "dagger": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "sickle": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "saber": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "kriegsmesser": [ ["blade"], ["handle"], ["hilt", "fancy_hilt"], ["pommel"]],
     "katana": [
         ["blade",
          "seraph_blade",
@@ -78,44 +126,7 @@ WEAPON_PARTS = {
     ]
 }
 
-# All patterns
-WEAPON_TRIMS = [
-    "jewel",
-    "spine",
-    "wings",
-    "cross",
-    "trace"
-]
 
-#Name to namespace
-MATERIAL_MAP = {
-    'alexandrite': "odyssey",
-    'anodized_titanium': "odyssey", 
-    'iridium': "odyssey",
-    'jade': "odyssey", 
-    'jovianite': "odyssey",
-    'kunzite': "odyssey", 
-    'mithril': "odyssey", 
-    'neptunian': "odyssey",
-    'obsidian': "odyssey", 
-    'ruby': "odyssey",
-    'silver': "odyssey", 
-    'soul_quartz': "odyssey",
-    'soul_steel': "odyssey", 
-    'titanium': "odyssey",
-    
-    "quartz": "minecraft",
-    "iron": "minecraft",
-    "netherite": "minecraft",
-    "redstone": "minecraft",
-    "copper": "minecraft",
-    "gold": "minecraft",
-    "emerald": "minecraft",
-    "diamond": "minecraft",
-    "lapis": "minecraft",
-    "amethyst": "minecraft",
-    "resin": "minecraft"
-}
 
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------
@@ -160,7 +171,7 @@ def populate_files():
     global WEAPON_PARTS
     global WEAPONS
     global WEAPON_TRIMS
-    global MATERIAL_MAP
+    global TRIM_MATERIAL_MAP
     # Loop throgh all weapons
     for weapon in WEAPONS:
         # create dir if does not exist
@@ -180,7 +191,7 @@ def populate_files():
         # Generate for trims
         if weapon == "longsword": # Test
             for trim in WEAPON_TRIMS:
-                for material, namespace in MATERIAL_MAP.items():
+                for material, namespace in TRIM_MATERIAL_MAP.items():
                     generate_trim_file(trim, material, weapon)
 
 # Main

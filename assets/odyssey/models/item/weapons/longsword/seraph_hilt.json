@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+	"parent": "odyssey:item/weapons/longsword/_base",
 	"textures": {
 		"0": "odyssey:item/weapon/longsword/seraph_hilt",
 		"particle": "odyssey:item/weapon/longsword/seraph_hilt"
@@ -118,41 +119,6 @@
 			}
 		}
 	],
-	"gui_light": "front",
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [46, 0, 90],
-			"translation": [-7.5, 4.75, 1.25]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [144, 0, 90],
-			"translation": [-7.5, 5, 2.25]
-		},
-		"firstperson_righthand": {
-			"rotation": [155, -8, -101],
-			"translation": [6.5, 4.25, 0],
-			"scale": [0.9, 0.9, 0.9]
-		},
-		"firstperson_lefthand": {
-			"rotation": [55, 8, -101],
-			"translation": [6.5, 4.75, 0],
-			"scale": [0.9, 0.9, 0.9]
-		},
-		"ground": {
-			"translation": [0, 4.25, 0]
-		},
-		"gui": {
-			"rotation": [90, 0, 0],
-			"translation": [0, 0, 0.75]
-		},
-		"head": {
-			"rotation": [180, 0, 0]
-		},
-		"fixed": {
-			"rotation": [90, 90, 0],
-			"translation": [0, 0, 7.5]
-		}
-	},
 	"groups": [
 		{
 			"name": "seraph_hilt",

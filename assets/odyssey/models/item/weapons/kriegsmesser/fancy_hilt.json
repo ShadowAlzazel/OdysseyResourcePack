@@ -1,0 +1,200 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "odyssey:item/weapons/kriegsmesser/_base",
+	"textures": {
+		"0": "odyssey:item/weapon/kriegsmesser/fancy_hilt",
+		"particle": "odyssey:item/weapon/kriegsmesser/fancy_hilt"
+	},
+	"elements": [
+		{
+			"name": "fancy_hilt_0",
+			"from": [-4, 0, 9],
+			"to": [-1, 1, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
+			"faces": {
+				"north": {"uv": [3.5, 8.5, 2, 9], "texture": "#0"},
+				"east": {"uv": [3, 8.5, 3.5, 9], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [2, 8.5, 3.5, 9], "texture": "#0"},
+				"west": {"uv": [2, 8.5, 2.5, 9], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [2, 8.5, 3.5, 9], "texture": "#0"},
+				"down": {"uv": [2, 9, 3.5, 8.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fancy_hilt_1",
+			"from": [-4, 0, 10],
+			"to": [-3, 1, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
+			"faces": {
+				"north": {"uv": [2.5, 9, 2, 9.5], "texture": "#0"},
+				"east": {"uv": [2, 9, 2.5, 10], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [2, 9.5, 2.5, 10], "texture": "#0"},
+				"west": {"uv": [2, 9, 2.5, 10], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [2, 9, 2.5, 10], "texture": "#0"},
+				"down": {"uv": [2, 10, 2.5, 9], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fancy_hilt_2",
+			"from": [-2, 0, 10],
+			"to": [-1, 1, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
+			"faces": {
+				"north": {"uv": [3.5, 9, 3, 9.5], "texture": "#0"},
+				"east": {"uv": [3, 9, 3.5, 10.5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [3, 10, 3.5, 10.5], "texture": "#0"},
+				"west": {"uv": [3, 9, 3.5, 10.5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [3, 9, 3.5, 10.5], "texture": "#0"},
+				"down": {"uv": [3, 10.5, 3.5, 9], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fancy_hilt_3",
+			"from": [-3, 0, 11],
+			"to": [-2, 1, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
+			"faces": {
+				"north": {"uv": [3, 9.5, 2.5, 10], "texture": "#0"},
+				"east": {"uv": [2.5, 9.5, 3, 10], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [2.5, 9.5, 3, 10], "texture": "#0"},
+				"west": {"uv": [2.5, 9.5, 3, 10], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [2.5, 9.5, 3, 10], "texture": "#0"},
+				"down": {"uv": [2.5, 10, 3, 9.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fancy_hilt_4",
+			"from": [-1, 0, 11],
+			"to": [0, 1, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
+			"faces": {
+				"north": {"uv": [4, 9.5, 3.5, 10], "texture": "#0"},
+				"east": {"uv": [3.5, 9.5, 4, 11], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [3.5, 10.5, 4, 11], "texture": "#0"},
+				"west": {"uv": [3.5, 9.5, 4, 11], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [3.5, 9.5, 4, 11], "texture": "#0"},
+				"down": {"uv": [3.5, 11, 4, 9.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fancy_hilt_5",
+			"from": [0, 0, 12],
+			"to": [1, 1, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
+			"faces": {
+				"north": {"uv": [4.5, 10, 4, 10.5], "texture": "#0"},
+				"east": {"uv": [4, 10, 4.5, 11.5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [4, 11, 4.5, 11.5], "texture": "#0"},
+				"west": {"uv": [4, 10, 4.5, 11.5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [4, 10, 4.5, 11.5], "texture": "#0"},
+				"down": {"uv": [4, 11.5, 4.5, 10], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fancy_hilt_6",
+			"from": [1, 0, 13],
+			"to": [2, 1, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
+			"faces": {
+				"north": {"uv": [5, 10.5, 4.5, 11], "texture": "#0"},
+				"east": {"uv": [4.5, 10.5, 5, 12], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [4.5, 11.5, 5, 12], "texture": "#0"},
+				"west": {"uv": [4.5, 10.5, 5, 12], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [4.5, 10.5, 5, 12], "texture": "#0"},
+				"down": {"uv": [4.5, 12, 5, 10.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fancy_hilt_7",
+			"from": [2, 0, 14],
+			"to": [3, 1, 17],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
+			"faces": {
+				"north": {"uv": [5.5, 11, 5, 11.5], "texture": "#0"},
+				"east": {"uv": [5, 11, 5.5, 12.5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [5, 12, 5.5, 12.5], "texture": "#0"},
+				"west": {"uv": [5, 11, 5.5, 12.5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [5, 11, 5.5, 12.5], "texture": "#0"},
+				"down": {"uv": [5, 12.5, 5.5, 11], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fancy_hilt_8",
+			"from": [3, 0, 15],
+			"to": [4, 1, 18],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
+			"faces": {
+				"north": {"uv": [6, 11.5, 5.5, 12], "texture": "#0"},
+				"east": {"uv": [5.5, 11.5, 6, 13], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [5.5, 12.5, 6, 13], "texture": "#0"},
+				"west": {"uv": [5.5, 11.5, 6, 13], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [5.5, 11.5, 6, 13], "texture": "#0"},
+				"down": {"uv": [5.5, 13, 6, 11.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fancy_hilt_9",
+			"from": [4, 0, 16],
+			"to": [5, 1, 20],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
+			"faces": {
+				"north": {"uv": [6.5, 12, 6, 12.5], "texture": "#0"},
+				"east": {"uv": [6, 12, 6.5, 14], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [6, 13.5, 6.5, 14], "texture": "#0"},
+				"west": {"uv": [6, 12, 6.5, 14], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [6, 12, 6.5, 14], "texture": "#0"},
+				"down": {"uv": [6, 14, 6.5, 12], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fancy_hilt_10",
+			"from": [5, 0, 17],
+			"to": [7, 1, 18],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
+			"faces": {
+				"north": {"uv": [7.5, 12.5, 6.5, 13], "texture": "#0"},
+				"east": {"uv": [7, 12.5, 7.5, 13], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [6.5, 12.5, 7.5, 13], "texture": "#0"},
+				"west": {"uv": [6.5, 12.5, 7, 13], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [6.5, 12.5, 7.5, 13], "texture": "#0"},
+				"down": {"uv": [6.5, 13, 7.5, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fancy_hilt_11",
+			"from": [6, 0, 18],
+			"to": [7, 1, 20],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
+			"faces": {
+				"north": {"uv": [7.5, 13, 7, 13.5], "texture": "#0"},
+				"east": {"uv": [7, 13, 7.5, 14], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [7, 13.5, 7.5, 14], "texture": "#0"},
+				"west": {"uv": [7, 13, 7.5, 14], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [7, 13, 7.5, 14], "texture": "#0"},
+				"down": {"uv": [7, 14, 7.5, 13], "texture": "#0"}
+			}
+		},
+		{
+			"name": "fancy_hilt_12",
+			"from": [5, 0, 19],
+			"to": [6, 1, 20],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
+			"faces": {
+				"north": {"uv": [7, 13.5, 6.5, 14], "texture": "#0"},
+				"east": {"uv": [6.5, 13.5, 7, 14], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [6.5, 13.5, 7, 14], "texture": "#0"},
+				"west": {"uv": [6.5, 13.5, 7, 14], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [6.5, 13.5, 7, 14], "texture": "#0"},
+				"down": {"uv": [6.5, 14, 7, 13.5], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "fancy_hilt",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+		}
+	]
+}

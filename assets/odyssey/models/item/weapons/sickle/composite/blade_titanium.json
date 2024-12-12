@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/sickle/blade",
+  "textures": {
+    "0": "odyssey:item/weapon/sickle/blade_titanium"
+  }
+}

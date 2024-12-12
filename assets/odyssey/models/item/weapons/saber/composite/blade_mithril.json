@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/saber/blade",
+  "textures": {
+    "0": "odyssey:item/weapon/saber/blade_mithril"
+  }
+}

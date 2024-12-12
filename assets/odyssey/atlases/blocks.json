@@ -73,6 +73,37 @@
         "odyssey:item/weapon/longsword/voyager_hilt",
         "odyssey:item/weapon/longsword/voyager_pommel",
 
+        "odyssey:item/weapon/cutlass/blade",
+        "odyssey:item/weapon/cutlass/handle",
+        "odyssey:item/weapon/cutlass/pommel",
+        "odyssey:item/weapon/cutlass/hilt",
+
+        "odyssey:item/weapon/claymore/blade",
+        "odyssey:item/weapon/claymore/handle",
+        "odyssey:item/weapon/claymore/pommel",
+        "odyssey:item/weapon/claymore/hilt",
+
+        "odyssey:item/weapon/dagger/blade",
+        "odyssey:item/weapon/dagger/handle",
+        "odyssey:item/weapon/dagger/pommel",
+        "odyssey:item/weapon/dagger/hilt",
+
+        "odyssey:item/weapon/sickle/blade",
+        "odyssey:item/weapon/sickle/handle",
+        "odyssey:item/weapon/sickle/pommel",
+        "odyssey:item/weapon/sickle/hilt",
+
+        "odyssey:item/weapon/saber/blade",
+        "odyssey:item/weapon/saber/handle",
+        "odyssey:item/weapon/saber/pommel",
+        "odyssey:item/weapon/saber/hilt",
+
+        "odyssey:item/weapon/kriegsmesser/blade",
+        "odyssey:item/weapon/kriegsmesser/handle",
+        "odyssey:item/weapon/kriegsmesser/pommel",
+        "odyssey:item/weapon/kriegsmesser/hilt",
+        "odyssey:item/weapon/kriegsmesser/fancy_hilt",
+
         "odyssey:item/weapon/katana/blade",
         "odyssey:item/weapon/katana/handle",
         "odyssey:item/weapon/katana/pommel",
