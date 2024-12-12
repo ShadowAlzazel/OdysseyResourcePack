@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/cutlass/imperial_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/cutlass/imperial_blade_titanium"
+  }
+}

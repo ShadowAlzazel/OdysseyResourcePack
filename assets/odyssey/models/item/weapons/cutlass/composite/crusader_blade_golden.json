@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/cutlass/crusader_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/cutlass/crusader_blade_golden"
+  }
+}

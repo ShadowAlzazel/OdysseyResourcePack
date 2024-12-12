@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/cutlass/vandal_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/cutlass/vandal_blade_netherite"
+  }
+}

@@ -88,7 +88,7 @@ WEAPONS = [
 
 WEAPON_PARTS = {
     "longsword": [ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
-    "cutlass": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "cutlass": [ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "claymore": [ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "dagger": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
     "sickle": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],

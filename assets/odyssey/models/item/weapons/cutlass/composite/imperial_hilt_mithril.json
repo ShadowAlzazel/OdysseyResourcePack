@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/cutlass/imperial_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/cutlass/imperial_hilt_mithril"
+  }
+}

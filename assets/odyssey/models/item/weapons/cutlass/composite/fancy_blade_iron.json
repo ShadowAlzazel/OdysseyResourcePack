@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/cutlass/fancy_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/cutlass/fancy_blade_iron"
+  }
+}

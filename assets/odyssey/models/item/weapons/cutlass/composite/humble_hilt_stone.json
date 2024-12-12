@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/cutlass/humble_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/cutlass/humble_hilt_stone"
+  }
+}
