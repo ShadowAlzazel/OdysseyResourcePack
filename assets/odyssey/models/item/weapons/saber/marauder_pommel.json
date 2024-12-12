@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/saber/_base",
+  "textures": {
+    "layer0": "odyssey:item/weapon/saber/marauder_pommel"
+  }
+}

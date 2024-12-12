@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/saber/marauder_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/saber/marauder_blade_stone"
+  }
+}

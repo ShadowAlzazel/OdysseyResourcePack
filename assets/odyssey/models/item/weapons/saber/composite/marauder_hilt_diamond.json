@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/saber/marauder_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/saber/marauder_hilt_diamond"
+  }
+}

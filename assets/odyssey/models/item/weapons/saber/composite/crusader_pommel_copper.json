@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/saber/crusader_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/saber/crusader_pommel_copper"
+  }
+}

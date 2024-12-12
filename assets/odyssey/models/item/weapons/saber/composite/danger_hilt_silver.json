@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/saber/danger_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/saber/danger_hilt_silver"
+  }
+}

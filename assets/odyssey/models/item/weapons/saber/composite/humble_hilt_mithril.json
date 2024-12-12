@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/saber/humble_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/saber/humble_hilt_mithril"
+  }
+}
