@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/dagger/marauder_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/dagger/marauder_blade_silver"
+  }
+}

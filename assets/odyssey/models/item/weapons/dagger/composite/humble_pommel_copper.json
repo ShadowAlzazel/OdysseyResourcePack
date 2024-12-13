@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/dagger/humble_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/dagger/humble_pommel_copper"
+  }
+}

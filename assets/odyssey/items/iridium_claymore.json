@@ -11,6 +11,69 @@
               "model": "odyssey:item/weapons/claymore/composite/blade_iridium"
             },
             "when": "blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/crusader_blade_iridium"
+            },
+            "when": "crusader_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/danger_blade_iridium"
+            },
+            "when": "danger_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/fancy_blade_iridium"
+            },
+            "when": "fancy_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/humble_blade_iridium"
+            },
+            "when": "humble_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/imperial_blade_iridium"
+            },
+            "when": "imperial_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/marauder_blade_iridium"
+            },
+            "when": "marauder_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/seraph_blade_iridium"
+            },
+            "when": "seraph_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/vandal_blade_iridium"
+            },
+            "when": "vandal_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/voyager_blade_iridium"
+            },
+            "when": "voyager_blade"
           }
         ],
         "fallback": {
@@ -47,6 +110,69 @@
               "model": "odyssey:item/weapons/claymore/composite/hilt_iridium"
             },
             "when": "hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/crusader_hilt_iridium"
+            },
+            "when": "crusader_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/danger_hilt_iridium"
+            },
+            "when": "danger_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/fancy_hilt_iridium"
+            },
+            "when": "fancy_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/humble_hilt_iridium"
+            },
+            "when": "humble_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/imperial_hilt_iridium"
+            },
+            "when": "imperial_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/marauder_hilt_iridium"
+            },
+            "when": "marauder_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/seraph_hilt_iridium"
+            },
+            "when": "seraph_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/vandal_hilt_iridium"
+            },
+            "when": "vandal_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/voyager_hilt_iridium"
+            },
+            "when": "voyager_hilt"
           }
         ],
         "fallback": {
@@ -65,6 +191,69 @@
               "model": "odyssey:item/weapons/claymore/composite/pommel_iridium"
             },
             "when": "pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/crusader_pommel_iridium"
+            },
+            "when": "crusader_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/danger_pommel_iridium"
+            },
+            "when": "danger_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/fancy_pommel_iridium"
+            },
+            "when": "fancy_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/humble_pommel_iridium"
+            },
+            "when": "humble_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/imperial_pommel_iridium"
+            },
+            "when": "imperial_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/marauder_pommel_iridium"
+            },
+            "when": "marauder_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/seraph_pommel_iridium"
+            },
+            "when": "seraph_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/vandal_pommel_iridium"
+            },
+            "when": "vandal_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/claymore/composite/voyager_pommel_iridium"
+            },
+            "when": "voyager_pommel"
           }
         ],
         "fallback": {

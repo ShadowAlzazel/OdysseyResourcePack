@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/saber/vandal_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/saber/vandal_blade_titanium"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/katana/fancy_hilt",
   "textures": {
-    "0": "odyssey:item/weapon/katana/fancy_hilt_wooden"
+    "layer0": "odyssey:item/weapon/katana/fancy_hilt_wooden"
   }
 }

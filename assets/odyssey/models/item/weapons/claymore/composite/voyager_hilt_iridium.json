@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/claymore/voyager_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/claymore/voyager_hilt_iridium"
+  }
+}

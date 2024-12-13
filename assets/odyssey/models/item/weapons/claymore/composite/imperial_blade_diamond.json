@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/claymore/imperial_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/claymore/imperial_blade_diamond"
+  }
+}

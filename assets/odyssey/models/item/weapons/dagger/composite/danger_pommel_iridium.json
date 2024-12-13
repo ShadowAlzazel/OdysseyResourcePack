@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/dagger/danger_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/dagger/danger_pommel_iridium"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/claymore/crusader_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/claymore/crusader_hilt_titanium"
+  }
+}

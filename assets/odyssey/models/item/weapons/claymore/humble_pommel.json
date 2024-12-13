@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/claymore/_base",
+  "textures": {
+    "layer0": "odyssey:item/weapon/claymore/humble_pommel"
+  }
+}

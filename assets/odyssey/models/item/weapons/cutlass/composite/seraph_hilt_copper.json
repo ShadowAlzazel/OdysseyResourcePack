@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/cutlass/seraph_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/cutlass/seraph_hilt_copper"
+  }
+}

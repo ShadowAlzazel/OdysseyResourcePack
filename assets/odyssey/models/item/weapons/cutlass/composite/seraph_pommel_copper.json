@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/cutlass/seraph_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/cutlass/seraph_pommel_copper"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/katana/voyager_pommel",
   "textures": {
-    "0": "odyssey:item/weapon/katana/voyager_pommel_anodized_titanium"
+    "layer0": "odyssey:item/weapon/katana/voyager_pommel_anodized_titanium"
   }
 }

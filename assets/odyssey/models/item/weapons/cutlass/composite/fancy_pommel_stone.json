@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/cutlass/fancy_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/cutlass/fancy_pommel_stone"
+  }
+}

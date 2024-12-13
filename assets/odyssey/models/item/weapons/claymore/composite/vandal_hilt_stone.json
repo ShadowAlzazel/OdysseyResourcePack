@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/claymore/vandal_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/claymore/vandal_hilt_stone"
+  }
+}

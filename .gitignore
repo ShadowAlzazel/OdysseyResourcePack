@@ -1,5 +1,6 @@
 # Zip
 .zip 
+exclude.txt
 
 # Packs
 odyssey-resource-pack-test.zip

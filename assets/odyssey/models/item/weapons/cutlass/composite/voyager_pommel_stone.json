@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/cutlass/voyager_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/cutlass/voyager_pommel_stone"
+  }
+}

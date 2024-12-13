@@ -15,9 +15,30 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/weapons/katana/composite/seraph_blade_silver"
+              "model": "odyssey:item/weapons/katana/composite/crusader_blade_silver"
             },
-            "when": "seraph_blade"
+            "when": "crusader_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/danger_blade_silver"
+            },
+            "when": "danger_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/fancy_blade_silver"
+            },
+            "when": "fancy_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/humble_blade_silver"
+            },
+            "when": "humble_blade"
           },
           {
             "model": {
@@ -29,9 +50,23 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/weapons/katana/composite/fancy_blade_silver"
+              "model": "odyssey:item/weapons/katana/composite/marauder_blade_silver"
             },
-            "when": "fancy_blade"
+            "when": "marauder_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/seraph_blade_silver"
+            },
+            "when": "seraph_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/vandal_blade_silver"
+            },
+            "when": "vandal_blade"
           },
           {
             "model": {
@@ -79,9 +114,30 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/weapons/katana/composite/seraph_hilt_silver"
+              "model": "odyssey:item/weapons/katana/composite/crusader_hilt_silver"
             },
-            "when": "seraph_hilt"
+            "when": "crusader_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/danger_hilt_silver"
+            },
+            "when": "danger_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/fancy_hilt_silver"
+            },
+            "when": "fancy_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/humble_hilt_silver"
+            },
+            "when": "humble_hilt"
           },
           {
             "model": {
@@ -93,9 +149,23 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/weapons/katana/composite/fancy_hilt_silver"
+              "model": "odyssey:item/weapons/katana/composite/marauder_hilt_silver"
             },
-            "when": "fancy_hilt"
+            "when": "marauder_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/seraph_hilt_silver"
+            },
+            "when": "seraph_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/vandal_hilt_silver"
+            },
+            "when": "vandal_hilt"
           },
           {
             "model": {
@@ -125,9 +195,30 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/weapons/katana/composite/seraph_pommel_silver"
+              "model": "odyssey:item/weapons/katana/composite/crusader_pommel_silver"
             },
-            "when": "seraph_pommel"
+            "when": "crusader_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/danger_pommel_silver"
+            },
+            "when": "danger_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/fancy_pommel_silver"
+            },
+            "when": "fancy_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/humble_pommel_silver"
+            },
+            "when": "humble_pommel"
           },
           {
             "model": {
@@ -139,9 +230,23 @@
           {
             "model": {
               "type": "minecraft:model",
-              "model": "odyssey:item/weapons/katana/composite/fancy_pommel_silver"
+              "model": "odyssey:item/weapons/katana/composite/marauder_pommel_silver"
             },
-            "when": "fancy_pommel"
+            "when": "marauder_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/seraph_pommel_silver"
+            },
+            "when": "seraph_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/katana/composite/vandal_pommel_silver"
+            },
+            "when": "vandal_pommel"
           },
           {
             "model": {

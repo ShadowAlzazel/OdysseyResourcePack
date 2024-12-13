@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/cutlass/danger_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/cutlass/danger_hilt_iridium"
+  }
+}

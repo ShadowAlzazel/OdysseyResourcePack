@@ -1,6 +1,6 @@
 {
   "parent": "odyssey:item/weapons/katana/imperial_hilt",
   "textures": {
-    "0": "odyssey:item/weapon/katana/imperial_hilt_soul_steel"
+    "layer0": "odyssey:item/weapon/katana/imperial_hilt_soul_steel"
   }
 }

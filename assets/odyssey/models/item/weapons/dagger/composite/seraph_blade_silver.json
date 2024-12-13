@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/dagger/seraph_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/dagger/seraph_blade_silver"
+  }
+}
