@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/dagger/danger_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/dagger/danger_blade_copper"
+  }
+}

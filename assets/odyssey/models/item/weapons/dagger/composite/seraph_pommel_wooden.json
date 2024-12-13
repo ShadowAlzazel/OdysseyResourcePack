@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/dagger/seraph_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/dagger/seraph_pommel_wooden"
+  }
+}
