@@ -3,6 +3,12 @@
     {
       "type": "paletted_permutations",
       "textures": [
+        "odyssey:item/tool/sword",
+        "odyssey:item/tool/pickaxe",
+        "odyssey:item/tool/axe",
+        "odyssey:item/tool/shovel",
+        "odyssey:item/tool/hoe",
+
         "odyssey:item/weapon/longsword/blade",
         "odyssey:item/weapon/longsword/handle",
         "odyssey:item/weapon/longsword/hilt",
@@ -267,13 +273,7 @@
         "odyssey:item/weapon/arm_blade_texture",
         "odyssey:item/weapon/zweihander_texture",
 
-        "odyssey:item/weapon/shuriken_base",
-
-        "odyssey:item/tool/base_sword",
-        "odyssey:item/tool/base_pickaxe",
-        "odyssey:item/tool/base_axe",
-        "odyssey:item/tool/base_shovel",
-        "odyssey:item/tool/base_hoe"
+        "odyssey:item/weapon/shuriken_base"
       ],
       "palette_key": "odyssey:colormap/weapon_palettes/base_weapon_palette",
       "permutations": {

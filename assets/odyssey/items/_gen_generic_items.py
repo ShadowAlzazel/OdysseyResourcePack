@@ -157,14 +157,6 @@ def generate_files(item_list: list, category: str):
 
 # poulate files
 def populate_files():
-    # Generate files for all basic item categories
-    #item_categories = {
-    #    "materials": MATERIALS,
-    #    "foods": FOODS,
-    #    "other": OTHER
-    #}
-    #for category, item_list in item_categories.items():
-    #    generate_files(item_list, category)
     item_list = ITEM_LIST
     generate_files(item_list, "generic")    
 

@@ -1,6 +1,0 @@
-{
-  "parent": "odyssey:item/tool/bases/shovel",
-  "textures": {
-    "layer0": "odyssey:item/tool/base_shovel_iridium"
-  }
-}

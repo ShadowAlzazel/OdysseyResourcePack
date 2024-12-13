@@ -75,28 +75,52 @@ ALL_POMMELS = ["pommel"] + [f'{x}_pommel' for x in WEAPON_PART_SETS]
 # --------------------------------------------------------------------------
 
 # broadsword excluded since 2D
+# broadsword excluded since 2D
 WEAPONS = [
-    "longsword",
-    "cutlass",
+    "chakram",
     "claymore",
+    "cutlass",
     "dagger",
-    "sickle",
-    "saber",
-    "kriegsmesser",
+    "glaive",
+    "halberd",
     "katana",
+    "kriegsmesser",
+    "longsword",
+    "kunai",
+    "longaxe",
+    "longsword",
+    "poleaxe",
+    "rapier",
+    "saber",
+    "scythe",
+    "sickle",
+    "spear",
+    "warhammer",
+    "zweihander"
 ]
 
 WEAPON_PARTS = {
-    "longsword": [ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
-    "cutlass": [ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
-    "claymore": [ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
-    "dagger": [ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
-    "sickle": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
-    "saber": [ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
+    "chakram": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "claymore": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
+    "cutlass": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
+    "dagger": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
+    "glaive": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "halberd": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "katana": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "kriegsmesser": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
-    "katana": [ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
+    "longsword": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
+    "kunai": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "longaxe": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "longsword": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
+    "poleaxe": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "rapier": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "saber": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
+    "scythe": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "sickle": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "spear": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "warhammer": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "zweihander": [ ["blade"], ["handle"], ["hilt"], ["pommel"]]
 }
-
 
 
 # --------------------------------------------------------------------------
@@ -170,7 +194,6 @@ def populate_files():
             for part in combined_parts:
                 generate_composite_file(part, material, weapon)
                 generate_parent_file(part, weapon)
-        # TRIMS
         # Generate for trims
         if weapon == "longsword" or weapon == "kriegsmesser": # Test
             for trim in WEAPON_TRIMS:

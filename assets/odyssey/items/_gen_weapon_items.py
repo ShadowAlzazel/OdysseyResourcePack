@@ -72,39 +72,59 @@ ALL_POMMELS = ["pommel"] + [f'{x}_pommel' for x in WEAPON_PART_SETS]
 
 # --------------------------------------------------------------------------
 
+TOOLS = [
+    "pickaxe",
+    "axe",
+    "sword",
+    "hoe",
+    "shovel"
+]
+
 # broadsword excluded since 2D
 WEAPONS = [
-    "longsword",
-    "cutlass",
+    "chakram",
     "claymore",
+    "cutlass",
     "dagger",
-    "sickle",
-    "saber",
+    "glaive",
+    "halberd",
+    "katana",
     "kriegsmesser",
-    "katana"
+    "longsword",
+    "kunai",
+    "longaxe",
+    "longsword",
+    "poleaxe",
+    "rapier",
+    "saber",
+    "scythe",
+    "sickle",
+    "spear",
+    "warhammer",
+    "zweihander"
 ]
 
 WEAPON_PARTS = {
-    "longsword": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
-    "cutlass": [ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
+    "chakram": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
     "claymore": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
+    "cutlass": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "dagger": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
-    "sickle": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
-    "saber": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
+    "glaive": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "halberd": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "katana": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "kriegsmesser": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
-    "katana": [ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
-    "broadsword": [
-        ["blade",
-         "fancy_blade",
-         "big_blade"],
-        ["handle"],
-        ["hilt",
-         "fancy_hilt",
-         "imperial_hilt",
-         "voyager_hilt"],
-        ["pommel",
-         "fancy_pommel"]
-    ]
+    "longsword": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
+    "kunai": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "longaxe": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "longsword": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
+    "poleaxe": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "rapier": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "saber": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
+    "scythe": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "sickle": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "spear": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "warhammer": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "zweihander": [ ["blade"], ["handle"], ["hilt"], ["pommel"]]
 }
 
 
@@ -238,6 +258,23 @@ def create_weapon_file(weapon: str, material: str):
     with open(filename, 'w') as file:
         file.write(text)   
 
+# Generate files for list
+def create_tool_file(tool: str, material: str):
+    item_name = f'{material}_{tool}'
+    filename = f'{item_name}.json'
+    # create objs
+    json_obj = {
+        "model": {
+            "type": "minecraft:model",
+            "model": f'odyssey:item/tools/{tool}/{item_name}'
+        }     
+    }
+    # Write the text to opened file
+    text = json.dumps(json_obj, indent=2)
+    with open(filename, 'w') as file:
+        file.write(text)   
+
+# --------------------------------------------------------------------------
 
 # poulate files
 def populate_files():
@@ -245,7 +282,12 @@ def populate_files():
     for weapon in WEAPONS:
         for material in MATERIALS:
             create_weapon_file(weapon, material)
-        
+    # Generate tool files
+    tool_materials = ['copper', 'silver', 'soul_steel', 'titanium', 'anodized_titanium', 'iridium', 'mithril']
+    for tool in TOOLS:
+        for material in tool_materials:
+            create_tool_file(tool, material)
+            
 
 # Main
 def main():
