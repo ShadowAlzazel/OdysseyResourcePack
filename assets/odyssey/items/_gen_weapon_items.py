@@ -118,7 +118,7 @@ WEAPON_PARTS = {
     "longaxe": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
     "longsword": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "poleaxe": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
-    "rapier": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "rapier": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "saber": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "scythe": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
     "sickle": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],

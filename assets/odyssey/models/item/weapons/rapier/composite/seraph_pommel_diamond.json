@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/rapier/seraph_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/rapier/seraph_pommel_diamond"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/rapier/humble_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/rapier/humble_pommel_soul_steel"
+  }
+}

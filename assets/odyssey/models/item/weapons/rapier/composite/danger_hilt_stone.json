@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/rapier/danger_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/rapier/danger_hilt_stone"
+  }
+}
