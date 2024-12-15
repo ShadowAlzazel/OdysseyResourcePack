@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/rapier/blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/rapier/blade_silver"
+  }
+}

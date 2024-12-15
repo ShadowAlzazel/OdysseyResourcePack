@@ -194,12 +194,27 @@ def populate_files():
             for part in combined_parts:
                 generate_composite_file(part, material, weapon)
                 generate_parent_file(part, weapon)
+                
         # Generate for trims
         if weapon == "longsword" or weapon == "kriegsmesser": # Test
             for trim in WEAPON_TRIMS:
                 generate_parent_file(f'{trim}_trim', weapon)
                 for material, namespace in TRIM_MATERIAL_MAP.items():
                     generate_trim_file(trim, material, weapon)
+    
+    # Write parts to an temp atlas file to copy into blocks.json
+    with open("_block_atlas.txt", "w") as f:
+        # Iterate over the combined parts for a weapon
+        for weapon in WEAPONS:
+            part_list = WEAPON_PARTS[weapon]
+            # Create one list to loop through materials
+            combined_parts = list(itertools.chain(*part_list))
+            for part in combined_parts:
+                part_line = f'"odyssey:item/weapon/{weapon}/{part}"'
+                f.write(part_line + ",\n")
+            f.write("\n")               
+                    
+                    
 
 # Main
 def main():

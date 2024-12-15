@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/scythe/pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/scythe/pommel_golden"
+  }
+}

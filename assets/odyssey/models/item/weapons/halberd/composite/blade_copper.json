@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/halberd/blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/halberd/blade_copper"
+  }
+}

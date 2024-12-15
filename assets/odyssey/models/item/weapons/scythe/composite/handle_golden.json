@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/scythe/handle",
+  "textures": {
+    "layer0": "odyssey:item/weapon/scythe/handle_golden"
+  }
+}

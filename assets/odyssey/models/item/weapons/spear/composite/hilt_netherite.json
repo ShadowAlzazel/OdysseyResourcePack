@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/spear/hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/spear/hilt_netherite"
+  }
+}

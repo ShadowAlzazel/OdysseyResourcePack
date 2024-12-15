@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/warhammer/handle",
+  "textures": {
+    "layer0": "odyssey:item/weapon/warhammer/handle_mithril"
+  }
+}

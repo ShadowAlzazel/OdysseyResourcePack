@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/zweihander/pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/zweihander/pommel_netherite"
+  }
+}

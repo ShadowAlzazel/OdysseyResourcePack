@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/spear/_base",
+  "textures": {
+    "layer0": "odyssey:item/weapon/spear/pommel"
+  }
+}

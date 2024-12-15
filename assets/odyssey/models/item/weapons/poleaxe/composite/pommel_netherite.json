@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/poleaxe/pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/poleaxe/pommel_netherite"
+  }
+}

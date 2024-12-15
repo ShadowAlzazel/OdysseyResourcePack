@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/longaxe/_base",
+  "textures": {
+    "layer0": "odyssey:item/weapon/longaxe/blade"
+  }
+}

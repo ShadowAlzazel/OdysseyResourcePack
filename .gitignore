@@ -1,6 +1,7 @@
 # Zip
 .zip 
 exclude.txt
+_block_atlas.txt
 
 # Packs
 odyssey-resource-pack-test.zip
