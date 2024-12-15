@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/glaive/handle",
+  "textures": {
+    "layer0": "odyssey:item/weapon/glaive/handle_netherite"
+  }
+}

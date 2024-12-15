@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/longaxe/pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/longaxe/pommel_anodized_titanium"
+  }
+}

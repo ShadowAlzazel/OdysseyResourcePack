@@ -1,6 +1,0 @@
-{
-  "parent": "odyssey:item/tool/bases/hoe",
-  "textures": {
-    "layer0": "odyssey:item/tool/base_hoe_titanium"
-  }
-}

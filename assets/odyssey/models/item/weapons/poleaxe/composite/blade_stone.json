@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/poleaxe/blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/poleaxe/blade_stone"
+  }
+}

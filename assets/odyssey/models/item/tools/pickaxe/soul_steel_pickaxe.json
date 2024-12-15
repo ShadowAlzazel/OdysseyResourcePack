@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/tools/pickaxe/_base",
+  "textures": {
+    "layer0": "odyssey:item/tool/pickaxe_soul_steel"
+  }
+}

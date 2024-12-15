@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/rapier/handle",
+  "textures": {
+    "layer0": "odyssey:item/weapon/rapier/handle_iridium"
+  }
+}

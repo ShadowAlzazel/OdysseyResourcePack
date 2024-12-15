@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/rapier/hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/rapier/hilt_copper"
+  }
+}

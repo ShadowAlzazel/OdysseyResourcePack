@@ -4,7 +4,7 @@
 set "ROOT_DIR=%~dp0"
 
 :: Specify the relative directory to zip (e.g., a subdirectory named "assets")
-set "SOURCE_DIR=%ROOT_DIR%assets"
+set "ASSET_DIR=%ROOT_DIR%assets"
 
 :: Specify the relative path for the output zip file
 set "ZIP_FILE=%ROOT_DIR%odyssey-resource-pack.zip"
@@ -22,9 +22,10 @@ mkdir "%TEMP_DIR%"
 :: Create exclude.txt file containing patterns to ignore
 echo .pyc>exclude.txt
 echo __pycache__>>exclude.txt
+echo .py>>exclude.txt
 
 :: Copy files excluding .pyc and __pycache__
-xcopy "%SOURCE_DIR%" "%TEMP_DIR%" /E /I /EXCLUDE:exclude.txt >nul
+xcopy "%ASSET_DIR%" "%TEMP_DIR%\assets" /E /I /EXCLUDE:exclude.txt >nul
 
 :: Copy README file into the temporary directory
 copy "%README_FILE%" "%TEMP_DIR%" >nul

@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/poleaxe/hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/poleaxe/hilt_copper"
+  }
+}

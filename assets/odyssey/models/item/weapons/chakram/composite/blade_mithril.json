@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/chakram/blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/chakram/blade_mithril"
+  }
+}

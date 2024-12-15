@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/warhammer/pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/warhammer/pommel_copper"
+  }
+}

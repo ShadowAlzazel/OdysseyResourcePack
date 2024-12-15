@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/longaxe/hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/longaxe/hilt_stone"
+  }
+}

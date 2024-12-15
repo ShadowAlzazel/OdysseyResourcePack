@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/tools/sword/_base",
+  "textures": {
+    "layer0": "odyssey:item/tool/sword_silver"
+  }
+}

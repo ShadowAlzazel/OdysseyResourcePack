@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/warhammer/hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/warhammer/hilt_stone"
+  }
+}

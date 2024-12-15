@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/chakram/pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/chakram/pommel_copper"
+  }
+}
