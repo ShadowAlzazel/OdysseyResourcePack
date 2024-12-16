@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/sickle/vandal_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/sickle/vandal_blade_iridium"
+  }
+}

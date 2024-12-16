@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/sickle/vandal_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/sickle/vandal_hilt_diamond"
+  }
+}

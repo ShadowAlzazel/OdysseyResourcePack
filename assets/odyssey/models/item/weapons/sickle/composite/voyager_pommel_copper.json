@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/sickle/voyager_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/sickle/voyager_pommel_copper"
+  }
+}

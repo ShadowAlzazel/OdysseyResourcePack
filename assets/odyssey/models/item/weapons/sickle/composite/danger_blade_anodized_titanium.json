@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/sickle/danger_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/sickle/danger_blade_anodized_titanium"
+  }
+}

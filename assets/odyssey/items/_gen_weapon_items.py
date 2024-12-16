@@ -121,7 +121,7 @@ WEAPON_PARTS = {
     "rapier": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "saber": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "scythe": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
-    "sickle": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "sickle": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "spear": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
     "warhammer": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
     "zweihander": [ ["blade"], ["handle"], ["hilt"], ["pommel"]]
