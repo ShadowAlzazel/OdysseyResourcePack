@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/glaive/crusader_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/glaive/crusader_hilt_anodized_titanium"
+  }
+}

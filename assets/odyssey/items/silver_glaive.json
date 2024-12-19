@@ -11,6 +11,69 @@
               "model": "odyssey:item/weapons/glaive/composite/blade_silver"
             },
             "when": "blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/crusader_blade_silver"
+            },
+            "when": "crusader_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/danger_blade_silver"
+            },
+            "when": "danger_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/fancy_blade_silver"
+            },
+            "when": "fancy_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/humble_blade_silver"
+            },
+            "when": "humble_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/imperial_blade_silver"
+            },
+            "when": "imperial_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/marauder_blade_silver"
+            },
+            "when": "marauder_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/seraph_blade_silver"
+            },
+            "when": "seraph_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/vandal_blade_silver"
+            },
+            "when": "vandal_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/voyager_blade_silver"
+            },
+            "when": "voyager_blade"
           }
         ],
         "fallback": {
@@ -47,6 +110,69 @@
               "model": "odyssey:item/weapons/glaive/composite/hilt_silver"
             },
             "when": "hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/crusader_hilt_silver"
+            },
+            "when": "crusader_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/danger_hilt_silver"
+            },
+            "when": "danger_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/fancy_hilt_silver"
+            },
+            "when": "fancy_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/humble_hilt_silver"
+            },
+            "when": "humble_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/imperial_hilt_silver"
+            },
+            "when": "imperial_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/marauder_hilt_silver"
+            },
+            "when": "marauder_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/seraph_hilt_silver"
+            },
+            "when": "seraph_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/vandal_hilt_silver"
+            },
+            "when": "vandal_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/voyager_hilt_silver"
+            },
+            "when": "voyager_hilt"
           }
         ],
         "fallback": {

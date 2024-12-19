@@ -11,6 +11,69 @@
               "model": "odyssey:item/weapons/glaive/composite/blade_soul_steel"
             },
             "when": "blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/crusader_blade_soul_steel"
+            },
+            "when": "crusader_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/danger_blade_soul_steel"
+            },
+            "when": "danger_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/fancy_blade_soul_steel"
+            },
+            "when": "fancy_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/humble_blade_soul_steel"
+            },
+            "when": "humble_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/imperial_blade_soul_steel"
+            },
+            "when": "imperial_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/marauder_blade_soul_steel"
+            },
+            "when": "marauder_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/seraph_blade_soul_steel"
+            },
+            "when": "seraph_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/vandal_blade_soul_steel"
+            },
+            "when": "vandal_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/voyager_blade_soul_steel"
+            },
+            "when": "voyager_blade"
           }
         ],
         "fallback": {
@@ -47,6 +110,69 @@
               "model": "odyssey:item/weapons/glaive/composite/hilt_soul_steel"
             },
             "when": "hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/crusader_hilt_soul_steel"
+            },
+            "when": "crusader_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/danger_hilt_soul_steel"
+            },
+            "when": "danger_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/fancy_hilt_soul_steel"
+            },
+            "when": "fancy_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/humble_hilt_soul_steel"
+            },
+            "when": "humble_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/imperial_hilt_soul_steel"
+            },
+            "when": "imperial_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/marauder_hilt_soul_steel"
+            },
+            "when": "marauder_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/seraph_hilt_soul_steel"
+            },
+            "when": "seraph_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/vandal_hilt_soul_steel"
+            },
+            "when": "vandal_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/voyager_hilt_soul_steel"
+            },
+            "when": "voyager_hilt"
           }
         ],
         "fallback": {

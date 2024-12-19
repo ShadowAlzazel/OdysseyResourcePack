@@ -11,6 +11,69 @@
               "model": "odyssey:item/weapons/glaive/composite/blade_netherite"
             },
             "when": "blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/crusader_blade_netherite"
+            },
+            "when": "crusader_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/danger_blade_netherite"
+            },
+            "when": "danger_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/fancy_blade_netherite"
+            },
+            "when": "fancy_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/humble_blade_netherite"
+            },
+            "when": "humble_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/imperial_blade_netherite"
+            },
+            "when": "imperial_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/marauder_blade_netherite"
+            },
+            "when": "marauder_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/seraph_blade_netherite"
+            },
+            "when": "seraph_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/vandal_blade_netherite"
+            },
+            "when": "vandal_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/voyager_blade_netherite"
+            },
+            "when": "voyager_blade"
           }
         ],
         "fallback": {
@@ -47,6 +110,69 @@
               "model": "odyssey:item/weapons/glaive/composite/hilt_netherite"
             },
             "when": "hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/crusader_hilt_netherite"
+            },
+            "when": "crusader_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/danger_hilt_netherite"
+            },
+            "when": "danger_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/fancy_hilt_netherite"
+            },
+            "when": "fancy_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/humble_hilt_netherite"
+            },
+            "when": "humble_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/imperial_hilt_netherite"
+            },
+            "when": "imperial_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/marauder_hilt_netherite"
+            },
+            "when": "marauder_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/seraph_hilt_netherite"
+            },
+            "when": "seraph_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/vandal_hilt_netherite"
+            },
+            "when": "vandal_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/glaive/composite/voyager_hilt_netherite"
+            },
+            "when": "voyager_hilt"
           }
         ],
         "fallback": {

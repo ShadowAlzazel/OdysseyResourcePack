@@ -109,7 +109,7 @@ WEAPON_PARTS = {
     "claymore": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "cutlass": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "dagger": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
-    "glaive": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "glaive": [ ALL_BLADES, ["handle"], ALL_HILTS, ["pommel"]],
     "halberd": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
     "katana": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "kriegsmesser": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
