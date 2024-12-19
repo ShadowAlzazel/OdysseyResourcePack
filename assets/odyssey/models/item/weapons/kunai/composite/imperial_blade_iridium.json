@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kunai/imperial_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kunai/imperial_blade_iridium"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kunai/marauder_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kunai/marauder_pommel_copper"
+  }
+}

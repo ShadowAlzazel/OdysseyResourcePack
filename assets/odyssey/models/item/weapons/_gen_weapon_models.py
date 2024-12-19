@@ -109,7 +109,7 @@ WEAPON_PARTS = {
     "katana": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "kriegsmesser": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "longsword": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
-    "kunai": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "kunai": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "longaxe": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
     "longsword": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "poleaxe": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],

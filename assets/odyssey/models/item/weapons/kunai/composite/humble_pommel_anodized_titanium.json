@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kunai/humble_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kunai/humble_pommel_anodized_titanium"
+  }
+}

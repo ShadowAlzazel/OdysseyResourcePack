@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kunai/voyager_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kunai/voyager_pommel_silver"
+  }
+}

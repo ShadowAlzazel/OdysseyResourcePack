@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kunai/seraph_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kunai/seraph_pommel_silver"
+  }
+}
