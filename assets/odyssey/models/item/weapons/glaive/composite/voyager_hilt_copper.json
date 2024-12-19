@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/glaive/voyager_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/glaive/voyager_hilt_copper"
+  }
+}

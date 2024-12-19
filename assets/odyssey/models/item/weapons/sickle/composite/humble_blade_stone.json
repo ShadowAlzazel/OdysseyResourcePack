@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/sickle/humble_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/sickle/humble_blade_stone"
+  }
+}

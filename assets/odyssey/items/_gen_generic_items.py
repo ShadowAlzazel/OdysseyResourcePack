@@ -29,7 +29,8 @@ MATERIALS = [
     "soul_quartz",
     "soul_steel_ingot",
     "titanium_ingot",
-    "warden_entrails"
+    "warden_entrails",
+    "crystal_alloy_ingot"
 ]
 
 FOODS = [
@@ -132,7 +133,18 @@ ENCHANTING = [
     "tome_of_replication",
 ]
 
-ITEM_LIST = OTHER + GLYPHIC + MATERIALS + FOODS + ENCHANTING 
+# DO NOT USE
+MODELED_WEAPONS = [
+    "abzu_blade",
+    "shogun_lightning",
+    "excalibur",
+    "frost_fang",
+    "elucidator",
+    "knight_breaker",
+    "the_dragon_slayer"
+]
+
+ITEM_LIST = OTHER + GLYPHIC + MATERIALS + FOODS + ENCHANTING
 
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------

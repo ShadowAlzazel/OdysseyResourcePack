@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/glaive/voyager_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/glaive/voyager_blade_iridium"
+  }
+}

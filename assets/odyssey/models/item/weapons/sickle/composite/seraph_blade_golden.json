@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/sickle/seraph_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/sickle/seraph_blade_golden"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/sickle/seraph_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/sickle/seraph_hilt_anodized_titanium"
+  }
+}

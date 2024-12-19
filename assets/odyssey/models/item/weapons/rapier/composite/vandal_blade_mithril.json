@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/rapier/vandal_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/rapier/vandal_blade_mithril"
+  }
+}

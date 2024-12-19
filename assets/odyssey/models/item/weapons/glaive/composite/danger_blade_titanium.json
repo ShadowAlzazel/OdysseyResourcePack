@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/glaive/danger_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/glaive/danger_blade_titanium"
+  }
+}

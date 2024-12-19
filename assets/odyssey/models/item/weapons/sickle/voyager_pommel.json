@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/sickle/_base",
+  "textures": {
+    "layer0": "odyssey:item/weapon/sickle/voyager_pommel"
+  }
+}

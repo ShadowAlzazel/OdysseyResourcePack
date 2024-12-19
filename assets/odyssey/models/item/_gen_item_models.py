@@ -29,7 +29,8 @@ MATERIALS = [
     "soul_quartz",
     "soul_steel_ingot",
     "titanium_ingot",
-    "warden_entrails"
+    "warden_entrails",
+    "crystal_alloy_ingot"
 ]
 
 FOODS = [

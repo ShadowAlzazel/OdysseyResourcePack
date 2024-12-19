@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/glaive/humble_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/glaive/humble_blade_titanium"
+  }
+}

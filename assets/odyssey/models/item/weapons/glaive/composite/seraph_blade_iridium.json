@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/glaive/seraph_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/glaive/seraph_blade_iridium"
+  }
+}

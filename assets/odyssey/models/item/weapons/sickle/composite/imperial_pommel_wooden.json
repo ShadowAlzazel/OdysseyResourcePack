@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/sickle/imperial_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/sickle/imperial_pommel_wooden"
+  }
+}

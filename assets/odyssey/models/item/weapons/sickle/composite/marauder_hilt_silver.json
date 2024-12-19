@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/sickle/marauder_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/sickle/marauder_hilt_silver"
+  }
+}

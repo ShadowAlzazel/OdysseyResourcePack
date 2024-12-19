@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/glaive/vandal_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/glaive/vandal_blade_diamond"
+  }
+}

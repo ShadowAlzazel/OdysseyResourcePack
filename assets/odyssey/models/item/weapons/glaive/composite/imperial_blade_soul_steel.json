@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/glaive/imperial_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/glaive/imperial_blade_soul_steel"
+  }
+}

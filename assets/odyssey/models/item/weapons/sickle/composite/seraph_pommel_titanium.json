@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/sickle/seraph_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/sickle/seraph_pommel_titanium"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/glaive/crusader_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/glaive/crusader_blade_titanium"
+  }
+}
