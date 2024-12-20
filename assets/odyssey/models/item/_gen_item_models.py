@@ -100,6 +100,7 @@ OTHER = [
     "pommel_part_upgrade_template",
     "hilt_part_upgrade_template",
     "empty_part_upgrade_template",
+    "crystal_alloy_upgrade_template",
     "voyager_part_pattern",
     "danger_part_pattern",
     "seraph_part_pattern",

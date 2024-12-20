@@ -111,6 +111,7 @@ OTHER = [
     "humble_part_pattern",
     "empty_part_pattern",
     "mastercrafted_tool_template",
+    "crystal_alloy_upgrade_template",
     "crystalline_potion"
 ]
 
