@@ -25,7 +25,8 @@ MATERIALS = [
     "titanium", 
     "anodized_titanium",
     "iridium",
-    "mithril"
+    "mithril",
+    "crystal_alloy"
 ]
 
 # Function to create files
