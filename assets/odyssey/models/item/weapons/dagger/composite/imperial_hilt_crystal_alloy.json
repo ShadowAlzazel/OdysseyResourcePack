@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/dagger/imperial_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/dagger/imperial_hilt_crystal_alloy"
+  }
+}

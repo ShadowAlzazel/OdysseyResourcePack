@@ -1,0 +1,79 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/poleaxe/composite/blade_crystal_alloy"
+            },
+            "when": "blade"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/poleaxe/composite/blade_crystal_alloy"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 1
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/poleaxe/composite/handle_crystal_alloy"
+            },
+            "when": "handle"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/poleaxe/composite/handle_crystal_alloy"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 2
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/poleaxe/composite/hilt_crystal_alloy"
+            },
+            "when": "hilt"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/poleaxe/composite/hilt_crystal_alloy"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 3
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/poleaxe/composite/pommel_crystal_alloy"
+            },
+            "when": "pommel"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/poleaxe/composite/pommel_crystal_alloy"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 4
+      }
+    ]
+  }
+}

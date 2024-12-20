@@ -187,6 +187,19 @@
       {
         "model": {
           "type": "minecraft:model",
+          "model": "odyssey:item/armor/leather_helmet_crystal_alloy_trim",
+          "tints": [
+            {
+              "type": "minecraft:dye",
+              "default": -6265536
+            }
+          ]
+        },
+        "when": "odyssey:crystal_alloy"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
           "model": "minecraft:item/leather_helmet_quartz_trim",
           "tints": [
             {

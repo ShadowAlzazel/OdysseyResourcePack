@@ -103,6 +103,13 @@
       {
         "model": {
           "type": "minecraft:model",
+          "model": "odyssey:item/armor/iron_leggings_crystal_alloy_trim"
+        },
+        "when": "odyssey:crystal_alloy"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
           "model": "minecraft:item/iron_leggings_quartz_trim"
         },
         "when": "minecraft:quartz"

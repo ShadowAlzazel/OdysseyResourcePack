@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/warhammer/blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/warhammer/blade_crystal_alloy"
+  }
+}

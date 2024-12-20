@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kunai/crusader_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kunai/crusader_hilt_crystal_alloy"
+  }
+}

@@ -13,7 +13,7 @@ os.chdir(dir_name)
 
 MATERIALS = [
     'wooden', 'golden', 'stone', 'iron', 'diamond', 'netherite',
-    'copper', 'silver', 'soul_steel', 'titanium', 'anodized_titanium', 'iridium', 'mithril'
+    'copper', 'silver', 'soul_steel', 'titanium', 'anodized_titanium', 'iridium', 'mithril', 'crystal_alloy'
 ]
 
 # All patterns
@@ -41,6 +41,7 @@ TRIM_MATERIAL_MAP = {
     'soul_quartz': "odyssey",
     'soul_steel': "odyssey", 
     'titanium': "odyssey",
+    'crystal_alloy': "odyssey",
     
     "quartz": "minecraft",
     "iron": "minecraft",
@@ -201,6 +202,7 @@ def populate_files():
                 generate_parent_file(f'{trim}_trim', weapon)
                 for material, namespace in TRIM_MATERIAL_MAP.items():
                     generate_trim_file(trim, material, weapon)
+        
     
     # Write parts to an temp atlas file to copy into blocks.json
     with open("_block_atlas.txt", "w") as f:

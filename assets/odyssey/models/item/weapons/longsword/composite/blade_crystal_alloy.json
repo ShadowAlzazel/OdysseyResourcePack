@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/longsword/blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/longsword/blade_crystal_alloy"
+  }
+}

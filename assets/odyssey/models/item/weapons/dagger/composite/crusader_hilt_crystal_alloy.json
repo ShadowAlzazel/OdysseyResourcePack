@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/dagger/crusader_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/dagger/crusader_hilt_crystal_alloy"
+  }
+}

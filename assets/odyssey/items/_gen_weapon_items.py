@@ -11,7 +11,7 @@ os.chdir(dir_name)
 
 MATERIALS = [
     'wooden', 'golden', 'stone', 'iron', 'diamond', 'netherite',
-    'copper', 'silver', 'soul_steel', 'titanium', 'anodized_titanium', 'iridium', 'mithril'
+    'copper', 'silver', 'soul_steel', 'titanium', 'anodized_titanium', 'iridium', 'mithril', 'crystal_alloy'
 ]
 
 # All patterns
@@ -39,6 +39,7 @@ TRIM_MATERIAL_MAP = {
     'soul_quartz': "odyssey",
     'soul_steel': "odyssey", 
     'titanium': "odyssey",
+    'crystal_alloy': "odyssey",
     
     "quartz": "minecraft",
     "iron": "minecraft",

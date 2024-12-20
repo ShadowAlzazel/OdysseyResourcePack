@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/rapier/fancy_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/rapier/fancy_pommel_crystal_alloy"
+  }
+}

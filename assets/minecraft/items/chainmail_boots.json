@@ -103,6 +103,13 @@
       {
         "model": {
           "type": "minecraft:model",
+          "model": "odyssey:item/armor/chainmail_boots_crystal_alloy_trim"
+        },
+        "when": "odyssey:crystal_alloy"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
           "model": "minecraft:item/chainmail_boots_quartz_trim"
         },
         "when": "minecraft:quartz"

@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/katana/voyager_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/katana/voyager_pommel_crystal_alloy"
+  }
+}
