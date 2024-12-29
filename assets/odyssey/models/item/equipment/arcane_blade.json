@@ -383,7 +383,9 @@
 				"west": {"uv": [11, 3.5, 11.5, 5], "rotation": 270, "texture": "#1"},
 				"up": {"uv": [11, 3.5, 12.5, 5], "texture": "#1"},
 				"down": {"uv": [11, 5, 12.5, 3.5], "texture": "#1"}
-			}
+			},
+			"shade": false,
+            "light_emission": 11
 		},
 		{
 			"name": "arcane_blade_overlay_1",
@@ -397,7 +399,9 @@
 				"west": {"uv": [10.5, 4.5, 11, 6], "rotation": 270, "texture": "#1"},
 				"up": {"uv": [10.5, 4.5, 11, 6], "texture": "#1"},
 				"down": {"uv": [10.5, 6, 11, 4.5], "texture": "#1"}
-			}
+			},
+			"shade": false,
+            "light_emission": 11
 		},
 		{
 			"name": "arcane_blade_overlay_2",
@@ -411,7 +415,9 @@
 				"west": {"uv": [10, 5, 10.5, 6.5], "rotation": 270, "texture": "#1"},
 				"up": {"uv": [10, 5, 10.5, 6.5], "texture": "#1"},
 				"down": {"uv": [10, 6.5, 10.5, 5], "texture": "#1"}
-			}
+			},
+			"shade": false,
+            "light_emission": 11
 		},
 		{
 			"name": "arcane_blade_overlay_3",
@@ -425,7 +431,9 @@
 				"west": {"uv": [11, 5, 11.5, 5.5], "rotation": 270, "texture": "#1"},
 				"up": {"uv": [11, 5, 11.5, 5.5], "texture": "#1"},
 				"down": {"uv": [11, 5.5, 11.5, 5], "texture": "#1"}
-			}
+			},
+			"shade": false,
+            "light_emission": 11
 		},
 		{
 			"name": "arcane_blade_overlay_4",
@@ -439,7 +447,9 @@
 				"west": {"uv": [9.5, 5.5, 10, 7], "rotation": 270, "texture": "#1"},
 				"up": {"uv": [9.5, 5.5, 10, 7], "texture": "#1"},
 				"down": {"uv": [9.5, 7, 10, 5.5], "texture": "#1"}
-			}
+			},
+			"shade": false,
+            "light_emission": 11
 		},
 		{
 			"name": "arcane_blade_overlay_5",
@@ -453,7 +463,9 @@
 				"west": {"uv": [9, 6, 9.5, 7.5], "rotation": 270, "texture": "#1"},
 				"up": {"uv": [9, 6, 9.5, 7.5], "texture": "#1"},
 				"down": {"uv": [9, 7.5, 9.5, 6], "texture": "#1"}
-			}
+			},
+			"shade": false,
+            "light_emission": 11
 		},
 		{
 			"name": "arcane_blade_overlay_6",
@@ -467,7 +479,9 @@
 				"west": {"uv": [8.5, 6.5, 9, 8], "rotation": 270, "texture": "#1"},
 				"up": {"uv": [8.5, 6.5, 9, 8], "texture": "#1"},
 				"down": {"uv": [8.5, 8, 9, 6.5], "texture": "#1"}
-			}
+			},
+			"shade": false,
+            "light_emission": 11
 		},
 		{
 			"name": "arcane_blade_overlay_7",
@@ -481,7 +495,9 @@
 				"west": {"uv": [8, 7, 8.5, 8], "rotation": 270, "texture": "#1"},
 				"up": {"uv": [8, 7, 8.5, 8], "texture": "#1"},
 				"down": {"uv": [8, 8, 8.5, 7], "texture": "#1"}
-			}
+			},
+			"shade": false,
+            "light_emission": 11
 		},
 		{
 			"name": "arcane_blade_overlay_8",
@@ -495,7 +511,9 @@
 				"west": {"uv": [7.5, 8, 8, 8.5], "rotation": 270, "texture": "#1"},
 				"up": {"uv": [7.5, 8, 8, 8.5], "texture": "#1"},
 				"down": {"uv": [7.5, 8.5, 8, 8], "texture": "#1"}
-			}
+			},
+			"shade": false,
+            "light_emission": 11
 		}
 	],
 	"gui_light": "front",
