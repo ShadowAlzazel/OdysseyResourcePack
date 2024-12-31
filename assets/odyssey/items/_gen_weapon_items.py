@@ -11,7 +11,7 @@ os.chdir(dir_name)
 
 MATERIALS = [
     'wooden', 'golden', 'stone', 'iron', 'diamond', 'netherite',
-    'copper', 'silver', 'soul_steel', 'titanium', 'anodized_titanium', 'iridium', 'mithril'
+    'copper', 'silver', 'soul_steel', 'titanium', 'anodized_titanium', 'iridium', 'mithril', 'crystal_alloy'
 ]
 
 # All patterns
@@ -39,6 +39,7 @@ TRIM_MATERIAL_MAP = {
     'soul_quartz': "odyssey",
     'soul_steel': "odyssey", 
     'titanium': "odyssey",
+    'crystal_alloy': "odyssey",
     
     "quartz": "minecraft",
     "iron": "minecraft",
@@ -114,7 +115,7 @@ WEAPON_PARTS = {
     "katana": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "kriegsmesser": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "longsword": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
-    "kunai": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "kunai": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "longaxe": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
     "longsword": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "poleaxe": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
@@ -283,7 +284,7 @@ def populate_files():
         for material in MATERIALS:
             create_weapon_file(weapon, material)
     # Generate tool files
-    tool_materials = ['copper', 'silver', 'soul_steel', 'titanium', 'anodized_titanium', 'iridium', 'mithril']
+    tool_materials = ['copper', 'silver', 'soul_steel', 'titanium', 'anodized_titanium', 'iridium', 'mithril', 'crystal_alloy']
     for tool in TOOLS:
         for material in tool_materials:
             create_tool_file(tool, material)

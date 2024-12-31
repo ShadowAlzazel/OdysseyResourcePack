@@ -20,7 +20,7 @@ VANILLA_ARMOR_MATERIALS = [
 ]
 ODYSSEY_ARMOR_MATERIALS = [
     'mithril', 'iridium', 'soul_steel', 'titanium', 'anodized_titanium',
-    'copper', 'silver'
+    'copper', 'silver', 'crystal_alloy'
 ]
 
 # The trim materials
@@ -38,7 +38,8 @@ ODYSSEY_TRIMS = [
     'silver', 
     'soul_quartz',
     'soul_steel', 
-    'titanium'
+    'titanium',
+    'crystal_alloy'
 ]
 VANILLA_TRIMS = [
     "quartz",

@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kunai/voyager_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kunai/voyager_blade_soul_steel"
+  }
+}

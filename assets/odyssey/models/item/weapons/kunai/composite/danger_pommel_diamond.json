@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kunai/danger_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kunai/danger_pommel_diamond"
+  }
+}

@@ -12,7 +12,7 @@ os.chdir(dir_name)
 # Creating odyssey armor with trims
 ODYSSEY_ARMOR_MATERIALS = [
     'mithril', 'iridium', 'soul_steel', 'titanium', 'anodized_titanium',
-    'copper', 'silver'
+    'copper', 'silver', 'crystal_alloy'
 ]
 ARMOR_MODELS = [
     'chestplate', 'leggings', 'boots', 'helmet'
@@ -34,6 +34,7 @@ MATERIAL_MAP = {
     'soul_quartz': "odyssey",
     'soul_steel': "odyssey", 
     'titanium': "odyssey",
+    'crystal_alloy': "odyssey",
     
     "quartz": "minecraft",
     "iron": "minecraft",

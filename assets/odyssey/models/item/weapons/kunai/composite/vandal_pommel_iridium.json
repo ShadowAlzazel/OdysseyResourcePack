@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kunai/vandal_pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kunai/vandal_pommel_iridium"
+  }
+}

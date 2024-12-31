@@ -1,0 +1,268 @@
+{
+  "model": {
+    "type": "minecraft:composite",
+    "models": [
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/blade_crystal_alloy"
+            },
+            "when": "blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/crusader_blade_crystal_alloy"
+            },
+            "when": "crusader_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/danger_blade_crystal_alloy"
+            },
+            "when": "danger_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/fancy_blade_crystal_alloy"
+            },
+            "when": "fancy_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/humble_blade_crystal_alloy"
+            },
+            "when": "humble_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/imperial_blade_crystal_alloy"
+            },
+            "when": "imperial_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/marauder_blade_crystal_alloy"
+            },
+            "when": "marauder_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/seraph_blade_crystal_alloy"
+            },
+            "when": "seraph_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/vandal_blade_crystal_alloy"
+            },
+            "when": "vandal_blade"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/voyager_blade_crystal_alloy"
+            },
+            "when": "voyager_blade"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/cutlass/composite/blade_crystal_alloy"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 1
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/handle_crystal_alloy"
+            },
+            "when": "handle"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/cutlass/composite/handle_crystal_alloy"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 2
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/hilt_crystal_alloy"
+            },
+            "when": "hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/crusader_hilt_crystal_alloy"
+            },
+            "when": "crusader_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/danger_hilt_crystal_alloy"
+            },
+            "when": "danger_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/fancy_hilt_crystal_alloy"
+            },
+            "when": "fancy_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/humble_hilt_crystal_alloy"
+            },
+            "when": "humble_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/imperial_hilt_crystal_alloy"
+            },
+            "when": "imperial_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/marauder_hilt_crystal_alloy"
+            },
+            "when": "marauder_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/seraph_hilt_crystal_alloy"
+            },
+            "when": "seraph_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/vandal_hilt_crystal_alloy"
+            },
+            "when": "vandal_hilt"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/voyager_hilt_crystal_alloy"
+            },
+            "when": "voyager_hilt"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/cutlass/composite/hilt_crystal_alloy"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 3
+      },
+      {
+        "type": "minecraft:select",
+        "cases": [
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/pommel_crystal_alloy"
+            },
+            "when": "pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/crusader_pommel_crystal_alloy"
+            },
+            "when": "crusader_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/danger_pommel_crystal_alloy"
+            },
+            "when": "danger_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/fancy_pommel_crystal_alloy"
+            },
+            "when": "fancy_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/humble_pommel_crystal_alloy"
+            },
+            "when": "humble_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/imperial_pommel_crystal_alloy"
+            },
+            "when": "imperial_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/marauder_pommel_crystal_alloy"
+            },
+            "when": "marauder_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/seraph_pommel_crystal_alloy"
+            },
+            "when": "seraph_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/vandal_pommel_crystal_alloy"
+            },
+            "when": "vandal_pommel"
+          },
+          {
+            "model": {
+              "type": "minecraft:model",
+              "model": "odyssey:item/weapons/cutlass/composite/voyager_pommel_crystal_alloy"
+            },
+            "when": "voyager_pommel"
+          }
+        ],
+        "fallback": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/weapons/cutlass/composite/pommel_crystal_alloy"
+        },
+        "property": "minecraft:custom_model_data",
+        "index": 4
+      }
+    ]
+  }
+}

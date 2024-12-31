@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kunai/vandal_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kunai/vandal_hilt_iridium"
+  }
+}

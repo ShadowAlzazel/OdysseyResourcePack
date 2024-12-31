@@ -33,6 +33,7 @@ armor_trims = {
     'soul_quartz': "odyssey",
     'soul_steel': "odyssey", 
     'titanium': "odyssey",
+    'crystal_alloy': "odyssey",
     
     "quartz": "minecraft",
     "iron": "minecraft",

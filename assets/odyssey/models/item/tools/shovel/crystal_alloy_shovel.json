@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/tools/shovel/_base",
+  "textures": {
+    "layer0": "odyssey:item/tool/shovel_crystal_alloy"
+  }
+}

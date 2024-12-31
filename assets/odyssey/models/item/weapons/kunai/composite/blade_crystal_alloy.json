@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/kunai/blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/kunai/blade_crystal_alloy"
+  }
+}

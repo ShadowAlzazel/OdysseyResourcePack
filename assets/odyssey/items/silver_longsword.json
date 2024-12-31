@@ -371,6 +371,13 @@
                 {
                   "model": {
                     "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/jewel_crystal_alloy_trim"
+                  },
+                  "when": "odyssey:crystal_alloy"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
                     "model": "odyssey:item/weapons/longsword/trims/jewel_quartz_trim"
                   },
                   "when": "minecraft:quartz"
@@ -555,6 +562,13 @@
                     "model": "odyssey:item/weapons/longsword/trims/spine_titanium_trim"
                   },
                   "when": "odyssey:titanium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/spine_crystal_alloy_trim"
+                  },
+                  "when": "odyssey:crystal_alloy"
                 },
                 {
                   "model": {
@@ -747,6 +761,13 @@
                 {
                   "model": {
                     "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/wings_crystal_alloy_trim"
+                  },
+                  "when": "odyssey:crystal_alloy"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
                     "model": "odyssey:item/weapons/longsword/trims/wings_quartz_trim"
                   },
                   "when": "minecraft:quartz"
@@ -935,6 +956,13 @@
                 {
                   "model": {
                     "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/cross_crystal_alloy_trim"
+                  },
+                  "when": "odyssey:crystal_alloy"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
                     "model": "odyssey:item/weapons/longsword/trims/cross_quartz_trim"
                   },
                   "when": "minecraft:quartz"
@@ -1119,6 +1147,13 @@
                     "model": "odyssey:item/weapons/longsword/trims/trace_titanium_trim"
                   },
                   "when": "odyssey:titanium"
+                },
+                {
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "odyssey:item/weapons/longsword/trims/trace_crystal_alloy_trim"
+                  },
+                  "when": "odyssey:crystal_alloy"
                 },
                 {
                   "model": {

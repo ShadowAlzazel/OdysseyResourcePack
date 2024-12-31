@@ -9,7 +9,9 @@ os.chdir(dir_name)
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------
 
-MATERIALS = [
+ITEMS = [
+    # Ingredients
+    "arcane_book",
     "alexandrite",
     "anodized_titanium_ingot",
     "coagulated_blood",
@@ -30,10 +32,76 @@ MATERIALS = [
     "soul_steel_ingot",
     "titanium_ingot",
     "warden_entrails",
-    "crystal_alloy_ingot"
-]
-
-FOODS = [
+    "crystal_alloy_ingot",
+    # Misc
+    "ancient_tablet",
+    "blazing_rocket",
+    "explosive_arrow",
+    "irradiated_fruit",
+    "shadow_trial_key",
+    "crystalline_potion",
+    # Smithing
+    "imperial_armor_trim_smithing_template",
+    "voyager_armor_trim_smithing_template",
+    "leaf_armor_trim_smithing_template",
+    "danger_armor_trim_smithing_template",
+    "ring_armor_trim_smithing_template",
+    "cross_weapon_trim_smithing_template",
+    "spine_weapon_trim_smithing_template",
+    "wings_weapon_trim_smithing_template",
+    "trace_weapon_trim_smithing_template",
+    "jewel_weapon_trim_smithing_template",
+    "iridium_upgrade_template",
+    "mithril_upgrade_template",
+    "soul_steel_upgrade_template",
+    "titanium_upgrade_template",
+    "blade_part_upgrade_template",
+    "handle_part_upgrade_template",
+    "pommel_part_upgrade_template",
+    "hilt_part_upgrade_template",
+    "empty_part_upgrade_template",
+    "crystal_alloy_upgrade_template",
+    "voyager_part_pattern",
+    "danger_part_pattern",
+    "seraph_part_pattern",
+    "marauder_part_pattern",
+    "crusader_part_pattern",
+    "vandal_part_pattern",
+    "imperial_part_pattern",
+    "fancy_part_pattern",
+    "humble_part_pattern",
+    "empty_part_pattern",
+    "mastercrafted_tool_template",
+    # Enchanting 
+    "blank_tome",
+    "gilded_book",
+    "tome_of_avarice",
+    "tome_of_banishment",
+    "tome_of_discharge",
+    "tome_of_embrace",
+    "tome_of_euphony",
+    "tome_of_expenditure",
+    "tome_of_extraction",
+    "tome_of_harmony",
+    "tome_of_imitation",
+    "tome_of_infusion",
+    "tome_of_polymerization",
+    "tome_of_promotion",
+    "tome_of_replication",
+    # Glyphic
+    "clay_dowel",
+    "clay_key",
+    "clay_skull",
+    "clay_totem",
+    "clay_orb",
+    "clay_rods",
+    "glazed_dowel",
+    "glazed_key",
+    "glazed_skull",
+    "glazed_totem",
+    "glazed_orb",
+    "glazed_rods",
+    # Food
     "allium_jade_boba_tea",
     "bacon",
     "berry_tart",
@@ -60,77 +128,8 @@ FOODS = [
     "thai_tulip_boba_tea",
 ]
 
-GLYPHIC = [
-    "clay_dowel",
-    "clay_key",
-    "clay_skull",
-    "clay_totem",
-    "clay_orb",
-    "clay_rods",
-    "glazed_dowel",
-    "glazed_key",
-    "glazed_skull",
-    "glazed_totem",
-    "glazed_orb",
-    "glazed_rods",
-]
-
-OTHER = [
-    "ancient_tablet",
-    "blazing_rocket",
-    "explosive_arrow",
-    "iridium_upgrade_template",
-    "irradiated_fruit",
-    "shadow_trial_key",
-    "imperial_armor_trim_smithing_template",
-    "voyager_armor_trim_smithing_template",
-    "leaf_armor_trim_smithing_template",
-    "danger_armor_trim_smithing_template",
-    "ring_armor_trim_smithing_template",
-    "cross_weapon_trim_smithing_template",
-    "spine_weapon_trim_smithing_template",
-    "wings_weapon_trim_smithing_template",
-    "trace_weapon_trim_smithing_template",
-    "jewel_weapon_trim_smithing_template",
-    "mithril_upgrade_template",
-    "soul_steel_upgrade_template",
-    "titanium_upgrade_template",
-    "blade_part_upgrade_template",
-    "handle_part_upgrade_template",
-    "pommel_part_upgrade_template",
-    "hilt_part_upgrade_template",
-    "empty_part_upgrade_template",
-    "voyager_part_pattern",
-    "danger_part_pattern",
-    "seraph_part_pattern",
-    "marauder_part_pattern",
-    "crusader_part_pattern",
-    "vandal_part_pattern",
-    "imperial_part_pattern",
-    "fancy_part_pattern",
-    "humble_part_pattern",
-    "empty_part_pattern",
-    "mastercrafted_tool_template",
-    "crystalline_potion"
-]
-
-ENCHANTING = [
-    "arcane_book",
-    "blank_tome",
-    "gilded_book",
-    "tome_of_avarice",
-    "tome_of_banishment",
-    "tome_of_discharge",
-    "tome_of_embrace",
-    "tome_of_euphony",
-    "tome_of_expenditure",
-    "tome_of_extraction",
-    "tome_of_harmony",
-    "tome_of_imitation",
-    "tome_of_infusion",
-    "tome_of_polymerization",
-    "tome_of_promotion",
-    "tome_of_replication",
+COMPOSITE_ITEMS = [
+    "scroll"
 ]
 
 # DO NOT USE
@@ -143,8 +142,6 @@ MODELED_WEAPONS = [
     "knight_breaker",
     "the_dragon_slayer"
 ]
-
-ITEM_LIST = OTHER + GLYPHIC + MATERIALS + FOODS + ENCHANTING
 
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------
@@ -169,8 +166,7 @@ def generate_files(item_list: list, category: str):
 
 # poulate files
 def populate_files():
-    item_list = ITEM_LIST
-    generate_files(item_list, "generic")    
+    generate_files(ITEMS, "generic")    
 
 # Main
 def main():

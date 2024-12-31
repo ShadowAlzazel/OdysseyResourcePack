@@ -103,6 +103,13 @@
       {
         "model": {
           "type": "minecraft:model",
+          "model": "odyssey:item/armor/mithril_helmet_crystal_alloy_trim"
+        },
+        "when": "odyssey:crystal_alloy"
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
           "model": "odyssey:item/armor/mithril_helmet_quartz_trim"
         },
         "when": "minecraft:quartz"

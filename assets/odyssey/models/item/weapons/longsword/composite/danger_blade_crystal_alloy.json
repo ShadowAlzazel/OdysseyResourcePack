@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/longsword/danger_blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/longsword/danger_blade_crystal_alloy"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/glaive/seraph_hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/glaive/seraph_hilt_crystal_alloy"
+  }
+}
