@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/equipment/chain_hook/standby",
+  "textures": {
+    "layer0": "odyssey:item/equipment/chain_hook/pulling_0"
+  }
+}

@@ -10,6 +10,7 @@
 			"name": "arcane_scepter_0",
 			"from": [19, 0, -4],
 			"to": [20, 1, -3],
+			"light_emission": 9,
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
 			"faces": {
 				"north": {"uv": [14, 2, 13.5, 2.5], "texture": "#0"},
@@ -38,6 +39,7 @@
 			"name": "arcane_scepter_2",
 			"from": [16, 0, -3],
 			"to": [19, 1, -2],
+			"light_emission": 9,
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
 			"faces": {
 				"north": {"uv": [13.5, 2.5, 12, 3], "texture": "#0"},
@@ -66,6 +68,7 @@
 			"name": "arcane_scepter_4",
 			"from": [16, 0, -2],
 			"to": [17, 1, 0],
+			"light_emission": 9,
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
 			"faces": {
 				"north": {"uv": [12.5, 3, 12, 3.5], "texture": "#0"},
@@ -80,6 +83,7 @@
 			"name": "arcane_scepter_5",
 			"from": [18, 0, -2],
 			"to": [19, 1, 0],
+			"light_emission": 9,
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
 			"faces": {
 				"north": {"uv": [13.5, 3, 13, 3.5], "texture": "#0"},
@@ -108,6 +112,7 @@
 			"name": "arcane_scepter_7",
 			"from": [17, 0, -1],
 			"to": [18, 1, 0],
+			"light_emission": 9,
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
 			"faces": {
 				"north": {"uv": [13, 3.5, 12.5, 4], "texture": "#0"},
@@ -136,6 +141,7 @@
 			"name": "arcane_scepter_9",
 			"from": [15, 0, 0],
 			"to": [16, 1, 1],
+			"light_emission": 9,
 			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 0, -8]},
 			"faces": {
 				"north": {"uv": [12, 4, 11.5, 4.5], "texture": "#0"},
