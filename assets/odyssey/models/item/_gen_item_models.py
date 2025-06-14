@@ -12,6 +12,7 @@ os.chdir(dir_name)
 ITEMS = [
     # Ingredients
     "arcane_book",
+    "spell_scroll",
     "arcane_pen",
     "alexandrite",
     "anodized_titanium_ingot",

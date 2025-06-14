@@ -1,6 +1,31 @@
 {
   "model": {
-    "type": "minecraft:model",
-    "model": "odyssey:item/generic/arcane_book"
+    "type": "minecraft:select",
+    "cases": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "odyssey:item/generic/arcane_book"
+        },
+        "when": [
+          "gui",
+          "ground",
+          "fixed"
+        ]
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:condition",
+      "on_false": {
+        "type": "minecraft:model",
+        "model": "odyssey:item/equipment/arcane_spell_book"
+      },
+      "on_true": {
+        "type": "minecraft:model",
+        "model": "odyssey:item/equipment/arcane_spell_book"
+      },
+      "property": "minecraft:using_item"
+    },
+    "property": "minecraft:display_context"
   }
 }
