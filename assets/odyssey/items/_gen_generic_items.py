@@ -9,7 +9,7 @@ os.chdir(dir_name)
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------
 
-ITEMS = [
+OLD_ITEMS = [
     # Ingredients
     "spell_scroll",
     "arcane_book",
@@ -144,6 +144,16 @@ MODELED_WEAPONS = [
     "the_dragon_slayer"
 ]
 
+
+RUNE_ITEMS = [
+    "amplify_rune",
+    "teleport_rune",
+    "beam_rune",
+    "next_rune",
+    "pick_up_rune",
+    "kernel_rune"
+]
+
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------
@@ -156,7 +166,7 @@ def generate_files(item_list: list, category: str):
         json_obj = {
             "model": {
                 "type": "minecraft:model",
-                "model": f'odyssey:item/generic/{item_name}'
+                "model": f'odyssey:item/{category}/{item_name}'
             }     
         }
         # Write the text to opened file
@@ -165,9 +175,10 @@ def generate_files(item_list: list, category: str):
             file.write(text)
 
 
+
 # poulate files
 def populate_files():
-    generate_files(ITEMS, "generic")    
+    generate_files(RUNE_ITEMS, "arcane")    
 
 # Main
 def main():
