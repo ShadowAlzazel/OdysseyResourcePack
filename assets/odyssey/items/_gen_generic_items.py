@@ -151,7 +151,16 @@ RUNE_ITEMS = [
     "beam_rune",
     "next_rune",
     "pick_up_rune",
-    "kernel_rune"
+    "kernel_rune",
+    "trace_rune",
+    "heal_rune",
+    "nearby_rune",
+    "convergence_rune",
+    "differ_rune",
+    "self_rune",
+    "origin_rune",
+    "break_rune",
+    "swap_rune"
 ]
 
 # --------------------------------------------------------------------------

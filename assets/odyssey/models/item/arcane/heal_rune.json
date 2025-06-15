@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "odyssey:item/arcane/blank_rune",
+    "layer1": "odyssey:item/arcane/heal_rune_mark"
+  }
+}
