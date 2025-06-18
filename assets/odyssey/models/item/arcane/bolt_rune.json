@@ -2,6 +2,6 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "odyssey:item/arcane/blank_rune",
-    "layer1": "odyssey:item/arcane/amplify_rune_mark"
+    "layer1": "odyssey:item/arcane/bolt_rune_mark"
   }
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "odyssey:item/arcane/convergence_rune_mark"
+    "layer0": "odyssey:item/arcane/differ_rune_mark"
   }
 }

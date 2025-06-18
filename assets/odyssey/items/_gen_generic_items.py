@@ -147,20 +147,29 @@ MODELED_WEAPONS = [
 
 RUNE_ITEMS = [
     "amplify_rune",
-    "teleport_rune",
+    "ball_rune",
     "beam_rune",
-    "next_rune",
-    "pick_up_rune",
-    "kernel_rune",
-    "trace_rune",
-    "heal_rune",
-    "nearby_rune",
+    "bolt_rune",
+    "break_rune",
     "convergence_rune",
     "differ_rune",
-    "self_rune",
+    "direct_rune",
+    "heal_rune",
+    "kernel_rune",
+    "missile_rune",
+    "nearby_rune",
+    "next_rune",
     "origin_rune",
-    "break_rune",
-    "swap_rune"
+    "pick_up_rune",
+    "point_rune",
+    "self_rune",
+    "size_rune",
+    "slice_rune",
+    "swap_rune",
+    "teleport_rune",
+    "trace_rune",
+    "wall_rune",
+    "zone_rune"
 ]
 
 # --------------------------------------------------------------------------
