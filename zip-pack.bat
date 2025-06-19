@@ -41,3 +41,4 @@ del exclude.txt
 
 @echo Zip file created successfully: %ZIP_FILE%
 :: certutil -hashfile "odyssey-resource-pack-test.zip" SHA1
+:: certutil -hashfile "OdysseyResourcePack-1.21.6.zip" SHA1
