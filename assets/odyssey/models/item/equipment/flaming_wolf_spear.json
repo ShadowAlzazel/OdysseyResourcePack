@@ -1,0 +1,41 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "odyssey:item/equipment/flaming_wolf_spear"
+  },
+  "gui_light": "front",
+  "display": {
+	  "thirdperson_righthand": {
+        "rotation": [ 0, -90, 55 ],
+        "translation": [ 0, 5.0, 0.25 ],
+        "scale": [ 3.0, 3.0, 1.0 ]
+      },
+      "thirdperson_lefthand": {
+        "rotation": [ 67, 90, -55 ],
+        "translation": [ 0, 7.0, 13.75 ],
+        "scale": [ 3.0, 3.0, 1.0 ]
+      },
+      "firstperson_righthand": {
+        "rotation": [ 0, -90, 25 ],
+        "translation": [ 1.13, 4.1, 2.13 ],
+        "scale": [ 2.4, 2.4, 0.8 ]
+      },
+      "firstperson_lefthand": {
+        "rotation": [ 0, 90, -25 ],
+        "translation": [ 1.13, 4.1, 2.13 ],
+        "scale": [ 2.4, 2.4, 0.8 ]
+      },
+      "ground": {
+        "scale": [1.875, 1.875, 0.625]
+      },
+      "gui": {
+        "scale": [3.0, 3.0, 1.0]
+      },
+      "head": {
+        "scale": [3.0, 3.0, 1.0]
+      },
+      "fixed": {
+        "scale": [3.75, 3.75, 1.25]
+      }
+  }
+}
