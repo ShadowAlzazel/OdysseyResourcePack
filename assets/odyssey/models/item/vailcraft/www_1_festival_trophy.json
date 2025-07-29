@@ -1,9 +1,10 @@
 {
+	"format_version": "1.21.6",
 	"credit": "Made with Blockbench by ShadowAlzazel",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "odyssey:item/misc/www_trophy_1_texture",
-		"particle": "odyssey:item/misc/www_trophy_1_texture"
+		"0": "odyssey:item/vailcraft/www_1_festival_trophy_texture",
+		"particle": "odyssey:item/vailcraft/www_1_festival_trophy_texture"
 	},
 	"elements": [
 		{

@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "odyssey:item/misc/bbb_trophy_1_texture",
-		"particle": "odyssey:item/misc/bbb_trophy_1_texture"
+		"0": "odyssey:item/vailcraft/bbb_s4b1_wall_trophy_texture",
+		"particle": "odyssey:item/vailcraft/bbb_s4b1_wall_trophy_texture"
 	},
 	"elements": [
 		{
@@ -369,7 +369,7 @@
 			"translation": [0, 0, 1]
 		},
 		"fixed": {
-			"rotation": [0, 180, 0],
+			"rotation": [0, -180, 0],
 			"translation": [0, 1.75, -12.25],
 			"scale": [2, 2, 2]
 		}
