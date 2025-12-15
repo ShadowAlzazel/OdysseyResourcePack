@@ -1,0 +1,61 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "odyssey:item/vailcraft/bbb_s4b3_spooky_trophy_texture",
+		"particle": "odyssey:item/vailcraft/bbb_s4b3_spooky_trophy_texture"
+	},
+	"elements": [
+		{
+			"from": [4, 1, 4],
+			"to": [12, 11, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 1, 7]},
+			"faces": {
+				"north": {"uv": [0, 4, 4, 9], "texture": "#0"},
+				"east": {"uv": [12, 4, 16, 9], "texture": "#0"},
+				"south": {"uv": [8, 4, 12, 9], "texture": "#0"},
+				"west": {"uv": [4, 4, 8, 9], "texture": "#0"},
+				"up": {"uv": [8, 4, 4, 0], "texture": "#0"},
+				"down": {"uv": [12, 0, 8, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 0, 2],
+			"to": [9, 4, 4],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 1, 2]},
+			"faces": {
+				"north": {"uv": [13, 14, 14, 16], "texture": "#0"},
+				"east": {"uv": [12, 14, 13, 16], "texture": "#0"},
+				"south": {"uv": [15, 14, 16, 16], "texture": "#0"},
+				"west": {"uv": [14, 14, 15, 16], "texture": "#0"},
+				"up": {"uv": [14, 14, 13, 13], "texture": "#0"},
+				"down": {"uv": [15, 13, 14, 14], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 6, 1.75]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 5.75, 1.5]
+		},
+		"ground": {
+			"translation": [0, 5.5, 0]
+		},
+		"gui": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 0.75, 0]
+		},
+		"head": {
+			"translation": [0, 4, 0],
+			"scale": [1.8, 1.8, 1.8]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 2, -14.5],
+			"scale": [2, 2, 2]
+		}
+	}
+}
