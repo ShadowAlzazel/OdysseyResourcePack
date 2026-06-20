@@ -1,12 +1,7 @@
 {
   "pack": {
-    "pack_format": 75,
-    "min_format": 64,
-    "max_format": 75,
-		"supported_formats": [
-			64,
-			75
-		],
-    "description": "Odyssey accompanying assets and textures!"
+    "min_format": 88.0,
+    "max_format": 88.0,
+    "description": "All Odyssey required assets, models, and textures!"
   }
 }
