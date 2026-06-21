@@ -105,7 +105,7 @@ COMPOSITE_WEAPONS = [
     "sickle",
     "warhammer",
     "zweihander",
-    "pike"
+    #"pike"
 ]
 
 MODELED_WEAPONS = [
@@ -132,9 +132,10 @@ WEAPON_PARTS = {
     "saber": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "scythe": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
     "sickle": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
-
     "warhammer": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
-    "zweihander": [ ["blade"], ["handle"], ["hilt"], ["pommel"]]
+    "zweihander": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    # New
+    #"pike": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
 }
 
 
@@ -255,8 +256,8 @@ def create_model_parts(weapon: str, material: str):
     return model_list
 
 
-# Generate files for list
-def create_weapon_file(weapon: str, material: str):
+# Generate files for composite weapons
+def create_composite_weapon_file(weapon: str, material: str):
     item_name = f'{material}_{weapon}'
     filename = f'{item_name}.json'
     # create objs
@@ -268,7 +269,25 @@ def create_weapon_file(weapon: str, material: str):
     with open(filename, 'w') as file:
         file.write(text)   
 
-# Generate files for list
+
+# Generate files for modeled weapons
+def create_modeled_weapon_file(weapon: str, material: str):
+    item_name = f'{material}_{weapon}'
+    filename = f'{item_name}.json'
+    # create objs
+    json_obj = {
+        "model": {
+            "type": "minecraft:model",
+            "model": f'odyssey:item/weapons/{weapon}/variants/{material}'
+        }     
+    }
+    # Write the text to opened file
+    text = json.dumps(json_obj, indent=2)
+    with open(filename, 'w') as file:
+        file.write(text)   
+
+
+# Generate files for vanilla tool variants
 def create_tool_file(tool: str, material: str):
     item_name = f'{material}_{tool}'
     filename = f'{item_name}.json'
@@ -289,9 +308,14 @@ def create_tool_file(tool: str, material: str):
 # poulate files
 def populate_files():
     # Generate files for weapon material combinations
-    for weapon in COMPOSITE_WEAPONS:
-        for material in MATERIALS:
-            create_weapon_file(weapon, material)
+    for material in MATERIALS:
+        # Do composite weapons 
+        for weapon in COMPOSITE_WEAPONS:
+            create_composite_weapon_file(weapon, material)
+        # 3d modeled weapons
+        for weapon in MODELED_WEAPONS:
+            create_modeled_weapon_file(weapon, material)            
+            
     # Generate tool files
     tool_materials = ['silver', 'soul_steel', 'titanium', 'anodized_titanium', 'iridium', 'mithril', 'crystal_alloy']
     for tool in TOOLS:
