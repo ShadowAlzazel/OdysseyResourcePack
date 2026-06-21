@@ -1,7 +1,0 @@
-{
-  "parent": "odyssey:item/weapon/bases/warhammer",
-  "textures": {
-    "0": "odyssey:item/weapon/warhammer_texture_wooden",
-    "particle": "odyssey:item/weapon/warhammer_texture_wooden"
-  }
-}

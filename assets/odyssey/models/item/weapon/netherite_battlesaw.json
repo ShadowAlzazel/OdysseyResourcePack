@@ -1,7 +1,0 @@
-{
-  "parent": "odyssey:item/weapon/bases/battlesaw",
-  "textures": {
-    "0": "odyssey:item/weapon/battlesaw_texture_netherite",
-    "particle": "odyssey:item/weapon/battlesaw_texture_netherite"
-  }
-}
