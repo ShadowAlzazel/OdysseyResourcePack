@@ -105,7 +105,7 @@ COMPOSITE_WEAPONS = [
     "sickle",
     "warhammer",
     "zweihander",
-    #"pike"
+    "pike"
 ]
 
 MODELED_WEAPONS = [
@@ -135,7 +135,7 @@ WEAPON_PARTS = {
     "warhammer": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
     "zweihander": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
     # New
-    #"pike": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    "pike": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
 }
 
 
