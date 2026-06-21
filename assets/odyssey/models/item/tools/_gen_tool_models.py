@@ -15,11 +15,11 @@ TOOL_TYPES = [
     "pickaxe",
     "axe", 
     "shovel", 
-    "hoe"
+    "hoe",
+    "spear"
 ]
 
 MATERIALS = [
-    "copper",
     "silver",
     "soul_steel",
     "titanium", 

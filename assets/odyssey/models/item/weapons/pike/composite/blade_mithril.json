@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/pike/blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/pike/blade_mithril"
+  }
+}

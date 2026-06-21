@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/pike/pommel",
+  "textures": {
+    "layer0": "odyssey:item/weapon/pike/pommel_netherite"
+  }
+}

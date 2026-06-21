@@ -93,9 +93,10 @@ WEAPONS = [
     "saber",
     "scythe",
     "sickle",
-    "spear",
+    #"spear",
     "warhammer",
-    "zweihander"
+    "zweihander",
+    "pike"
 ]
 
 WEAPON_PARTS = {
