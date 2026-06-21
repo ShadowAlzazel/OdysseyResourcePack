@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/tools/spear/_base",
+  "textures": {
+    "layer0": "odyssey:item/tool/spear_anodized_titanium"
+  }
+}

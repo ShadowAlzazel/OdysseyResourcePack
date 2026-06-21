@@ -1,6 +1,0 @@
-{
-  "parent": "odyssey:item/tools/hoe/_base",
-  "textures": {
-    "layer0": "odyssey:item/tool/hoe_copper"
-  }
-}

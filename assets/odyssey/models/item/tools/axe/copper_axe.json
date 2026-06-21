@@ -1,6 +1,0 @@
-{
-  "parent": "odyssey:item/tools/axe/_base",
-  "textures": {
-    "layer0": "odyssey:item/tool/axe_copper"
-  }
-}

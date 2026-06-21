@@ -12,8 +12,10 @@ os.chdir(dir_name)
 # --------------------------------------------------------------------------
 
 MATERIALS = [
-    'wooden', 'golden', 'stone', 'iron', 'diamond', 'netherite',
-    'copper', 'silver', 'soul_steel', 'titanium', 'anodized_titanium', 'iridium', 'mithril', 'crystal_alloy'
+    # Minecraft
+    'wooden', 'golden', 'copper', 'stone', 'iron', 'diamond', 'netherite',
+    # Odyssey
+    'silver', 'soul_steel', 'titanium', 'anodized_titanium', 'iridium', 'mithril', 'crystal_alloy'
 ]
 
 # All patterns

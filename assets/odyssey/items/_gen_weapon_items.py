@@ -288,7 +288,7 @@ def populate_files():
         for material in MATERIALS:
             create_weapon_file(weapon, material)
     # Generate tool files
-    tool_materials = ['copper', 'silver', 'soul_steel', 'titanium', 'anodized_titanium', 'iridium', 'mithril', 'crystal_alloy']
+    tool_materials = ['silver', 'soul_steel', 'titanium', 'anodized_titanium', 'iridium', 'mithril', 'crystal_alloy']
     for tool in TOOLS:
         for material in tool_materials:
             create_tool_file(tool, material)
