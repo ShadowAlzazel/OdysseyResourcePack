@@ -75,8 +75,6 @@ ALL_POMMELS = ["pommel"] + [f'{x}_pommel' for x in WEAPON_PART_SETS]
 
 # --------------------------------------------------------------------------
 
-# broadsword excluded since 2D
-# broadsword excluded since 2D
 WEAPONS = [
     "chakram",
     "claymore",
@@ -118,9 +116,13 @@ WEAPON_PARTS = {
     "saber": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "scythe": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
     "sickle": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
-    "spear": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    #"spear": [ ["blade"], ["handle"], ["hilt"], ["pommel"]], No more spear
     "warhammer": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
-    "zweihander": [ ["blade"], ["handle"], ["hilt"], ["pommel"]]
+    "zweihander": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+    
+    
+    # SPEARS
+    "pike": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
 }
 
 
