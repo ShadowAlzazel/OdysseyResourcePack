@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "odyssey:item/weapons/battlesaw/composite/anodized_titanium"
+    "model": "odyssey:item/weapons/battlesaw/variants/anodized_titanium"
   }
 }

@@ -77,7 +77,8 @@ ALL_POMMELS = ["pommel"] + [f'{x}_pommel' for x in WEAPON_PART_SETS]
 
 # --------------------------------------------------------------------------
 
-WEAPONS = [
+COMPOSITE_WEAPONS = [
+    # Composite 
     "chakram",
     "claymore",
     "cutlass",
@@ -95,10 +96,15 @@ WEAPONS = [
     "saber",
     "scythe",
     "sickle",
-    #"spear",
     "warhammer",
     "zweihander",
     "pike"
+]
+
+MODELED_WEAPONS = [
+    # 3D modeled
+    "arm_blade",
+    "battlesaw"
 ]
 
 WEAPON_PARTS = {
@@ -181,10 +187,30 @@ def generate_trim_file(trim_name: str, material: str, weapon_name: str):
         f.write(text) 
 
 
+# Generate the 3d model json
+def generate_variant_file( material: str, weapon_name: str):
+    filename = f'{weapon_name}/variants/{material}.json'
+    # create json obj
+    json_obj = {
+        "parent": f'odyssey:item/weapons/{weapon_name}/base',
+        "textures": {
+            "0": f'odyssey:item/weapon/{weapon_name}/texture_{material}',
+            "particle": f'odyssey:item/weapon/{weapon_name}/texture_{material}'
+        }
+    }
+    # Write the text to opened file
+    text = json.dumps(json_obj, indent=2)
+    with open(filename, 'w') as f:
+        f.write(text) 
+
+# --------------------------------------------------------------------------
+# --------------------------------------------------------------------------
+# --------------------------------------------------------------------------
+
 # poulate files
 def populate_files():
-    # Loop throgh all weapons
-    for weapon in WEAPONS:
+    # Loop throgh all composite weapons
+    for weapon in COMPOSITE_WEAPONS:
         # create dir if does not exist
         if not os.path.exists(weapon):
             os.makedirs(weapon)
@@ -212,7 +238,7 @@ def populate_files():
     # Write parts to an temp atlas file to copy into blocks.json
     with open("_block_atlas.txt", "w") as f:
         # Iterate over the combined parts for a weapon
-        for weapon in WEAPONS:
+        for weapon in COMPOSITE_WEAPONS:
             part_list = WEAPON_PARTS[weapon]
             # Create one list to loop through materials
             combined_parts = list(itertools.chain(*part_list))
@@ -220,8 +246,17 @@ def populate_files():
                 part_line = f'"odyssey:item/weapon/{weapon}/{part}"'
                 f.write(part_line + ",\n")
             f.write("\n")               
-                    
-                    
+    
+    # Loop thorugh all 3D modeled weapons
+    for weapon in MODELED_WEAPONS:               
+        # create dir if does not exist
+        if not os.path.exists(weapon):
+            os.makedirs(weapon)
+        if not os.path.exists(f'{weapon}/variants'):
+            os.makedirs(f'{weapon}/variants')
+        # Generate the files based on material
+        for material in MATERIALS:
+            generate_variant_file(material, weapon)
 
 # Main
 def main():

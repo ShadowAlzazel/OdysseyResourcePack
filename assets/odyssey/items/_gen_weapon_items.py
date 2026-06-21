@@ -10,9 +10,8 @@ os.chdir(dir_name)
 # --------------------------------------------------------------------------
 
 MATERIALS = [
-    # Vanilla
+    # Minecraft
     'wooden', 'golden', 'copper','stone', 'iron', 'diamond', 'netherite',
-   
     # Odyssey
     'silver', 'soul_steel', 'titanium', 'anodized_titanium', 'iridium', 'mithril', 'crystal_alloy'
 ]
@@ -85,8 +84,8 @@ TOOLS = [
     "spear"
 ]
 
-# broadsword excluded since 2D
-WEAPONS = [
+COMPOSITE_WEAPONS = [
+    # Composite 
     "chakram",
     "claymore",
     "cutlass",
@@ -104,9 +103,15 @@ WEAPONS = [
     "saber",
     "scythe",
     "sickle",
-
     "warhammer",
-    "zweihander"
+    "zweihander",
+    "pike"
+]
+
+MODELED_WEAPONS = [
+    # 3D modeled
+    "arm_blade",
+    "battlesaw"
 ]
 
 WEAPON_PARTS = {
@@ -284,7 +289,7 @@ def create_tool_file(tool: str, material: str):
 # poulate files
 def populate_files():
     # Generate files for weapon material combinations
-    for weapon in WEAPONS:
+    for weapon in COMPOSITE_WEAPONS:
         for material in MATERIALS:
             create_weapon_file(weapon, material)
     # Generate tool files
