@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/double_axe/handle",
+  "textures": {
+    "layer0": "odyssey:item/weapon/double_axe/handle_silver"
+  }
+}

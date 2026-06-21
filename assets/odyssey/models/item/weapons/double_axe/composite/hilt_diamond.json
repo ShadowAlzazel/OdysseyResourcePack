@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/double_axe/hilt",
+  "textures": {
+    "layer0": "odyssey:item/weapon/double_axe/hilt_diamond"
+  }
+}

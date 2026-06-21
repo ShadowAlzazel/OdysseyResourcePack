@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/weapons/double_axe/blade",
+  "textures": {
+    "layer0": "odyssey:item/weapon/double_axe/blade_soul_steel"
+  }
+}

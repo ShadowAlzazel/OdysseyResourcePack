@@ -111,6 +111,11 @@
         "odyssey:item/weapon/dagger/vandal_pommel",
         "odyssey:item/weapon/dagger/voyager_pommel",
 
+        "odyssey:item/weapon/double_axe/blade",
+        "odyssey:item/weapon/double_axe/handle",
+        "odyssey:item/weapon/double_axe/hilt",
+        "odyssey:item/weapon/double_axe/pommel",
+
         "odyssey:item/weapon/glaive/blade",
         "odyssey:item/weapon/glaive/crusader_blade",
         "odyssey:item/weapon/glaive/danger_blade",
