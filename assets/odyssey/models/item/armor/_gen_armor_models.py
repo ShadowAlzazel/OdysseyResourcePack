@@ -16,11 +16,10 @@ ARMOR_MODELS = [
 
 # The available materials for armor
 VANILLA_ARMOR_MATERIALS = [
-    'leather', 'golden', 'chainmail', 'iron', 'diamond', 'netherite'
+    'leather', 'golden', 'copper', 'chainmail', 'iron', 'diamond', 'netherite'
 ]
 ODYSSEY_ARMOR_MATERIALS = [
-    'mithril', 'iridium', 'soul_steel', 'titanium', 'anodized_titanium',
-    'copper', 'silver', 'crystal_alloy'
+    'mithril', 'iridium', 'soul_steel', 'titanium', 'anodized_titanium', 'silver', 'crystal_alloy'
 ]
 
 # The trim materials
