@@ -11,7 +11,7 @@ os.chdir(dir_name)
 
 # Adding trims to vanilla armor materials
 vanilla_armor_materials = [
-    'leather', 'iron', 'golden', 'diamond', 'netherite', 'chainmail'
+    'leather', 'iron', 'golden', 'diamond', 'netherite', 'chainmail', 'copper'
 ]
 armor_base_model = [
     'chestplate', 'leggings', 'boots', 'helmet'
