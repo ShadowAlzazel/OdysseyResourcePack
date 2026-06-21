@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/equipment/auto_crossbow/standby",
+  "textures": {
+    "layer0": "odyssey:item/equipment/auto_crossbow/firework"
+  }
+}

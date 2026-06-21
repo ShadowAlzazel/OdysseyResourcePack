@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench by ShadowAlzazel",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "odyssey:item/weapon/knight_breaker_texture",
-		"particle": "odyssey:item/weapon/knight_breaker_texture"
+		"0": "odyssey:item/equipment/knight_breaker_texture",
+		"particle": "odyssey:item/equipment/knight_breaker_texture"
 	},
 	"elements": [
 		{

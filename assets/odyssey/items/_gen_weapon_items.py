@@ -78,7 +78,8 @@ TOOLS = [
     "axe",
     "sword",
     "hoe",
-    "shovel"
+    "shovel",
+    "spear"
 ]
 
 # broadsword excluded since 2D
@@ -100,7 +101,7 @@ WEAPONS = [
     "saber",
     "scythe",
     "sickle",
-    "spear",
+
     "warhammer",
     "zweihander"
 ]
@@ -123,7 +124,7 @@ WEAPON_PARTS = {
     "saber": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
     "scythe": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
     "sickle": [ ALL_BLADES, ["handle"], ALL_HILTS, ALL_POMMELS],
-    "spear": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
+
     "warhammer": [ ["blade"], ["handle"], ["hilt"], ["pommel"]],
     "zweihander": [ ["blade"], ["handle"], ["hilt"], ["pommel"]]
 }

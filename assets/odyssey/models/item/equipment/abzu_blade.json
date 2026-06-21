@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench by ShadowAlzazel",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "odyssey:item/weapon/abzu_blade_texture",
-		"particle": "odyssey:item/weapon/abzu_blade_texture"
+		"0": "odyssey:item/equipment/abzu_blade_texture",
+		"particle": "odyssey:item/equipment/abzu_blade_texture"
 	},
 	"elements": [
 		{

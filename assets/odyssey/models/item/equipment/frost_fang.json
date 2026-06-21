@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench by ShadowAlzazel",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "odyssey:item/weapon/frost_fang_texture",
-		"particle": "odyssey:item/weapon/frost_fang_texture"
+		"0": "odyssey:item/equipment/frost_fang_texture",
+		"particle": "odyssey:item/equipment/frost_fang_texture"
 	},
 	"elements": [
 		{

@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "odyssey:item/weapon/elucidator_texture",
-		"particle": "odyssey:item/weapon/elucidator_texture"
+		"0": "odyssey:item/equipment/elucidator_texture",
+		"particle": "odyssey:item/equipment/elucidator_texture"
 	},
 	"elements": [
 		{

@@ -7,7 +7,7 @@
       ],
       "fallback": {
         "type": "minecraft:model",
-        "model": "odyssey:item/equipment/shogun_pulse"
+        "model": "odyssey:item/equipment/shogun_pulse/standby"
       },
       "property": "minecraft:time",
       "source": "daytime",
@@ -20,28 +20,28 @@
         {
           "model": {
             "type": "minecraft:model",
-            "model": "odyssey:item/equipment/shogun_pulse_pulling_1"
+            "model": "odyssey:item/equipment/shogun_pulse/pulling_1"
           },
           "threshold": 0.3
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "odyssey:item/equipment/shogun_pulse_pulling_2"
+            "model": "odyssey:item/equipment/shogun_pulse/pulling_2"
           },
           "threshold": 0.55
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "odyssey:item/equipment/shogun_pulse_pulling_3"
+            "model": "odyssey:item/equipment/shogun_pulse/pulling_3"
           },
           "threshold": 0.9
         }
       ],
       "fallback": {
         "type": "minecraft:model",
-        "model": "odyssey:item/equipment/shogun_pulse_pulling_0"
+        "model": "odyssey:item/equipment/shogun_pulse/pulling_0"
       },
       "property": "minecraft:use_duration",
       "scale": 0.05

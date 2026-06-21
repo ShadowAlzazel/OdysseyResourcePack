@@ -1,0 +1,6 @@
+{
+  "parent": "odyssey:item/equipment/alchemical_bolter/standby",
+  "textures": {
+    "layer0": "odyssey:item/equipment/alchemical_bolter/pulling_1"
+  }
+}

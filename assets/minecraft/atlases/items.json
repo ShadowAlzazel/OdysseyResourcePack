@@ -414,11 +414,6 @@
         "odyssey:item/weapon/sickle/vandal_pommel",
         "odyssey:item/weapon/sickle/voyager_pommel",
 
-        "odyssey:item/weapon/spear/blade",
-        "odyssey:item/weapon/spear/handle",
-        "odyssey:item/weapon/spear/hilt",
-        "odyssey:item/weapon/spear/pommel",
-
         "odyssey:item/weapon/warhammer/blade",
         "odyssey:item/weapon/warhammer/handle",
         "odyssey:item/weapon/warhammer/hilt",
@@ -441,30 +436,10 @@
         "odyssey:item/weapon/broadsword/pommel",
         "odyssey:item/weapon/broadsword/thick_handle",
 
-        "odyssey:item/weapon/halberd_texture",
-        "odyssey:item/weapon/sickle_texture",
-        "odyssey:item/weapon/katana_texture",
-        "odyssey:item/weapon/saber_texture",
-        "odyssey:item/weapon/claymore_texture",
-        "odyssey:item/weapon/chakram_texture",
-        "odyssey:item/weapon/dagger_texture",
-        "odyssey:item/weapon/rapier_texture",
-        "odyssey:item/weapon/cutlass_texture",
-        "odyssey:item/weapon/longaxe_texture",
-        "odyssey:item/weapon/warhammer_texture",
-        "odyssey:item/weapon/spear_texture",
-        "odyssey:item/weapon/lance_texture",
-        "odyssey:item/weapon/scythe_texture",
-        "odyssey:item/weapon/kunai_texture",
-        "odyssey:item/weapon/longsword_texture",
-        "odyssey:item/weapon/poleaxe_texture",
-        "odyssey:item/weapon/shuriken_base",
-        "odyssey:item/weapon/glaive_texture",
-        "odyssey:item/weapon/battlesaw_texture",
-        "odyssey:item/weapon/arm_blade_texture",
-        "odyssey:item/weapon/zweihander_texture",
+        "odyssey:item/weapon/battlesaw/texture",
+        "odyssey:item/weapon/arm_blade/texture",
 
-        "odyssey:item/weapon/shuriken_base"
+        "odyssey:item/weapon/shuriken/base"
       ],
       "palette_key": "odyssey:colormap/weapon_palettes/base_weapon_palette",
       "permutations": {

@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "odyssey:item/weapons/tinkered_musket/tinkered_musket"
+    "model": "odyssey:item/equipment/tinkered_musket/tinkered_musket"
   }
 }

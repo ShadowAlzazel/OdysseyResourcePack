@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "odyssey:item/weapons/void_linked_kunai_texture",
-		"particle": "odyssey:item/weapons/void_linked_kunai_texture"
+		"0": "odyssey:item/equipment/void_linked_kunai_texture",
+		"particle": "odyssey:item/equipment/void_linked_kunai_texture"
 	},
 	"elements": [
 		{
