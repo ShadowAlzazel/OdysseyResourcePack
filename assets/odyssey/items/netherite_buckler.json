@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "odyssey:item/equipment/buckler/variants/netherite"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "odyssey:item/equipment/buckler/variants/netherite_blocking"
+    },
+    "property": "minecraft:using_item"
+  }
+}

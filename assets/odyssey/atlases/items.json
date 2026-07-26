@@ -442,8 +442,9 @@
         "odyssey:item/weapon/broadsword/pommel",
         "odyssey:item/weapon/broadsword/thick_handle",
 
-        "odyssey:item/weapon/battlesaw_texture",
-        "odyssey:item/weapon/arm_blade_texture",
+        "odyssey:item/weapon/battlesaw/texture",
+        "odyssey:item/weapon/arm_blade/texture",
+        "odyssey:item/equipment/buckler/texture",
 
         "odyssey:item/weapon/shuriken_base"
       ],

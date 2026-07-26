@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "odyssey:item/equipment/buckler/variants/mithril"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "odyssey:item/equipment/buckler/variants/mithril_blocking"
+    },
+    "property": "minecraft:using_item"
+  }
+}

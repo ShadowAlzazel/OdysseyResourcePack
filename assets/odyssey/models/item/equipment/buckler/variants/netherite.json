@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/equipment/buckler/base",
+  "textures": {
+    "0": "odyssey:item/equipment/buckler/texture_netherite",
+    "particle": "odyssey:item/equipment/buckler/texture_netherite"
+  }
+}
