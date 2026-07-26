@@ -1,0 +1,14 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "odyssey:item/equipment/buckler/variants/silver"
+    },
+    "on_true": {
+      "type": "minecraft:model",
+      "model": "odyssey:item/equipment/buckler/variants/silver_blocking"
+    },
+    "property": "minecraft:using_item"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "odyssey:item/equipment/buckler/base_blocking",
+  "textures": {
+    "0": "odyssey:item/equipment/buckler/texture_anodized_titanium",
+    "particle": "odyssey:item/equipment/buckler/texture_anodized_titanium"
+  }
+}
