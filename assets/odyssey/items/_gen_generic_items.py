@@ -1,3 +1,4 @@
+#_gen_items
 import os 
 import json
 
@@ -144,7 +145,6 @@ MODELED_WEAPONS = [
     "the_dragon_slayer"
 ]
 
-
 RUNE_ITEMS = [
     "amplify_rune",
     "ball_rune",
@@ -172,6 +172,59 @@ RUNE_ITEMS = [
     "zone_rune"
 ]
 
+FISH = [
+    "anchovy",
+    "arapaima",
+    "armoured_catfish",
+    "axolotl",
+    "bass",
+    "black_seabass",
+    "blind_cave_fish",
+    "blind_minnow",
+    "bluegill",
+    "bujurqui",
+    "carp",
+    "catfish",
+    #"cod",
+    "crappie",
+    "echo_fish",
+    "european_eel",
+    "flounder",
+    "flying_fish",
+    "freshwater_pufferfish",
+    "gar",
+    "guppy",
+    "gurnard",
+    "herring",
+    "humpback_whitefish",
+    "lamprey",
+    "mahi_mahi",
+    "mediterranean_killifish",
+    "monkfish",
+    "muskellunge",
+    "northern_pike",
+    "oarfish",
+    "opah",
+    "painted_moray",
+    "pale_fish",
+    "piranha",
+    #"pufferfish",
+    "rainbow_wrasse",
+    "salmon",
+    "shad",
+    "siberian_sturgeon",
+    "skate",
+    "spoonhead_sculpin",
+    "striped_perch",
+    "sturgeon",
+    "swordfish",
+    #"tropical_fish",
+    "tunisian_barb",
+    "walleye",
+    "wolffish"
+]
+
+
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------
 # --------------------------------------------------------------------------
@@ -196,7 +249,8 @@ def generate_files(item_list: list, category: str):
 
 # poulate files
 def populate_files():
-    generate_files(RUNE_ITEMS, "arcane")    
+    #generate_files(RUNE_ITEMS, "arcane")    
+    generate_files(FISH, "generic")    
 
 # Main
 def main():

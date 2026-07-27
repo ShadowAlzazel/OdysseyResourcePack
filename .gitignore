@@ -1,3 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+__pycache__
+.pyc
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+.env/
+env/
+venv/
+
+# Datapack zips
+.zip
+*.zip
+
+# Devops
+_kotlin.txt
+OdysseyDataPack.zip
+
+# Editor
+.vscode/
+.vscode
+
 # Zip
 .zip 
 exclude.txt
